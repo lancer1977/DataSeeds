@@ -1,0 +1,37 @@
+﻿[
+
+{  "Name":"Physical Property","Definition": "a characteristic of a substance that can be observed and measured without changing the identity of the substance"},
+{  "Name":"Chemical Property","Definition":
+      "property of matter that describes a substance's ability to change into a new substance with different properties"},
+{  "Name":"Flammability, Tarnishing, Rusting","Definition":
+      "One chemical property that can be measured in a substance is reactivity with water. What are other chemical properties?"},
+{  "Name":"Atom","Definition":
+      "The basic building block of matter; the smallest unit of an element that maintains the properties of that element"},
+{  "Name":"Element","Definition":
+      "a pure substance made up of entirely the same type of atom; a substance that cannot be brOken down into simpler materials"},
+{  "Name":"Periodic Table","Definition":
+      "A chart in which the elements are arranged in groups with similar properties is a/an"},
+  {"Name":"Atomic Number", "Definition":"The number of protons in an atom is called the ____"},
+{  "Name":"Periods in Order of their Atomic Number","Definition":
+      "In a periodic table, the elements are arranged in rows Called peribas in order of number"},
+{  "Name":"In Columns","Definition":
+      "Groups of elements in the periodic table that behave or act  in a simila.r way are arranged"}, {"Name":"9", "Definition":"What is the atomic number of this atom?"},
+{  "Name":"9 Electrons, Protons and Electrons are Equal. Proton Number = Atomic #","Definition":"Clearly explain how you got your answer to nurilkper 10."},
+{  "Name":"", "Definition":"An unknown substance has a mass of 386 grams and a volume of 20 cm3."}, {"Name":"19.39/cm", "Definition":"What is the density of the sample?"},
+{  "Name":"Color and Hardness","Definition":"List two physical properties that could be used to identify this sample."},
+  {"Name":"The rate at which a substance transfers heat", "Definition":"thermal conductivity"}, {"Name":"The way something smells", "Definition":"Odor"}, {"Name":"Measure of the amount of mass in a given volume", "Definition":"density"},
+  {"Name":"The ability of a subtance to be rolled or pounded", "Definition":"Malleability"},
+  {"Name":"Ability of a substance to disolve in another substance", "Definition":"Solubility"},
+{  "Name":"How well an electric current can move through a subtance","Definition":"electrical conductivity"}, {"Name":"The ability to burn", "Definition":"Fammability"},
+{  "Name":"Ability to interact with another substance to form something new","Definition":"Reactivity"},
+  {"Name":"No", "Definition":"Can single atoms can be seen with a powerful light microscope?"},
+{  "Name":"Yes","Definition":"Are there are more than 100 elements on the periodic table of Elemnts?"}, {"Name":"Yes", "Definition":"Are at s are mostly empty space?"},         
+      {"Name":"Proton", "Definition":"What particle has a positive electric charge?"},       
+{"Name":"Neutron", "Definition":"What particle has no electric charge?"},     
+          {"Name":"Electron", "Definition":"What particle has a negative electric charge?"},
+{  "Name":"In the nucleus","Definition":"What is the dense, central part of the atom where most.of its mass is located? "}, {"Name":"Electrons in the Cloud", "Definition":"What orbits the nucleus?"},
+  {"Name":"Protons and Neutrons", "Definition":"What particles are contained in the nucleus?"},
+  {"Name":"Number of Protons", "Definition":"What determines the atomic number of the atom?"},     
+              {"Name":"Shiny elements that conduct electricity", "Definition":"metals"}, {"Name":"Poor conductors of heat and electricity, dull", "Definition":"nonmetals"}, {"Name":"Have properties of metal and non metals", "Definition":"metalloids"}, {"Name":"13", "Definition":"What is the atomic number of the aluminum atom?"}, {"Name":"26.982", "Definition":"What is the atomic mass of the aluminum atom?"}, {"Name":"Al", "Definition":"What is the chemical symbol of aluminum?"}
+
+            ]

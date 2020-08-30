@@ -1,0 +1,31 @@
+﻿[  
+     
+{"Name":"Matter",
+"Definition":"Anything that has mass and volume; any solid, liquid, or gas"
+},
+
+{"Name":"Mass",
+"Definition":
+    "The measure of the amount of matter in an object or substance; a measure of how hard it is to push or pull an object."
+},
+
+{"Name":"Weight",
+"Definition":
+    "A measure of the force of gravity between earth and an object/substance; the pull of gravity of an object."
+},
+
+{"Name":"Volume",
+"Definition":"The amount of space an object or substance takes up."
+},
+
+{"Name":"Density",
+"Definition":
+    "The amount of mass in a certain volume of material. The measure of how tightly packed matter is. "
+},
+
+{"Name":"Meniscus",
+"Definition":
+    "The bottom level of the curved surface of the liquid that matches a mark on the graduated cylinder."
+}
+
+  ]
