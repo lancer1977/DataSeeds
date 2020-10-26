@@ -1,319 +1,319 @@
 date,county,state,fips,cases,deaths
-8/1/2020,Autauga,Alabama,1001,1030,21
-8/1/2020,Baldwin,Alabama,1003,3142,22
-8/1/2020,Barbour,Alabama,1005,602,5
-8/1/2020,Bibb,Alabama,1007,368,2
-8/1/2020,Blount,Alabama,1009,792,3
-8/1/2020,Bullock,Alabama,1011,443,12
-8/1/2020,Butler,Alabama,1013,757,36
-8/1/2020,Calhoun,Alabama,1015,1480,9
-8/1/2020,Chambers,Alabama,1017,861,38
-8/1/2020,Cherokee,Alabama,1019,243,8
-8/1/2020,Chilton,Alabama,1021,713,6
-8/1/2020,Choctaw,Alabama,1023,276,12
-8/1/2020,Clarke,Alabama,1025,499,9
-8/1/2020,Clay,Alabama,1027,204,5
-8/1/2020,Cleburne,Alabama,1029,113,1
-8/1/2020,Coffee,Alabama,1031,720,5
-8/1/2020,Colbert,Alabama,1033,1067,11
-8/1/2020,Conecuh,Alabama,1035,377,10
-8/1/2020,Coosa,Alabama,1037,96,2
-8/1/2020,Covington,Alabama,1039,787,21
-8/1/2020,Crenshaw,Alabama,1041,294,4
-8/1/2020,Cullman,Alabama,1043,1154,11
-8/1/2020,Dale,Alabama,1045,781,18
-8/1/2020,Dallas,Alabama,1047,1338,23
-8/1/2020,DeKalb,Alabama,1049,1684,12
-8/1/2020,Elmore,Alabama,1051,1622,37
-8/1/2020,Escambia,Alabama,1053,1020,15
-8/1/2020,Etowah,Alabama,1055,1938,24
-8/1/2020,Fayette,Alabama,1057,175,5
-8/1/2020,Franklin,Alabama,1059,1177,20
-8/1/2020,Geneva,Alabama,1061,226,1
-8/1/2020,Greene,Alabama,1063,242,11
-8/1/2020,Hale,Alabama,1065,457,25
-8/1/2020,Henry,Alabama,1067,250,4
-8/1/2020,Houston,Alabama,1069,1313,14
-8/1/2020,Jackson,Alabama,1071,795,5
-8/1/2020,Jefferson,Alabama,1073,11680,227
-8/1/2020,Lamar,Alabama,1075,196,2
-8/1/2020,Lauderdale,Alabama,1077,1036,12
-8/1/2020,Lawrence,Alabama,1079,303,0
-8/1/2020,Lee,Alabama,1081,2597,43
-8/1/2020,Limestone,Alabama,1083,1177,13
-8/1/2020,Lowndes,Alabama,1085,557,26
-8/1/2020,Macon,Alabama,1087,314,12
-8/1/2020,Madison,Alabama,1089,4911,30
-8/1/2020,Marengo,Alabama,1091,512,14
-8/1/2020,Marion,Alabama,1093,558,24
-8/1/2020,Marshall,Alabama,1095,2927,31
-8/1/2020,Mobile,Alabama,1097,8522,194
-8/1/2020,Monroe,Alabama,1099,434,4
-8/1/2020,Montgomery,Alabama,1101,6189,144
-8/1/2020,Morgan,Alabama,1103,2189,15
-8/1/2020,Perry,Alabama,1105,442,3
-8/1/2020,Pickens,Alabama,1107,366,10
-8/1/2020,Pike,Alabama,1109,658,7
-8/1/2020,Randolph,Alabama,1111,396,11
-8/1/2020,Russell,Alabama,1113,1212,1
-8/1/2020,Shelby,Alabama,1117,3109,32
-8/1/2020,St. Clair,Alabama,1115,1248,11
-8/1/2020,Sumter,Alabama,1119,366,18
-8/1/2020,Talladega,Alabama,1121,1005,14
-8/1/2020,Tallapoosa,Alabama,1123,848,79
-8/1/2020,Tuscaloosa,Alabama,1125,3927,63
-8/1/2020,Walker,Alabama,1127,1475,66
-8/1/2020,Washington,Alabama,1129,309,11
-8/1/2020,Wilcox,Alabama,1131,412,9
-8/1/2020,Winston,Alabama,1133,438,10
-8/1/2020,Aleutians East Borough,Alaska,2013,3,0
-8/1/2020,Aleutians West Census Area,Alaska,2016,89,0
-8/1/2020,Anchorage,Alaska,2020,1890,12
-8/1/2020,Bethel Census Area,Alaska,2050,22,0
-8/1/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/1/2020,Denali Borough,Alaska,2068,4,0
-8/1/2020,Dillingham Census Area,Alaska,2070,22,0
-8/1/2020,Fairbanks North Star Borough,Alaska,2090,439,5
-8/1/2020,Haines Borough,Alaska,2100,8,0
-8/1/2020,Juneau City and Borough,Alaska,2110,144,1
-8/1/2020,Kenai Peninsula Borough,Alaska,2122,444,1
-8/1/2020,Ketchikan Gateway Borough,Alaska,2130,49,0
-8/1/2020,Kodiak Island Borough,Alaska,2150,16,0
-8/1/2020,Kusilvak Census Area,Alaska,2158,4,0
-8/1/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/1/2020,Matanuska-Susitna Borough,Alaska,2170,300,2
-8/1/2020,Nome Census Area,Alaska,2180,20,0
-8/1/2020,North Slope Borough,Alaska,2185,15,0
-8/1/2020,Northwest Arctic Borough,Alaska,2188,28,0
-8/1/2020,Petersburg Borough,Alaska,2195,9,0
-8/1/2020,Prince of Wales-Hyder Census Area,Alaska,2198,6,0
-8/1/2020,Sitka City and Borough,Alaska,2220,31,0
-8/1/2020,Southeast Fairbanks Census Area,Alaska,2240,26,0
-8/1/2020,Unknown,Alaska,,43,0
-8/1/2020,Valdez-Cordova Census Area,Alaska,2261,89,0
-8/1/2020,Wrangell City and Borough,Alaska,2275,8,0
-8/1/2020,Yukon-Koyukuk Census Area,Alaska,2290,45,1
-8/1/2020,Apache,Arizona,4001,3054,135
-8/1/2020,Cochise,Arizona,4003,1523,49
-8/1/2020,Coconino,Arizona,4005,2964,117
-8/1/2020,Gila,Arizona,4007,822,29
-8/1/2020,Graham,Arizona,4009,478,9
-8/1/2020,Greenlee,Arizona,4011,55,2
-8/1/2020,La Paz,Arizona,4012,472,10
-8/1/2020,Maricopa,Arizona,4013,119295,2089
-8/1/2020,Mohave,Arizona,4015,3001,153
-8/1/2020,Navajo,Arizona,4017,5255,188
-8/1/2020,Pima,Arizona,4019,16475,462
-8/1/2020,Pinal,Arizona,4021,8153,140
-8/1/2020,Santa Cruz,Arizona,4023,2610,50
-8/1/2020,Yavapai,Arizona,4025,1778,60
-8/1/2020,Yuma,Arizona,4027,11084,260
-8/1/2020,Arkansas,Arkansas,5001,194,0
-8/1/2020,Ashley,Arkansas,5003,238,4
-8/1/2020,Baxter,Arkansas,5005,60,0
-8/1/2020,Benton,Arkansas,5007,4495,39
-8/1/2020,Boone,Arkansas,5009,162,1
-8/1/2020,Bradley,Arkansas,5011,142,3
-8/1/2020,Calhoun,Arkansas,5013,13,0
-8/1/2020,Carroll,Arkansas,5015,337,6
-8/1/2020,Chicot,Arkansas,5017,522,6
-8/1/2020,Clark,Arkansas,5019,152,0
-8/1/2020,Clay,Arkansas,5021,105,4
-8/1/2020,Cleburne,Arkansas,5023,179,5
-8/1/2020,Cleveland,Arkansas,5025,67,2
-8/1/2020,Columbia,Arkansas,5027,186,6
-8/1/2020,Conway,Arkansas,5029,134,3
-8/1/2020,Craighead,Arkansas,5031,1104,11
-8/1/2020,Crawford,Arkansas,5033,522,3
-8/1/2020,Crittenden,Arkansas,5035,1191,18
-8/1/2020,Cross,Arkansas,5037,162,1
-8/1/2020,Dallas,Arkansas,5039,56,0
-8/1/2020,Desha,Arkansas,5041,144,2
-8/1/2020,Drew,Arkansas,5043,155,2
-8/1/2020,Faulkner,Arkansas,5045,1190,5
-8/1/2020,Franklin,Arkansas,5047,105,2
-8/1/2020,Fulton,Arkansas,5049,27,0
-8/1/2020,Garland,Arkansas,5051,837,7
-8/1/2020,Grant,Arkansas,5053,124,0
-8/1/2020,Greene,Arkansas,5055,359,1
-8/1/2020,Hempstead,Arkansas,5057,207,2
-8/1/2020,Hot Spring,Arkansas,5059,1451,8
-8/1/2020,Howard,Arkansas,5061,294,2
-8/1/2020,Independence,Arkansas,5063,345,0
-8/1/2020,Izard,Arkansas,5065,44,1
-8/1/2020,Jackson,Arkansas,5067,58,1
-8/1/2020,Jefferson,Arkansas,5069,1315,38
-8/1/2020,Johnson,Arkansas,5071,617,0
-8/1/2020,Lafayette,Arkansas,5073,49,2
-8/1/2020,Lawrence,Arkansas,5075,182,9
-8/1/2020,Lee,Arkansas,5077,885,6
-8/1/2020,Lincoln,Arkansas,5079,1168,11
-8/1/2020,Little River,Arkansas,5081,152,1
-8/1/2020,Logan,Arkansas,5083,141,0
-8/1/2020,Lonoke,Arkansas,5085,416,2
-8/1/2020,Madison,Arkansas,5087,254,1
-8/1/2020,Marion,Arkansas,5089,23,0
-8/1/2020,Miller,Arkansas,5091,457,4
-8/1/2020,Mississippi,Arkansas,5093,752,10
-8/1/2020,Monroe,Arkansas,5095,51,0
-8/1/2020,Montgomery,Arkansas,5097,25,0
-8/1/2020,Nevada,Arkansas,5099,129,9
-8/1/2020,Newton,Arkansas,5101,93,3
-8/1/2020,Ouachita,Arkansas,5103,76,1
-8/1/2020,Perry,Arkansas,5105,49,0
-8/1/2020,Phillips,Arkansas,5107,273,6
-8/1/2020,Pike,Arkansas,5109,77,1
-8/1/2020,Poinsett,Arkansas,5111,156,3
-8/1/2020,Polk,Arkansas,5113,128,1
-8/1/2020,Pope,Arkansas,5115,1174,9
-8/1/2020,Prairie,Arkansas,5117,63,0
-8/1/2020,Pulaski,Arkansas,5119,4803,77
-8/1/2020,Randolph,Arkansas,5121,170,2
-8/1/2020,Saline,Arkansas,5125,868,4
-8/1/2020,Scott,Arkansas,5127,41,0
-8/1/2020,Searcy,Arkansas,5129,25,0
-8/1/2020,Sebastian,Arkansas,5131,1724,14
-8/1/2020,Sevier,Arkansas,5133,933,10
-8/1/2020,Sharp,Arkansas,5135,102,5
-8/1/2020,St. Francis,Arkansas,5123,1117,3
-8/1/2020,Stone,Arkansas,5137,52,1
-8/1/2020,Union,Arkansas,5139,430,16
-8/1/2020,Unknown,Arkansas,,1555,0
-8/1/2020,Van Buren,Arkansas,5141,50,2
-8/1/2020,Washington,Arkansas,5143,5952,46
-8/1/2020,White,Arkansas,5145,254,2
-8/1/2020,Woodruff,Arkansas,5147,19,0
-8/1/2020,Yell,Arkansas,5149,1012,14
-8/1/2020,Alameda,California,6001,11505,189
-8/1/2020,Alpine,California,6003,2,0
-8/1/2020,Amador,California,6005,124,0
-8/1/2020,Butte,California,6007,941,7
-8/1/2020,Calaveras,California,6009,125,1
-8/1/2020,Colusa,California,6011,323,4
-8/1/2020,Contra Costa,California,6013,7806,121
-8/1/2020,Del Norte,California,6015,88,0
-8/1/2020,El Dorado,California,6017,637,1
-8/1/2020,Fresno,California,6019,15083,138
-8/1/2020,Glenn,California,6021,304,1
-8/1/2020,Humboldt,California,6023,233,4
-8/1/2020,Imperial,California,6025,9409,219
-8/1/2020,Inyo,California,6027,45,1
-8/1/2020,Kern,California,6029,20061,144
-8/1/2020,Kings,California,6031,4380,56
-8/1/2020,Lake,California,6033,195,1
-8/1/2020,Lassen,California,6035,598,0
-8/1/2020,Los Angeles,California,6037,190693,4669
-8/1/2020,Madera,California,6039,2036,30
-8/1/2020,Marin,California,6041,5058,70
-8/1/2020,Mariposa,California,6043,56,2
-8/1/2020,Mendocino,California,6045,317,9
-8/1/2020,Merced,California,6047,4285,50
-8/1/2020,Modoc,California,6049,2,0
-8/1/2020,Mono,California,6051,141,1
-8/1/2020,Monterey,California,6053,4697,30
-8/1/2020,Napa,California,6055,898,8
-8/1/2020,Nevada,California,6057,302,1
-8/1/2020,Orange,California,6059,36833,649
-8/1/2020,Placer,California,6061,1912,15
-8/1/2020,Plumas,California,6063,25,0
-8/1/2020,Riverside,California,6065,37612,695
-8/1/2020,Sacramento,California,6067,10015,142
-8/1/2020,San Benito,California,6069,643,4
-8/1/2020,San Bernardino,California,6071,32696,417
-8/1/2020,San Diego,California,6073,29640,565
-8/1/2020,San Francisco,California,6075,6726,61
-8/1/2020,San Joaquin,California,6077,11561,168
-8/1/2020,San Luis Obispo,California,6079,1783,15
-8/1/2020,San Mateo,California,6081,5544,119
-8/1/2020,Santa Barbara,California,6083,6375,60
-8/1/2020,Santa Clara,California,6085,10321,192
-8/1/2020,Santa Cruz,California,6087,1152,4
-8/1/2020,Shasta,California,6089,369,9
-8/1/2020,Sierra,California,6091,1,0
-8/1/2020,Siskiyou,California,6093,73,0
-8/1/2020,Solano,California,6095,3616,37
-8/1/2020,Sonoma,California,6097,3055,37
-8/1/2020,Stanislaus,California,6099,9061,110
-8/1/2020,Sutter,California,6101,786,6
-8/1/2020,Tehama,California,6103,213,1
-8/1/2020,Trinity,California,6105,6,0
-8/1/2020,Tulare,California,6107,9454,178
-8/1/2020,Tuolumne,California,6109,141,2
-8/1/2020,Ventura,California,6111,7521,76
-8/1/2020,Yolo,California,6113,1544,42
-8/1/2020,Yuba,California,6115,485,4
-8/1/2020,Adams,Colorado,8001,6018,171
-8/1/2020,Alamosa,Colorado,8003,224,9
-8/1/2020,Arapahoe,Colorado,8005,6932,363
-8/1/2020,Archuleta,Colorado,8007,33,0
-8/1/2020,Baca,Colorado,8009,14,0
-8/1/2020,Bent,Colorado,8011,5,0
-8/1/2020,Boulder,Colorado,8013,1905,75
-8/1/2020,Broomfield,Colorado,8014,406,32
-8/1/2020,Chaffee,Colorado,8015,286,19
-8/1/2020,Cheyenne,Colorado,8017,8,0
-8/1/2020,Clear Creek,Colorado,8019,27,1
-8/1/2020,Conejos,Colorado,8021,23,0
-8/1/2020,Costilla,Colorado,8023,22,0
-8/1/2020,Crowley,Colorado,8025,72,1
-8/1/2020,Custer,Colorado,8027,10,0
-8/1/2020,Delta,Colorado,8029,105,1
-8/1/2020,Denver,Colorado,8031,9693,413
-8/1/2020,Dolores,Colorado,8033,1,0
-8/1/2020,Douglas,Colorado,8035,1624,59
-8/1/2020,Eagle,Colorado,8037,1041,9
-8/1/2020,El Paso,Colorado,8041,4634,137
-8/1/2020,Elbert,Colorado,8039,85,2
-8/1/2020,Fremont,Colorado,8043,110,0
-8/1/2020,Garfield,Colorado,8045,705,4
-8/1/2020,Gilpin,Colorado,8047,16,0
-8/1/2020,Grand,Colorado,8049,43,1
-8/1/2020,Gunnison,Colorado,8051,246,6
-8/1/2020,Hinsdale,Colorado,8053,3,0
-8/1/2020,Huerfano,Colorado,8055,6,1
-8/1/2020,Jackson,Colorado,8057,8,0
-8/1/2020,Jefferson,Colorado,8059,3915,227
-8/1/2020,Kit Carson,Colorado,8063,43,3
-8/1/2020,La Plata,Colorado,8067,198,2
-8/1/2020,Lake,Colorado,8065,70,0
-8/1/2020,Larimer,Colorado,8069,1376,35
-8/1/2020,Las Animas,Colorado,8071,15,0
-8/1/2020,Lincoln,Colorado,8073,6,0
-8/1/2020,Logan,Colorado,8075,647,5
-8/1/2020,Mesa,Colorado,8077,260,3
-8/1/2020,Mineral,Colorado,8079,18,0
-8/1/2020,Moffat,Colorado,8081,25,1
-8/1/2020,Montezuma,Colorado,8083,108,4
-8/1/2020,Montrose,Colorado,8085,278,13
-8/1/2020,Morgan,Colorado,8087,676,46
-8/1/2020,Otero,Colorado,8089,54,6
-8/1/2020,Ouray,Colorado,8091,12,1
-8/1/2020,Park,Colorado,8093,41,1
-8/1/2020,Phillips,Colorado,8095,19,0
-8/1/2020,Pitkin,Colorado,8097,168,2
-8/1/2020,Prowers,Colorado,8099,48,0
-8/1/2020,Pueblo,Colorado,8101,611,34
-8/1/2020,Rio Blanco,Colorado,8103,7,0
-8/1/2020,Rio Grande,Colorado,8105,87,2
-8/1/2020,Routt,Colorado,8107,106,6
-8/1/2020,Saguache,Colorado,8109,107,2
-8/1/2020,San Juan,Colorado,8111,2,0
-8/1/2020,San Miguel,Colorado,8113,76,0
-8/1/2020,Sedgwick,Colorado,8115,11,1
-8/1/2020,Summit,Colorado,8117,322,4
-8/1/2020,Teller,Colorado,8119,112,3
-8/1/2020,Washington,Colorado,8121,47,0
-8/1/2020,Weld,Colorado,8123,3525,141
-8/1/2020,Yuma,Colorado,8125,62,0
-8/1/2020,Fairfield,Connecticut,9001,17793,1406
-8/1/2020,Hartford,Connecticut,9003,12645,1412
-8/1/2020,Litchfield,Connecticut,9005,1597,138
-8/1/2020,Middlesex,Connecticut,9007,1377,191
-8/1/2020,New Haven,Connecticut,9009,13041,1101
-8/1/2020,New London,Connecticut,9011,1402,103
-8/1/2020,Tolland,Connecticut,9013,1019,66
-8/1/2020,Unknown,Connecticut,,243,0
-8/1/2020,Windham,Connecticut,9015,693,15
+8/1/2020,Autauga,Alabama,01001,1030,21
+8/1/2020,Baldwin,Alabama,01003,3142,22
+8/1/2020,Barbour,Alabama,01005,602,5
+8/1/2020,Bibb,Alabama,01007,368,2
+8/1/2020,Blount,Alabama,01009,792,3
+8/1/2020,Bullock,Alabama,01011,443,12
+8/1/2020,Butler,Alabama,01013,757,36
+8/1/2020,Calhoun,Alabama,01015,1480,9
+8/1/2020,Chambers,Alabama,01017,861,38
+8/1/2020,Cherokee,Alabama,01019,243,8
+8/1/2020,Chilton,Alabama,01021,713,6
+8/1/2020,Choctaw,Alabama,01023,276,12
+8/1/2020,Clarke,Alabama,01025,499,9
+8/1/2020,Clay,Alabama,01027,204,5
+8/1/2020,Cleburne,Alabama,01029,113,1
+8/1/2020,Coffee,Alabama,01031,720,5
+8/1/2020,Colbert,Alabama,01033,1067,11
+8/1/2020,Conecuh,Alabama,01035,377,10
+8/1/2020,Coosa,Alabama,01037,96,2
+8/1/2020,Covington,Alabama,01039,787,21
+8/1/2020,Crenshaw,Alabama,01041,294,4
+8/1/2020,Cullman,Alabama,01043,1154,11
+8/1/2020,Dale,Alabama,01045,781,18
+8/1/2020,Dallas,Alabama,01047,1338,23
+8/1/2020,DeKalb,Alabama,01049,1684,12
+8/1/2020,Elmore,Alabama,01051,1622,37
+8/1/2020,Escambia,Alabama,01053,1020,15
+8/1/2020,Etowah,Alabama,01055,1938,24
+8/1/2020,Fayette,Alabama,01057,175,5
+8/1/2020,Franklin,Alabama,01059,1177,20
+8/1/2020,Geneva,Alabama,01061,226,1
+8/1/2020,Greene,Alabama,01063,242,11
+8/1/2020,Hale,Alabama,01065,457,25
+8/1/2020,Henry,Alabama,01067,250,4
+8/1/2020,Houston,Alabama,01069,1313,14
+8/1/2020,Jackson,Alabama,01071,795,5
+8/1/2020,Jefferson,Alabama,01073,11680,227
+8/1/2020,Lamar,Alabama,01075,196,2
+8/1/2020,Lauderdale,Alabama,01077,1036,12
+8/1/2020,Lawrence,Alabama,01079,303,0
+8/1/2020,Lee,Alabama,01081,2597,43
+8/1/2020,Limestone,Alabama,01083,1177,13
+8/1/2020,Lowndes,Alabama,01085,557,26
+8/1/2020,Macon,Alabama,01087,314,12
+8/1/2020,Madison,Alabama,01089,4911,30
+8/1/2020,Marengo,Alabama,01091,512,14
+8/1/2020,Marion,Alabama,01093,558,24
+8/1/2020,Marshall,Alabama,01095,2927,31
+8/1/2020,Mobile,Alabama,01097,8522,194
+8/1/2020,Monroe,Alabama,01099,434,4
+8/1/2020,Montgomery,Alabama,01101,6189,144
+8/1/2020,Morgan,Alabama,01103,2189,15
+8/1/2020,Perry,Alabama,01105,442,3
+8/1/2020,Pickens,Alabama,01107,366,10
+8/1/2020,Pike,Alabama,01109,658,7
+8/1/2020,Randolph,Alabama,01111,396,11
+8/1/2020,Russell,Alabama,01113,1212,1
+8/1/2020,Shelby,Alabama,01117,3109,32
+8/1/2020,St. Clair,Alabama,01115,1248,11
+8/1/2020,Sumter,Alabama,01119,366,18
+8/1/2020,Talladega,Alabama,01121,1005,14
+8/1/2020,Tallapoosa,Alabama,01123,848,79
+8/1/2020,Tuscaloosa,Alabama,01125,3927,63
+8/1/2020,Walker,Alabama,01127,1475,66
+8/1/2020,Washington,Alabama,01129,309,11
+8/1/2020,Wilcox,Alabama,01131,412,9
+8/1/2020,Winston,Alabama,01133,438,10
+8/1/2020,Aleutians East Borough,Alaska,02013,3,0
+8/1/2020,Aleutians West Census Area,Alaska,02016,89,0
+8/1/2020,Anchorage,Alaska,02020,1890,12
+8/1/2020,Bethel Census Area,Alaska,02050,22,0
+8/1/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/1/2020,Denali Borough,Alaska,02068,4,0
+8/1/2020,Dillingham Census Area,Alaska,02070,22,0
+8/1/2020,Fairbanks North Star Borough,Alaska,02090,439,5
+8/1/2020,Haines Borough,Alaska,02100,8,0
+8/1/2020,Juneau City and Borough,Alaska,02110,144,1
+8/1/2020,Kenai Peninsula Borough,Alaska,02122,444,1
+8/1/2020,Ketchikan Gateway Borough,Alaska,02130,49,0
+8/1/2020,Kodiak Island Borough,Alaska,02150,16,0
+8/1/2020,Kusilvak Census Area,Alaska,02158,4,0
+8/1/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/1/2020,Matanuska-Susitna Borough,Alaska,02170,300,2
+8/1/2020,Nome Census Area,Alaska,02180,20,0
+8/1/2020,North Slope Borough,Alaska,02185,15,0
+8/1/2020,Northwest Arctic Borough,Alaska,02188,28,0
+8/1/2020,Petersburg Borough,Alaska,02195,9,0
+8/1/2020,Prince of Wales-Hyder Census Area,Alaska,02198,6,0
+8/1/2020,Sitka City and Borough,Alaska,02220,31,0
+8/1/2020,Southeast Fairbanks Census Area,Alaska,02240,26,0
+8/1/2020,Unknown,Alaska,0,43,0
+8/1/2020,Valdez-Cordova Census Area,Alaska,02261,89,0
+8/1/2020,Wrangell City and Borough,Alaska,02275,8,0
+8/1/2020,Yukon-Koyukuk Census Area,Alaska,02290,45,1
+8/1/2020,Apache,Arizona,04001,3054,135
+8/1/2020,Cochise,Arizona,04003,1523,49
+8/1/2020,Coconino,Arizona,04005,2964,117
+8/1/2020,Gila,Arizona,04007,822,29
+8/1/2020,Graham,Arizona,04009,478,9
+8/1/2020,Greenlee,Arizona,04011,55,2
+8/1/2020,La Paz,Arizona,04012,472,10
+8/1/2020,Maricopa,Arizona,04013,119295,2089
+8/1/2020,Mohave,Arizona,04015,3001,153
+8/1/2020,Navajo,Arizona,04017,5255,188
+8/1/2020,Pima,Arizona,04019,16475,462
+8/1/2020,Pinal,Arizona,04021,8153,140
+8/1/2020,Santa Cruz,Arizona,04023,2610,50
+8/1/2020,Yavapai,Arizona,04025,1778,60
+8/1/2020,Yuma,Arizona,04027,11084,260
+8/1/2020,Arkansas,Arkansas,05001,194,0
+8/1/2020,Ashley,Arkansas,05003,238,4
+8/1/2020,Baxter,Arkansas,05005,60,0
+8/1/2020,Benton,Arkansas,05007,4495,39
+8/1/2020,Boone,Arkansas,05009,162,1
+8/1/2020,Bradley,Arkansas,05011,142,3
+8/1/2020,Calhoun,Arkansas,05013,13,0
+8/1/2020,Carroll,Arkansas,05015,337,6
+8/1/2020,Chicot,Arkansas,05017,522,6
+8/1/2020,Clark,Arkansas,05019,152,0
+8/1/2020,Clay,Arkansas,05021,105,4
+8/1/2020,Cleburne,Arkansas,05023,179,5
+8/1/2020,Cleveland,Arkansas,05025,67,2
+8/1/2020,Columbia,Arkansas,05027,186,6
+8/1/2020,Conway,Arkansas,05029,134,3
+8/1/2020,Craighead,Arkansas,05031,1104,11
+8/1/2020,Crawford,Arkansas,05033,522,3
+8/1/2020,Crittenden,Arkansas,05035,1191,18
+8/1/2020,Cross,Arkansas,05037,162,1
+8/1/2020,Dallas,Arkansas,05039,56,0
+8/1/2020,Desha,Arkansas,05041,144,2
+8/1/2020,Drew,Arkansas,05043,155,2
+8/1/2020,Faulkner,Arkansas,05045,1190,5
+8/1/2020,Franklin,Arkansas,05047,105,2
+8/1/2020,Fulton,Arkansas,05049,27,0
+8/1/2020,Garland,Arkansas,05051,837,7
+8/1/2020,Grant,Arkansas,05053,124,0
+8/1/2020,Greene,Arkansas,05055,359,1
+8/1/2020,Hempstead,Arkansas,05057,207,2
+8/1/2020,Hot Spring,Arkansas,05059,1451,8
+8/1/2020,Howard,Arkansas,05061,294,2
+8/1/2020,Independence,Arkansas,05063,345,0
+8/1/2020,Izard,Arkansas,05065,44,1
+8/1/2020,Jackson,Arkansas,05067,58,1
+8/1/2020,Jefferson,Arkansas,05069,1315,38
+8/1/2020,Johnson,Arkansas,05071,617,0
+8/1/2020,Lafayette,Arkansas,05073,49,2
+8/1/2020,Lawrence,Arkansas,05075,182,9
+8/1/2020,Lee,Arkansas,05077,885,6
+8/1/2020,Lincoln,Arkansas,05079,1168,11
+8/1/2020,Little River,Arkansas,05081,152,1
+8/1/2020,Logan,Arkansas,05083,141,0
+8/1/2020,Lonoke,Arkansas,05085,416,2
+8/1/2020,Madison,Arkansas,05087,254,1
+8/1/2020,Marion,Arkansas,05089,23,0
+8/1/2020,Miller,Arkansas,05091,457,4
+8/1/2020,Mississippi,Arkansas,05093,752,10
+8/1/2020,Monroe,Arkansas,05095,51,0
+8/1/2020,Montgomery,Arkansas,05097,25,0
+8/1/2020,Nevada,Arkansas,05099,129,9
+8/1/2020,Newton,Arkansas,05101,93,3
+8/1/2020,Ouachita,Arkansas,05103,76,1
+8/1/2020,Perry,Arkansas,05105,49,0
+8/1/2020,Phillips,Arkansas,05107,273,6
+8/1/2020,Pike,Arkansas,05109,77,1
+8/1/2020,Poinsett,Arkansas,05111,156,3
+8/1/2020,Polk,Arkansas,05113,128,1
+8/1/2020,Pope,Arkansas,05115,1174,9
+8/1/2020,Prairie,Arkansas,05117,63,0
+8/1/2020,Pulaski,Arkansas,05119,4803,77
+8/1/2020,Randolph,Arkansas,05121,170,2
+8/1/2020,Saline,Arkansas,05125,868,4
+8/1/2020,Scott,Arkansas,05127,41,0
+8/1/2020,Searcy,Arkansas,05129,25,0
+8/1/2020,Sebastian,Arkansas,05131,1724,14
+8/1/2020,Sevier,Arkansas,05133,933,10
+8/1/2020,Sharp,Arkansas,05135,102,5
+8/1/2020,St. Francis,Arkansas,05123,1117,3
+8/1/2020,Stone,Arkansas,05137,52,1
+8/1/2020,Union,Arkansas,05139,430,16
+8/1/2020,Unknown,Arkansas,0,1555,0
+8/1/2020,Van Buren,Arkansas,05141,50,2
+8/1/2020,Washington,Arkansas,05143,5952,46
+8/1/2020,White,Arkansas,05145,254,2
+8/1/2020,Woodruff,Arkansas,05147,19,0
+8/1/2020,Yell,Arkansas,05149,1012,14
+8/1/2020,Alameda,California,06001,11505,189
+8/1/2020,Alpine,California,06003,2,0
+8/1/2020,Amador,California,06005,124,0
+8/1/2020,Butte,California,06007,941,7
+8/1/2020,Calaveras,California,06009,125,1
+8/1/2020,Colusa,California,06011,323,4
+8/1/2020,Contra Costa,California,06013,7806,121
+8/1/2020,Del Norte,California,06015,88,0
+8/1/2020,El Dorado,California,06017,637,1
+8/1/2020,Fresno,California,06019,15083,138
+8/1/2020,Glenn,California,06021,304,1
+8/1/2020,Humboldt,California,06023,233,4
+8/1/2020,Imperial,California,06025,9409,219
+8/1/2020,Inyo,California,06027,45,1
+8/1/2020,Kern,California,06029,20061,144
+8/1/2020,Kings,California,06031,4380,56
+8/1/2020,Lake,California,06033,195,1
+8/1/2020,Lassen,California,06035,598,0
+8/1/2020,Los Angeles,California,06037,190693,4669
+8/1/2020,Madera,California,06039,2036,30
+8/1/2020,Marin,California,06041,5058,70
+8/1/2020,Mariposa,California,06043,56,2
+8/1/2020,Mendocino,California,06045,317,9
+8/1/2020,Merced,California,06047,4285,50
+8/1/2020,Modoc,California,06049,2,0
+8/1/2020,Mono,California,06051,141,1
+8/1/2020,Monterey,California,06053,4697,30
+8/1/2020,Napa,California,06055,898,8
+8/1/2020,Nevada,California,06057,302,1
+8/1/2020,Orange,California,06059,36833,649
+8/1/2020,Placer,California,06061,1912,15
+8/1/2020,Plumas,California,06063,25,0
+8/1/2020,Riverside,California,06065,37612,695
+8/1/2020,Sacramento,California,06067,10015,142
+8/1/2020,San Benito,California,06069,643,4
+8/1/2020,San Bernardino,California,06071,32696,417
+8/1/2020,San Diego,California,06073,29640,565
+8/1/2020,San Francisco,California,06075,6726,61
+8/1/2020,San Joaquin,California,06077,11561,168
+8/1/2020,San Luis Obispo,California,06079,1783,15
+8/1/2020,San Mateo,California,06081,5544,119
+8/1/2020,Santa Barbara,California,06083,6375,60
+8/1/2020,Santa Clara,California,06085,10321,192
+8/1/2020,Santa Cruz,California,06087,1152,4
+8/1/2020,Shasta,California,06089,369,9
+8/1/2020,Sierra,California,06091,1,0
+8/1/2020,Siskiyou,California,06093,73,0
+8/1/2020,Solano,California,06095,3616,37
+8/1/2020,Sonoma,California,06097,3055,37
+8/1/2020,Stanislaus,California,06099,9061,110
+8/1/2020,Sutter,California,06101,786,6
+8/1/2020,Tehama,California,06103,213,1
+8/1/2020,Trinity,California,06105,6,0
+8/1/2020,Tulare,California,06107,9454,178
+8/1/2020,Tuolumne,California,06109,141,2
+8/1/2020,Ventura,California,06111,7521,76
+8/1/2020,Yolo,California,06113,1544,42
+8/1/2020,Yuba,California,06115,485,4
+8/1/2020,Adams,Colorado,08001,6018,171
+8/1/2020,Alamosa,Colorado,08003,224,9
+8/1/2020,Arapahoe,Colorado,08005,6932,363
+8/1/2020,Archuleta,Colorado,08007,33,0
+8/1/2020,Baca,Colorado,08009,14,0
+8/1/2020,Bent,Colorado,08011,5,0
+8/1/2020,Boulder,Colorado,08013,1905,75
+8/1/2020,Broomfield,Colorado,08014,406,32
+8/1/2020,Chaffee,Colorado,08015,286,19
+8/1/2020,Cheyenne,Colorado,08017,8,0
+8/1/2020,Clear Creek,Colorado,08019,27,1
+8/1/2020,Conejos,Colorado,08021,23,0
+8/1/2020,Costilla,Colorado,08023,22,0
+8/1/2020,Crowley,Colorado,08025,72,1
+8/1/2020,Custer,Colorado,08027,10,0
+8/1/2020,Delta,Colorado,08029,105,1
+8/1/2020,Denver,Colorado,08031,9693,413
+8/1/2020,Dolores,Colorado,08033,1,0
+8/1/2020,Douglas,Colorado,08035,1624,59
+8/1/2020,Eagle,Colorado,08037,1041,9
+8/1/2020,El Paso,Colorado,08041,4634,137
+8/1/2020,Elbert,Colorado,08039,85,2
+8/1/2020,Fremont,Colorado,08043,110,0
+8/1/2020,Garfield,Colorado,08045,705,4
+8/1/2020,Gilpin,Colorado,08047,16,0
+8/1/2020,Grand,Colorado,08049,43,1
+8/1/2020,Gunnison,Colorado,08051,246,6
+8/1/2020,Hinsdale,Colorado,08053,3,0
+8/1/2020,Huerfano,Colorado,08055,6,1
+8/1/2020,Jackson,Colorado,08057,8,0
+8/1/2020,Jefferson,Colorado,08059,3915,227
+8/1/2020,Kit Carson,Colorado,08063,43,3
+8/1/2020,La Plata,Colorado,08067,198,2
+8/1/2020,Lake,Colorado,08065,70,0
+8/1/2020,Larimer,Colorado,08069,1376,35
+8/1/2020,Las Animas,Colorado,08071,15,0
+8/1/2020,Lincoln,Colorado,08073,6,0
+8/1/2020,Logan,Colorado,08075,647,5
+8/1/2020,Mesa,Colorado,08077,260,3
+8/1/2020,Mineral,Colorado,08079,18,0
+8/1/2020,Moffat,Colorado,08081,25,1
+8/1/2020,Montezuma,Colorado,08083,108,4
+8/1/2020,Montrose,Colorado,08085,278,13
+8/1/2020,Morgan,Colorado,08087,676,46
+8/1/2020,Otero,Colorado,08089,54,6
+8/1/2020,Ouray,Colorado,08091,12,1
+8/1/2020,Park,Colorado,08093,41,1
+8/1/2020,Phillips,Colorado,08095,19,0
+8/1/2020,Pitkin,Colorado,08097,168,2
+8/1/2020,Prowers,Colorado,08099,48,0
+8/1/2020,Pueblo,Colorado,08101,611,34
+8/1/2020,Rio Blanco,Colorado,08103,7,0
+8/1/2020,Rio Grande,Colorado,08105,87,2
+8/1/2020,Routt,Colorado,08107,106,6
+8/1/2020,Saguache,Colorado,08109,107,2
+8/1/2020,San Juan,Colorado,08111,2,0
+8/1/2020,San Miguel,Colorado,08113,76,0
+8/1/2020,Sedgwick,Colorado,08115,11,1
+8/1/2020,Summit,Colorado,08117,322,4
+8/1/2020,Teller,Colorado,08119,112,3
+8/1/2020,Washington,Colorado,08121,47,0
+8/1/2020,Weld,Colorado,08123,3525,141
+8/1/2020,Yuma,Colorado,08125,62,0
+8/1/2020,Fairfield,Connecticut,09001,17793,1406
+8/1/2020,Hartford,Connecticut,09003,12645,1412
+8/1/2020,Litchfield,Connecticut,09005,1597,138
+8/1/2020,Middlesex,Connecticut,09007,1377,191
+8/1/2020,New Haven,Connecticut,09009,13041,1101
+8/1/2020,New London,Connecticut,09011,1402,103
+8/1/2020,Tolland,Connecticut,09013,1019,66
+8/1/2020,Unknown,Connecticut,0,243,0
+8/1/2020,Windham,Connecticut,09015,693,15
 8/1/2020,Kent,Delaware,10001,2183,107
 8/1/2020,New Castle,Delaware,10003,6843,287
 8/1/2020,Sussex,Delaware,10005,5630,191
@@ -2638,7 +2638,7 @@ date,county,state,fips,cases,deaths
 8/1/2020,Coleman,Texas,48083,11,0
 8/1/2020,Collin,Texas,48085,6400,83
 8/1/2020,Collingsworth,Texas,48087,7,0
-8/1/2020,Colorado,Texas,48089,242,2
+8/1/2020,Colorado,0Texas,48089,242,2
 8/1/2020,Comal,Texas,48091,2157,61
 8/1/2020,Comanche,Texas,48093,107,3
 8/1/2020,Concho,Texas,48095,26,0
@@ -3216,321 +3216,321 @@ date,county,state,fips,cases,deaths
 8/1/2020,Uinta,Wyoming,56041,259,1
 8/1/2020,Washakie,Wyoming,56043,48,5
 8/1/2020,Weston,Wyoming,56045,5,0
-8/2/2020,Autauga,Alabama,1001,1052,21
-8/2/2020,Baldwin,Alabama,1003,3223,23
-8/2/2020,Barbour,Alabama,1005,610,5
-8/2/2020,Bibb,Alabama,1007,372,3
-8/2/2020,Blount,Alabama,1009,813,3
-8/2/2020,Bullock,Alabama,1011,445,12
-8/2/2020,Butler,Alabama,1013,765,36
-8/2/2020,Calhoun,Alabama,1015,1580,9
-8/2/2020,Chambers,Alabama,1017,868,38
-8/2/2020,Cherokee,Alabama,1019,255,8
-8/2/2020,Chilton,Alabama,1021,737,7
-8/2/2020,Choctaw,Alabama,1023,278,12
-8/2/2020,Clarke,Alabama,1025,506,9
-8/2/2020,Clay,Alabama,1027,219,5
-8/2/2020,Cleburne,Alabama,1029,115,1
-8/2/2020,Coffee,Alabama,1031,728,5
-8/2/2020,Colbert,Alabama,1033,1093,12
-8/2/2020,Conecuh,Alabama,1035,385,10
-8/2/2020,Coosa,Alabama,1037,98,2
-8/2/2020,Covington,Alabama,1039,810,21
-8/2/2020,Crenshaw,Alabama,1041,299,4
-8/2/2020,Cullman,Alabama,1043,1178,11
-8/2/2020,Dale,Alabama,1045,794,19
-8/2/2020,Dallas,Alabama,1047,1357,23
-8/2/2020,DeKalb,Alabama,1049,1712,14
-8/2/2020,Elmore,Alabama,1051,1645,37
-8/2/2020,Escambia,Alabama,1053,1034,15
-8/2/2020,Etowah,Alabama,1055,1973,25
-8/2/2020,Fayette,Alabama,1057,177,5
-8/2/2020,Franklin,Alabama,1059,1198,20
-8/2/2020,Geneva,Alabama,1061,236,1
-8/2/2020,Greene,Alabama,1063,243,11
-8/2/2020,Hale,Alabama,1065,458,25
-8/2/2020,Henry,Alabama,1067,255,4
-8/2/2020,Houston,Alabama,1069,1353,14
-8/2/2020,Jackson,Alabama,1071,828,5
-8/2/2020,Jefferson,Alabama,1073,11866,227
-8/2/2020,Lamar,Alabama,1075,200,2
-8/2/2020,Lauderdale,Alabama,1077,1061,12
-8/2/2020,Lawrence,Alabama,1079,311,0
-8/2/2020,Lee,Alabama,1081,2636,44
-8/2/2020,Limestone,Alabama,1083,1205,14
-8/2/2020,Lowndes,Alabama,1085,558,26
-8/2/2020,Macon,Alabama,1087,318,13
-8/2/2020,Madison,Alabama,1089,5029,30
-8/2/2020,Marengo,Alabama,1091,521,14
-8/2/2020,Marion,Alabama,1093,567,24
-8/2/2020,Marshall,Alabama,1095,2998,31
-8/2/2020,Mobile,Alabama,1097,9056,197
-8/2/2020,Monroe,Alabama,1099,438,5
-8/2/2020,Montgomery,Alabama,1101,6294,146
-8/2/2020,Morgan,Alabama,1103,2239,16
-8/2/2020,Perry,Alabama,1105,451,4
-8/2/2020,Pickens,Alabama,1107,370,10
-8/2/2020,Pike,Alabama,1109,669,7
-8/2/2020,Randolph,Alabama,1111,398,11
-8/2/2020,Russell,Alabama,1113,1247,1
-8/2/2020,Shelby,Alabama,1117,3158,33
-8/2/2020,St. Clair,Alabama,1115,1265,12
-8/2/2020,Sumter,Alabama,1119,366,18
-8/2/2020,Talladega,Alabama,1121,1035,14
-8/2/2020,Tallapoosa,Alabama,1123,854,79
-8/2/2020,Tuscaloosa,Alabama,1125,3988,65
-8/2/2020,Walker,Alabama,1127,1484,66
-8/2/2020,Washington,Alabama,1129,315,11
-8/2/2020,Wilcox,Alabama,1131,415,9
-8/2/2020,Winston,Alabama,1133,440,11
-8/2/2020,Aleutians East Borough,Alaska,2013,3,0
-8/2/2020,Aleutians West Census Area,Alaska,2016,89,0
-8/2/2020,Anchorage,Alaska,2020,1999,12
-8/2/2020,Bethel Census Area,Alaska,2050,23,0
-8/2/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/2/2020,Denali Borough,Alaska,2068,4,0
-8/2/2020,Dillingham Census Area,Alaska,2070,22,0
-8/2/2020,Fairbanks North Star Borough,Alaska,2090,443,5
-8/2/2020,Haines Borough,Alaska,2100,8,0
-8/2/2020,Juneau City and Borough,Alaska,2110,145,1
-8/2/2020,Kenai Peninsula Borough,Alaska,2122,447,1
-8/2/2020,Ketchikan Gateway Borough,Alaska,2130,49,0
-8/2/2020,Kodiak Island Borough,Alaska,2150,19,0
-8/2/2020,Kusilvak Census Area,Alaska,2158,4,0
-8/2/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/2/2020,Matanuska-Susitna Borough,Alaska,2170,314,2
-8/2/2020,Nome Census Area,Alaska,2180,20,0
-8/2/2020,North Slope Borough,Alaska,2185,15,0
-8/2/2020,Northwest Arctic Borough,Alaska,2188,31,0
-8/2/2020,Petersburg Borough,Alaska,2195,9,0
-8/2/2020,Prince of Wales-Hyder Census Area,Alaska,2198,8,0
-8/2/2020,Sitka City and Borough,Alaska,2220,32,0
-8/2/2020,Southeast Fairbanks Census Area,Alaska,2240,26,0
-8/2/2020,Unknown,Alaska,,55,0
-8/2/2020,Valdez-Cordova Census Area,Alaska,2261,92,0
-8/2/2020,Wrangell City and Borough,Alaska,2275,8,0
-8/2/2020,Yukon-Koyukuk Census Area,Alaska,2290,46,1
-8/2/2020,Apache,Arizona,4001,3064,136
-8/2/2020,Cochise,Arizona,4003,1536,49
-8/2/2020,Coconino,Arizona,4005,2990,115
-8/2/2020,Gila,Arizona,4007,833,29
-8/2/2020,Graham,Arizona,4009,489,9
-8/2/2020,Greenlee,Arizona,4011,55,2
-8/2/2020,La Paz,Arizona,4012,473,10
-8/2/2020,Maricopa,Arizona,4013,120279,2101
-8/2/2020,Mohave,Arizona,4015,3027,153
-8/2/2020,Navajo,Arizona,4017,5271,188
-8/2/2020,Pima,Arizona,4019,16655,462
-8/2/2020,Pinal,Arizona,4021,8227,141
-8/2/2020,Santa Cruz,Arizona,4023,2608,50
-8/2/2020,Yavapai,Arizona,4025,1818,61
-8/2/2020,Yuma,Arizona,4027,11148,263
-8/2/2020,Arkansas,Arkansas,5001,199,0
-8/2/2020,Ashley,Arkansas,5003,249,4
-8/2/2020,Baxter,Arkansas,5005,61,0
-8/2/2020,Benton,Arkansas,5007,4528,39
-8/2/2020,Boone,Arkansas,5009,170,1
-8/2/2020,Bradley,Arkansas,5011,142,3
-8/2/2020,Calhoun,Arkansas,5013,13,0
-8/2/2020,Carroll,Arkansas,5015,340,6
-8/2/2020,Chicot,Arkansas,5017,529,6
-8/2/2020,Clark,Arkansas,5019,154,0
-8/2/2020,Clay,Arkansas,5021,107,4
-8/2/2020,Cleburne,Arkansas,5023,181,5
-8/2/2020,Cleveland,Arkansas,5025,68,2
-8/2/2020,Columbia,Arkansas,5027,193,6
-8/2/2020,Conway,Arkansas,5029,136,3
-8/2/2020,Craighead,Arkansas,5031,1120,11
-8/2/2020,Crawford,Arkansas,5033,536,3
-8/2/2020,Crittenden,Arkansas,5035,1213,20
-8/2/2020,Cross,Arkansas,5037,166,1
-8/2/2020,Dallas,Arkansas,5039,58,0
-8/2/2020,Desha,Arkansas,5041,151,2
-8/2/2020,Drew,Arkansas,5043,162,2
-8/2/2020,Faulkner,Arkansas,5045,1203,5
-8/2/2020,Franklin,Arkansas,5047,108,2
-8/2/2020,Fulton,Arkansas,5049,29,0
-8/2/2020,Garland,Arkansas,5051,843,7
-8/2/2020,Grant,Arkansas,5053,125,0
-8/2/2020,Greene,Arkansas,5055,383,1
-8/2/2020,Hempstead,Arkansas,5057,210,2
-8/2/2020,Hot Spring,Arkansas,5059,1457,8
-8/2/2020,Howard,Arkansas,5061,296,2
-8/2/2020,Independence,Arkansas,5063,367,0
-8/2/2020,Izard,Arkansas,5065,44,1
-8/2/2020,Jackson,Arkansas,5067,58,1
-8/2/2020,Jefferson,Arkansas,5069,1357,38
-8/2/2020,Johnson,Arkansas,5071,631,0
-8/2/2020,Lafayette,Arkansas,5073,49,2
-8/2/2020,Lawrence,Arkansas,5075,185,10
-8/2/2020,Lee,Arkansas,5077,885,6
-8/2/2020,Lincoln,Arkansas,5079,1182,11
-8/2/2020,Little River,Arkansas,5081,153,1
-8/2/2020,Logan,Arkansas,5083,158,1
-8/2/2020,Lonoke,Arkansas,5085,433,2
-8/2/2020,Madison,Arkansas,5087,259,1
-8/2/2020,Marion,Arkansas,5089,23,0
-8/2/2020,Miller,Arkansas,5091,462,4
-8/2/2020,Mississippi,Arkansas,5093,775,10
-8/2/2020,Monroe,Arkansas,5095,52,0
-8/2/2020,Montgomery,Arkansas,5097,25,0
-8/2/2020,Nevada,Arkansas,5099,130,9
-8/2/2020,Newton,Arkansas,5101,94,3
-8/2/2020,Ouachita,Arkansas,5103,77,1
-8/2/2020,Perry,Arkansas,5105,49,0
-8/2/2020,Phillips,Arkansas,5107,282,6
-8/2/2020,Pike,Arkansas,5109,78,1
-8/2/2020,Poinsett,Arkansas,5111,159,3
-8/2/2020,Polk,Arkansas,5113,128,1
-8/2/2020,Pope,Arkansas,5115,1202,9
-8/2/2020,Prairie,Arkansas,5117,66,0
-8/2/2020,Pulaski,Arkansas,5119,4838,78
-8/2/2020,Randolph,Arkansas,5121,173,2
-8/2/2020,Saline,Arkansas,5125,879,4
-8/2/2020,Scott,Arkansas,5127,42,0
-8/2/2020,Searcy,Arkansas,5129,25,0
-8/2/2020,Sebastian,Arkansas,5131,1768,15
-8/2/2020,Sevier,Arkansas,5133,935,10
-8/2/2020,Sharp,Arkansas,5135,104,5
-8/2/2020,St. Francis,Arkansas,5123,1131,3
-8/2/2020,Stone,Arkansas,5137,53,1
-8/2/2020,Union,Arkansas,5139,433,16
-8/2/2020,Unknown,Arkansas,,1578,0
-8/2/2020,Van Buren,Arkansas,5141,50,2
-8/2/2020,Washington,Arkansas,5143,6005,46
-8/2/2020,White,Arkansas,5145,262,2
-8/2/2020,Woodruff,Arkansas,5147,19,0
-8/2/2020,Yell,Arkansas,5149,1022,14
-8/2/2020,Alameda,California,6001,11611,189
-8/2/2020,Alpine,California,6003,2,0
-8/2/2020,Amador,California,6005,124,0
-8/2/2020,Butte,California,6007,976,7
-8/2/2020,Calaveras,California,6009,125,1
-8/2/2020,Colusa,California,6011,327,4
-8/2/2020,Contra Costa,California,6013,7966,125
-8/2/2020,Del Norte,California,6015,88,0
-8/2/2020,El Dorado,California,6017,637,1
-8/2/2020,Fresno,California,6019,15448,138
-8/2/2020,Glenn,California,6021,311,1
-8/2/2020,Humboldt,California,6023,233,4
-8/2/2020,Imperial,California,6025,9409,219
-8/2/2020,Inyo,California,6027,45,1
-8/2/2020,Kern,California,6029,20796,144
-8/2/2020,Kings,California,6031,4453,56
-8/2/2020,Lake,California,6033,195,1
-8/2/2020,Lassen,California,6035,598,0
-8/2/2020,Los Angeles,California,6037,192167,4692
-8/2/2020,Madera,California,6039,2103,30
-8/2/2020,Marin,California,6041,5078,70
-8/2/2020,Mariposa,California,6043,57,2
-8/2/2020,Mendocino,California,6045,322,9
-8/2/2020,Merced,California,6047,4285,50
-8/2/2020,Modoc,California,6049,2,0
-8/2/2020,Mono,California,6051,145,1
-8/2/2020,Monterey,California,6053,4822,30
-8/2/2020,Napa,California,6055,924,8
-8/2/2020,Nevada,California,6057,305,1
-8/2/2020,Orange,California,6059,37391,651
-8/2/2020,Placer,California,6061,1925,16
-8/2/2020,Plumas,California,6063,25,0
-8/2/2020,Riverside,California,6065,38216,695
-8/2/2020,Sacramento,California,6067,10066,142
-8/2/2020,San Benito,California,6069,647,4
-8/2/2020,San Bernardino,California,6071,32980,417
-8/2/2020,San Diego,California,6073,29946,565
-8/2/2020,San Francisco,California,6075,6814,61
-8/2/2020,San Joaquin,California,6077,11807,168
-8/2/2020,San Luis Obispo,California,6079,1798,15
-8/2/2020,San Mateo,California,6081,5544,119
-8/2/2020,Santa Barbara,California,6083,6465,60
-8/2/2020,Santa Clara,California,6085,10626,192
-8/2/2020,Santa Cruz,California,6087,1164,4
-8/2/2020,Shasta,California,6089,369,9
-8/2/2020,Sierra,California,6091,1,0
-8/2/2020,Siskiyou,California,6093,73,0
-8/2/2020,Solano,California,6095,3616,37
-8/2/2020,Sonoma,California,6097,3113,39
-8/2/2020,Stanislaus,California,6099,9221,112
-8/2/2020,Sutter,California,6101,797,6
-8/2/2020,Tehama,California,6103,220,1
-8/2/2020,Trinity,California,6105,6,0
-8/2/2020,Tulare,California,6107,9520,178
-8/2/2020,Tuolumne,California,6109,141,2
-8/2/2020,Ventura,California,6111,7819,76
-8/2/2020,Yolo,California,6113,1572,42
-8/2/2020,Yuba,California,6115,501,4
-8/2/2020,Adams,Colorado,8001,6084,171
-8/2/2020,Alamosa,Colorado,8003,224,9
-8/2/2020,Arapahoe,Colorado,8005,7004,363
-8/2/2020,Archuleta,Colorado,8007,33,0
-8/2/2020,Baca,Colorado,8009,14,0
-8/2/2020,Bent,Colorado,8011,5,0
-8/2/2020,Boulder,Colorado,8013,1938,75
-8/2/2020,Broomfield,Colorado,8014,415,32
-8/2/2020,Chaffee,Colorado,8015,287,19
-8/2/2020,Cheyenne,Colorado,8017,8,0
-8/2/2020,Clear Creek,Colorado,8019,27,1
-8/2/2020,Conejos,Colorado,8021,23,0
-8/2/2020,Costilla,Colorado,8023,22,0
-8/2/2020,Crowley,Colorado,8025,72,1
-8/2/2020,Custer,Colorado,8027,10,0
-8/2/2020,Delta,Colorado,8029,109,1
-8/2/2020,Denver,Colorado,8031,9778,413
-8/2/2020,Dolores,Colorado,8033,1,0
-8/2/2020,Douglas,Colorado,8035,1647,59
-8/2/2020,Eagle,Colorado,8037,1049,9
-8/2/2020,El Paso,Colorado,8041,4659,137
-8/2/2020,Elbert,Colorado,8039,86,2
-8/2/2020,Fremont,Colorado,8043,111,0
-8/2/2020,Garfield,Colorado,8045,713,4
-8/2/2020,Gilpin,Colorado,8047,16,0
-8/2/2020,Grand,Colorado,8049,43,1
-8/2/2020,Gunnison,Colorado,8051,254,6
-8/2/2020,Hinsdale,Colorado,8053,3,0
-8/2/2020,Huerfano,Colorado,8055,6,1
-8/2/2020,Jackson,Colorado,8057,8,0
-8/2/2020,Jefferson,Colorado,8059,3950,227
-8/2/2020,Kit Carson,Colorado,8063,43,3
-8/2/2020,La Plata,Colorado,8067,199,2
-8/2/2020,Lake,Colorado,8065,71,0
-8/2/2020,Larimer,Colorado,8069,1399,35
-8/2/2020,Las Animas,Colorado,8071,15,0
-8/2/2020,Lincoln,Colorado,8073,6,0
-8/2/2020,Logan,Colorado,8075,648,5
-8/2/2020,Mesa,Colorado,8077,267,3
-8/2/2020,Mineral,Colorado,8079,18,0
-8/2/2020,Moffat,Colorado,8081,25,1
-8/2/2020,Montezuma,Colorado,8083,108,4
-8/2/2020,Montrose,Colorado,8085,279,13
-8/2/2020,Morgan,Colorado,8087,677,46
-8/2/2020,Otero,Colorado,8089,56,6
-8/2/2020,Ouray,Colorado,8091,12,1
-8/2/2020,Park,Colorado,8093,41,1
-8/2/2020,Phillips,Colorado,8095,19,0
-8/2/2020,Pitkin,Colorado,8097,168,2
-8/2/2020,Prowers,Colorado,8099,48,0
-8/2/2020,Pueblo,Colorado,8101,613,34
-8/2/2020,Rio Blanco,Colorado,8103,7,0
-8/2/2020,Rio Grande,Colorado,8105,87,2
-8/2/2020,Routt,Colorado,8107,107,6
-8/2/2020,Saguache,Colorado,8109,107,2
-8/2/2020,San Juan,Colorado,8111,2,0
-8/2/2020,San Miguel,Colorado,8113,76,0
-8/2/2020,Sedgwick,Colorado,8115,11,1
-8/2/2020,Summit,Colorado,8117,323,4
-8/2/2020,Teller,Colorado,8119,113,3
-8/2/2020,Washington,Colorado,8121,47,0
-8/2/2020,Weld,Colorado,8123,3546,141
-8/2/2020,Yuma,Colorado,8125,62,0
-8/2/2020,Fairfield,Connecticut,9001,17793,1406
-8/2/2020,Hartford,Connecticut,9003,12645,1412
-8/2/2020,Litchfield,Connecticut,9005,1597,138
-8/2/2020,Middlesex,Connecticut,9007,1377,191
-8/2/2020,New Haven,Connecticut,9009,13041,1101
-8/2/2020,New London,Connecticut,9011,1402,103
-8/2/2020,Tolland,Connecticut,9013,1019,66
-8/2/2020,Unknown,Connecticut,,243,0
-8/2/2020,Windham,Connecticut,9015,693,15
+8/2/2020,Autauga,Alabama,01001,1052,21
+8/2/2020,Baldwin,Alabama,01003,3223,23
+8/2/2020,Barbour,Alabama,01005,610,5
+8/2/2020,Bibb,Alabama,01007,372,3
+8/2/2020,Blount,Alabama,01009,813,3
+8/2/2020,Bullock,Alabama,01011,445,12
+8/2/2020,Butler,Alabama,01013,765,36
+8/2/2020,Calhoun,Alabama,01015,1580,9
+8/2/2020,Chambers,Alabama,01017,868,38
+8/2/2020,Cherokee,Alabama,01019,255,8
+8/2/2020,Chilton,Alabama,01021,737,7
+8/2/2020,Choctaw,Alabama,01023,278,12
+8/2/2020,Clarke,Alabama,01025,506,9
+8/2/2020,Clay,Alabama,01027,219,5
+8/2/2020,Cleburne,Alabama,01029,115,1
+8/2/2020,Coffee,Alabama,01031,728,5
+8/2/2020,Colbert,Alabama,01033,1093,12
+8/2/2020,Conecuh,Alabama,01035,385,10
+8/2/2020,Coosa,Alabama,01037,98,2
+8/2/2020,Covington,Alabama,01039,810,21
+8/2/2020,Crenshaw,Alabama,01041,299,4
+8/2/2020,Cullman,Alabama,01043,1178,11
+8/2/2020,Dale,Alabama,01045,794,19
+8/2/2020,Dallas,Alabama,01047,1357,23
+8/2/2020,DeKalb,Alabama,01049,1712,14
+8/2/2020,Elmore,Alabama,01051,1645,37
+8/2/2020,Escambia,Alabama,01053,1034,15
+8/2/2020,Etowah,Alabama,01055,1973,25
+8/2/2020,Fayette,Alabama,01057,177,5
+8/2/2020,Franklin,Alabama,01059,1198,20
+8/2/2020,Geneva,Alabama,01061,236,1
+8/2/2020,Greene,Alabama,01063,243,11
+8/2/2020,Hale,Alabama,01065,458,25
+8/2/2020,Henry,Alabama,01067,255,4
+8/2/2020,Houston,Alabama,01069,1353,14
+8/2/2020,Jackson,Alabama,01071,828,5
+8/2/2020,Jefferson,Alabama,01073,11866,227
+8/2/2020,Lamar,Alabama,01075,200,2
+8/2/2020,Lauderdale,Alabama,01077,1061,12
+8/2/2020,Lawrence,Alabama,01079,311,0
+8/2/2020,Lee,Alabama,01081,2636,44
+8/2/2020,Limestone,Alabama,01083,1205,14
+8/2/2020,Lowndes,Alabama,01085,558,26
+8/2/2020,Macon,Alabama,01087,318,13
+8/2/2020,Madison,Alabama,01089,5029,30
+8/2/2020,Marengo,Alabama,01091,521,14
+8/2/2020,Marion,Alabama,01093,567,24
+8/2/2020,Marshall,Alabama,01095,2998,31
+8/2/2020,Mobile,Alabama,01097,9056,197
+8/2/2020,Monroe,Alabama,01099,438,5
+8/2/2020,Montgomery,Alabama,01101,6294,146
+8/2/2020,Morgan,Alabama,01103,2239,16
+8/2/2020,Perry,Alabama,01105,451,4
+8/2/2020,Pickens,Alabama,01107,370,10
+8/2/2020,Pike,Alabama,01109,669,7
+8/2/2020,Randolph,Alabama,01111,398,11
+8/2/2020,Russell,Alabama,01113,1247,1
+8/2/2020,Shelby,Alabama,01117,3158,33
+8/2/2020,St. Clair,Alabama,01115,1265,12
+8/2/2020,Sumter,Alabama,01119,366,18
+8/2/2020,Talladega,Alabama,01121,1035,14
+8/2/2020,Tallapoosa,Alabama,01123,854,79
+8/2/2020,Tuscaloosa,Alabama,01125,3988,65
+8/2/2020,Walker,Alabama,01127,1484,66
+8/2/2020,Washington,Alabama,01129,315,11
+8/2/2020,Wilcox,Alabama,01131,415,9
+8/2/2020,Winston,Alabama,01133,440,11
+8/2/2020,Aleutians East Borough,Alaska,02013,3,0
+8/2/2020,Aleutians West Census Area,Alaska,02016,89,0
+8/2/2020,Anchorage,Alaska,02020,1999,12
+8/2/2020,Bethel Census Area,Alaska,02050,23,0
+8/2/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/2/2020,Denali Borough,Alaska,02068,4,0
+8/2/2020,Dillingham Census Area,Alaska,02070,22,0
+8/2/2020,Fairbanks North Star Borough,Alaska,02090,443,5
+8/2/2020,Haines Borough,Alaska,02100,8,0
+8/2/2020,Juneau City and Borough,Alaska,02110,145,1
+8/2/2020,Kenai Peninsula Borough,Alaska,02122,447,1
+8/2/2020,Ketchikan Gateway Borough,Alaska,02130,49,0
+8/2/2020,Kodiak Island Borough,Alaska,02150,19,0
+8/2/2020,Kusilvak Census Area,Alaska,02158,4,0
+8/2/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/2/2020,Matanuska-Susitna Borough,Alaska,02170,314,2
+8/2/2020,Nome Census Area,Alaska,02180,20,0
+8/2/2020,North Slope Borough,Alaska,02185,15,0
+8/2/2020,Northwest Arctic Borough,Alaska,02188,31,0
+8/2/2020,Petersburg Borough,Alaska,02195,9,0
+8/2/2020,Prince of Wales-Hyder Census Area,Alaska,02198,8,0
+8/2/2020,Sitka City and Borough,Alaska,02220,32,0
+8/2/2020,Southeast Fairbanks Census Area,Alaska,02240,26,0
+8/2/2020,Unknown,Alaska,0,55,0
+8/2/2020,Valdez-Cordova Census Area,Alaska,02261,92,0
+8/2/2020,Wrangell City and Borough,Alaska,02275,8,0
+8/2/2020,Yukon-Koyukuk Census Area,Alaska,02290,46,1
+8/2/2020,Apache,Arizona,04001,3064,136
+8/2/2020,Cochise,Arizona,04003,1536,49
+8/2/2020,Coconino,Arizona,04005,2990,115
+8/2/2020,Gila,Arizona,04007,833,29
+8/2/2020,Graham,Arizona,04009,489,9
+8/2/2020,Greenlee,Arizona,04011,55,2
+8/2/2020,La Paz,Arizona,04012,473,10
+8/2/2020,Maricopa,Arizona,04013,120279,2101
+8/2/2020,Mohave,Arizona,04015,3027,153
+8/2/2020,Navajo,Arizona,04017,5271,188
+8/2/2020,Pima,Arizona,04019,16655,462
+8/2/2020,Pinal,Arizona,04021,8227,141
+8/2/2020,Santa Cruz,Arizona,04023,2608,50
+8/2/2020,Yavapai,Arizona,04025,1818,61
+8/2/2020,Yuma,Arizona,04027,11148,263
+8/2/2020,Arkansas,0Arkansas,05001,199,0
+8/2/2020,Ashley,Arkansas,05003,249,4
+8/2/2020,Baxter,Arkansas,05005,61,0
+8/2/2020,Benton,Arkansas,05007,4528,39
+8/2/2020,Boone,Arkansas,05009,170,1
+8/2/2020,Bradley,Arkansas,05011,142,3
+8/2/2020,Calhoun,Arkansas,05013,13,0
+8/2/2020,Carroll,Arkansas,05015,340,6
+8/2/2020,Chicot,Arkansas,05017,529,6
+8/2/2020,Clark,Arkansas,05019,154,0
+8/2/2020,Clay,Arkansas,05021,107,4
+8/2/2020,Cleburne,Arkansas,05023,181,5
+8/2/2020,Cleveland,Arkansas,05025,68,2
+8/2/2020,Columbia,Arkansas,05027,193,6
+8/2/2020,Conway,Arkansas,05029,136,3
+8/2/2020,Craighead,Arkansas,05031,1120,11
+8/2/2020,Crawford,Arkansas,05033,536,3
+8/2/2020,Crittenden,Arkansas,05035,1213,20
+8/2/2020,Cross,Arkansas,05037,166,1
+8/2/2020,Dallas,Arkansas,05039,58,0
+8/2/2020,Desha,Arkansas,05041,151,2
+8/2/2020,Drew,Arkansas,05043,162,2
+8/2/2020,Faulkner,Arkansas,05045,1203,5
+8/2/2020,Franklin,Arkansas,05047,108,2
+8/2/2020,Fulton,Arkansas,05049,29,0
+8/2/2020,Garland,Arkansas,05051,843,7
+8/2/2020,Grant,Arkansas,05053,125,0
+8/2/2020,Greene,Arkansas,05055,383,1
+8/2/2020,Hempstead,Arkansas,05057,210,2
+8/2/2020,Hot Spring,Arkansas,05059,1457,8
+8/2/2020,Howard,Arkansas,05061,296,2
+8/2/2020,Independence,Arkansas,05063,367,0
+8/2/2020,Izard,Arkansas,05065,44,1
+8/2/2020,Jackson,Arkansas,05067,58,1
+8/2/2020,Jefferson,Arkansas,05069,1357,38
+8/2/2020,Johnson,Arkansas,05071,631,0
+8/2/2020,Lafayette,Arkansas,05073,49,2
+8/2/2020,Lawrence,Arkansas,05075,185,10
+8/2/2020,Lee,Arkansas,05077,885,6
+8/2/2020,Lincoln,Arkansas,05079,1182,11
+8/2/2020,Little River,Arkansas,05081,153,1
+8/2/2020,Logan,Arkansas,05083,158,1
+8/2/2020,Lonoke,Arkansas,05085,433,2
+8/2/2020,Madison,Arkansas,05087,259,1
+8/2/2020,Marion,Arkansas,05089,23,0
+8/2/2020,Miller,Arkansas,05091,462,4
+8/2/2020,Mississippi,Arkansas,05093,775,10
+8/2/2020,Monroe,Arkansas,05095,52,0
+8/2/2020,Montgomery,Arkansas,05097,25,0
+8/2/2020,Nevada,Arkansas,05099,130,9
+8/2/2020,Newton,Arkansas,05101,94,3
+8/2/2020,Ouachita,Arkansas,05103,77,1
+8/2/2020,Perry,Arkansas,05105,49,0
+8/2/2020,Phillips,Arkansas,05107,282,6
+8/2/2020,Pike,Arkansas,05109,78,1
+8/2/2020,Poinsett,Arkansas,05111,159,3
+8/2/2020,Polk,Arkansas,05113,128,1
+8/2/2020,Pope,Arkansas,05115,1202,9
+8/2/2020,Prairie,Arkansas,05117,66,0
+8/2/2020,Pulaski,Arkansas,05119,4838,78
+8/2/2020,Randolph,Arkansas,05121,173,2
+8/2/2020,Saline,Arkansas,05125,879,4
+8/2/2020,Scott,Arkansas,05127,42,0
+8/2/2020,Searcy,Arkansas,05129,25,0
+8/2/2020,Sebastian,Arkansas,05131,1768,15
+8/2/2020,Sevier,Arkansas,05133,935,10
+8/2/2020,Sharp,Arkansas,05135,104,5
+8/2/2020,St. Francis,Arkansas,05123,1131,3
+8/2/2020,Stone,Arkansas,05137,53,1
+8/2/2020,Union,Arkansas,05139,433,16
+8/2/2020,Unknown,Arkansas,0,1578,0
+8/2/2020,Van Buren,Arkansas,05141,50,2
+8/2/2020,Washington,Arkansas,05143,6005,46
+8/2/2020,White,Arkansas,05145,262,2
+8/2/2020,Woodruff,Arkansas,05147,19,0
+8/2/2020,Yell,Arkansas,05149,1022,14
+8/2/2020,Alameda,California,06001,11611,189
+8/2/2020,Alpine,California,06003,2,0
+8/2/2020,Amador,California,06005,124,0
+8/2/2020,Butte,California,06007,976,7
+8/2/2020,Calaveras,California,06009,125,1
+8/2/2020,Colusa,California,06011,327,4
+8/2/2020,Contra Costa,California,06013,7966,125
+8/2/2020,Del Norte,California,06015,88,0
+8/2/2020,El Dorado,California,06017,637,1
+8/2/2020,Fresno,California,06019,15448,138
+8/2/2020,Glenn,California,06021,311,1
+8/2/2020,Humboldt,California,06023,233,4
+8/2/2020,Imperial,California,06025,9409,219
+8/2/2020,Inyo,California,06027,45,1
+8/2/2020,Kern,California,06029,20796,144
+8/2/2020,Kings,California,06031,4453,56
+8/2/2020,Lake,California,06033,195,1
+8/2/2020,Lassen,California,06035,598,0
+8/2/2020,Los Angeles,California,06037,192167,4692
+8/2/2020,Madera,California,06039,2103,30
+8/2/2020,Marin,California,06041,5078,70
+8/2/2020,Mariposa,California,06043,57,2
+8/2/2020,Mendocino,California,06045,322,9
+8/2/2020,Merced,California,06047,4285,50
+8/2/2020,Modoc,California,06049,2,0
+8/2/2020,Mono,California,06051,145,1
+8/2/2020,Monterey,California,06053,4822,30
+8/2/2020,Napa,California,06055,924,8
+8/2/2020,Nevada,California,06057,305,1
+8/2/2020,Orange,California,06059,37391,651
+8/2/2020,Placer,California,06061,1925,16
+8/2/2020,Plumas,California,06063,25,0
+8/2/2020,Riverside,California,06065,38216,695
+8/2/2020,Sacramento,California,06067,10066,142
+8/2/2020,San Benito,California,06069,647,4
+8/2/2020,San Bernardino,California,06071,32980,417
+8/2/2020,San Diego,California,06073,29946,565
+8/2/2020,San Francisco,California,06075,6814,61
+8/2/2020,San Joaquin,California,06077,11807,168
+8/2/2020,San Luis Obispo,California,06079,1798,15
+8/2/2020,San Mateo,California,06081,5544,119
+8/2/2020,Santa Barbara,California,06083,6465,60
+8/2/2020,Santa Clara,California,06085,10626,192
+8/2/2020,Santa Cruz,California,06087,1164,4
+8/2/2020,Shasta,California,06089,369,9
+8/2/2020,Sierra,California,06091,1,0
+8/2/2020,Siskiyou,California,06093,73,0
+8/2/2020,Solano,California,06095,3616,37
+8/2/2020,Sonoma,California,06097,3113,39
+8/2/2020,Stanislaus,California,06099,9221,112
+8/2/2020,Sutter,California,06101,797,6
+8/2/2020,Tehama,California,06103,220,1
+8/2/2020,Trinity,California,06105,6,0
+8/2/2020,Tulare,California,06107,9520,178
+8/2/2020,Tuolumne,California,06109,141,2
+8/2/2020,Ventura,California,06111,7819,76
+8/2/2020,Yolo,California,06113,1572,42
+8/2/2020,Yuba,California,06115,501,4
+8/2/2020,Adams,Colorado,08001,6084,171
+8/2/2020,Alamosa,Colorado,08003,224,9
+8/2/2020,Arapahoe,Colorado,08005,7004,363
+8/2/2020,Archuleta,Colorado,08007,33,0
+8/2/2020,Baca,Colorado,08009,14,0
+8/2/2020,Bent,Colorado,08011,5,0
+8/2/2020,Boulder,Colorado,08013,1938,75
+8/2/2020,Broomfield,Colorado,08014,415,32
+8/2/2020,Chaffee,Colorado,08015,287,19
+8/2/2020,Cheyenne,Colorado,08017,8,0
+8/2/2020,Clear Creek,Colorado,08019,27,1
+8/2/2020,Conejos,Colorado,08021,23,0
+8/2/2020,Costilla,Colorado,08023,22,0
+8/2/2020,Crowley,Colorado,08025,72,1
+8/2/2020,Custer,Colorado,08027,10,0
+8/2/2020,Delta,Colorado,08029,109,1
+8/2/2020,Denver,Colorado,08031,9778,413
+8/2/2020,Dolores,Colorado,08033,1,0
+8/2/2020,Douglas,Colorado,08035,1647,59
+8/2/2020,Eagle,Colorado,08037,1049,9
+8/2/2020,El Paso,Colorado,08041,4659,137
+8/2/2020,Elbert,Colorado,08039,86,2
+8/2/2020,Fremont,Colorado,08043,111,0
+8/2/2020,Garfield,Colorado,08045,713,4
+8/2/2020,Gilpin,Colorado,08047,16,0
+8/2/2020,Grand,Colorado,08049,43,1
+8/2/2020,Gunnison,Colorado,08051,254,6
+8/2/2020,Hinsdale,Colorado,08053,3,0
+8/2/2020,Huerfano,Colorado,08055,6,1
+8/2/2020,Jackson,Colorado,08057,8,0
+8/2/2020,Jefferson,Colorado,08059,3950,227
+8/2/2020,Kit Carson,Colorado,08063,43,3
+8/2/2020,La Plata,Colorado,08067,199,2
+8/2/2020,Lake,Colorado,08065,71,0
+8/2/2020,Larimer,Colorado,08069,1399,35
+8/2/2020,Las Animas,Colorado,08071,15,0
+8/2/2020,Lincoln,Colorado,08073,6,0
+8/2/2020,Logan,Colorado,08075,648,5
+8/2/2020,Mesa,Colorado,08077,267,3
+8/2/2020,Mineral,Colorado,08079,18,0
+8/2/2020,Moffat,Colorado,08081,25,1
+8/2/2020,Montezuma,Colorado,08083,108,4
+8/2/2020,Montrose,Colorado,08085,279,13
+8/2/2020,Morgan,Colorado,08087,677,46
+8/2/2020,Otero,Colorado,08089,56,6
+8/2/2020,Ouray,Colorado,08091,12,1
+8/2/2020,Park,Colorado,08093,41,1
+8/2/2020,Phillips,Colorado,08095,19,0
+8/2/2020,Pitkin,Colorado,08097,168,2
+8/2/2020,Prowers,Colorado,08099,48,0
+8/2/2020,Pueblo,Colorado,08101,613,34
+8/2/2020,Rio Blanco,Colorado,08103,7,0
+8/2/2020,Rio Grande,Colorado,08105,87,2
+8/2/2020,Routt,Colorado,08107,107,6
+8/2/2020,Saguache,Colorado,08109,107,2
+8/2/2020,San Juan,Colorado,08111,2,0
+8/2/2020,San Miguel,Colorado,08113,76,0
+8/2/2020,Sedgwick,Colorado,08115,11,1
+8/2/2020,Summit,Colorado,08117,323,4
+8/2/2020,Teller,Colorado,08119,113,3
+8/2/2020,Washington,Colorado,08121,47,0
+8/2/2020,Weld,Colorado,08123,3546,141
+8/2/2020,Yuma,Colorado,08125,62,0
+8/2/2020,Fairfield,Connecticut,09001,17793,1406
+8/2/2020,Hartford,Connecticut,09003,12645,1412
+8/2/2020,Litchfield,Connecticut,09005,1597,138
+8/2/2020,Middlesex,Connecticut,09007,1377,191
+8/2/2020,New Haven,Connecticut,09009,13041,1101
+8/2/2020,New London,Connecticut,09011,1402,103
+8/2/2020,Tolland,Connecticut,09013,1019,66
+8/2/2020,Unknown,Connecticut,0,243,0
+8/2/2020,Windham,Connecticut,09015,693,15
 8/2/2020,Kent,Delaware,10001,2199,107
 8/2/2020,New Castle,Delaware,10003,6868,287
 8/2/2020,Sussex,Delaware,10005,5656,191
@@ -5854,7 +5854,7 @@ date,county,state,fips,cases,deaths
 8/2/2020,Coleman,Texas,48083,11,0
 8/2/2020,Collin,Texas,48085,6403,83
 8/2/2020,Collingsworth,Texas,48087,7,0
-8/2/2020,Colorado,Texas,48089,246,2
+8/2/2020,Colorado,0Texas,48089,246,2
 8/2/2020,Comal,Texas,48091,2157,61
 8/2/2020,Comanche,Texas,48093,107,3
 8/2/2020,Concho,Texas,48095,26,0
@@ -6432,321 +6432,321 @@ date,county,state,fips,cases,deaths
 8/2/2020,Uinta,Wyoming,56041,262,1
 8/2/2020,Washakie,Wyoming,56043,48,5
 8/2/2020,Weston,Wyoming,56045,5,0
-8/3/2020,Autauga,Alabama,1001,1066,21
-8/3/2020,Baldwin,Alabama,1003,3265,24
-8/3/2020,Barbour,Alabama,1005,612,5
-8/3/2020,Bibb,Alabama,1007,382,3
-8/3/2020,Blount,Alabama,1009,830,3
-8/3/2020,Bullock,Alabama,1011,446,12
-8/3/2020,Butler,Alabama,1013,767,36
-8/3/2020,Calhoun,Alabama,1015,1612,9
-8/3/2020,Chambers,Alabama,1017,875,38
-8/3/2020,Cherokee,Alabama,1019,263,8
-8/3/2020,Chilton,Alabama,1021,750,7
-8/3/2020,Choctaw,Alabama,1023,279,12
-8/3/2020,Clarke,Alabama,1025,509,9
-8/3/2020,Clay,Alabama,1027,220,5
-8/3/2020,Cleburne,Alabama,1029,122,1
-8/3/2020,Coffee,Alabama,1031,736,5
-8/3/2020,Colbert,Alabama,1033,1111,12
-8/3/2020,Conecuh,Alabama,1035,387,10
-8/3/2020,Coosa,Alabama,1037,100,2
-8/3/2020,Covington,Alabama,1039,823,21
-8/3/2020,Crenshaw,Alabama,1041,301,4
-8/3/2020,Cullman,Alabama,1043,1207,11
-8/3/2020,Dale,Alabama,1045,803,20
-8/3/2020,Dallas,Alabama,1047,1366,23
-8/3/2020,DeKalb,Alabama,1049,1740,14
-8/3/2020,Elmore,Alabama,1051,1665,37
-8/3/2020,Escambia,Alabama,1053,1053,15
-8/3/2020,Etowah,Alabama,1055,1989,26
-8/3/2020,Fayette,Alabama,1057,182,5
-8/3/2020,Franklin,Alabama,1059,1213,20
-8/3/2020,Geneva,Alabama,1061,246,1
-8/3/2020,Greene,Alabama,1063,245,11
-8/3/2020,Hale,Alabama,1065,468,26
-8/3/2020,Henry,Alabama,1067,257,4
-8/3/2020,Houston,Alabama,1069,1366,14
-8/3/2020,Jackson,Alabama,1071,842,5
-8/3/2020,Jefferson,Alabama,1073,12076,227
-8/3/2020,Lamar,Alabama,1075,204,2
-8/3/2020,Lauderdale,Alabama,1077,1079,12
-8/3/2020,Lawrence,Alabama,1079,316,0
-8/3/2020,Lee,Alabama,1081,2651,44
-8/3/2020,Limestone,Alabama,1083,1218,14
-8/3/2020,Lowndes,Alabama,1085,564,26
-8/3/2020,Macon,Alabama,1087,319,13
-8/3/2020,Madison,Alabama,1089,5116,30
-8/3/2020,Marengo,Alabama,1091,527,14
-8/3/2020,Marion,Alabama,1093,573,24
-8/3/2020,Marshall,Alabama,1095,3019,31
-8/3/2020,Mobile,Alabama,1097,9144,197
-8/3/2020,Monroe,Alabama,1099,442,5
-8/3/2020,Montgomery,Alabama,1101,6347,146
-8/3/2020,Morgan,Alabama,1103,2257,17
-8/3/2020,Perry,Alabama,1105,452,4
-8/3/2020,Pickens,Alabama,1107,374,10
-8/3/2020,Pike,Alabama,1109,676,8
-8/3/2020,Randolph,Alabama,1111,399,11
-8/3/2020,Russell,Alabama,1113,1260,1
-8/3/2020,Shelby,Alabama,1117,3214,33
-8/3/2020,St. Clair,Alabama,1115,1305,12
-8/3/2020,Sumter,Alabama,1119,366,18
-8/3/2020,Talladega,Alabama,1121,1075,14
-8/3/2020,Tallapoosa,Alabama,1123,865,79
-8/3/2020,Tuscaloosa,Alabama,1125,4048,65
-8/3/2020,Walker,Alabama,1127,1500,66
-8/3/2020,Washington,Alabama,1129,315,11
-8/3/2020,Wilcox,Alabama,1131,420,9
-8/3/2020,Winston,Alabama,1133,442,11
-8/3/2020,Aleutians East Borough,Alaska,2013,3,0
-8/3/2020,Aleutians West Census Area,Alaska,2016,89,0
-8/3/2020,Anchorage,Alaska,2020,2042,13
-8/3/2020,Bethel Census Area,Alaska,2050,24,0
-8/3/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/3/2020,Denali Borough,Alaska,2068,4,0
-8/3/2020,Dillingham Census Area,Alaska,2070,22,0
-8/3/2020,Fairbanks North Star Borough,Alaska,2090,447,5
-8/3/2020,Haines Borough,Alaska,2100,8,0
-8/3/2020,Juneau City and Borough,Alaska,2110,150,1
-8/3/2020,Kenai Peninsula Borough,Alaska,2122,454,1
-8/3/2020,Ketchikan Gateway Borough,Alaska,2130,49,0
-8/3/2020,Kodiak Island Borough,Alaska,2150,26,0
-8/3/2020,Kusilvak Census Area,Alaska,2158,5,0
-8/3/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/3/2020,Matanuska-Susitna Borough,Alaska,2170,319,2
-8/3/2020,Nome Census Area,Alaska,2180,20,0
-8/3/2020,North Slope Borough,Alaska,2185,17,0
-8/3/2020,Northwest Arctic Borough,Alaska,2188,33,0
-8/3/2020,Petersburg Borough,Alaska,2195,9,0
-8/3/2020,Prince of Wales-Hyder Census Area,Alaska,2198,9,0
-8/3/2020,Sitka City and Borough,Alaska,2220,32,0
-8/3/2020,Southeast Fairbanks Census Area,Alaska,2240,26,0
-8/3/2020,Unknown,Alaska,,54,0
-8/3/2020,Valdez-Cordova Census Area,Alaska,2261,93,0
-8/3/2020,Wrangell City and Borough,Alaska,2275,9,0
-8/3/2020,Yukon-Koyukuk Census Area,Alaska,2290,47,1
-8/3/2020,Apache,Arizona,4001,3084,136
-8/3/2020,Cochise,Arizona,4003,1557,50
-8/3/2020,Coconino,Arizona,4005,2997,116
-8/3/2020,Gila,Arizona,4007,841,29
-8/3/2020,Graham,Arizona,4009,490,9
-8/3/2020,Greenlee,Arizona,4011,57,2
-8/3/2020,La Paz,Arizona,4012,474,10
-8/3/2020,Maricopa,Arizona,4013,120960,2108
-8/3/2020,Mohave,Arizona,4015,3040,153
-8/3/2020,Navajo,Arizona,4017,5284,188
-8/3/2020,Pima,Arizona,4019,16741,462
-8/3/2020,Pinal,Arizona,4021,8301,141
-8/3/2020,Santa Cruz,Arizona,4023,2610,50
-8/3/2020,Yavapai,Arizona,4025,1860,66
-8/3/2020,Yuma,Arizona,4027,11210,265
-8/3/2020,Arkansas,Arkansas,5001,201,0
-8/3/2020,Ashley,Arkansas,5003,254,4
-8/3/2020,Baxter,Arkansas,5005,62,0
-8/3/2020,Benton,Arkansas,5007,4572,39
-8/3/2020,Boone,Arkansas,5009,176,1
-8/3/2020,Bradley,Arkansas,5011,147,3
-8/3/2020,Calhoun,Arkansas,5013,13,0
-8/3/2020,Carroll,Arkansas,5015,340,6
-8/3/2020,Chicot,Arkansas,5017,536,6
-8/3/2020,Clark,Arkansas,5019,159,0
-8/3/2020,Clay,Arkansas,5021,109,4
-8/3/2020,Cleburne,Arkansas,5023,182,5
-8/3/2020,Cleveland,Arkansas,5025,71,2
-8/3/2020,Columbia,Arkansas,5027,202,6
-8/3/2020,Conway,Arkansas,5029,137,3
-8/3/2020,Craighead,Arkansas,5031,1134,12
-8/3/2020,Crawford,Arkansas,5033,554,3
-8/3/2020,Crittenden,Arkansas,5035,1242,20
-8/3/2020,Cross,Arkansas,5037,172,2
-8/3/2020,Dallas,Arkansas,5039,58,0
-8/3/2020,Desha,Arkansas,5041,160,2
-8/3/2020,Drew,Arkansas,5043,166,2
-8/3/2020,Faulkner,Arkansas,5045,1212,5
-8/3/2020,Franklin,Arkansas,5047,108,2
-8/3/2020,Fulton,Arkansas,5049,29,0
-8/3/2020,Garland,Arkansas,5051,875,8
-8/3/2020,Grant,Arkansas,5053,127,0
-8/3/2020,Greene,Arkansas,5055,393,1
-8/3/2020,Hempstead,Arkansas,5057,220,2
-8/3/2020,Hot Spring,Arkansas,5059,1465,9
-8/3/2020,Howard,Arkansas,5061,300,2
-8/3/2020,Independence,Arkansas,5063,398,0
-8/3/2020,Izard,Arkansas,5065,45,1
-8/3/2020,Jackson,Arkansas,5067,59,1
-8/3/2020,Jefferson,Arkansas,5069,1382,39
-8/3/2020,Johnson,Arkansas,5071,636,0
-8/3/2020,Lafayette,Arkansas,5073,49,2
-8/3/2020,Lawrence,Arkansas,5075,185,10
-8/3/2020,Lee,Arkansas,5077,890,7
-8/3/2020,Lincoln,Arkansas,5079,1186,11
-8/3/2020,Little River,Arkansas,5081,156,1
-8/3/2020,Logan,Arkansas,5083,195,1
-8/3/2020,Lonoke,Arkansas,5085,452,2
-8/3/2020,Madison,Arkansas,5087,262,1
-8/3/2020,Marion,Arkansas,5089,23,0
-8/3/2020,Miller,Arkansas,5091,470,4
-8/3/2020,Mississippi,Arkansas,5093,797,11
-8/3/2020,Monroe,Arkansas,5095,53,0
-8/3/2020,Montgomery,Arkansas,5097,26,0
-8/3/2020,Nevada,Arkansas,5099,133,9
-8/3/2020,Newton,Arkansas,5101,98,3
-8/3/2020,Ouachita,Arkansas,5103,81,1
-8/3/2020,Perry,Arkansas,5105,49,0
-8/3/2020,Phillips,Arkansas,5107,284,6
-8/3/2020,Pike,Arkansas,5109,81,1
-8/3/2020,Poinsett,Arkansas,5111,167,3
-8/3/2020,Polk,Arkansas,5113,131,1
-8/3/2020,Pope,Arkansas,5115,1216,9
-8/3/2020,Prairie,Arkansas,5117,74,0
-8/3/2020,Pulaski,Arkansas,5119,4893,79
-8/3/2020,Randolph,Arkansas,5121,175,3
-8/3/2020,Saline,Arkansas,5125,892,5
-8/3/2020,Scott,Arkansas,5127,44,0
-8/3/2020,Searcy,Arkansas,5129,27,0
-8/3/2020,Sebastian,Arkansas,5131,1856,15
-8/3/2020,Sevier,Arkansas,5133,939,10
-8/3/2020,Sharp,Arkansas,5135,106,5
-8/3/2020,St. Francis,Arkansas,5123,1140,3
-8/3/2020,Stone,Arkansas,5137,55,1
-8/3/2020,Union,Arkansas,5139,435,16
-8/3/2020,Unknown,Arkansas,,1641,0
-8/3/2020,Van Buren,Arkansas,5141,52,2
-8/3/2020,Washington,Arkansas,5143,6072,47
-8/3/2020,White,Arkansas,5145,266,2
-8/3/2020,Woodruff,Arkansas,5147,20,0
-8/3/2020,Yell,Arkansas,5149,1030,14
-8/3/2020,Alameda,California,6001,11867,189
-8/3/2020,Alpine,California,6003,2,0
-8/3/2020,Amador,California,6005,133,0
-8/3/2020,Butte,California,6007,987,7
-8/3/2020,Calaveras,California,6009,125,1
-8/3/2020,Colusa,California,6011,335,4
-8/3/2020,Contra Costa,California,6013,8033,127
-8/3/2020,Del Norte,California,6015,90,0
-8/3/2020,El Dorado,California,6017,659,1
-8/3/2020,Fresno,California,6019,15759,138
-8/3/2020,Glenn,California,6021,315,1
-8/3/2020,Humboldt,California,6023,236,4
-8/3/2020,Imperial,California,6025,9448,221
-8/3/2020,Inyo,California,6027,45,1
-8/3/2020,Kern,California,6029,21162,144
-8/3/2020,Kings,California,6031,4453,56
-8/3/2020,Lake,California,6033,201,1
-8/3/2020,Lassen,California,6035,626,0
-8/3/2020,Los Angeles,California,6037,193788,4701
-8/3/2020,Madera,California,6039,2123,32
-8/3/2020,Marin,California,6041,5115,70
-8/3/2020,Mariposa,California,6043,58,2
-8/3/2020,Mendocino,California,6045,331,9
-8/3/2020,Merced,California,6047,4422,50
-8/3/2020,Modoc,California,6049,3,0
-8/3/2020,Mono,California,6051,145,1
-8/3/2020,Monterey,California,6053,4924,30
-8/3/2020,Napa,California,6055,964,8
-8/3/2020,Nevada,California,6057,314,1
-8/3/2020,Orange,California,6059,37813,651
-8/3/2020,Placer,California,6061,1938,17
-8/3/2020,Plumas,California,6063,25,0
-8/3/2020,Riverside,California,6065,38507,737
-8/3/2020,Sacramento,California,6067,10121,145
-8/3/2020,San Benito,California,6069,676,4
-8/3/2020,San Bernardino,California,6071,33643,418
-8/3/2020,San Diego,California,6073,30289,565
-8/3/2020,San Francisco,California,6075,6919,61
-8/3/2020,San Joaquin,California,6077,11937,180
-8/3/2020,San Luis Obispo,California,6079,1902,16
-8/3/2020,San Mateo,California,6081,5683,119
-8/3/2020,Santa Barbara,California,6083,6532,61
-8/3/2020,Santa Clara,California,6085,10794,192
-8/3/2020,Santa Cruz,California,6087,1162,4
-8/3/2020,Shasta,California,6089,390,9
-8/3/2020,Sierra,California,6091,1,0
-8/3/2020,Siskiyou,California,6093,81,0
-8/3/2020,Solano,California,6095,3726,37
-8/3/2020,Sonoma,California,6097,3113,39
-8/3/2020,Stanislaus,California,6099,9277,126
-8/3/2020,Sutter,California,6101,812,6
-8/3/2020,Tehama,California,6103,222,1
-8/3/2020,Trinity,California,6105,6,0
-8/3/2020,Tulare,California,6107,9745,189
-8/3/2020,Tuolumne,California,6109,144,2
-8/3/2020,Ventura,California,6111,8014,76
-8/3/2020,Yolo,California,6113,1588,42
-8/3/2020,Yuba,California,6115,512,4
-8/3/2020,Adams,Colorado,8001,6115,171
-8/3/2020,Alamosa,Colorado,8003,224,9
-8/3/2020,Arapahoe,Colorado,8005,7023,363
-8/3/2020,Archuleta,Colorado,8007,33,0
-8/3/2020,Baca,Colorado,8009,14,0
-8/3/2020,Bent,Colorado,8011,5,0
-8/3/2020,Boulder,Colorado,8013,1962,75
-8/3/2020,Broomfield,Colorado,8014,417,32
-8/3/2020,Chaffee,Colorado,8015,287,19
-8/3/2020,Cheyenne,Colorado,8017,8,0
-8/3/2020,Clear Creek,Colorado,8019,27,1
-8/3/2020,Conejos,Colorado,8021,23,0
-8/3/2020,Costilla,Colorado,8023,22,0
-8/3/2020,Crowley,Colorado,8025,72,1
-8/3/2020,Custer,Colorado,8027,10,0
-8/3/2020,Delta,Colorado,8029,110,1
-8/3/2020,Denver,Colorado,8031,9813,416
-8/3/2020,Dolores,Colorado,8033,1,0
-8/3/2020,Douglas,Colorado,8035,1653,59
-8/3/2020,Eagle,Colorado,8037,1069,9
-8/3/2020,El Paso,Colorado,8041,4733,137
-8/3/2020,Elbert,Colorado,8039,87,2
-8/3/2020,Fremont,Colorado,8043,112,0
-8/3/2020,Garfield,Colorado,8045,721,4
-8/3/2020,Gilpin,Colorado,8047,16,0
-8/3/2020,Grand,Colorado,8049,44,1
-8/3/2020,Gunnison,Colorado,8051,257,6
-8/3/2020,Hinsdale,Colorado,8053,3,0
-8/3/2020,Huerfano,Colorado,8055,6,1
-8/3/2020,Jackson,Colorado,8057,8,0
-8/3/2020,Jefferson,Colorado,8059,3971,227
-8/3/2020,Kit Carson,Colorado,8063,43,3
-8/3/2020,La Plata,Colorado,8067,198,2
-8/3/2020,Lake,Colorado,8065,73,0
-8/3/2020,Larimer,Colorado,8069,1417,35
-8/3/2020,Las Animas,Colorado,8071,15,0
-8/3/2020,Lincoln,Colorado,8073,6,0
-8/3/2020,Logan,Colorado,8075,648,5
-8/3/2020,Mesa,Colorado,8077,271,3
-8/3/2020,Mineral,Colorado,8079,18,0
-8/3/2020,Moffat,Colorado,8081,25,1
-8/3/2020,Montezuma,Colorado,8083,108,4
-8/3/2020,Montrose,Colorado,8085,283,13
-8/3/2020,Morgan,Colorado,8087,677,46
-8/3/2020,Otero,Colorado,8089,61,6
-8/3/2020,Ouray,Colorado,8091,12,1
-8/3/2020,Park,Colorado,8093,42,1
-8/3/2020,Phillips,Colorado,8095,19,0
-8/3/2020,Pitkin,Colorado,8097,172,2
-8/3/2020,Prowers,Colorado,8099,48,0
-8/3/2020,Pueblo,Colorado,8101,615,34
-8/3/2020,Rio Blanco,Colorado,8103,8,0
-8/3/2020,Rio Grande,Colorado,8105,87,2
-8/3/2020,Routt,Colorado,8107,108,6
-8/3/2020,Saguache,Colorado,8109,107,2
-8/3/2020,San Juan,Colorado,8111,2,0
-8/3/2020,San Miguel,Colorado,8113,76,0
-8/3/2020,Sedgwick,Colorado,8115,11,1
-8/3/2020,Summit,Colorado,8117,323,4
-8/3/2020,Teller,Colorado,8119,113,3
-8/3/2020,Washington,Colorado,8121,47,0
-8/3/2020,Weld,Colorado,8123,3578,141
-8/3/2020,Yuma,Colorado,8125,62,0
-8/3/2020,Fairfield,Connecticut,9001,17870,1408
-8/3/2020,Hartford,Connecticut,9003,12701,1412
-8/3/2020,Litchfield,Connecticut,9005,1598,138
-8/3/2020,Middlesex,Connecticut,9007,1388,191
-8/3/2020,New Haven,Connecticut,9009,13086,1104
-8/3/2020,New London,Connecticut,9011,1414,103
-8/3/2020,Tolland,Connecticut,9013,1050,66
-8/3/2020,Unknown,Connecticut,,243,0
-8/3/2020,Windham,Connecticut,9015,712,15
+8/3/2020,Autauga,Alabama,01001,1066,21
+8/3/2020,Baldwin,Alabama,01003,3265,24
+8/3/2020,Barbour,Alabama,01005,612,5
+8/3/2020,Bibb,Alabama,01007,382,3
+8/3/2020,Blount,Alabama,01009,830,3
+8/3/2020,Bullock,Alabama,01011,446,12
+8/3/2020,Butler,Alabama,01013,767,36
+8/3/2020,Calhoun,Alabama,01015,1612,9
+8/3/2020,Chambers,Alabama,01017,875,38
+8/3/2020,Cherokee,Alabama,01019,263,8
+8/3/2020,Chilton,Alabama,01021,750,7
+8/3/2020,Choctaw,Alabama,01023,279,12
+8/3/2020,Clarke,Alabama,01025,509,9
+8/3/2020,Clay,Alabama,01027,220,5
+8/3/2020,Cleburne,Alabama,01029,122,1
+8/3/2020,Coffee,Alabama,01031,736,5
+8/3/2020,Colbert,Alabama,01033,1111,12
+8/3/2020,Conecuh,Alabama,01035,387,10
+8/3/2020,Coosa,Alabama,01037,100,2
+8/3/2020,Covington,Alabama,01039,823,21
+8/3/2020,Crenshaw,Alabama,01041,301,4
+8/3/2020,Cullman,Alabama,01043,1207,11
+8/3/2020,Dale,Alabama,01045,803,20
+8/3/2020,Dallas,Alabama,01047,1366,23
+8/3/2020,DeKalb,Alabama,01049,1740,14
+8/3/2020,Elmore,Alabama,01051,1665,37
+8/3/2020,Escambia,Alabama,01053,1053,15
+8/3/2020,Etowah,Alabama,01055,1989,26
+8/3/2020,Fayette,Alabama,01057,182,5
+8/3/2020,Franklin,Alabama,01059,1213,20
+8/3/2020,Geneva,Alabama,01061,246,1
+8/3/2020,Greene,Alabama,01063,245,11
+8/3/2020,Hale,Alabama,01065,468,26
+8/3/2020,Henry,Alabama,01067,257,4
+8/3/2020,Houston,Alabama,01069,1366,14
+8/3/2020,Jackson,Alabama,01071,842,5
+8/3/2020,Jefferson,Alabama,01073,12076,227
+8/3/2020,Lamar,Alabama,01075,204,2
+8/3/2020,Lauderdale,Alabama,01077,1079,12
+8/3/2020,Lawrence,Alabama,01079,316,0
+8/3/2020,Lee,Alabama,01081,2651,44
+8/3/2020,Limestone,Alabama,01083,1218,14
+8/3/2020,Lowndes,Alabama,01085,564,26
+8/3/2020,Macon,Alabama,01087,319,13
+8/3/2020,Madison,Alabama,01089,5116,30
+8/3/2020,Marengo,Alabama,01091,527,14
+8/3/2020,Marion,Alabama,01093,573,24
+8/3/2020,Marshall,Alabama,01095,3019,31
+8/3/2020,Mobile,Alabama,01097,9144,197
+8/3/2020,Monroe,Alabama,01099,442,5
+8/3/2020,Montgomery,Alabama,01101,6347,146
+8/3/2020,Morgan,Alabama,01103,2257,17
+8/3/2020,Perry,Alabama,01105,452,4
+8/3/2020,Pickens,Alabama,01107,374,10
+8/3/2020,Pike,Alabama,01109,676,8
+8/3/2020,Randolph,Alabama,01111,399,11
+8/3/2020,Russell,Alabama,01113,1260,1
+8/3/2020,Shelby,Alabama,01117,3214,33
+8/3/2020,St. Clair,Alabama,01115,1305,12
+8/3/2020,Sumter,Alabama,01119,366,18
+8/3/2020,Talladega,Alabama,01121,1075,14
+8/3/2020,Tallapoosa,Alabama,01123,865,79
+8/3/2020,Tuscaloosa,Alabama,01125,4048,65
+8/3/2020,Walker,Alabama,01127,1500,66
+8/3/2020,Washington,Alabama,01129,315,11
+8/3/2020,Wilcox,Alabama,01131,420,9
+8/3/2020,Winston,Alabama,01133,442,11
+8/3/2020,Aleutians East Borough,Alaska,02013,3,0
+8/3/2020,Aleutians West Census Area,Alaska,02016,89,0
+8/3/2020,Anchorage,Alaska,02020,2042,13
+8/3/2020,Bethel Census Area,Alaska,02050,24,0
+8/3/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/3/2020,Denali Borough,Alaska,02068,4,0
+8/3/2020,Dillingham Census Area,Alaska,02070,22,0
+8/3/2020,Fairbanks North Star Borough,Alaska,02090,447,5
+8/3/2020,Haines Borough,Alaska,02100,8,0
+8/3/2020,Juneau City and Borough,Alaska,02110,150,1
+8/3/2020,Kenai Peninsula Borough,Alaska,02122,454,1
+8/3/2020,Ketchikan Gateway Borough,Alaska,02130,49,0
+8/3/2020,Kodiak Island Borough,Alaska,02150,26,0
+8/3/2020,Kusilvak Census Area,Alaska,02158,5,0
+8/3/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/3/2020,Matanuska-Susitna Borough,Alaska,02170,319,2
+8/3/2020,Nome Census Area,Alaska,02180,20,0
+8/3/2020,North Slope Borough,Alaska,02185,17,0
+8/3/2020,Northwest Arctic Borough,Alaska,02188,33,0
+8/3/2020,Petersburg Borough,Alaska,02195,9,0
+8/3/2020,Prince of Wales-Hyder Census Area,Alaska,02198,9,0
+8/3/2020,Sitka City and Borough,Alaska,02220,32,0
+8/3/2020,Southeast Fairbanks Census Area,Alaska,02240,26,0
+8/3/2020,Unknown,Alaska,0,54,0
+8/3/2020,Valdez-Cordova Census Area,Alaska,02261,93,0
+8/3/2020,Wrangell City and Borough,Alaska,02275,9,0
+8/3/2020,Yukon-Koyukuk Census Area,Alaska,02290,47,1
+8/3/2020,Apache,Arizona,04001,3084,136
+8/3/2020,Cochise,Arizona,04003,1557,50
+8/3/2020,Coconino,Arizona,04005,2997,116
+8/3/2020,Gila,Arizona,04007,841,29
+8/3/2020,Graham,Arizona,04009,490,9
+8/3/2020,Greenlee,Arizona,04011,57,2
+8/3/2020,La Paz,Arizona,04012,474,10
+8/3/2020,Maricopa,Arizona,04013,120960,2108
+8/3/2020,Mohave,Arizona,04015,3040,153
+8/3/2020,Navajo,Arizona,04017,5284,188
+8/3/2020,Pima,Arizona,04019,16741,462
+8/3/2020,Pinal,Arizona,04021,8301,141
+8/3/2020,Santa Cruz,Arizona,04023,2610,50
+8/3/2020,Yavapai,Arizona,04025,1860,66
+8/3/2020,Yuma,Arizona,04027,11210,265
+8/3/2020,Arkansas,0Arkansas,05001,201,0
+8/3/2020,Ashley,Arkansas,05003,254,4
+8/3/2020,Baxter,Arkansas,05005,62,0
+8/3/2020,Benton,Arkansas,05007,4572,39
+8/3/2020,Boone,Arkansas,05009,176,1
+8/3/2020,Bradley,Arkansas,05011,147,3
+8/3/2020,Calhoun,Arkansas,05013,13,0
+8/3/2020,Carroll,Arkansas,05015,340,6
+8/3/2020,Chicot,Arkansas,05017,536,6
+8/3/2020,Clark,Arkansas,05019,159,0
+8/3/2020,Clay,Arkansas,05021,109,4
+8/3/2020,Cleburne,Arkansas,05023,182,5
+8/3/2020,Cleveland,Arkansas,05025,71,2
+8/3/2020,Columbia,Arkansas,05027,202,6
+8/3/2020,Conway,Arkansas,05029,137,3
+8/3/2020,Craighead,Arkansas,05031,1134,12
+8/3/2020,Crawford,Arkansas,05033,554,3
+8/3/2020,Crittenden,Arkansas,05035,1242,20
+8/3/2020,Cross,Arkansas,05037,172,2
+8/3/2020,Dallas,Arkansas,05039,58,0
+8/3/2020,Desha,Arkansas,05041,160,2
+8/3/2020,Drew,Arkansas,05043,166,2
+8/3/2020,Faulkner,Arkansas,05045,1212,5
+8/3/2020,Franklin,Arkansas,05047,108,2
+8/3/2020,Fulton,Arkansas,05049,29,0
+8/3/2020,Garland,Arkansas,05051,875,8
+8/3/2020,Grant,Arkansas,05053,127,0
+8/3/2020,Greene,Arkansas,05055,393,1
+8/3/2020,Hempstead,Arkansas,05057,220,2
+8/3/2020,Hot Spring,Arkansas,05059,1465,9
+8/3/2020,Howard,Arkansas,05061,300,2
+8/3/2020,Independence,Arkansas,05063,398,0
+8/3/2020,Izard,Arkansas,05065,45,1
+8/3/2020,Jackson,Arkansas,05067,59,1
+8/3/2020,Jefferson,Arkansas,05069,1382,39
+8/3/2020,Johnson,Arkansas,05071,636,0
+8/3/2020,Lafayette,Arkansas,05073,49,2
+8/3/2020,Lawrence,Arkansas,05075,185,10
+8/3/2020,Lee,Arkansas,05077,890,7
+8/3/2020,Lincoln,Arkansas,05079,1186,11
+8/3/2020,Little River,Arkansas,05081,156,1
+8/3/2020,Logan,Arkansas,05083,195,1
+8/3/2020,Lonoke,Arkansas,05085,452,2
+8/3/2020,Madison,Arkansas,05087,262,1
+8/3/2020,Marion,Arkansas,05089,23,0
+8/3/2020,Miller,Arkansas,05091,470,4
+8/3/2020,Mississippi,Arkansas,05093,797,11
+8/3/2020,Monroe,Arkansas,05095,53,0
+8/3/2020,Montgomery,Arkansas,05097,26,0
+8/3/2020,Nevada,Arkansas,05099,133,9
+8/3/2020,Newton,Arkansas,05101,98,3
+8/3/2020,Ouachita,Arkansas,05103,81,1
+8/3/2020,Perry,Arkansas,05105,49,0
+8/3/2020,Phillips,Arkansas,05107,284,6
+8/3/2020,Pike,Arkansas,05109,81,1
+8/3/2020,Poinsett,Arkansas,05111,167,3
+8/3/2020,Polk,Arkansas,05113,131,1
+8/3/2020,Pope,Arkansas,05115,1216,9
+8/3/2020,Prairie,Arkansas,05117,74,0
+8/3/2020,Pulaski,Arkansas,05119,4893,79
+8/3/2020,Randolph,Arkansas,05121,175,3
+8/3/2020,Saline,Arkansas,05125,892,5
+8/3/2020,Scott,Arkansas,05127,44,0
+8/3/2020,Searcy,Arkansas,05129,27,0
+8/3/2020,Sebastian,Arkansas,05131,1856,15
+8/3/2020,Sevier,Arkansas,05133,939,10
+8/3/2020,Sharp,Arkansas,05135,106,5
+8/3/2020,St. Francis,Arkansas,05123,1140,3
+8/3/2020,Stone,Arkansas,05137,55,1
+8/3/2020,Union,Arkansas,05139,435,16
+8/3/2020,Unknown,Arkansas,0,1641,0
+8/3/2020,Van Buren,Arkansas,05141,52,2
+8/3/2020,Washington,Arkansas,05143,6072,47
+8/3/2020,White,Arkansas,05145,266,2
+8/3/2020,Woodruff,Arkansas,05147,20,0
+8/3/2020,Yell,Arkansas,05149,1030,14
+8/3/2020,Alameda,California,06001,11867,189
+8/3/2020,Alpine,California,06003,2,0
+8/3/2020,Amador,California,06005,133,0
+8/3/2020,Butte,California,06007,987,7
+8/3/2020,Calaveras,California,06009,125,1
+8/3/2020,Colusa,California,06011,335,4
+8/3/2020,Contra Costa,California,06013,8033,127
+8/3/2020,Del Norte,California,06015,90,0
+8/3/2020,El Dorado,California,06017,659,1
+8/3/2020,Fresno,California,06019,15759,138
+8/3/2020,Glenn,California,06021,315,1
+8/3/2020,Humboldt,California,06023,236,4
+8/3/2020,Imperial,California,06025,9448,221
+8/3/2020,Inyo,California,06027,45,1
+8/3/2020,Kern,California,06029,21162,144
+8/3/2020,Kings,California,06031,4453,56
+8/3/2020,Lake,California,06033,201,1
+8/3/2020,Lassen,California,06035,626,0
+8/3/2020,Los Angeles,California,06037,193788,4701
+8/3/2020,Madera,California,06039,2123,32
+8/3/2020,Marin,California,06041,5115,70
+8/3/2020,Mariposa,California,06043,58,2
+8/3/2020,Mendocino,California,06045,331,9
+8/3/2020,Merced,California,06047,4422,50
+8/3/2020,Modoc,California,06049,3,0
+8/3/2020,Mono,California,06051,145,1
+8/3/2020,Monterey,California,06053,4924,30
+8/3/2020,Napa,California,06055,964,8
+8/3/2020,Nevada,California,06057,314,1
+8/3/2020,Orange,California,06059,37813,651
+8/3/2020,Placer,California,06061,1938,17
+8/3/2020,Plumas,California,06063,25,0
+8/3/2020,Riverside,California,06065,38507,737
+8/3/2020,Sacramento,California,06067,10121,145
+8/3/2020,San Benito,California,06069,676,4
+8/3/2020,San Bernardino,California,06071,33643,418
+8/3/2020,San Diego,California,06073,30289,565
+8/3/2020,San Francisco,California,06075,6919,61
+8/3/2020,San Joaquin,California,06077,11937,180
+8/3/2020,San Luis Obispo,California,06079,1902,16
+8/3/2020,San Mateo,California,06081,5683,119
+8/3/2020,Santa Barbara,California,06083,6532,61
+8/3/2020,Santa Clara,California,06085,10794,192
+8/3/2020,Santa Cruz,California,06087,1162,4
+8/3/2020,Shasta,California,06089,390,9
+8/3/2020,Sierra,California,06091,1,0
+8/3/2020,Siskiyou,California,06093,81,0
+8/3/2020,Solano,California,06095,3726,37
+8/3/2020,Sonoma,California,06097,3113,39
+8/3/2020,Stanislaus,California,06099,9277,126
+8/3/2020,Sutter,California,06101,812,6
+8/3/2020,Tehama,California,06103,222,1
+8/3/2020,Trinity,California,06105,6,0
+8/3/2020,Tulare,California,06107,9745,189
+8/3/2020,Tuolumne,California,06109,144,2
+8/3/2020,Ventura,California,06111,8014,76
+8/3/2020,Yolo,California,06113,1588,42
+8/3/2020,Yuba,California,06115,512,4
+8/3/2020,Adams,Colorado,08001,6115,171
+8/3/2020,Alamosa,Colorado,08003,224,9
+8/3/2020,Arapahoe,Colorado,08005,7023,363
+8/3/2020,Archuleta,Colorado,08007,33,0
+8/3/2020,Baca,Colorado,08009,14,0
+8/3/2020,Bent,Colorado,08011,5,0
+8/3/2020,Boulder,Colorado,08013,1962,75
+8/3/2020,Broomfield,Colorado,08014,417,32
+8/3/2020,Chaffee,Colorado,08015,287,19
+8/3/2020,Cheyenne,Colorado,08017,8,0
+8/3/2020,Clear Creek,Colorado,08019,27,1
+8/3/2020,Conejos,Colorado,08021,23,0
+8/3/2020,Costilla,Colorado,08023,22,0
+8/3/2020,Crowley,Colorado,08025,72,1
+8/3/2020,Custer,Colorado,08027,10,0
+8/3/2020,Delta,Colorado,08029,110,1
+8/3/2020,Denver,Colorado,08031,9813,416
+8/3/2020,Dolores,Colorado,08033,1,0
+8/3/2020,Douglas,Colorado,08035,1653,59
+8/3/2020,Eagle,Colorado,08037,1069,9
+8/3/2020,El Paso,Colorado,08041,4733,137
+8/3/2020,Elbert,Colorado,08039,87,2
+8/3/2020,Fremont,Colorado,08043,112,0
+8/3/2020,Garfield,Colorado,08045,721,4
+8/3/2020,Gilpin,Colorado,08047,16,0
+8/3/2020,Grand,Colorado,08049,44,1
+8/3/2020,Gunnison,Colorado,08051,257,6
+8/3/2020,Hinsdale,Colorado,08053,3,0
+8/3/2020,Huerfano,Colorado,08055,6,1
+8/3/2020,Jackson,Colorado,08057,8,0
+8/3/2020,Jefferson,Colorado,08059,3971,227
+8/3/2020,Kit Carson,Colorado,08063,43,3
+8/3/2020,La Plata,Colorado,08067,198,2
+8/3/2020,Lake,Colorado,08065,73,0
+8/3/2020,Larimer,Colorado,08069,1417,35
+8/3/2020,Las Animas,Colorado,08071,15,0
+8/3/2020,Lincoln,Colorado,08073,6,0
+8/3/2020,Logan,Colorado,08075,648,5
+8/3/2020,Mesa,Colorado,08077,271,3
+8/3/2020,Mineral,Colorado,08079,18,0
+8/3/2020,Moffat,Colorado,08081,25,1
+8/3/2020,Montezuma,Colorado,08083,108,4
+8/3/2020,Montrose,Colorado,08085,283,13
+8/3/2020,Morgan,Colorado,08087,677,46
+8/3/2020,Otero,Colorado,08089,61,6
+8/3/2020,Ouray,Colorado,08091,12,1
+8/3/2020,Park,Colorado,08093,42,1
+8/3/2020,Phillips,Colorado,08095,19,0
+8/3/2020,Pitkin,Colorado,08097,172,2
+8/3/2020,Prowers,Colorado,08099,48,0
+8/3/2020,Pueblo,Colorado,08101,615,34
+8/3/2020,Rio Blanco,Colorado,08103,8,0
+8/3/2020,Rio Grande,Colorado,08105,87,2
+8/3/2020,Routt,Colorado,08107,108,6
+8/3/2020,Saguache,Colorado,08109,107,2
+8/3/2020,San Juan,Colorado,08111,2,0
+8/3/2020,San Miguel,Colorado,08113,76,0
+8/3/2020,Sedgwick,Colorado,08115,11,1
+8/3/2020,Summit,Colorado,08117,323,4
+8/3/2020,Teller,Colorado,08119,113,3
+8/3/2020,Washington,Colorado,08121,47,0
+8/3/2020,Weld,Colorado,08123,3578,141
+8/3/2020,Yuma,Colorado,08125,62,0
+8/3/2020,Fairfield,Connecticut,09001,17870,1408
+8/3/2020,Hartford,Connecticut,09003,12701,1412
+8/3/2020,Litchfield,Connecticut,09005,1598,138
+8/3/2020,Middlesex,Connecticut,09007,1388,191
+8/3/2020,New Haven,Connecticut,09009,13086,1104
+8/3/2020,New London,Connecticut,09011,1414,103
+8/3/2020,Tolland,Connecticut,09013,1050,66
+8/3/2020,Unknown,Connecticut,0,243,0
+8/3/2020,Windham,Connecticut,09015,712,15
 8/3/2020,Kent,Delaware,10001,2215,107
 8/3/2020,New Castle,Delaware,10003,6938,287
 8/3/2020,Sussex,Delaware,10005,5673,191
@@ -9070,7 +9070,7 @@ date,county,state,fips,cases,deaths
 8/3/2020,Coleman,Texas,48083,11,0
 8/3/2020,Collin,Texas,48085,6421,83
 8/3/2020,Collingsworth,Texas,48087,7,0
-8/3/2020,Colorado,Texas,48089,246,2
+8/3/2020,Colorado,0Texas,48089,246,2
 8/3/2020,Comal,Texas,48091,2157,63
 8/3/2020,Comanche,Texas,48093,107,3
 8/3/2020,Concho,Texas,48095,26,0
@@ -9648,322 +9648,322 @@ date,county,state,fips,cases,deaths
 8/3/2020,Uinta,Wyoming,56041,265,1
 8/3/2020,Washakie,Wyoming,56043,48,5
 8/3/2020,Weston,Wyoming,56045,5,0
-8/4/2020,Autauga,Alabama,1001,1073,21
-8/4/2020,Baldwin,Alabama,1003,3320,24
-8/4/2020,Barbour,Alabama,1005,614,5
-8/4/2020,Bibb,Alabama,1007,389,3
-8/4/2020,Blount,Alabama,1009,836,3
-8/4/2020,Bullock,Alabama,1011,449,12
-8/4/2020,Butler,Alabama,1013,766,36
-8/4/2020,Calhoun,Alabama,1015,1646,12
-8/4/2020,Chambers,Alabama,1017,882,38
-8/4/2020,Cherokee,Alabama,1019,269,8
-8/4/2020,Chilton,Alabama,1021,768,7
-8/4/2020,Choctaw,Alabama,1023,281,12
-8/4/2020,Clarke,Alabama,1025,509,9
-8/4/2020,Clay,Alabama,1027,226,5
-8/4/2020,Cleburne,Alabama,1029,122,1
-8/4/2020,Coffee,Alabama,1031,742,5
-8/4/2020,Colbert,Alabama,1033,1125,12
-8/4/2020,Conecuh,Alabama,1035,387,10
-8/4/2020,Coosa,Alabama,1037,100,2
-8/4/2020,Covington,Alabama,1039,830,21
-8/4/2020,Crenshaw,Alabama,1041,312,4
-8/4/2020,Cullman,Alabama,1043,1225,11
-8/4/2020,Dale,Alabama,1045,805,22
-8/4/2020,Dallas,Alabama,1047,1371,23
-8/4/2020,DeKalb,Alabama,1049,1757,14
-8/4/2020,Elmore,Alabama,1051,1690,37
-8/4/2020,Escambia,Alabama,1053,1059,15
-8/4/2020,Etowah,Alabama,1055,2018,28
-8/4/2020,Fayette,Alabama,1057,186,5
-8/4/2020,Franklin,Alabama,1059,1223,20
-8/4/2020,Geneva,Alabama,1061,255,1
-8/4/2020,Greene,Alabama,1063,248,11
-8/4/2020,Hale,Alabama,1065,471,26
-8/4/2020,Henry,Alabama,1067,258,4
-8/4/2020,Houston,Alabama,1069,1374,14
-8/4/2020,Jackson,Alabama,1071,886,6
-8/4/2020,Jefferson,Alabama,1073,12259,230
-8/4/2020,Lamar,Alabama,1075,209,2
-8/4/2020,Lauderdale,Alabama,1077,1105,12
-8/4/2020,Lawrence,Alabama,1079,331,0
-8/4/2020,Lee,Alabama,1081,2666,44
-8/4/2020,Limestone,Alabama,1083,1230,14
-8/4/2020,Lowndes,Alabama,1085,570,26
-8/4/2020,Macon,Alabama,1087,321,13
-8/4/2020,Madison,Alabama,1089,5184,32
-8/4/2020,Marengo,Alabama,1091,534,15
-8/4/2020,Marion,Alabama,1093,578,24
-8/4/2020,Marshall,Alabama,1095,3038,34
-8/4/2020,Mobile,Alabama,1097,9228,203
-8/4/2020,Monroe,Alabama,1099,446,5
-8/4/2020,Montgomery,Alabama,1101,6406,150
-8/4/2020,Morgan,Alabama,1103,2277,17
-8/4/2020,Perry,Alabama,1105,457,4
-8/4/2020,Pickens,Alabama,1107,378,10
-8/4/2020,Pike,Alabama,1109,676,8
-8/4/2020,Randolph,Alabama,1111,402,11
-8/4/2020,Russell,Alabama,1113,1275,1
-8/4/2020,Shelby,Alabama,1117,3244,34
-8/4/2020,St. Clair,Alabama,1115,1325,12
-8/4/2020,Sumter,Alabama,1119,364,18
-8/4/2020,Talladega,Alabama,1121,1096,14
-8/4/2020,Tallapoosa,Alabama,1123,873,79
-8/4/2020,Tuscaloosa,Alabama,1125,4065,68
-8/4/2020,Walker,Alabama,1127,1506,67
-8/4/2020,Washington,Alabama,1129,319,12
-8/4/2020,Wilcox,Alabama,1131,423,9
-8/4/2020,Winston,Alabama,1133,445,11
-8/4/2020,Aleutians East Borough,Alaska,2013,4,0
-8/4/2020,Aleutians West Census Area,Alaska,2016,88,0
-8/4/2020,Anchorage,Alaska,2020,2083,13
-8/4/2020,Bethel Census Area,Alaska,2050,24,0
-8/4/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/4/2020,Denali Borough,Alaska,2068,4,0
-8/4/2020,Dillingham Census Area,Alaska,2070,22,0
-8/4/2020,Fairbanks North Star Borough,Alaska,2090,452,5
-8/4/2020,Haines Borough,Alaska,2100,8,0
-8/4/2020,Juneau City and Borough,Alaska,2110,157,1
-8/4/2020,Kenai Peninsula Borough,Alaska,2122,458,1
-8/4/2020,Ketchikan Gateway Borough,Alaska,2130,50,0
-8/4/2020,Kodiak Island Borough,Alaska,2150,26,0
-8/4/2020,Kusilvak Census Area,Alaska,2158,6,0
-8/4/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/4/2020,Matanuska-Susitna Borough,Alaska,2170,325,2
-8/4/2020,Nome Census Area,Alaska,2180,22,0
-8/4/2020,North Slope Borough,Alaska,2185,18,0
-8/4/2020,Northwest Arctic Borough,Alaska,2188,33,0
-8/4/2020,Petersburg Borough,Alaska,2195,9,0
-8/4/2020,Prince of Wales-Hyder Census Area,Alaska,2198,9,0
-8/4/2020,Sitka City and Borough,Alaska,2220,32,0
-8/4/2020,Southeast Fairbanks Census Area,Alaska,2240,26,0
-8/4/2020,Unknown,Alaska,,30,0
-8/4/2020,Valdez-Cordova Census Area,Alaska,2261,95,0
-8/4/2020,Wrangell City and Borough,Alaska,2275,15,0
-8/4/2020,Yakutat City and Borough,Alaska,2282,8,0
-8/4/2020,Yukon-Koyukuk Census Area,Alaska,2290,48,1
-8/4/2020,Apache,Arizona,4001,3098,136
-8/4/2020,Cochise,Arizona,4003,1554,50
-8/4/2020,Coconino,Arizona,4005,3013,117
-8/4/2020,Gila,Arizona,4007,846,29
-8/4/2020,Graham,Arizona,4009,492,11
-8/4/2020,Greenlee,Arizona,4011,57,2
-8/4/2020,La Paz,Arizona,4012,476,10
-8/4/2020,Maricopa,Arizona,4013,121789,2153
-8/4/2020,Mohave,Arizona,4015,3058,157
-8/4/2020,Navajo,Arizona,4017,5301,192
-8/4/2020,Pima,Arizona,4019,16809,465
-8/4/2020,Pinal,Arizona,4021,8304,142
-8/4/2020,Santa Cruz,Arizona,4023,2620,50
-8/4/2020,Yavapai,Arizona,4025,1898,66
-8/4/2020,Yuma,Arizona,4027,11222,270
-8/4/2020,Arkansas,Arkansas,5001,206,1
-8/4/2020,Ashley,Arkansas,5003,262,4
-8/4/2020,Baxter,Arkansas,5005,64,0
-8/4/2020,Benton,Arkansas,5007,4611,40
-8/4/2020,Boone,Arkansas,5009,184,1
-8/4/2020,Bradley,Arkansas,5011,155,3
-8/4/2020,Calhoun,Arkansas,5013,13,0
-8/4/2020,Carroll,Arkansas,5015,341,7
-8/4/2020,Chicot,Arkansas,5017,552,7
-8/4/2020,Clark,Arkansas,5019,164,1
-8/4/2020,Clay,Arkansas,5021,112,4
-8/4/2020,Cleburne,Arkansas,5023,183,5
-8/4/2020,Cleveland,Arkansas,5025,76,2
-8/4/2020,Columbia,Arkansas,5027,207,7
-8/4/2020,Conway,Arkansas,5029,138,3
-8/4/2020,Craighead,Arkansas,5031,1156,12
-8/4/2020,Crawford,Arkansas,5033,566,3
-8/4/2020,Crittenden,Arkansas,5035,1269,20
-8/4/2020,Cross,Arkansas,5037,172,2
-8/4/2020,Dallas,Arkansas,5039,59,0
-8/4/2020,Desha,Arkansas,5041,165,2
-8/4/2020,Drew,Arkansas,5043,171,3
-8/4/2020,Faulkner,Arkansas,5045,1229,5
-8/4/2020,Franklin,Arkansas,5047,111,2
-8/4/2020,Fulton,Arkansas,5049,29,0
-8/4/2020,Garland,Arkansas,5051,879,8
-8/4/2020,Grant,Arkansas,5053,130,0
-8/4/2020,Greene,Arkansas,5055,403,1
-8/4/2020,Hempstead,Arkansas,5057,224,2
-8/4/2020,Hot Spring,Arkansas,5059,1475,10
-8/4/2020,Howard,Arkansas,5061,303,2
-8/4/2020,Independence,Arkansas,5063,413,1
-8/4/2020,Izard,Arkansas,5065,45,1
-8/4/2020,Jackson,Arkansas,5067,61,1
-8/4/2020,Jefferson,Arkansas,5069,1404,39
-8/4/2020,Johnson,Arkansas,5071,639,0
-8/4/2020,Lafayette,Arkansas,5073,50,2
-8/4/2020,Lawrence,Arkansas,5075,186,10
-8/4/2020,Lee,Arkansas,5077,890,7
-8/4/2020,Lincoln,Arkansas,5079,1195,11
-8/4/2020,Little River,Arkansas,5081,158,1
-8/4/2020,Logan,Arkansas,5083,196,1
-8/4/2020,Lonoke,Arkansas,5085,469,2
-8/4/2020,Madison,Arkansas,5087,265,1
-8/4/2020,Marion,Arkansas,5089,24,0
-8/4/2020,Miller,Arkansas,5091,475,4
-8/4/2020,Mississippi,Arkansas,5093,853,11
-8/4/2020,Monroe,Arkansas,5095,53,0
-8/4/2020,Montgomery,Arkansas,5097,29,0
-8/4/2020,Nevada,Arkansas,5099,134,9
-8/4/2020,Newton,Arkansas,5101,100,3
-8/4/2020,Ouachita,Arkansas,5103,81,2
-8/4/2020,Perry,Arkansas,5105,49,0
-8/4/2020,Phillips,Arkansas,5107,289,7
-8/4/2020,Pike,Arkansas,5109,84,1
-8/4/2020,Poinsett,Arkansas,5111,173,3
-8/4/2020,Polk,Arkansas,5113,132,1
-8/4/2020,Pope,Arkansas,5115,1241,10
-8/4/2020,Prairie,Arkansas,5117,76,0
-8/4/2020,Pulaski,Arkansas,5119,5054,79
-8/4/2020,Randolph,Arkansas,5121,178,3
-8/4/2020,Saline,Arkansas,5125,922,6
-8/4/2020,Scott,Arkansas,5127,45,0
-8/4/2020,Searcy,Arkansas,5129,27,0
-8/4/2020,Sebastian,Arkansas,5131,1919,15
-8/4/2020,Sevier,Arkansas,5133,944,10
-8/4/2020,Sharp,Arkansas,5135,106,5
-8/4/2020,St. Francis,Arkansas,5123,1144,3
-8/4/2020,Stone,Arkansas,5137,59,1
-8/4/2020,Union,Arkansas,5139,452,17
-8/4/2020,Unknown,Arkansas,,1652,0
-8/4/2020,Van Buren,Arkansas,5141,52,2
-8/4/2020,Washington,Arkansas,5143,6120,48
-8/4/2020,White,Arkansas,5145,271,2
-8/4/2020,Woodruff,Arkansas,5147,20,0
-8/4/2020,Yell,Arkansas,5149,1043,14
-8/4/2020,Alameda,California,6001,11930,192
-8/4/2020,Alpine,California,6003,2,0
-8/4/2020,Amador,California,6005,135,0
-8/4/2020,Butte,California,6007,1012,8
-8/4/2020,Calaveras,California,6009,136,1
-8/4/2020,Colusa,California,6011,357,4
-8/4/2020,Contra Costa,California,6013,8176,131
-8/4/2020,Del Norte,California,6015,90,0
-8/4/2020,El Dorado,California,6017,668,1
-8/4/2020,Fresno,California,6019,15945,157
-8/4/2020,Glenn,California,6021,316,1
-8/4/2020,Humboldt,California,6023,245,4
-8/4/2020,Imperial,California,6025,9513,231
-8/4/2020,Inyo,California,6027,57,1
-8/4/2020,Kern,California,6029,21285,151
-8/4/2020,Kings,California,6031,4453,56
-8/4/2020,Lake,California,6033,201,1
-8/4/2020,Lassen,California,6035,632,0
-8/4/2020,Los Angeles,California,6037,195614,4758
-8/4/2020,Madera,California,6039,2143,32
-8/4/2020,Marin,California,6041,5180,70
-8/4/2020,Mariposa,California,6043,59,2
-8/4/2020,Mendocino,California,6045,341,9
-8/4/2020,Merced,California,6047,4583,51
-8/4/2020,Modoc,California,6049,4,0
-8/4/2020,Mono,California,6051,145,1
-8/4/2020,Monterey,California,6053,4966,34
-8/4/2020,Napa,California,6055,981,9
-8/4/2020,Nevada,California,6057,316,1
-8/4/2020,Orange,California,6059,38066,653
-8/4/2020,Placer,California,6061,1953,18
-8/4/2020,Plumas,California,6063,25,0
-8/4/2020,Riverside,California,6065,38642,738
-8/4/2020,Sacramento,California,6067,10173,148
-8/4/2020,San Benito,California,6069,689,4
-8/4/2020,San Bernardino,California,6071,34017,477
-8/4/2020,San Diego,California,6073,30579,568
-8/4/2020,San Francisco,California,6075,6992,61
-8/4/2020,San Joaquin,California,6077,12007,180
-8/4/2020,San Luis Obispo,California,6079,1926,16
-8/4/2020,San Mateo,California,6081,5744,120
-8/4/2020,Santa Barbara,California,6083,6580,64
-8/4/2020,Santa Clara,California,6085,11030,193
-8/4/2020,Santa Cruz,California,6087,1196,4
-8/4/2020,Shasta,California,6089,397,9
-8/4/2020,Sierra,California,6091,1,0
-8/4/2020,Siskiyou,California,6093,88,0
-8/4/2020,Solano,California,6095,3811,38
-8/4/2020,Sonoma,California,6097,3113,39
-8/4/2020,Stanislaus,California,6099,9308,135
-8/4/2020,Sutter,California,6101,840,6
-8/4/2020,Tehama,California,6103,225,1
-8/4/2020,Trinity,California,6105,6,0
-8/4/2020,Tulare,California,6107,9990,193
-8/4/2020,Tuolumne,California,6109,144,2
-8/4/2020,Ventura,California,6111,8084,77
-8/4/2020,Yolo,California,6113,1614,42
-8/4/2020,Yuba,California,6115,533,4
-8/4/2020,Adams,Colorado,8001,6181,173
-8/4/2020,Alamosa,Colorado,8003,224,9
-8/4/2020,Arapahoe,Colorado,8005,7093,364
-8/4/2020,Archuleta,Colorado,8007,33,0
-8/4/2020,Baca,Colorado,8009,14,0
-8/4/2020,Bent,Colorado,8011,6,0
-8/4/2020,Boulder,Colorado,8013,1969,75
-8/4/2020,Broomfield,Colorado,8014,421,32
-8/4/2020,Chaffee,Colorado,8015,292,19
-8/4/2020,Cheyenne,Colorado,8017,8,0
-8/4/2020,Clear Creek,Colorado,8019,28,1
-8/4/2020,Conejos,Colorado,8021,23,0
-8/4/2020,Costilla,Colorado,8023,22,0
-8/4/2020,Crowley,Colorado,8025,72,1
-8/4/2020,Custer,Colorado,8027,11,0
-8/4/2020,Delta,Colorado,8029,115,1
-8/4/2020,Denver,Colorado,8031,9876,417
-8/4/2020,Dolores,Colorado,8033,1,0
-8/4/2020,Douglas,Colorado,8035,1670,59
-8/4/2020,Eagle,Colorado,8037,1092,9
-8/4/2020,El Paso,Colorado,8041,4739,138
-8/4/2020,Elbert,Colorado,8039,92,2
-8/4/2020,Fremont,Colorado,8043,113,0
-8/4/2020,Garfield,Colorado,8045,734,4
-8/4/2020,Gilpin,Colorado,8047,16,0
-8/4/2020,Grand,Colorado,8049,44,1
-8/4/2020,Gunnison,Colorado,8051,262,6
-8/4/2020,Hinsdale,Colorado,8053,3,0
-8/4/2020,Huerfano,Colorado,8055,6,1
-8/4/2020,Jackson,Colorado,8057,8,0
-8/4/2020,Jefferson,Colorado,8059,3994,227
-8/4/2020,Kit Carson,Colorado,8063,43,3
-8/4/2020,La Plata,Colorado,8067,201,2
-8/4/2020,Lake,Colorado,8065,73,0
-8/4/2020,Larimer,Colorado,8069,1420,35
-8/4/2020,Las Animas,Colorado,8071,15,0
-8/4/2020,Lincoln,Colorado,8073,6,0
-8/4/2020,Logan,Colorado,8075,649,5
-8/4/2020,Mesa,Colorado,8077,274,3
-8/4/2020,Mineral,Colorado,8079,18,0
-8/4/2020,Moffat,Colorado,8081,26,1
-8/4/2020,Montezuma,Colorado,8083,108,4
-8/4/2020,Montrose,Colorado,8085,287,13
-8/4/2020,Morgan,Colorado,8087,678,46
-8/4/2020,Otero,Colorado,8089,63,6
-8/4/2020,Ouray,Colorado,8091,12,1
-8/4/2020,Park,Colorado,8093,42,1
-8/4/2020,Phillips,Colorado,8095,19,0
-8/4/2020,Pitkin,Colorado,8097,177,2
-8/4/2020,Prowers,Colorado,8099,50,0
-8/4/2020,Pueblo,Colorado,8101,617,34
-8/4/2020,Rio Blanco,Colorado,8103,8,0
-8/4/2020,Rio Grande,Colorado,8105,87,2
-8/4/2020,Routt,Colorado,8107,110,6
-8/4/2020,Saguache,Colorado,8109,107,2
-8/4/2020,San Juan,Colorado,8111,2,0
-8/4/2020,San Miguel,Colorado,8113,80,0
-8/4/2020,Sedgwick,Colorado,8115,11,1
-8/4/2020,Summit,Colorado,8117,324,4
-8/4/2020,Teller,Colorado,8119,117,3
-8/4/2020,Washington,Colorado,8121,47,0
-8/4/2020,Weld,Colorado,8123,3597,142
-8/4/2020,Yuma,Colorado,8125,62,0
-8/4/2020,Fairfield,Connecticut,9001,17876,1408
-8/4/2020,Hartford,Connecticut,9003,12711,1412
-8/4/2020,Litchfield,Connecticut,9005,1600,138
-8/4/2020,Middlesex,Connecticut,9007,1391,191
-8/4/2020,New Haven,Connecticut,9009,13100,1104
-8/4/2020,New London,Connecticut,9011,1421,103
-8/4/2020,Tolland,Connecticut,9013,1053,66
-8/4/2020,Unknown,Connecticut,,242,0
-8/4/2020,Windham,Connecticut,9015,716,15
+8/4/2020,Autauga,Alabama,01001,1073,21
+8/4/2020,Baldwin,Alabama,01003,3320,24
+8/4/2020,Barbour,Alabama,01005,614,5
+8/4/2020,Bibb,Alabama,01007,389,3
+8/4/2020,Blount,Alabama,01009,836,3
+8/4/2020,Bullock,Alabama,01011,449,12
+8/4/2020,Butler,Alabama,01013,766,36
+8/4/2020,Calhoun,Alabama,01015,1646,12
+8/4/2020,Chambers,Alabama,01017,882,38
+8/4/2020,Cherokee,Alabama,01019,269,8
+8/4/2020,Chilton,Alabama,01021,768,7
+8/4/2020,Choctaw,Alabama,01023,281,12
+8/4/2020,Clarke,Alabama,01025,509,9
+8/4/2020,Clay,Alabama,01027,226,5
+8/4/2020,Cleburne,Alabama,01029,122,1
+8/4/2020,Coffee,Alabama,01031,742,5
+8/4/2020,Colbert,Alabama,01033,1125,12
+8/4/2020,Conecuh,Alabama,01035,387,10
+8/4/2020,Coosa,Alabama,01037,100,2
+8/4/2020,Covington,Alabama,01039,830,21
+8/4/2020,Crenshaw,Alabama,01041,312,4
+8/4/2020,Cullman,Alabama,01043,1225,11
+8/4/2020,Dale,Alabama,01045,805,22
+8/4/2020,Dallas,Alabama,01047,1371,23
+8/4/2020,DeKalb,Alabama,01049,1757,14
+8/4/2020,Elmore,Alabama,01051,1690,37
+8/4/2020,Escambia,Alabama,01053,1059,15
+8/4/2020,Etowah,Alabama,01055,2018,28
+8/4/2020,Fayette,Alabama,01057,186,5
+8/4/2020,Franklin,Alabama,01059,1223,20
+8/4/2020,Geneva,Alabama,01061,255,1
+8/4/2020,Greene,Alabama,01063,248,11
+8/4/2020,Hale,Alabama,01065,471,26
+8/4/2020,Henry,Alabama,01067,258,4
+8/4/2020,Houston,Alabama,01069,1374,14
+8/4/2020,Jackson,Alabama,01071,886,6
+8/4/2020,Jefferson,Alabama,01073,12259,230
+8/4/2020,Lamar,Alabama,01075,209,2
+8/4/2020,Lauderdale,Alabama,01077,1105,12
+8/4/2020,Lawrence,Alabama,01079,331,0
+8/4/2020,Lee,Alabama,01081,2666,44
+8/4/2020,Limestone,Alabama,01083,1230,14
+8/4/2020,Lowndes,Alabama,01085,570,26
+8/4/2020,Macon,Alabama,01087,321,13
+8/4/2020,Madison,Alabama,01089,5184,32
+8/4/2020,Marengo,Alabama,01091,534,15
+8/4/2020,Marion,Alabama,01093,578,24
+8/4/2020,Marshall,Alabama,01095,3038,34
+8/4/2020,Mobile,Alabama,01097,9228,203
+8/4/2020,Monroe,Alabama,01099,446,5
+8/4/2020,Montgomery,Alabama,01101,6406,150
+8/4/2020,Morgan,Alabama,01103,2277,17
+8/4/2020,Perry,Alabama,01105,457,4
+8/4/2020,Pickens,Alabama,01107,378,10
+8/4/2020,Pike,Alabama,01109,676,8
+8/4/2020,Randolph,Alabama,01111,402,11
+8/4/2020,Russell,Alabama,01113,1275,1
+8/4/2020,Shelby,Alabama,01117,3244,34
+8/4/2020,St. Clair,Alabama,01115,1325,12
+8/4/2020,Sumter,Alabama,01119,364,18
+8/4/2020,Talladega,Alabama,01121,1096,14
+8/4/2020,Tallapoosa,Alabama,01123,873,79
+8/4/2020,Tuscaloosa,Alabama,01125,4065,68
+8/4/2020,Walker,Alabama,01127,1506,67
+8/4/2020,Washington,Alabama,01129,319,12
+8/4/2020,Wilcox,Alabama,01131,423,9
+8/4/2020,Winston,Alabama,01133,445,11
+8/4/2020,Aleutians East Borough,Alaska,02013,4,0
+8/4/2020,Aleutians West Census Area,Alaska,02016,88,0
+8/4/2020,Anchorage,Alaska,02020,2083,13
+8/4/2020,Bethel Census Area,Alaska,02050,24,0
+8/4/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/4/2020,Denali Borough,Alaska,02068,4,0
+8/4/2020,Dillingham Census Area,Alaska,02070,22,0
+8/4/2020,Fairbanks North Star Borough,Alaska,02090,452,5
+8/4/2020,Haines Borough,Alaska,02100,8,0
+8/4/2020,Juneau City and Borough,Alaska,02110,157,1
+8/4/2020,Kenai Peninsula Borough,Alaska,02122,458,1
+8/4/2020,Ketchikan Gateway Borough,Alaska,02130,50,0
+8/4/2020,Kodiak Island Borough,Alaska,02150,26,0
+8/4/2020,Kusilvak Census Area,Alaska,02158,6,0
+8/4/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/4/2020,Matanuska-Susitna Borough,Alaska,02170,325,2
+8/4/2020,Nome Census Area,Alaska,02180,22,0
+8/4/2020,North Slope Borough,Alaska,02185,18,0
+8/4/2020,Northwest Arctic Borough,Alaska,02188,33,0
+8/4/2020,Petersburg Borough,Alaska,02195,9,0
+8/4/2020,Prince of Wales-Hyder Census Area,Alaska,02198,9,0
+8/4/2020,Sitka City and Borough,Alaska,02220,32,0
+8/4/2020,Southeast Fairbanks Census Area,Alaska,02240,26,0
+8/4/2020,Unknown,Alaska,0,30,0
+8/4/2020,Valdez-Cordova Census Area,Alaska,02261,95,0
+8/4/2020,Wrangell City and Borough,Alaska,02275,15,0
+8/4/2020,Yakutat City and Borough,Alaska,02282,8,0
+8/4/2020,Yukon-Koyukuk Census Area,Alaska,02290,48,1
+8/4/2020,Apache,Arizona,04001,3098,136
+8/4/2020,Cochise,Arizona,04003,1554,50
+8/4/2020,Coconino,Arizona,04005,3013,117
+8/4/2020,Gila,Arizona,04007,846,29
+8/4/2020,Graham,Arizona,04009,492,11
+8/4/2020,Greenlee,Arizona,04011,57,2
+8/4/2020,La Paz,Arizona,04012,476,10
+8/4/2020,Maricopa,Arizona,04013,121789,2153
+8/4/2020,Mohave,Arizona,04015,3058,157
+8/4/2020,Navajo,Arizona,04017,5301,192
+8/4/2020,Pima,Arizona,04019,16809,465
+8/4/2020,Pinal,Arizona,04021,8304,142
+8/4/2020,Santa Cruz,Arizona,04023,2620,50
+8/4/2020,Yavapai,Arizona,04025,1898,66
+8/4/2020,Yuma,Arizona,04027,11222,270
+8/4/2020,Arkansas,0Arkansas,05001,206,1
+8/4/2020,Ashley,Arkansas,05003,262,4
+8/4/2020,Baxter,Arkansas,05005,64,0
+8/4/2020,Benton,Arkansas,05007,4611,40
+8/4/2020,Boone,Arkansas,05009,184,1
+8/4/2020,Bradley,Arkansas,05011,155,3
+8/4/2020,Calhoun,Arkansas,05013,13,0
+8/4/2020,Carroll,Arkansas,05015,341,7
+8/4/2020,Chicot,Arkansas,05017,552,7
+8/4/2020,Clark,Arkansas,05019,164,1
+8/4/2020,Clay,Arkansas,05021,112,4
+8/4/2020,Cleburne,Arkansas,05023,183,5
+8/4/2020,Cleveland,Arkansas,05025,76,2
+8/4/2020,Columbia,Arkansas,05027,207,7
+8/4/2020,Conway,Arkansas,05029,138,3
+8/4/2020,Craighead,Arkansas,05031,1156,12
+8/4/2020,Crawford,Arkansas,05033,566,3
+8/4/2020,Crittenden,Arkansas,05035,1269,20
+8/4/2020,Cross,Arkansas,05037,172,2
+8/4/2020,Dallas,Arkansas,05039,59,0
+8/4/2020,Desha,Arkansas,05041,165,2
+8/4/2020,Drew,Arkansas,05043,171,3
+8/4/2020,Faulkner,Arkansas,05045,1229,5
+8/4/2020,Franklin,Arkansas,05047,111,2
+8/4/2020,Fulton,Arkansas,05049,29,0
+8/4/2020,Garland,Arkansas,05051,879,8
+8/4/2020,Grant,Arkansas,05053,130,0
+8/4/2020,Greene,Arkansas,05055,403,1
+8/4/2020,Hempstead,Arkansas,05057,224,2
+8/4/2020,Hot Spring,Arkansas,05059,1475,10
+8/4/2020,Howard,Arkansas,05061,303,2
+8/4/2020,Independence,Arkansas,05063,413,1
+8/4/2020,Izard,Arkansas,05065,45,1
+8/4/2020,Jackson,Arkansas,05067,61,1
+8/4/2020,Jefferson,Arkansas,05069,1404,39
+8/4/2020,Johnson,Arkansas,05071,639,0
+8/4/2020,Lafayette,Arkansas,05073,50,2
+8/4/2020,Lawrence,Arkansas,05075,186,10
+8/4/2020,Lee,Arkansas,05077,890,7
+8/4/2020,Lincoln,Arkansas,05079,1195,11
+8/4/2020,Little River,Arkansas,05081,158,1
+8/4/2020,Logan,Arkansas,05083,196,1
+8/4/2020,Lonoke,Arkansas,05085,469,2
+8/4/2020,Madison,Arkansas,05087,265,1
+8/4/2020,Marion,Arkansas,05089,24,0
+8/4/2020,Miller,Arkansas,05091,475,4
+8/4/2020,Mississippi,Arkansas,05093,853,11
+8/4/2020,Monroe,Arkansas,05095,53,0
+8/4/2020,Montgomery,Arkansas,05097,29,0
+8/4/2020,Nevada,Arkansas,05099,134,9
+8/4/2020,Newton,Arkansas,05101,100,3
+8/4/2020,Ouachita,Arkansas,05103,81,2
+8/4/2020,Perry,Arkansas,05105,49,0
+8/4/2020,Phillips,Arkansas,05107,289,7
+8/4/2020,Pike,Arkansas,05109,84,1
+8/4/2020,Poinsett,Arkansas,05111,173,3
+8/4/2020,Polk,Arkansas,05113,132,1
+8/4/2020,Pope,Arkansas,05115,1241,10
+8/4/2020,Prairie,Arkansas,05117,76,0
+8/4/2020,Pulaski,Arkansas,05119,5054,79
+8/4/2020,Randolph,Arkansas,05121,178,3
+8/4/2020,Saline,Arkansas,05125,922,6
+8/4/2020,Scott,Arkansas,05127,45,0
+8/4/2020,Searcy,Arkansas,05129,27,0
+8/4/2020,Sebastian,Arkansas,05131,1919,15
+8/4/2020,Sevier,Arkansas,05133,944,10
+8/4/2020,Sharp,Arkansas,05135,106,5
+8/4/2020,St. Francis,Arkansas,05123,1144,3
+8/4/2020,Stone,Arkansas,05137,59,1
+8/4/2020,Union,Arkansas,05139,452,17
+8/4/2020,Unknown,Arkansas,0,1652,0
+8/4/2020,Van Buren,Arkansas,05141,52,2
+8/4/2020,Washington,Arkansas,05143,6120,48
+8/4/2020,White,Arkansas,05145,271,2
+8/4/2020,Woodruff,Arkansas,05147,20,0
+8/4/2020,Yell,Arkansas,05149,1043,14
+8/4/2020,Alameda,California,06001,11930,192
+8/4/2020,Alpine,California,06003,2,0
+8/4/2020,Amador,California,06005,135,0
+8/4/2020,Butte,California,06007,1012,8
+8/4/2020,Calaveras,California,06009,136,1
+8/4/2020,Colusa,California,06011,357,4
+8/4/2020,Contra Costa,California,06013,8176,131
+8/4/2020,Del Norte,California,06015,90,0
+8/4/2020,El Dorado,California,06017,668,1
+8/4/2020,Fresno,California,06019,15945,157
+8/4/2020,Glenn,California,06021,316,1
+8/4/2020,Humboldt,California,06023,245,4
+8/4/2020,Imperial,California,06025,9513,231
+8/4/2020,Inyo,California,06027,57,1
+8/4/2020,Kern,California,06029,21285,151
+8/4/2020,Kings,California,06031,4453,56
+8/4/2020,Lake,California,06033,201,1
+8/4/2020,Lassen,California,06035,632,0
+8/4/2020,Los Angeles,California,06037,195614,4758
+8/4/2020,Madera,California,06039,2143,32
+8/4/2020,Marin,California,06041,5180,70
+8/4/2020,Mariposa,California,06043,59,2
+8/4/2020,Mendocino,California,06045,341,9
+8/4/2020,Merced,California,06047,4583,51
+8/4/2020,Modoc,California,06049,4,0
+8/4/2020,Mono,California,06051,145,1
+8/4/2020,Monterey,California,06053,4966,34
+8/4/2020,Napa,California,06055,981,9
+8/4/2020,Nevada,California,06057,316,1
+8/4/2020,Orange,California,06059,38066,653
+8/4/2020,Placer,California,06061,1953,18
+8/4/2020,Plumas,California,06063,25,0
+8/4/2020,Riverside,California,06065,38642,738
+8/4/2020,Sacramento,California,06067,10173,148
+8/4/2020,San Benito,California,06069,689,4
+8/4/2020,San Bernardino,California,06071,34017,477
+8/4/2020,San Diego,California,06073,30579,568
+8/4/2020,San Francisco,California,06075,6992,61
+8/4/2020,San Joaquin,California,06077,12007,180
+8/4/2020,San Luis Obispo,California,06079,1926,16
+8/4/2020,San Mateo,California,06081,5744,120
+8/4/2020,Santa Barbara,California,06083,6580,64
+8/4/2020,Santa Clara,California,06085,11030,193
+8/4/2020,Santa Cruz,California,06087,1196,4
+8/4/2020,Shasta,California,06089,397,9
+8/4/2020,Sierra,California,06091,1,0
+8/4/2020,Siskiyou,California,06093,88,0
+8/4/2020,Solano,California,06095,3811,38
+8/4/2020,Sonoma,California,06097,3113,39
+8/4/2020,Stanislaus,California,06099,9308,135
+8/4/2020,Sutter,California,06101,840,6
+8/4/2020,Tehama,California,06103,225,1
+8/4/2020,Trinity,California,06105,6,0
+8/4/2020,Tulare,California,06107,9990,193
+8/4/2020,Tuolumne,California,06109,144,2
+8/4/2020,Ventura,California,06111,8084,77
+8/4/2020,Yolo,California,06113,1614,42
+8/4/2020,Yuba,California,06115,533,4
+8/4/2020,Adams,Colorado,08001,6181,173
+8/4/2020,Alamosa,Colorado,08003,224,9
+8/4/2020,Arapahoe,Colorado,08005,7093,364
+8/4/2020,Archuleta,Colorado,08007,33,0
+8/4/2020,Baca,Colorado,08009,14,0
+8/4/2020,Bent,Colorado,08011,6,0
+8/4/2020,Boulder,Colorado,08013,1969,75
+8/4/2020,Broomfield,Colorado,08014,421,32
+8/4/2020,Chaffee,Colorado,08015,292,19
+8/4/2020,Cheyenne,Colorado,08017,8,0
+8/4/2020,Clear Creek,Colorado,08019,28,1
+8/4/2020,Conejos,Colorado,08021,23,0
+8/4/2020,Costilla,Colorado,08023,22,0
+8/4/2020,Crowley,Colorado,08025,72,1
+8/4/2020,Custer,Colorado,08027,11,0
+8/4/2020,Delta,Colorado,08029,115,1
+8/4/2020,Denver,Colorado,08031,9876,417
+8/4/2020,Dolores,Colorado,08033,1,0
+8/4/2020,Douglas,Colorado,08035,1670,59
+8/4/2020,Eagle,Colorado,08037,1092,9
+8/4/2020,El Paso,Colorado,08041,4739,138
+8/4/2020,Elbert,Colorado,08039,92,2
+8/4/2020,Fremont,Colorado,08043,113,0
+8/4/2020,Garfield,Colorado,08045,734,4
+8/4/2020,Gilpin,Colorado,08047,16,0
+8/4/2020,Grand,Colorado,08049,44,1
+8/4/2020,Gunnison,Colorado,08051,262,6
+8/4/2020,Hinsdale,Colorado,08053,3,0
+8/4/2020,Huerfano,Colorado,08055,6,1
+8/4/2020,Jackson,Colorado,08057,8,0
+8/4/2020,Jefferson,Colorado,08059,3994,227
+8/4/2020,Kit Carson,Colorado,08063,43,3
+8/4/2020,La Plata,Colorado,08067,201,2
+8/4/2020,Lake,Colorado,08065,73,0
+8/4/2020,Larimer,Colorado,08069,1420,35
+8/4/2020,Las Animas,Colorado,08071,15,0
+8/4/2020,Lincoln,Colorado,08073,6,0
+8/4/2020,Logan,Colorado,08075,649,5
+8/4/2020,Mesa,Colorado,08077,274,3
+8/4/2020,Mineral,Colorado,08079,18,0
+8/4/2020,Moffat,Colorado,08081,26,1
+8/4/2020,Montezuma,Colorado,08083,108,4
+8/4/2020,Montrose,Colorado,08085,287,13
+8/4/2020,Morgan,Colorado,08087,678,46
+8/4/2020,Otero,Colorado,08089,63,6
+8/4/2020,Ouray,Colorado,08091,12,1
+8/4/2020,Park,Colorado,08093,42,1
+8/4/2020,Phillips,Colorado,08095,19,0
+8/4/2020,Pitkin,Colorado,08097,177,2
+8/4/2020,Prowers,Colorado,08099,50,0
+8/4/2020,Pueblo,Colorado,08101,617,34
+8/4/2020,Rio Blanco,Colorado,08103,8,0
+8/4/2020,Rio Grande,Colorado,08105,87,2
+8/4/2020,Routt,Colorado,08107,110,6
+8/4/2020,Saguache,Colorado,08109,107,2
+8/4/2020,San Juan,Colorado,08111,2,0
+8/4/2020,San Miguel,Colorado,08113,80,0
+8/4/2020,Sedgwick,Colorado,08115,11,1
+8/4/2020,Summit,Colorado,08117,324,4
+8/4/2020,Teller,Colorado,08119,117,3
+8/4/2020,Washington,Colorado,08121,47,0
+8/4/2020,Weld,Colorado,08123,3597,142
+8/4/2020,Yuma,Colorado,08125,62,0
+8/4/2020,Fairfield,Connecticut,09001,17876,1408
+8/4/2020,Hartford,Connecticut,09003,12711,1412
+8/4/2020,Litchfield,Connecticut,09005,1600,138
+8/4/2020,Middlesex,Connecticut,09007,1391,191
+8/4/2020,New Haven,Connecticut,09009,13100,1104
+8/4/2020,New London,Connecticut,09011,1421,103
+8/4/2020,Tolland,Connecticut,09013,1053,66
+8/4/2020,Unknown,Connecticut,0,242,0
+8/4/2020,Windham,Connecticut,09015,716,15
 8/4/2020,Kent,Delaware,10001,2226,107
 8/4/2020,New Castle,Delaware,10003,6994,289
 8/4/2020,Sussex,Delaware,10005,5685,191
@@ -12287,7 +12287,7 @@ date,county,state,fips,cases,deaths
 8/4/2020,Coleman,Texas,48083,13,0
 8/4/2020,Collin,Texas,48085,6738,84
 8/4/2020,Collingsworth,Texas,48087,7,0
-8/4/2020,Colorado,Texas,48089,257,2
+8/4/2020,Colorado,0Texas,48089,257,2
 8/4/2020,Comal,Texas,48091,2231,65
 8/4/2020,Comanche,Texas,48093,118,3
 8/4/2020,Concho,Texas,48095,26,0
@@ -12865,322 +12865,322 @@ date,county,state,fips,cases,deaths
 8/4/2020,Uinta,Wyoming,56041,267,1
 8/4/2020,Washakie,Wyoming,56043,53,5
 8/4/2020,Weston,Wyoming,56045,5,0
-8/5/2020,Autauga,Alabama,1001,1073,22
-8/5/2020,Baldwin,Alabama,1003,3380,24
-8/5/2020,Barbour,Alabama,1005,615,5
-8/5/2020,Bibb,Alabama,1007,392,4
-8/5/2020,Blount,Alabama,1009,839,3
-8/5/2020,Bullock,Alabama,1011,452,12
-8/5/2020,Butler,Alabama,1013,769,36
-8/5/2020,Calhoun,Alabama,1015,1683,13
-8/5/2020,Chambers,Alabama,1017,886,38
-8/5/2020,Cherokee,Alabama,1019,271,8
-8/5/2020,Chilton,Alabama,1021,783,7
-8/5/2020,Choctaw,Alabama,1023,281,12
-8/5/2020,Clarke,Alabama,1025,515,9
-8/5/2020,Clay,Alabama,1027,229,5
-8/5/2020,Cleburne,Alabama,1029,122,1
-8/5/2020,Coffee,Alabama,1031,751,5
-8/5/2020,Colbert,Alabama,1033,1140,13
-8/5/2020,Conecuh,Alabama,1035,389,10
-8/5/2020,Coosa,Alabama,1037,103,2
-8/5/2020,Covington,Alabama,1039,833,21
-8/5/2020,Crenshaw,Alabama,1041,322,4
-8/5/2020,Cullman,Alabama,1043,1243,12
-8/5/2020,Dale,Alabama,1045,816,23
-8/5/2020,Dallas,Alabama,1047,1375,23
-8/5/2020,DeKalb,Alabama,1049,1761,14
-8/5/2020,Elmore,Alabama,1051,1697,37
-8/5/2020,Escambia,Alabama,1053,1061,15
-8/5/2020,Etowah,Alabama,1055,2029,29
-8/5/2020,Fayette,Alabama,1057,188,5
-8/5/2020,Franklin,Alabama,1059,1232,20
-8/5/2020,Geneva,Alabama,1061,257,1
-8/5/2020,Greene,Alabama,1063,250,11
-8/5/2020,Hale,Alabama,1065,474,26
-8/5/2020,Henry,Alabama,1067,259,4
-8/5/2020,Houston,Alabama,1069,1381,14
-8/5/2020,Jackson,Alabama,1071,905,6
-8/5/2020,Jefferson,Alabama,1073,12408,232
-8/5/2020,Lamar,Alabama,1075,211,2
-8/5/2020,Lauderdale,Alabama,1077,1121,13
-8/5/2020,Lawrence,Alabama,1079,332,1
-8/5/2020,Lee,Alabama,1081,2705,46
-8/5/2020,Limestone,Alabama,1083,1249,14
-8/5/2020,Lowndes,Alabama,1085,573,26
-8/5/2020,Macon,Alabama,1087,327,13
-8/5/2020,Madison,Alabama,1089,5228,32
-8/5/2020,Marengo,Alabama,1091,537,15
-8/5/2020,Marion,Alabama,1093,580,24
-8/5/2020,Marshall,Alabama,1095,3057,35
-8/5/2020,Mobile,Alabama,1097,9326,209
-8/5/2020,Monroe,Alabama,1099,447,5
-8/5/2020,Montgomery,Alabama,1101,6455,151
-8/5/2020,Morgan,Alabama,1103,2307,17
-8/5/2020,Perry,Alabama,1105,458,4
-8/5/2020,Pickens,Alabama,1107,383,10
-8/5/2020,Pike,Alabama,1109,700,8
-8/5/2020,Randolph,Alabama,1111,404,11
-8/5/2020,Russell,Alabama,1113,1296,2
-8/5/2020,Shelby,Alabama,1117,3288,34
-8/5/2020,St. Clair,Alabama,1115,1342,15
-8/5/2020,Sumter,Alabama,1119,365,18
-8/5/2020,Talladega,Alabama,1121,1116,14
-8/5/2020,Tallapoosa,Alabama,1123,879,79
-8/5/2020,Tuscaloosa,Alabama,1125,4099,71
-8/5/2020,Walker,Alabama,1127,1511,67
-8/5/2020,Washington,Alabama,1129,320,12
-8/5/2020,Wilcox,Alabama,1131,426,10
-8/5/2020,Winston,Alabama,1133,448,11
-8/5/2020,Aleutians East Borough,Alaska,2013,4,0
-8/5/2020,Aleutians West Census Area,Alaska,2016,88,0
-8/5/2020,Anchorage,Alaska,2020,2122,13
-8/5/2020,Bethel Census Area,Alaska,2050,24,0
-8/5/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/5/2020,Denali Borough,Alaska,2068,4,0
-8/5/2020,Dillingham Census Area,Alaska,2070,22,0
-8/5/2020,Fairbanks North Star Borough,Alaska,2090,454,5
-8/5/2020,Haines Borough,Alaska,2100,8,0
-8/5/2020,Juneau City and Borough,Alaska,2110,159,1
-8/5/2020,Kenai Peninsula Borough,Alaska,2122,460,1
-8/5/2020,Ketchikan Gateway Borough,Alaska,2130,51,0
-8/5/2020,Kodiak Island Borough,Alaska,2150,26,0
-8/5/2020,Kusilvak Census Area,Alaska,2158,6,0
-8/5/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/5/2020,Matanuska-Susitna Borough,Alaska,2170,328,2
-8/5/2020,Nome Census Area,Alaska,2180,22,0
-8/5/2020,North Slope Borough,Alaska,2185,18,0
-8/5/2020,Northwest Arctic Borough,Alaska,2188,37,0
-8/5/2020,Petersburg Borough,Alaska,2195,9,0
-8/5/2020,Prince of Wales-Hyder Census Area,Alaska,2198,9,0
-8/5/2020,Sitka City and Borough,Alaska,2220,34,0
-8/5/2020,Southeast Fairbanks Census Area,Alaska,2240,27,0
-8/5/2020,Unknown,Alaska,,31,0
-8/5/2020,Valdez-Cordova Census Area,Alaska,2261,95,0
-8/5/2020,Wrangell City and Borough,Alaska,2275,15,0
-8/5/2020,Yakutat City and Borough,Alaska,2282,8,0
-8/5/2020,Yukon-Koyukuk Census Area,Alaska,2290,49,1
-8/5/2020,Apache,Arizona,4001,3119,137
-8/5/2020,Cochise,Arizona,4003,1560,52
-8/5/2020,Coconino,Arizona,4005,3033,117
-8/5/2020,Gila,Arizona,4007,871,34
-8/5/2020,Graham,Arizona,4009,511,12
-8/5/2020,Greenlee,Arizona,4011,57,2
-8/5/2020,La Paz,Arizona,4012,476,10
-8/5/2020,Maricopa,Arizona,4013,123082,2204
-8/5/2020,Mohave,Arizona,4015,3073,161
-8/5/2020,Navajo,Arizona,4017,5309,197
-8/5/2020,Pima,Arizona,4019,16964,469
-8/5/2020,Pinal,Arizona,4021,8297,145
-8/5/2020,Santa Cruz,Arizona,4023,2633,51
-8/5/2020,Yavapai,Arizona,4025,1926,66
-8/5/2020,Yuma,Arizona,4027,11319,276
-8/5/2020,Arkansas,Arkansas,5001,209,1
-8/5/2020,Ashley,Arkansas,5003,284,5
-8/5/2020,Baxter,Arkansas,5005,68,0
-8/5/2020,Benton,Arkansas,5007,4634,40
-8/5/2020,Boone,Arkansas,5009,184,1
-8/5/2020,Bradley,Arkansas,5011,167,3
-8/5/2020,Calhoun,Arkansas,5013,13,0
-8/5/2020,Carroll,Arkansas,5015,346,7
-8/5/2020,Chicot,Arkansas,5017,700,8
-8/5/2020,Clark,Arkansas,5019,170,1
-8/5/2020,Clay,Arkansas,5021,114,4
-8/5/2020,Cleburne,Arkansas,5023,187,5
-8/5/2020,Cleveland,Arkansas,5025,83,2
-8/5/2020,Columbia,Arkansas,5027,209,7
-8/5/2020,Conway,Arkansas,5029,143,3
-8/5/2020,Craighead,Arkansas,5031,1196,12
-8/5/2020,Crawford,Arkansas,5033,569,3
-8/5/2020,Crittenden,Arkansas,5035,1291,20
-8/5/2020,Cross,Arkansas,5037,173,3
-8/5/2020,Dallas,Arkansas,5039,59,0
-8/5/2020,Desha,Arkansas,5041,174,2
-8/5/2020,Drew,Arkansas,5043,175,3
-8/5/2020,Faulkner,Arkansas,5045,1239,5
-8/5/2020,Franklin,Arkansas,5047,113,2
-8/5/2020,Fulton,Arkansas,5049,30,0
-8/5/2020,Garland,Arkansas,5051,910,8
-8/5/2020,Grant,Arkansas,5053,130,0
-8/5/2020,Greene,Arkansas,5055,422,1
-8/5/2020,Hempstead,Arkansas,5057,227,2
-8/5/2020,Hot Spring,Arkansas,5059,1479,12
-8/5/2020,Howard,Arkansas,5061,308,2
-8/5/2020,Independence,Arkansas,5063,433,1
-8/5/2020,Izard,Arkansas,5065,45,1
-8/5/2020,Jackson,Arkansas,5067,62,1
-8/5/2020,Jefferson,Arkansas,5069,1412,40
-8/5/2020,Johnson,Arkansas,5071,646,2
-8/5/2020,Lafayette,Arkansas,5073,52,2
-8/5/2020,Lawrence,Arkansas,5075,191,9
-8/5/2020,Lee,Arkansas,5077,890,8
-8/5/2020,Lincoln,Arkansas,5079,1196,11
-8/5/2020,Little River,Arkansas,5081,160,1
-8/5/2020,Logan,Arkansas,5083,208,1
-8/5/2020,Lonoke,Arkansas,5085,474,2
-8/5/2020,Madison,Arkansas,5087,267,1
-8/5/2020,Marion,Arkansas,5089,26,0
-8/5/2020,Miller,Arkansas,5091,489,5
-8/5/2020,Mississippi,Arkansas,5093,891,12
-8/5/2020,Monroe,Arkansas,5095,52,0
-8/5/2020,Montgomery,Arkansas,5097,31,0
-8/5/2020,Nevada,Arkansas,5099,134,9
-8/5/2020,Newton,Arkansas,5101,100,5
-8/5/2020,Ouachita,Arkansas,5103,84,2
-8/5/2020,Perry,Arkansas,5105,50,0
-8/5/2020,Phillips,Arkansas,5107,298,7
-8/5/2020,Pike,Arkansas,5109,88,1
-8/5/2020,Poinsett,Arkansas,5111,190,3
-8/5/2020,Polk,Arkansas,5113,134,1
-8/5/2020,Pope,Arkansas,5115,1266,10
-8/5/2020,Prairie,Arkansas,5117,78,0
-8/5/2020,Pulaski,Arkansas,5119,5151,81
-8/5/2020,Randolph,Arkansas,5121,198,3
-8/5/2020,Saline,Arkansas,5125,949,6
-8/5/2020,Scott,Arkansas,5127,46,0
-8/5/2020,Searcy,Arkansas,5129,28,0
-8/5/2020,Sebastian,Arkansas,5131,1977,17
-8/5/2020,Sevier,Arkansas,5133,958,10
-8/5/2020,Sharp,Arkansas,5135,106,5
-8/5/2020,St. Francis,Arkansas,5123,1148,3
-8/5/2020,Stone,Arkansas,5137,59,1
-8/5/2020,Union,Arkansas,5139,458,17
-8/5/2020,Unknown,Arkansas,,1686,0
-8/5/2020,Van Buren,Arkansas,5141,52,2
-8/5/2020,Washington,Arkansas,5143,6168,50
-8/5/2020,White,Arkansas,5145,284,2
-8/5/2020,Woodruff,Arkansas,5147,20,0
-8/5/2020,Yell,Arkansas,5149,1052,14
-8/5/2020,Alameda,California,6001,12157,193
-8/5/2020,Alpine,California,6003,2,0
-8/5/2020,Amador,California,6005,154,0
-8/5/2020,Butte,California,6007,1029,8
-8/5/2020,Calaveras,California,6009,136,1
-8/5/2020,Colusa,California,6011,359,4
-8/5/2020,Contra Costa,California,6013,8324,131
-8/5/2020,Del Norte,California,6015,90,0
-8/5/2020,El Dorado,California,6017,702,1
-8/5/2020,Fresno,California,6019,16272,157
-8/5/2020,Glenn,California,6021,325,2
-8/5/2020,Humboldt,California,6023,255,4
-8/5/2020,Imperial,California,6025,9546,233
-8/5/2020,Inyo,California,6027,59,1
-8/5/2020,Kern,California,6029,21433,152
-8/5/2020,Kings,California,6031,4453,56
-8/5/2020,Lake,California,6033,206,1
-8/5/2020,Lassen,California,6035,632,0
-8/5/2020,Los Angeles,California,6037,197912,4825
-8/5/2020,Madera,California,6039,2161,32
-8/5/2020,Marin,California,6041,5190,76
-8/5/2020,Mariposa,California,6043,59,2
-8/5/2020,Mendocino,California,6045,356,10
-8/5/2020,Merced,California,6047,4760,60
-8/5/2020,Modoc,California,6049,4,0
-8/5/2020,Mono,California,6051,147,1
-8/5/2020,Monterey,California,6053,5049,34
-8/5/2020,Napa,California,6055,1008,9
-8/5/2020,Nevada,California,6057,322,1
-8/5/2020,Orange,California,6059,38131,665
-8/5/2020,Placer,California,6061,1998,19
-8/5/2020,Plumas,California,6063,25,0
-8/5/2020,Riverside,California,6065,38991,752
-8/5/2020,Sacramento,California,6067,10243,153
-8/5/2020,San Benito,California,6069,694,4
-8/5/2020,San Bernardino,California,6071,34237,487
-8/5/2020,San Diego,California,6073,30927,578
-8/5/2020,San Francisco,California,6075,7084,62
-8/5/2020,San Joaquin,California,6077,12087,187
-8/5/2020,San Luis Obispo,California,6079,1970,16
-8/5/2020,San Mateo,California,6081,5758,120
-8/5/2020,Santa Barbara,California,6083,6591,67
-8/5/2020,Santa Clara,California,6085,11128,197
-8/5/2020,Santa Cruz,California,6087,1202,4
-8/5/2020,Shasta,California,6089,404,9
-8/5/2020,Sierra,California,6091,1,0
-8/5/2020,Siskiyou,California,6093,89,0
-8/5/2020,Solano,California,6095,3889,38
-8/5/2020,Sonoma,California,6097,3208,42
-8/5/2020,Stanislaus,California,6099,9359,145
-8/5/2020,Sutter,California,6101,881,6
-8/5/2020,Tehama,California,6103,226,1
-8/5/2020,Trinity,California,6105,6,0
-8/5/2020,Tulare,California,6107,10078,193
-8/5/2020,Tuolumne,California,6109,144,2
-8/5/2020,Ventura,California,6111,8134,79
-8/5/2020,Yolo,California,6113,1636,42
-8/5/2020,Yuba,California,6115,553,4
-8/5/2020,Adams,Colorado,8001,6248,175
-8/5/2020,Alamosa,Colorado,8003,224,9
-8/5/2020,Arapahoe,Colorado,8005,7156,364
-8/5/2020,Archuleta,Colorado,8007,34,0
-8/5/2020,Baca,Colorado,8009,14,0
-8/5/2020,Bent,Colorado,8011,8,0
-8/5/2020,Boulder,Colorado,8013,2015,75
-8/5/2020,Broomfield,Colorado,8014,436,32
-8/5/2020,Chaffee,Colorado,8015,292,19
-8/5/2020,Cheyenne,Colorado,8017,8,0
-8/5/2020,Clear Creek,Colorado,8019,28,1
-8/5/2020,Conejos,Colorado,8021,23,0
-8/5/2020,Costilla,Colorado,8023,22,0
-8/5/2020,Crowley,Colorado,8025,72,1
-8/5/2020,Custer,Colorado,8027,11,0
-8/5/2020,Delta,Colorado,8029,115,1
-8/5/2020,Denver,Colorado,8031,9968,417
-8/5/2020,Dolores,Colorado,8033,1,0
-8/5/2020,Douglas,Colorado,8035,1689,59
-8/5/2020,Eagle,Colorado,8037,1096,9
-8/5/2020,El Paso,Colorado,8041,4884,138
-8/5/2020,Elbert,Colorado,8039,97,2
-8/5/2020,Fremont,Colorado,8043,117,0
-8/5/2020,Garfield,Colorado,8045,742,4
-8/5/2020,Gilpin,Colorado,8047,16,0
-8/5/2020,Grand,Colorado,8049,44,1
-8/5/2020,Gunnison,Colorado,8051,266,6
-8/5/2020,Hinsdale,Colorado,8053,3,0
-8/5/2020,Huerfano,Colorado,8055,7,1
-8/5/2020,Jackson,Colorado,8057,8,0
-8/5/2020,Jefferson,Colorado,8059,4051,227
-8/5/2020,Kit Carson,Colorado,8063,43,3
-8/5/2020,La Plata,Colorado,8067,201,2
-8/5/2020,Lake,Colorado,8065,74,0
-8/5/2020,Larimer,Colorado,8069,1456,35
-8/5/2020,Las Animas,Colorado,8071,15,0
-8/5/2020,Lincoln,Colorado,8073,7,0
-8/5/2020,Logan,Colorado,8075,649,5
-8/5/2020,Mesa,Colorado,8077,280,3
-8/5/2020,Mineral,Colorado,8079,18,0
-8/5/2020,Moffat,Colorado,8081,26,1
-8/5/2020,Montezuma,Colorado,8083,108,4
-8/5/2020,Montrose,Colorado,8085,287,13
-8/5/2020,Morgan,Colorado,8087,681,46
-8/5/2020,Otero,Colorado,8089,65,6
-8/5/2020,Ouray,Colorado,8091,12,1
-8/5/2020,Park,Colorado,8093,42,1
-8/5/2020,Phillips,Colorado,8095,19,0
-8/5/2020,Pitkin,Colorado,8097,180,2
-8/5/2020,Prowers,Colorado,8099,50,0
-8/5/2020,Pueblo,Colorado,8101,645,34
-8/5/2020,Rio Blanco,Colorado,8103,8,0
-8/5/2020,Rio Grande,Colorado,8105,88,2
-8/5/2020,Routt,Colorado,8107,110,6
-8/5/2020,Saguache,Colorado,8109,106,2
-8/5/2020,San Juan,Colorado,8111,2,0
-8/5/2020,San Miguel,Colorado,8113,80,0
-8/5/2020,Sedgwick,Colorado,8115,11,1
-8/5/2020,Summit,Colorado,8117,327,4
-8/5/2020,Teller,Colorado,8119,121,3
-8/5/2020,Washington,Colorado,8121,47,0
-8/5/2020,Weld,Colorado,8123,3627,142
-8/5/2020,Yuma,Colorado,8125,63,0
-8/5/2020,Fairfield,Connecticut,9001,17912,1408
-8/5/2020,Hartford,Connecticut,9003,12733,1412
-8/5/2020,Litchfield,Connecticut,9005,1606,138
-8/5/2020,Middlesex,Connecticut,9007,1396,191
-8/5/2020,New Haven,Connecticut,9009,13118,1104
-8/5/2020,New London,Connecticut,9011,1428,103
-8/5/2020,Tolland,Connecticut,9013,1056,66
-8/5/2020,Unknown,Connecticut,,254,0
-8/5/2020,Windham,Connecticut,9015,722,15
+8/5/2020,Autauga,Alabama,01001,1073,22
+8/5/2020,Baldwin,Alabama,01003,3380,24
+8/5/2020,Barbour,Alabama,01005,615,5
+8/5/2020,Bibb,Alabama,01007,392,4
+8/5/2020,Blount,Alabama,01009,839,3
+8/5/2020,Bullock,Alabama,01011,452,12
+8/5/2020,Butler,Alabama,01013,769,36
+8/5/2020,Calhoun,Alabama,01015,1683,13
+8/5/2020,Chambers,Alabama,01017,886,38
+8/5/2020,Cherokee,Alabama,01019,271,8
+8/5/2020,Chilton,Alabama,01021,783,7
+8/5/2020,Choctaw,Alabama,01023,281,12
+8/5/2020,Clarke,Alabama,01025,515,9
+8/5/2020,Clay,Alabama,01027,229,5
+8/5/2020,Cleburne,Alabama,01029,122,1
+8/5/2020,Coffee,Alabama,01031,751,5
+8/5/2020,Colbert,Alabama,01033,1140,13
+8/5/2020,Conecuh,Alabama,01035,389,10
+8/5/2020,Coosa,Alabama,01037,103,2
+8/5/2020,Covington,Alabama,01039,833,21
+8/5/2020,Crenshaw,Alabama,01041,322,4
+8/5/2020,Cullman,Alabama,01043,1243,12
+8/5/2020,Dale,Alabama,01045,816,23
+8/5/2020,Dallas,Alabama,01047,1375,23
+8/5/2020,DeKalb,Alabama,01049,1761,14
+8/5/2020,Elmore,Alabama,01051,1697,37
+8/5/2020,Escambia,Alabama,01053,1061,15
+8/5/2020,Etowah,Alabama,01055,2029,29
+8/5/2020,Fayette,Alabama,01057,188,5
+8/5/2020,Franklin,Alabama,01059,1232,20
+8/5/2020,Geneva,Alabama,01061,257,1
+8/5/2020,Greene,Alabama,01063,250,11
+8/5/2020,Hale,Alabama,01065,474,26
+8/5/2020,Henry,Alabama,01067,259,4
+8/5/2020,Houston,Alabama,01069,1381,14
+8/5/2020,Jackson,Alabama,01071,905,6
+8/5/2020,Jefferson,Alabama,01073,12408,232
+8/5/2020,Lamar,Alabama,01075,211,2
+8/5/2020,Lauderdale,Alabama,01077,1121,13
+8/5/2020,Lawrence,Alabama,01079,332,1
+8/5/2020,Lee,Alabama,01081,2705,46
+8/5/2020,Limestone,Alabama,01083,1249,14
+8/5/2020,Lowndes,Alabama,01085,573,26
+8/5/2020,Macon,Alabama,01087,327,13
+8/5/2020,Madison,Alabama,01089,5228,32
+8/5/2020,Marengo,Alabama,01091,537,15
+8/5/2020,Marion,Alabama,01093,580,24
+8/5/2020,Marshall,Alabama,01095,3057,35
+8/5/2020,Mobile,Alabama,01097,9326,209
+8/5/2020,Monroe,Alabama,01099,447,5
+8/5/2020,Montgomery,Alabama,01101,6455,151
+8/5/2020,Morgan,Alabama,01103,2307,17
+8/5/2020,Perry,Alabama,01105,458,4
+8/5/2020,Pickens,Alabama,01107,383,10
+8/5/2020,Pike,Alabama,01109,700,8
+8/5/2020,Randolph,Alabama,01111,404,11
+8/5/2020,Russell,Alabama,01113,1296,2
+8/5/2020,Shelby,Alabama,01117,3288,34
+8/5/2020,St. Clair,Alabama,01115,1342,15
+8/5/2020,Sumter,Alabama,01119,365,18
+8/5/2020,Talladega,Alabama,01121,1116,14
+8/5/2020,Tallapoosa,Alabama,01123,879,79
+8/5/2020,Tuscaloosa,Alabama,01125,4099,71
+8/5/2020,Walker,Alabama,01127,1511,67
+8/5/2020,Washington,Alabama,01129,320,12
+8/5/2020,Wilcox,Alabama,01131,426,10
+8/5/2020,Winston,Alabama,01133,448,11
+8/5/2020,Aleutians East Borough,Alaska,02013,4,0
+8/5/2020,Aleutians West Census Area,Alaska,02016,88,0
+8/5/2020,Anchorage,Alaska,02020,2122,13
+8/5/2020,Bethel Census Area,Alaska,02050,24,0
+8/5/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/5/2020,Denali Borough,Alaska,02068,4,0
+8/5/2020,Dillingham Census Area,Alaska,02070,22,0
+8/5/2020,Fairbanks North Star Borough,Alaska,02090,454,5
+8/5/2020,Haines Borough,Alaska,02100,8,0
+8/5/2020,Juneau City and Borough,Alaska,02110,159,1
+8/5/2020,Kenai Peninsula Borough,Alaska,02122,460,1
+8/5/2020,Ketchikan Gateway Borough,Alaska,02130,51,0
+8/5/2020,Kodiak Island Borough,Alaska,02150,26,0
+8/5/2020,Kusilvak Census Area,Alaska,02158,6,0
+8/5/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/5/2020,Matanuska-Susitna Borough,Alaska,02170,328,2
+8/5/2020,Nome Census Area,Alaska,02180,22,0
+8/5/2020,North Slope Borough,Alaska,02185,18,0
+8/5/2020,Northwest Arctic Borough,Alaska,02188,37,0
+8/5/2020,Petersburg Borough,Alaska,02195,9,0
+8/5/2020,Prince of Wales-Hyder Census Area,Alaska,02198,9,0
+8/5/2020,Sitka City and Borough,Alaska,02220,34,0
+8/5/2020,Southeast Fairbanks Census Area,Alaska,02240,27,0
+8/5/2020,Unknown,Alaska,0,31,0
+8/5/2020,Valdez-Cordova Census Area,Alaska,02261,95,0
+8/5/2020,Wrangell City and Borough,Alaska,02275,15,0
+8/5/2020,Yakutat City and Borough,Alaska,02282,8,0
+8/5/2020,Yukon-Koyukuk Census Area,Alaska,02290,49,1
+8/5/2020,Apache,Arizona,04001,3119,137
+8/5/2020,Cochise,Arizona,04003,1560,52
+8/5/2020,Coconino,Arizona,04005,3033,117
+8/5/2020,Gila,Arizona,04007,871,34
+8/5/2020,Graham,Arizona,04009,511,12
+8/5/2020,Greenlee,Arizona,04011,57,2
+8/5/2020,La Paz,Arizona,04012,476,10
+8/5/2020,Maricopa,Arizona,04013,123082,2204
+8/5/2020,Mohave,Arizona,04015,3073,161
+8/5/2020,Navajo,Arizona,04017,5309,197
+8/5/2020,Pima,Arizona,04019,16964,469
+8/5/2020,Pinal,Arizona,04021,8297,145
+8/5/2020,Santa Cruz,Arizona,04023,2633,51
+8/5/2020,Yavapai,Arizona,04025,1926,66
+8/5/2020,Yuma,Arizona,04027,11319,276
+8/5/2020,Arkansas,0Arkansas,05001,209,1
+8/5/2020,Ashley,Arkansas,05003,284,5
+8/5/2020,Baxter,Arkansas,05005,68,0
+8/5/2020,Benton,Arkansas,05007,4634,40
+8/5/2020,Boone,Arkansas,05009,184,1
+8/5/2020,Bradley,Arkansas,05011,167,3
+8/5/2020,Calhoun,Arkansas,05013,13,0
+8/5/2020,Carroll,Arkansas,05015,346,7
+8/5/2020,Chicot,Arkansas,05017,700,8
+8/5/2020,Clark,Arkansas,05019,170,1
+8/5/2020,Clay,Arkansas,05021,114,4
+8/5/2020,Cleburne,Arkansas,05023,187,5
+8/5/2020,Cleveland,Arkansas,05025,83,2
+8/5/2020,Columbia,Arkansas,05027,209,7
+8/5/2020,Conway,Arkansas,05029,143,3
+8/5/2020,Craighead,Arkansas,05031,1196,12
+8/5/2020,Crawford,Arkansas,05033,569,3
+8/5/2020,Crittenden,Arkansas,05035,1291,20
+8/5/2020,Cross,Arkansas,05037,173,3
+8/5/2020,Dallas,Arkansas,05039,59,0
+8/5/2020,Desha,Arkansas,05041,174,2
+8/5/2020,Drew,Arkansas,05043,175,3
+8/5/2020,Faulkner,Arkansas,05045,1239,5
+8/5/2020,Franklin,Arkansas,05047,113,2
+8/5/2020,Fulton,Arkansas,05049,30,0
+8/5/2020,Garland,Arkansas,05051,910,8
+8/5/2020,Grant,Arkansas,05053,130,0
+8/5/2020,Greene,Arkansas,05055,422,1
+8/5/2020,Hempstead,Arkansas,05057,227,2
+8/5/2020,Hot Spring,Arkansas,05059,1479,12
+8/5/2020,Howard,Arkansas,05061,308,2
+8/5/2020,Independence,Arkansas,05063,433,1
+8/5/2020,Izard,Arkansas,05065,45,1
+8/5/2020,Jackson,Arkansas,05067,62,1
+8/5/2020,Jefferson,Arkansas,05069,1412,40
+8/5/2020,Johnson,Arkansas,05071,646,2
+8/5/2020,Lafayette,Arkansas,05073,52,2
+8/5/2020,Lawrence,Arkansas,05075,191,9
+8/5/2020,Lee,Arkansas,05077,890,8
+8/5/2020,Lincoln,Arkansas,05079,1196,11
+8/5/2020,Little River,Arkansas,05081,160,1
+8/5/2020,Logan,Arkansas,05083,208,1
+8/5/2020,Lonoke,Arkansas,05085,474,2
+8/5/2020,Madison,Arkansas,05087,267,1
+8/5/2020,Marion,Arkansas,05089,26,0
+8/5/2020,Miller,Arkansas,05091,489,5
+8/5/2020,Mississippi,Arkansas,05093,891,12
+8/5/2020,Monroe,Arkansas,05095,52,0
+8/5/2020,Montgomery,Arkansas,05097,31,0
+8/5/2020,Nevada,Arkansas,05099,134,9
+8/5/2020,Newton,Arkansas,05101,100,5
+8/5/2020,Ouachita,Arkansas,05103,84,2
+8/5/2020,Perry,Arkansas,05105,50,0
+8/5/2020,Phillips,Arkansas,05107,298,7
+8/5/2020,Pike,Arkansas,05109,88,1
+8/5/2020,Poinsett,Arkansas,05111,190,3
+8/5/2020,Polk,Arkansas,05113,134,1
+8/5/2020,Pope,Arkansas,05115,1266,10
+8/5/2020,Prairie,Arkansas,05117,78,0
+8/5/2020,Pulaski,Arkansas,05119,5151,81
+8/5/2020,Randolph,Arkansas,05121,198,3
+8/5/2020,Saline,Arkansas,05125,949,6
+8/5/2020,Scott,Arkansas,05127,46,0
+8/5/2020,Searcy,Arkansas,05129,28,0
+8/5/2020,Sebastian,Arkansas,05131,1977,17
+8/5/2020,Sevier,Arkansas,05133,958,10
+8/5/2020,Sharp,Arkansas,05135,106,5
+8/5/2020,St. Francis,Arkansas,05123,1148,3
+8/5/2020,Stone,Arkansas,05137,59,1
+8/5/2020,Union,Arkansas,05139,458,17
+8/5/2020,Unknown,Arkansas,0,1686,0
+8/5/2020,Van Buren,Arkansas,05141,52,2
+8/5/2020,Washington,Arkansas,05143,6168,50
+8/5/2020,White,Arkansas,05145,284,2
+8/5/2020,Woodruff,Arkansas,05147,20,0
+8/5/2020,Yell,Arkansas,05149,1052,14
+8/5/2020,Alameda,California,06001,12157,193
+8/5/2020,Alpine,California,06003,2,0
+8/5/2020,Amador,California,06005,154,0
+8/5/2020,Butte,California,06007,1029,8
+8/5/2020,Calaveras,California,06009,136,1
+8/5/2020,Colusa,California,06011,359,4
+8/5/2020,Contra Costa,California,06013,8324,131
+8/5/2020,Del Norte,California,06015,90,0
+8/5/2020,El Dorado,California,06017,702,1
+8/5/2020,Fresno,California,06019,16272,157
+8/5/2020,Glenn,California,06021,325,2
+8/5/2020,Humboldt,California,06023,255,4
+8/5/2020,Imperial,California,06025,9546,233
+8/5/2020,Inyo,California,06027,59,1
+8/5/2020,Kern,California,06029,21433,152
+8/5/2020,Kings,California,06031,4453,56
+8/5/2020,Lake,California,06033,206,1
+8/5/2020,Lassen,California,06035,632,0
+8/5/2020,Los Angeles,California,06037,197912,4825
+8/5/2020,Madera,California,06039,2161,32
+8/5/2020,Marin,California,06041,5190,76
+8/5/2020,Mariposa,California,06043,59,2
+8/5/2020,Mendocino,California,06045,356,10
+8/5/2020,Merced,California,06047,4760,60
+8/5/2020,Modoc,California,06049,4,0
+8/5/2020,Mono,California,06051,147,1
+8/5/2020,Monterey,California,06053,5049,34
+8/5/2020,Napa,California,06055,1008,9
+8/5/2020,Nevada,California,06057,322,1
+8/5/2020,Orange,California,06059,38131,665
+8/5/2020,Placer,California,06061,1998,19
+8/5/2020,Plumas,California,06063,25,0
+8/5/2020,Riverside,California,06065,38991,752
+8/5/2020,Sacramento,California,06067,10243,153
+8/5/2020,San Benito,California,06069,694,4
+8/5/2020,San Bernardino,California,06071,34237,487
+8/5/2020,San Diego,California,06073,30927,578
+8/5/2020,San Francisco,California,06075,7084,62
+8/5/2020,San Joaquin,California,06077,12087,187
+8/5/2020,San Luis Obispo,California,06079,1970,16
+8/5/2020,San Mateo,California,06081,5758,120
+8/5/2020,Santa Barbara,California,06083,6591,67
+8/5/2020,Santa Clara,California,06085,11128,197
+8/5/2020,Santa Cruz,California,06087,1202,4
+8/5/2020,Shasta,California,06089,404,9
+8/5/2020,Sierra,California,06091,1,0
+8/5/2020,Siskiyou,California,06093,89,0
+8/5/2020,Solano,California,06095,3889,38
+8/5/2020,Sonoma,California,06097,3208,42
+8/5/2020,Stanislaus,California,06099,9359,145
+8/5/2020,Sutter,California,06101,881,6
+8/5/2020,Tehama,California,06103,226,1
+8/5/2020,Trinity,California,06105,6,0
+8/5/2020,Tulare,California,06107,10078,193
+8/5/2020,Tuolumne,California,06109,144,2
+8/5/2020,Ventura,California,06111,8134,79
+8/5/2020,Yolo,California,06113,1636,42
+8/5/2020,Yuba,California,06115,553,4
+8/5/2020,Adams,Colorado,08001,6248,175
+8/5/2020,Alamosa,Colorado,08003,224,9
+8/5/2020,Arapahoe,Colorado,08005,7156,364
+8/5/2020,Archuleta,Colorado,08007,34,0
+8/5/2020,Baca,Colorado,08009,14,0
+8/5/2020,Bent,Colorado,08011,8,0
+8/5/2020,Boulder,Colorado,08013,2015,75
+8/5/2020,Broomfield,Colorado,08014,436,32
+8/5/2020,Chaffee,Colorado,08015,292,19
+8/5/2020,Cheyenne,Colorado,08017,8,0
+8/5/2020,Clear Creek,Colorado,08019,28,1
+8/5/2020,Conejos,Colorado,08021,23,0
+8/5/2020,Costilla,Colorado,08023,22,0
+8/5/2020,Crowley,Colorado,08025,72,1
+8/5/2020,Custer,Colorado,08027,11,0
+8/5/2020,Delta,Colorado,08029,115,1
+8/5/2020,Denver,Colorado,08031,9968,417
+8/5/2020,Dolores,Colorado,08033,1,0
+8/5/2020,Douglas,Colorado,08035,1689,59
+8/5/2020,Eagle,Colorado,08037,1096,9
+8/5/2020,El Paso,Colorado,08041,4884,138
+8/5/2020,Elbert,Colorado,08039,97,2
+8/5/2020,Fremont,Colorado,08043,117,0
+8/5/2020,Garfield,Colorado,08045,742,4
+8/5/2020,Gilpin,Colorado,08047,16,0
+8/5/2020,Grand,Colorado,08049,44,1
+8/5/2020,Gunnison,Colorado,08051,266,6
+8/5/2020,Hinsdale,Colorado,08053,3,0
+8/5/2020,Huerfano,Colorado,08055,7,1
+8/5/2020,Jackson,Colorado,08057,8,0
+8/5/2020,Jefferson,Colorado,08059,4051,227
+8/5/2020,Kit Carson,Colorado,08063,43,3
+8/5/2020,La Plata,Colorado,08067,201,2
+8/5/2020,Lake,Colorado,08065,74,0
+8/5/2020,Larimer,Colorado,08069,1456,35
+8/5/2020,Las Animas,Colorado,08071,15,0
+8/5/2020,Lincoln,Colorado,08073,7,0
+8/5/2020,Logan,Colorado,08075,649,5
+8/5/2020,Mesa,Colorado,08077,280,3
+8/5/2020,Mineral,Colorado,08079,18,0
+8/5/2020,Moffat,Colorado,08081,26,1
+8/5/2020,Montezuma,Colorado,08083,108,4
+8/5/2020,Montrose,Colorado,08085,287,13
+8/5/2020,Morgan,Colorado,08087,681,46
+8/5/2020,Otero,Colorado,08089,65,6
+8/5/2020,Ouray,Colorado,08091,12,1
+8/5/2020,Park,Colorado,08093,42,1
+8/5/2020,Phillips,Colorado,08095,19,0
+8/5/2020,Pitkin,Colorado,08097,180,2
+8/5/2020,Prowers,Colorado,08099,50,0
+8/5/2020,Pueblo,Colorado,08101,645,34
+8/5/2020,Rio Blanco,Colorado,08103,8,0
+8/5/2020,Rio Grande,Colorado,08105,88,2
+8/5/2020,Routt,Colorado,08107,110,6
+8/5/2020,Saguache,Colorado,08109,106,2
+8/5/2020,San Juan,Colorado,08111,2,0
+8/5/2020,San Miguel,Colorado,08113,80,0
+8/5/2020,Sedgwick,Colorado,08115,11,1
+8/5/2020,Summit,Colorado,08117,327,4
+8/5/2020,Teller,Colorado,08119,121,3
+8/5/2020,Washington,Colorado,08121,47,0
+8/5/2020,Weld,Colorado,08123,3627,142
+8/5/2020,Yuma,Colorado,08125,63,0
+8/5/2020,Fairfield,Connecticut,09001,17912,1408
+8/5/2020,Hartford,Connecticut,09003,12733,1412
+8/5/2020,Litchfield,Connecticut,09005,1606,138
+8/5/2020,Middlesex,Connecticut,09007,1396,191
+8/5/2020,New Haven,Connecticut,09009,13118,1104
+8/5/2020,New London,Connecticut,09011,1428,103
+8/5/2020,Tolland,Connecticut,09013,1056,66
+8/5/2020,Unknown,Connecticut,0,254,0
+8/5/2020,Windham,Connecticut,09015,722,15
 8/5/2020,Kent,Delaware,10001,2238,107
 8/5/2020,New Castle,Delaware,10003,7042,289
 8/5/2020,Sussex,Delaware,10005,5778,191
@@ -15506,7 +15506,7 @@ date,county,state,fips,cases,deaths
 8/5/2020,Coleman,Texas,48083,16,0
 8/5/2020,Collin,Texas,48085,6857,85
 8/5/2020,Collingsworth,Texas,48087,7,0
-8/5/2020,Colorado,Texas,48089,257,2
+8/5/2020,Colorado,0Texas,48089,257,2
 8/5/2020,Comal,Texas,48091,2287,67
 8/5/2020,Comanche,Texas,48093,121,3
 8/5/2020,Concho,Texas,48095,26,0
@@ -16084,322 +16084,322 @@ date,county,state,fips,cases,deaths
 8/5/2020,Uinta,Wyoming,56041,268,1
 8/5/2020,Washakie,Wyoming,56043,57,5
 8/5/2020,Weston,Wyoming,56045,5,0
-8/6/2020,Autauga,Alabama,1001,1096,22
-8/6/2020,Baldwin,Alabama,1003,3438,25
-8/6/2020,Barbour,Alabama,1005,619,5
-8/6/2020,Bibb,Alabama,1007,421,4
-8/6/2020,Blount,Alabama,1009,874,3
-8/6/2020,Bullock,Alabama,1011,458,12
-8/6/2020,Butler,Alabama,1013,771,36
-8/6/2020,Calhoun,Alabama,1015,1741,13
-8/6/2020,Chambers,Alabama,1017,893,38
-8/6/2020,Cherokee,Alabama,1019,283,8
-8/6/2020,Chilton,Alabama,1021,794,7
-8/6/2020,Choctaw,Alabama,1023,282,12
-8/6/2020,Clarke,Alabama,1025,522,9
-8/6/2020,Clay,Alabama,1027,241,5
-8/6/2020,Cleburne,Alabama,1029,126,1
-8/6/2020,Coffee,Alabama,1031,762,5
-8/6/2020,Colbert,Alabama,1033,1159,13
-8/6/2020,Conecuh,Alabama,1035,397,10
-8/6/2020,Coosa,Alabama,1037,114,2
-8/6/2020,Covington,Alabama,1039,843,21
-8/6/2020,Crenshaw,Alabama,1041,328,4
-8/6/2020,Cullman,Alabama,1043,1263,12
-8/6/2020,Dale,Alabama,1045,820,23
-8/6/2020,Dallas,Alabama,1047,1388,23
-8/6/2020,DeKalb,Alabama,1049,1792,15
-8/6/2020,Elmore,Alabama,1051,1739,39
-8/6/2020,Escambia,Alabama,1053,1139,16
-8/6/2020,Etowah,Alabama,1055,2108,30
-8/6/2020,Fayette,Alabama,1057,198,5
-8/6/2020,Franklin,Alabama,1059,1255,20
-8/6/2020,Geneva,Alabama,1061,264,1
-8/6/2020,Greene,Alabama,1063,252,11
-8/6/2020,Hale,Alabama,1065,480,26
-8/6/2020,Henry,Alabama,1067,261,4
-8/6/2020,Houston,Alabama,1069,1397,14
-8/6/2020,Jackson,Alabama,1071,947,6
-8/6/2020,Jefferson,Alabama,1073,12730,234
-8/6/2020,Lamar,Alabama,1075,219,2
-8/6/2020,Lauderdale,Alabama,1077,1135,15
-8/6/2020,Lawrence,Alabama,1079,340,1
-8/6/2020,Lee,Alabama,1081,2743,48
-8/6/2020,Limestone,Alabama,1083,1283,14
-8/6/2020,Lowndes,Alabama,1085,580,26
-8/6/2020,Macon,Alabama,1087,331,13
-8/6/2020,Madison,Alabama,1089,5269,35
-8/6/2020,Marengo,Alabama,1091,544,15
-8/6/2020,Marion,Alabama,1093,595,24
-8/6/2020,Marshall,Alabama,1095,3127,35
-8/6/2020,Mobile,Alabama,1097,9493,209
-8/6/2020,Monroe,Alabama,1099,460,5
-8/6/2020,Montgomery,Alabama,1101,6564,151
-8/6/2020,Morgan,Alabama,1103,2336,19
-8/6/2020,Perry,Alabama,1105,464,4
-8/6/2020,Pickens,Alabama,1107,385,10
-8/6/2020,Pike,Alabama,1109,717,8
-8/6/2020,Randolph,Alabama,1111,407,11
-8/6/2020,Russell,Alabama,1113,1307,2
-8/6/2020,Shelby,Alabama,1117,3352,34
-8/6/2020,St. Clair,Alabama,1115,1379,16
-8/6/2020,Sumter,Alabama,1119,365,18
-8/6/2020,Talladega,Alabama,1121,1187,14
-8/6/2020,Tallapoosa,Alabama,1123,900,80
-8/6/2020,Tuscaloosa,Alabama,1125,4174,71
-8/6/2020,Walker,Alabama,1127,1532,67
-8/6/2020,Washington,Alabama,1129,326,12
-8/6/2020,Wilcox,Alabama,1131,429,10
-8/6/2020,Winston,Alabama,1133,454,11
-8/6/2020,Aleutians East Borough,Alaska,2013,4,0
-8/6/2020,Aleutians West Census Area,Alaska,2016,88,0
-8/6/2020,Anchorage,Alaska,2020,2145,13
-8/6/2020,Bethel Census Area,Alaska,2050,24,0
-8/6/2020,Bristol Bay Borough,Alaska,2060,66,0
-8/6/2020,Denali Borough,Alaska,2068,4,0
-8/6/2020,Dillingham Census Area,Alaska,2070,22,0
-8/6/2020,Fairbanks North Star Borough,Alaska,2090,459,5
-8/6/2020,Haines Borough,Alaska,2100,8,0
-8/6/2020,Juneau City and Borough,Alaska,2110,165,1
-8/6/2020,Kenai Peninsula Borough,Alaska,2122,464,1
-8/6/2020,Ketchikan Gateway Borough,Alaska,2130,51,0
-8/6/2020,Kodiak Island Borough,Alaska,2150,26,0
-8/6/2020,Kusilvak Census Area,Alaska,2158,6,0
-8/6/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/6/2020,Matanuska-Susitna Borough,Alaska,2170,329,2
-8/6/2020,Nome Census Area,Alaska,2180,22,0
-8/6/2020,North Slope Borough,Alaska,2185,18,0
-8/6/2020,Northwest Arctic Borough,Alaska,2188,39,0
-8/6/2020,Petersburg Borough,Alaska,2195,9,0
-8/6/2020,Prince of Wales-Hyder Census Area,Alaska,2198,9,0
-8/6/2020,Sitka City and Borough,Alaska,2220,34,0
-8/6/2020,Southeast Fairbanks Census Area,Alaska,2240,27,0
-8/6/2020,Unknown,Alaska,,29,0
-8/6/2020,Valdez-Cordova Census Area,Alaska,2261,96,0
-8/6/2020,Wrangell City and Borough,Alaska,2275,15,0
-8/6/2020,Yakutat City and Borough,Alaska,2282,8,0
-8/6/2020,Yukon-Koyukuk Census Area,Alaska,2290,49,1
-8/6/2020,Apache,Arizona,4001,3110,138
-8/6/2020,Cochise,Arizona,4003,1567,52
-8/6/2020,Coconino,Arizona,4005,3043,115
-8/6/2020,Gila,Arizona,4007,884,36
-8/6/2020,Graham,Arizona,4009,518,12
-8/6/2020,Greenlee,Arizona,4011,58,2
-8/6/2020,La Paz,Arizona,4012,477,11
-8/6/2020,Maricopa,Arizona,4013,124022,2259
-8/6/2020,Mohave,Arizona,4015,3137,161
-8/6/2020,Navajo,Arizona,4017,5330,197
-8/6/2020,Pima,Arizona,4019,17293,480
-8/6/2020,Pinal,Arizona,4021,8323,147
-8/6/2020,Santa Cruz,Arizona,4023,2643,51
-8/6/2020,Yavapai,Arizona,4025,1960,66
-8/6/2020,Yuma,Arizona,4027,11379,278
-8/6/2020,Arkansas,Arkansas,5001,208,1
-8/6/2020,Ashley,Arkansas,5003,298,5
-8/6/2020,Baxter,Arkansas,5005,68,0
-8/6/2020,Benton,Arkansas,5007,4663,40
-8/6/2020,Boone,Arkansas,5009,193,1
-8/6/2020,Bradley,Arkansas,5011,173,3
-8/6/2020,Calhoun,Arkansas,5013,13,0
-8/6/2020,Carroll,Arkansas,5015,350,7
-8/6/2020,Chicot,Arkansas,5017,707,8
-8/6/2020,Clark,Arkansas,5019,175,1
-8/6/2020,Clay,Arkansas,5021,118,4
-8/6/2020,Cleburne,Arkansas,5023,188,5
-8/6/2020,Cleveland,Arkansas,5025,87,2
-8/6/2020,Columbia,Arkansas,5027,209,8
-8/6/2020,Conway,Arkansas,5029,143,3
-8/6/2020,Craighead,Arkansas,5031,1264,12
-8/6/2020,Crawford,Arkansas,5033,582,3
-8/6/2020,Crittenden,Arkansas,5035,1315,20
-8/6/2020,Cross,Arkansas,5037,183,3
-8/6/2020,Dallas,Arkansas,5039,59,0
-8/6/2020,Desha,Arkansas,5041,179,2
-8/6/2020,Drew,Arkansas,5043,182,3
-8/6/2020,Faulkner,Arkansas,5045,1252,5
-8/6/2020,Franklin,Arkansas,5047,119,2
-8/6/2020,Fulton,Arkansas,5049,30,0
-8/6/2020,Garland,Arkansas,5051,939,8
-8/6/2020,Grant,Arkansas,5053,131,0
-8/6/2020,Greene,Arkansas,5055,445,1
-8/6/2020,Hempstead,Arkansas,5057,227,2
-8/6/2020,Hot Spring,Arkansas,5059,1484,12
-8/6/2020,Howard,Arkansas,5061,322,3
-8/6/2020,Independence,Arkansas,5063,443,1
-8/6/2020,Izard,Arkansas,5065,47,1
-8/6/2020,Jackson,Arkansas,5067,63,1
-8/6/2020,Jefferson,Arkansas,5069,1423,40
-8/6/2020,Johnson,Arkansas,5071,652,2
-8/6/2020,Lafayette,Arkansas,5073,52,2
-8/6/2020,Lawrence,Arkansas,5075,205,9
-8/6/2020,Lee,Arkansas,5077,890,8
-8/6/2020,Lincoln,Arkansas,5079,1197,11
-8/6/2020,Little River,Arkansas,5081,164,1
-8/6/2020,Logan,Arkansas,5083,225,1
-8/6/2020,Lonoke,Arkansas,5085,482,2
-8/6/2020,Madison,Arkansas,5087,269,2
-8/6/2020,Marion,Arkansas,5089,25,0
-8/6/2020,Miller,Arkansas,5091,495,5
-8/6/2020,Mississippi,Arkansas,5093,914,13
-8/6/2020,Monroe,Arkansas,5095,55,0
-8/6/2020,Montgomery,Arkansas,5097,34,1
-8/6/2020,Nevada,Arkansas,5099,136,9
-8/6/2020,Newton,Arkansas,5101,102,6
-8/6/2020,Ouachita,Arkansas,5103,84,2
-8/6/2020,Perry,Arkansas,5105,50,0
-8/6/2020,Phillips,Arkansas,5107,298,7
-8/6/2020,Pike,Arkansas,5109,91,1
-8/6/2020,Poinsett,Arkansas,5111,217,3
-8/6/2020,Polk,Arkansas,5113,137,1
-8/6/2020,Pope,Arkansas,5115,1276,10
-8/6/2020,Prairie,Arkansas,5117,80,0
-8/6/2020,Pulaski,Arkansas,5119,5222,81
-8/6/2020,Randolph,Arkansas,5121,199,3
-8/6/2020,Saline,Arkansas,5125,975,6
-8/6/2020,Scott,Arkansas,5127,51,0
-8/6/2020,Searcy,Arkansas,5129,28,0
-8/6/2020,Sebastian,Arkansas,5131,2038,17
-8/6/2020,Sevier,Arkansas,5133,969,10
-8/6/2020,Sharp,Arkansas,5135,107,5
-8/6/2020,St. Francis,Arkansas,5123,1165,3
-8/6/2020,Stone,Arkansas,5137,61,1
-8/6/2020,Union,Arkansas,5139,464,17
-8/6/2020,Unknown,Arkansas,,1733,0
-8/6/2020,Van Buren,Arkansas,5141,52,2
-8/6/2020,Washington,Arkansas,5143,6188,51
-8/6/2020,White,Arkansas,5145,289,2
-8/6/2020,Woodruff,Arkansas,5147,20,0
-8/6/2020,Yell,Arkansas,5149,1055,14
-8/6/2020,Alameda,California,6001,12161,193
-8/6/2020,Alpine,California,6003,2,0
-8/6/2020,Amador,California,6005,160,2
-8/6/2020,Butte,California,6007,1060,8
-8/6/2020,Calaveras,California,6009,136,1
-8/6/2020,Colusa,California,6011,361,4
-8/6/2020,Contra Costa,California,6013,8532,134
-8/6/2020,Del Norte,California,6015,96,0
-8/6/2020,El Dorado,California,6017,716,1
-8/6/2020,Fresno,California,6019,16625,157
-8/6/2020,Glenn,California,6021,330,3
-8/6/2020,Humboldt,California,6023,280,4
-8/6/2020,Imperial,California,6025,9601,239
-8/6/2020,Inyo,California,6027,62,1
-8/6/2020,Kern,California,6029,21724,152
-8/6/2020,Kings,California,6031,4453,56
-8/6/2020,Lake,California,6033,209,2
-8/6/2020,Lassen,California,6035,633,0
-8/6/2020,Los Angeles,California,6037,201106,4869
-8/6/2020,Madera,California,6039,2267,36
-8/6/2020,Marin,California,6041,5252,77
-8/6/2020,Mariposa,California,6043,60,2
-8/6/2020,Mendocino,California,6045,363,10
-8/6/2020,Merced,California,6047,4855,62
-8/6/2020,Modoc,California,6049,4,0
-8/6/2020,Mono,California,6051,152,1
-8/6/2020,Monterey,California,6053,5120,35
-8/6/2020,Napa,California,6055,1026,9
-8/6/2020,Nevada,California,6057,327,1
-8/6/2020,Orange,California,6059,38711,697
-8/6/2020,Placer,California,6061,2039,20
-8/6/2020,Plumas,California,6063,25,0
-8/6/2020,Riverside,California,6065,39741,770
-8/6/2020,Sacramento,California,6067,10543,155
-8/6/2020,San Benito,California,6069,699,4
-8/6/2020,San Bernardino,California,6071,34635,490
-8/6/2020,San Diego,California,6073,31190,583
-8/6/2020,San Francisco,California,6075,7231,63
-8/6/2020,San Joaquin,California,6077,12148,192
-8/6/2020,San Luis Obispo,California,6079,2047,16
-8/6/2020,San Mateo,California,6081,5891,120
-8/6/2020,Santa Barbara,California,6083,6652,68
-8/6/2020,Santa Clara,California,6085,11336,197
-8/6/2020,Santa Cruz,California,6087,1213,4
-8/6/2020,Shasta,California,6089,411,9
-8/6/2020,Sierra,California,6091,3,0
-8/6/2020,Siskiyou,California,6093,90,0
-8/6/2020,Solano,California,6095,3964,39
-8/6/2020,Sonoma,California,6097,3358,44
-8/6/2020,Stanislaus,California,6099,9408,151
-8/6/2020,Sutter,California,6101,893,6
-8/6/2020,Tehama,California,6103,231,1
-8/6/2020,Trinity,California,6105,6,0
-8/6/2020,Tulare,California,6107,10334,196
-8/6/2020,Tuolumne,California,6109,147,2
-8/6/2020,Ventura,California,6111,8162,82
-8/6/2020,Yolo,California,6113,1660,42
-8/6/2020,Yuba,California,6115,572,4
-8/6/2020,Adams,Colorado,8001,6307,175
-8/6/2020,Alamosa,Colorado,8003,224,9
-8/6/2020,Arapahoe,Colorado,8005,7194,363
-8/6/2020,Archuleta,Colorado,8007,35,0
-8/6/2020,Baca,Colorado,8009,14,0
-8/6/2020,Bent,Colorado,8011,8,0
-8/6/2020,Boulder,Colorado,8013,2031,75
-8/6/2020,Broomfield,Colorado,8014,445,32
-8/6/2020,Chaffee,Colorado,8015,295,19
-8/6/2020,Cheyenne,Colorado,8017,8,0
-8/6/2020,Clear Creek,Colorado,8019,29,1
-8/6/2020,Conejos,Colorado,8021,23,0
-8/6/2020,Costilla,Colorado,8023,22,0
-8/6/2020,Crowley,Colorado,8025,72,1
-8/6/2020,Custer,Colorado,8027,11,0
-8/6/2020,Delta,Colorado,8029,117,1
-8/6/2020,Denver,Colorado,8031,10052,417
-8/6/2020,Dolores,Colorado,8033,1,0
-8/6/2020,Douglas,Colorado,8035,1702,59
-8/6/2020,Eagle,Colorado,8037,1106,9
-8/6/2020,El Paso,Colorado,8041,5013,138
-8/6/2020,Elbert,Colorado,8039,102,2
-8/6/2020,Fremont,Colorado,8043,116,0
-8/6/2020,Garfield,Colorado,8045,753,4
-8/6/2020,Gilpin,Colorado,8047,16,0
-8/6/2020,Grand,Colorado,8049,45,1
-8/6/2020,Gunnison,Colorado,8051,267,6
-8/6/2020,Hinsdale,Colorado,8053,3,0
-8/6/2020,Huerfano,Colorado,8055,8,1
-8/6/2020,Jackson,Colorado,8057,9,0
-8/6/2020,Jefferson,Colorado,8059,4086,227
-8/6/2020,Kit Carson,Colorado,8063,43,3
-8/6/2020,La Plata,Colorado,8067,204,2
-8/6/2020,Lake,Colorado,8065,74,0
-8/6/2020,Larimer,Colorado,8069,1475,35
-8/6/2020,Las Animas,Colorado,8071,15,0
-8/6/2020,Lincoln,Colorado,8073,8,0
-8/6/2020,Logan,Colorado,8075,649,5
-8/6/2020,Mesa,Colorado,8077,289,4
-8/6/2020,Mineral,Colorado,8079,18,0
-8/6/2020,Moffat,Colorado,8081,26,1
-8/6/2020,Montezuma,Colorado,8083,109,4
-8/6/2020,Montrose,Colorado,8085,292,13
-8/6/2020,Morgan,Colorado,8087,681,46
-8/6/2020,Otero,Colorado,8089,70,6
-8/6/2020,Ouray,Colorado,8091,12,1
-8/6/2020,Park,Colorado,8093,42,1
-8/6/2020,Phillips,Colorado,8095,19,0
-8/6/2020,Pitkin,Colorado,8097,181,2
-8/6/2020,Prowers,Colorado,8099,50,0
-8/6/2020,Pueblo,Colorado,8101,660,34
-8/6/2020,Rio Blanco,Colorado,8103,9,0
-8/6/2020,Rio Grande,Colorado,8105,89,2
-8/6/2020,Routt,Colorado,8107,111,6
-8/6/2020,Saguache,Colorado,8109,106,2
-8/6/2020,San Juan,Colorado,8111,2,0
-8/6/2020,San Miguel,Colorado,8113,80,0
-8/6/2020,Sedgwick,Colorado,8115,11,1
-8/6/2020,Summit,Colorado,8117,327,4
-8/6/2020,Teller,Colorado,8119,122,3
-8/6/2020,Washington,Colorado,8121,47,0
-8/6/2020,Weld,Colorado,8123,3635,142
-8/6/2020,Yuma,Colorado,8125,63,0
-8/6/2020,Fairfield,Connecticut,9001,17926,1406
-8/6/2020,Hartford,Connecticut,9003,12745,1414
-8/6/2020,Litchfield,Connecticut,9005,1607,138
-8/6/2020,Middlesex,Connecticut,9007,1395,191
-8/6/2020,New Haven,Connecticut,9009,13128,1104
-8/6/2020,New London,Connecticut,9011,1431,103
-8/6/2020,Tolland,Connecticut,9013,1055,66
-8/6/2020,Unknown,Connecticut,,234,0
-8/6/2020,Windham,Connecticut,9015,724,15
+8/6/2020,Autauga,Alabama,01001,1096,22
+8/6/2020,Baldwin,Alabama,01003,3438,25
+8/6/2020,Barbour,Alabama,01005,619,5
+8/6/2020,Bibb,Alabama,01007,421,4
+8/6/2020,Blount,Alabama,01009,874,3
+8/6/2020,Bullock,Alabama,01011,458,12
+8/6/2020,Butler,Alabama,01013,771,36
+8/6/2020,Calhoun,Alabama,01015,1741,13
+8/6/2020,Chambers,Alabama,01017,893,38
+8/6/2020,Cherokee,Alabama,01019,283,8
+8/6/2020,Chilton,Alabama,01021,794,7
+8/6/2020,Choctaw,Alabama,01023,282,12
+8/6/2020,Clarke,Alabama,01025,522,9
+8/6/2020,Clay,Alabama,01027,241,5
+8/6/2020,Cleburne,Alabama,01029,126,1
+8/6/2020,Coffee,Alabama,01031,762,5
+8/6/2020,Colbert,Alabama,01033,1159,13
+8/6/2020,Conecuh,Alabama,01035,397,10
+8/6/2020,Coosa,Alabama,01037,114,2
+8/6/2020,Covington,Alabama,01039,843,21
+8/6/2020,Crenshaw,Alabama,01041,328,4
+8/6/2020,Cullman,Alabama,01043,1263,12
+8/6/2020,Dale,Alabama,01045,820,23
+8/6/2020,Dallas,Alabama,01047,1388,23
+8/6/2020,DeKalb,Alabama,01049,1792,15
+8/6/2020,Elmore,Alabama,01051,1739,39
+8/6/2020,Escambia,Alabama,01053,1139,16
+8/6/2020,Etowah,Alabama,01055,2108,30
+8/6/2020,Fayette,Alabama,01057,198,5
+8/6/2020,Franklin,Alabama,01059,1255,20
+8/6/2020,Geneva,Alabama,01061,264,1
+8/6/2020,Greene,Alabama,01063,252,11
+8/6/2020,Hale,Alabama,01065,480,26
+8/6/2020,Henry,Alabama,01067,261,4
+8/6/2020,Houston,Alabama,01069,1397,14
+8/6/2020,Jackson,Alabama,01071,947,6
+8/6/2020,Jefferson,Alabama,01073,12730,234
+8/6/2020,Lamar,Alabama,01075,219,2
+8/6/2020,Lauderdale,Alabama,01077,1135,15
+8/6/2020,Lawrence,Alabama,01079,340,1
+8/6/2020,Lee,Alabama,01081,2743,48
+8/6/2020,Limestone,Alabama,01083,1283,14
+8/6/2020,Lowndes,Alabama,01085,580,26
+8/6/2020,Macon,Alabama,01087,331,13
+8/6/2020,Madison,Alabama,01089,5269,35
+8/6/2020,Marengo,Alabama,01091,544,15
+8/6/2020,Marion,Alabama,01093,595,24
+8/6/2020,Marshall,Alabama,01095,3127,35
+8/6/2020,Mobile,Alabama,01097,9493,209
+8/6/2020,Monroe,Alabama,01099,460,5
+8/6/2020,Montgomery,Alabama,01101,6564,151
+8/6/2020,Morgan,Alabama,01103,2336,19
+8/6/2020,Perry,Alabama,01105,464,4
+8/6/2020,Pickens,Alabama,01107,385,10
+8/6/2020,Pike,Alabama,01109,717,8
+8/6/2020,Randolph,Alabama,01111,407,11
+8/6/2020,Russell,Alabama,01113,1307,2
+8/6/2020,Shelby,Alabama,01117,3352,34
+8/6/2020,St. Clair,Alabama,01115,1379,16
+8/6/2020,Sumter,Alabama,01119,365,18
+8/6/2020,Talladega,Alabama,01121,1187,14
+8/6/2020,Tallapoosa,Alabama,01123,900,80
+8/6/2020,Tuscaloosa,Alabama,01125,4174,71
+8/6/2020,Walker,Alabama,01127,1532,67
+8/6/2020,Washington,Alabama,01129,326,12
+8/6/2020,Wilcox,Alabama,01131,429,10
+8/6/2020,Winston,Alabama,01133,454,11
+8/6/2020,Aleutians East Borough,Alaska,02013,4,0
+8/6/2020,Aleutians West Census Area,Alaska,02016,88,0
+8/6/2020,Anchorage,Alaska,02020,2145,13
+8/6/2020,Bethel Census Area,Alaska,02050,24,0
+8/6/2020,Bristol Bay Borough,Alaska,02060,66,0
+8/6/2020,Denali Borough,Alaska,02068,4,0
+8/6/2020,Dillingham Census Area,Alaska,02070,22,0
+8/6/2020,Fairbanks North Star Borough,Alaska,02090,459,5
+8/6/2020,Haines Borough,Alaska,02100,8,0
+8/6/2020,Juneau City and Borough,Alaska,02110,165,1
+8/6/2020,Kenai Peninsula Borough,Alaska,02122,464,1
+8/6/2020,Ketchikan Gateway Borough,Alaska,02130,51,0
+8/6/2020,Kodiak Island Borough,Alaska,02150,26,0
+8/6/2020,Kusilvak Census Area,Alaska,02158,6,0
+8/6/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/6/2020,Matanuska-Susitna Borough,Alaska,02170,329,2
+8/6/2020,Nome Census Area,Alaska,02180,22,0
+8/6/2020,North Slope Borough,Alaska,02185,18,0
+8/6/2020,Northwest Arctic Borough,Alaska,02188,39,0
+8/6/2020,Petersburg Borough,Alaska,02195,9,0
+8/6/2020,Prince of Wales-Hyder Census Area,Alaska,02198,9,0
+8/6/2020,Sitka City and Borough,Alaska,02220,34,0
+8/6/2020,Southeast Fairbanks Census Area,Alaska,02240,27,0
+8/6/2020,Unknown,Alaska,0,29,0
+8/6/2020,Valdez-Cordova Census Area,Alaska,02261,96,0
+8/6/2020,Wrangell City and Borough,Alaska,02275,15,0
+8/6/2020,Yakutat City and Borough,Alaska,02282,8,0
+8/6/2020,Yukon-Koyukuk Census Area,Alaska,02290,49,1
+8/6/2020,Apache,Arizona,04001,3110,138
+8/6/2020,Cochise,Arizona,04003,1567,52
+8/6/2020,Coconino,Arizona,04005,3043,115
+8/6/2020,Gila,Arizona,04007,884,36
+8/6/2020,Graham,Arizona,04009,518,12
+8/6/2020,Greenlee,Arizona,04011,58,2
+8/6/2020,La Paz,Arizona,04012,477,11
+8/6/2020,Maricopa,Arizona,04013,124022,2259
+8/6/2020,Mohave,Arizona,04015,3137,161
+8/6/2020,Navajo,Arizona,04017,5330,197
+8/6/2020,Pima,Arizona,04019,17293,480
+8/6/2020,Pinal,Arizona,04021,8323,147
+8/6/2020,Santa Cruz,Arizona,04023,2643,51
+8/6/2020,Yavapai,Arizona,04025,1960,66
+8/6/2020,Yuma,Arizona,04027,11379,278
+8/6/2020,Arkansas,0Arkansas,05001,208,1
+8/6/2020,Ashley,Arkansas,05003,298,5
+8/6/2020,Baxter,Arkansas,05005,68,0
+8/6/2020,Benton,Arkansas,05007,4663,40
+8/6/2020,Boone,Arkansas,05009,193,1
+8/6/2020,Bradley,Arkansas,05011,173,3
+8/6/2020,Calhoun,Arkansas,05013,13,0
+8/6/2020,Carroll,Arkansas,05015,350,7
+8/6/2020,Chicot,Arkansas,05017,707,8
+8/6/2020,Clark,Arkansas,05019,175,1
+8/6/2020,Clay,Arkansas,05021,118,4
+8/6/2020,Cleburne,Arkansas,05023,188,5
+8/6/2020,Cleveland,Arkansas,05025,87,2
+8/6/2020,Columbia,Arkansas,05027,209,8
+8/6/2020,Conway,Arkansas,05029,143,3
+8/6/2020,Craighead,Arkansas,05031,1264,12
+8/6/2020,Crawford,Arkansas,05033,582,3
+8/6/2020,Crittenden,Arkansas,05035,1315,20
+8/6/2020,Cross,Arkansas,05037,183,3
+8/6/2020,Dallas,Arkansas,05039,59,0
+8/6/2020,Desha,Arkansas,05041,179,2
+8/6/2020,Drew,Arkansas,05043,182,3
+8/6/2020,Faulkner,Arkansas,05045,1252,5
+8/6/2020,Franklin,Arkansas,05047,119,2
+8/6/2020,Fulton,Arkansas,05049,30,0
+8/6/2020,Garland,Arkansas,05051,939,8
+8/6/2020,Grant,Arkansas,05053,131,0
+8/6/2020,Greene,Arkansas,05055,445,1
+8/6/2020,Hempstead,Arkansas,05057,227,2
+8/6/2020,Hot Spring,Arkansas,05059,1484,12
+8/6/2020,Howard,Arkansas,05061,322,3
+8/6/2020,Independence,Arkansas,05063,443,1
+8/6/2020,Izard,Arkansas,05065,47,1
+8/6/2020,Jackson,Arkansas,05067,63,1
+8/6/2020,Jefferson,Arkansas,05069,1423,40
+8/6/2020,Johnson,Arkansas,05071,652,2
+8/6/2020,Lafayette,Arkansas,05073,52,2
+8/6/2020,Lawrence,Arkansas,05075,205,9
+8/6/2020,Lee,Arkansas,05077,890,8
+8/6/2020,Lincoln,Arkansas,05079,1197,11
+8/6/2020,Little River,Arkansas,05081,164,1
+8/6/2020,Logan,Arkansas,05083,225,1
+8/6/2020,Lonoke,Arkansas,05085,482,2
+8/6/2020,Madison,Arkansas,05087,269,2
+8/6/2020,Marion,Arkansas,05089,25,0
+8/6/2020,Miller,Arkansas,05091,495,5
+8/6/2020,Mississippi,Arkansas,05093,914,13
+8/6/2020,Monroe,Arkansas,05095,55,0
+8/6/2020,Montgomery,Arkansas,05097,34,1
+8/6/2020,Nevada,Arkansas,05099,136,9
+8/6/2020,Newton,Arkansas,05101,102,6
+8/6/2020,Ouachita,Arkansas,05103,84,2
+8/6/2020,Perry,Arkansas,05105,50,0
+8/6/2020,Phillips,Arkansas,05107,298,7
+8/6/2020,Pike,Arkansas,05109,91,1
+8/6/2020,Poinsett,Arkansas,05111,217,3
+8/6/2020,Polk,Arkansas,05113,137,1
+8/6/2020,Pope,Arkansas,05115,1276,10
+8/6/2020,Prairie,Arkansas,05117,80,0
+8/6/2020,Pulaski,Arkansas,05119,5222,81
+8/6/2020,Randolph,Arkansas,05121,199,3
+8/6/2020,Saline,Arkansas,05125,975,6
+8/6/2020,Scott,Arkansas,05127,51,0
+8/6/2020,Searcy,Arkansas,05129,28,0
+8/6/2020,Sebastian,Arkansas,05131,2038,17
+8/6/2020,Sevier,Arkansas,05133,969,10
+8/6/2020,Sharp,Arkansas,05135,107,5
+8/6/2020,St. Francis,Arkansas,05123,1165,3
+8/6/2020,Stone,Arkansas,05137,61,1
+8/6/2020,Union,Arkansas,05139,464,17
+8/6/2020,Unknown,Arkansas,0,1733,0
+8/6/2020,Van Buren,Arkansas,05141,52,2
+8/6/2020,Washington,Arkansas,05143,6188,51
+8/6/2020,White,Arkansas,05145,289,2
+8/6/2020,Woodruff,Arkansas,05147,20,0
+8/6/2020,Yell,Arkansas,05149,1055,14
+8/6/2020,Alameda,California,06001,12161,193
+8/6/2020,Alpine,California,06003,2,0
+8/6/2020,Amador,California,06005,160,2
+8/6/2020,Butte,California,06007,1060,8
+8/6/2020,Calaveras,California,06009,136,1
+8/6/2020,Colusa,California,06011,361,4
+8/6/2020,Contra Costa,California,06013,8532,134
+8/6/2020,Del Norte,California,06015,96,0
+8/6/2020,El Dorado,California,06017,716,1
+8/6/2020,Fresno,California,06019,16625,157
+8/6/2020,Glenn,California,06021,330,3
+8/6/2020,Humboldt,California,06023,280,4
+8/6/2020,Imperial,California,06025,9601,239
+8/6/2020,Inyo,California,06027,62,1
+8/6/2020,Kern,California,06029,21724,152
+8/6/2020,Kings,California,06031,4453,56
+8/6/2020,Lake,California,06033,209,2
+8/6/2020,Lassen,California,06035,633,0
+8/6/2020,Los Angeles,California,06037,201106,4869
+8/6/2020,Madera,California,06039,2267,36
+8/6/2020,Marin,California,06041,5252,77
+8/6/2020,Mariposa,California,06043,60,2
+8/6/2020,Mendocino,California,06045,363,10
+8/6/2020,Merced,California,06047,4855,62
+8/6/2020,Modoc,California,06049,4,0
+8/6/2020,Mono,California,06051,152,1
+8/6/2020,Monterey,California,06053,5120,35
+8/6/2020,Napa,California,06055,1026,9
+8/6/2020,Nevada,California,06057,327,1
+8/6/2020,Orange,California,06059,38711,697
+8/6/2020,Placer,California,06061,2039,20
+8/6/2020,Plumas,California,06063,25,0
+8/6/2020,Riverside,California,06065,39741,770
+8/6/2020,Sacramento,California,06067,10543,155
+8/6/2020,San Benito,California,06069,699,4
+8/6/2020,San Bernardino,California,06071,34635,490
+8/6/2020,San Diego,California,06073,31190,583
+8/6/2020,San Francisco,California,06075,7231,63
+8/6/2020,San Joaquin,California,06077,12148,192
+8/6/2020,San Luis Obispo,California,06079,2047,16
+8/6/2020,San Mateo,California,06081,5891,120
+8/6/2020,Santa Barbara,California,06083,6652,68
+8/6/2020,Santa Clara,California,06085,11336,197
+8/6/2020,Santa Cruz,California,06087,1213,4
+8/6/2020,Shasta,California,06089,411,9
+8/6/2020,Sierra,California,06091,3,0
+8/6/2020,Siskiyou,California,06093,90,0
+8/6/2020,Solano,California,06095,3964,39
+8/6/2020,Sonoma,California,06097,3358,44
+8/6/2020,Stanislaus,California,06099,9408,151
+8/6/2020,Sutter,California,06101,893,6
+8/6/2020,Tehama,California,06103,231,1
+8/6/2020,Trinity,California,06105,6,0
+8/6/2020,Tulare,California,06107,10334,196
+8/6/2020,Tuolumne,California,06109,147,2
+8/6/2020,Ventura,California,06111,8162,82
+8/6/2020,Yolo,California,06113,1660,42
+8/6/2020,Yuba,California,06115,572,4
+8/6/2020,Adams,Colorado,08001,6307,175
+8/6/2020,Alamosa,Colorado,08003,224,9
+8/6/2020,Arapahoe,Colorado,08005,7194,363
+8/6/2020,Archuleta,Colorado,08007,35,0
+8/6/2020,Baca,Colorado,08009,14,0
+8/6/2020,Bent,Colorado,08011,8,0
+8/6/2020,Boulder,Colorado,08013,2031,75
+8/6/2020,Broomfield,Colorado,08014,445,32
+8/6/2020,Chaffee,Colorado,08015,295,19
+8/6/2020,Cheyenne,Colorado,08017,8,0
+8/6/2020,Clear Creek,Colorado,08019,29,1
+8/6/2020,Conejos,Colorado,08021,23,0
+8/6/2020,Costilla,Colorado,08023,22,0
+8/6/2020,Crowley,Colorado,08025,72,1
+8/6/2020,Custer,Colorado,08027,11,0
+8/6/2020,Delta,Colorado,08029,117,1
+8/6/2020,Denver,Colorado,08031,10052,417
+8/6/2020,Dolores,Colorado,08033,1,0
+8/6/2020,Douglas,Colorado,08035,1702,59
+8/6/2020,Eagle,Colorado,08037,1106,9
+8/6/2020,El Paso,Colorado,08041,5013,138
+8/6/2020,Elbert,Colorado,08039,102,2
+8/6/2020,Fremont,Colorado,08043,116,0
+8/6/2020,Garfield,Colorado,08045,753,4
+8/6/2020,Gilpin,Colorado,08047,16,0
+8/6/2020,Grand,Colorado,08049,45,1
+8/6/2020,Gunnison,Colorado,08051,267,6
+8/6/2020,Hinsdale,Colorado,08053,3,0
+8/6/2020,Huerfano,Colorado,08055,8,1
+8/6/2020,Jackson,Colorado,08057,9,0
+8/6/2020,Jefferson,Colorado,08059,4086,227
+8/6/2020,Kit Carson,Colorado,08063,43,3
+8/6/2020,La Plata,Colorado,08067,204,2
+8/6/2020,Lake,Colorado,08065,74,0
+8/6/2020,Larimer,Colorado,08069,1475,35
+8/6/2020,Las Animas,Colorado,08071,15,0
+8/6/2020,Lincoln,Colorado,08073,8,0
+8/6/2020,Logan,Colorado,08075,649,5
+8/6/2020,Mesa,Colorado,08077,289,4
+8/6/2020,Mineral,Colorado,08079,18,0
+8/6/2020,Moffat,Colorado,08081,26,1
+8/6/2020,Montezuma,Colorado,08083,109,4
+8/6/2020,Montrose,Colorado,08085,292,13
+8/6/2020,Morgan,Colorado,08087,681,46
+8/6/2020,Otero,Colorado,08089,70,6
+8/6/2020,Ouray,Colorado,08091,12,1
+8/6/2020,Park,Colorado,08093,42,1
+8/6/2020,Phillips,Colorado,08095,19,0
+8/6/2020,Pitkin,Colorado,08097,181,2
+8/6/2020,Prowers,Colorado,08099,50,0
+8/6/2020,Pueblo,Colorado,08101,660,34
+8/6/2020,Rio Blanco,Colorado,08103,9,0
+8/6/2020,Rio Grande,Colorado,08105,89,2
+8/6/2020,Routt,Colorado,08107,111,6
+8/6/2020,Saguache,Colorado,08109,106,2
+8/6/2020,San Juan,Colorado,08111,2,0
+8/6/2020,San Miguel,Colorado,08113,80,0
+8/6/2020,Sedgwick,Colorado,08115,11,1
+8/6/2020,Summit,Colorado,08117,327,4
+8/6/2020,Teller,Colorado,08119,122,3
+8/6/2020,Washington,Colorado,08121,47,0
+8/6/2020,Weld,Colorado,08123,3635,142
+8/6/2020,Yuma,Colorado,08125,63,0
+8/6/2020,Fairfield,Connecticut,09001,17926,1406
+8/6/2020,Hartford,Connecticut,09003,12745,1414
+8/6/2020,Litchfield,Connecticut,09005,1607,138
+8/6/2020,Middlesex,Connecticut,09007,1395,191
+8/6/2020,New Haven,Connecticut,09009,13128,1104
+8/6/2020,New London,Connecticut,09011,1431,103
+8/6/2020,Tolland,Connecticut,09013,1055,66
+8/6/2020,Unknown,Connecticut,0,234,0
+8/6/2020,Windham,Connecticut,09015,724,15
 8/6/2020,Kent,Delaware,10001,2247,107
 8/6/2020,New Castle,Delaware,10003,7092,289
 8/6/2020,Sussex,Delaware,10005,5786,191
@@ -18727,7 +18727,7 @@ date,county,state,fips,cases,deaths
 8/6/2020,Coleman,Texas,48083,18,0
 8/6/2020,Collin,Texas,48085,7074,87
 8/6/2020,Collingsworth,Texas,48087,8,0
-8/6/2020,Colorado,Texas,48089,265,2
+8/6/2020,Colorado,0Texas,48089,265,2
 8/6/2020,Comal,Texas,48091,2313,67
 8/6/2020,Comanche,Texas,48093,141,3
 8/6/2020,Concho,Texas,48095,26,0
@@ -19305,321 +19305,321 @@ date,county,state,fips,cases,deaths
 8/6/2020,Uinta,Wyoming,56041,272,1
 8/6/2020,Washakie,Wyoming,56043,58,5
 8/6/2020,Weston,Wyoming,56045,5,0
-8/7/2020,Autauga,Alabama,1001,1113,22
-8/7/2020,Baldwin,Alabama,1003,3504,25
-8/7/2020,Barbour,Alabama,1005,624,5
-8/7/2020,Bibb,Alabama,1007,424,4
-8/7/2020,Blount,Alabama,1009,909,3
-8/7/2020,Bullock,Alabama,1011,462,12
-8/7/2020,Butler,Alabama,1013,774,36
-8/7/2020,Calhoun,Alabama,1015,1777,13
-8/7/2020,Chambers,Alabama,1017,899,38
-8/7/2020,Cherokee,Alabama,1019,292,8
-8/7/2020,Chilton,Alabama,1021,817,8
-8/7/2020,Choctaw,Alabama,1023,284,12
-8/7/2020,Clarke,Alabama,1025,525,9
-8/7/2020,Clay,Alabama,1027,254,5
-8/7/2020,Cleburne,Alabama,1029,126,1
-8/7/2020,Coffee,Alabama,1031,777,5
-8/7/2020,Colbert,Alabama,1033,1174,13
-8/7/2020,Conecuh,Alabama,1035,404,10
-8/7/2020,Coosa,Alabama,1037,114,2
-8/7/2020,Covington,Alabama,1039,865,21
-8/7/2020,Crenshaw,Alabama,1041,332,4
-8/7/2020,Cullman,Alabama,1043,1279,12
-8/7/2020,Dale,Alabama,1045,842,23
-8/7/2020,Dallas,Alabama,1047,1403,23
-8/7/2020,DeKalb,Alabama,1049,1823,16
-8/7/2020,Elmore,Alabama,1051,1769,39
-8/7/2020,Escambia,Alabama,1053,1167,16
-8/7/2020,Etowah,Alabama,1055,2144,31
-8/7/2020,Fayette,Alabama,1057,212,5
-8/7/2020,Franklin,Alabama,1059,1275,20
-8/7/2020,Geneva,Alabama,1061,271,1
-8/7/2020,Greene,Alabama,1063,253,11
-8/7/2020,Hale,Alabama,1065,484,26
-8/7/2020,Henry,Alabama,1067,266,4
-8/7/2020,Houston,Alabama,1069,1417,14
-8/7/2020,Jackson,Alabama,1071,973,6
-8/7/2020,Jefferson,Alabama,1073,13005,244
-8/7/2020,Lamar,Alabama,1075,225,2
-8/7/2020,Lauderdale,Alabama,1077,1152,17
-8/7/2020,Lawrence,Alabama,1079,352,1
-8/7/2020,Lee,Alabama,1081,2793,48
-8/7/2020,Limestone,Alabama,1083,1311,14
-8/7/2020,Lowndes,Alabama,1085,580,26
-8/7/2020,Macon,Alabama,1087,343,13
-8/7/2020,Madison,Alabama,1089,5358,35
-8/7/2020,Marengo,Alabama,1091,555,15
-8/7/2020,Marion,Alabama,1093,601,24
-8/7/2020,Marshall,Alabama,1095,3171,35
-8/7/2020,Mobile,Alabama,1097,9646,211
-8/7/2020,Monroe,Alabama,1099,470,5
-8/7/2020,Montgomery,Alabama,1101,6654,151
-8/7/2020,Morgan,Alabama,1103,2371,19
-8/7/2020,Perry,Alabama,1105,465,4
-8/7/2020,Pickens,Alabama,1107,392,10
-8/7/2020,Pike,Alabama,1109,733,8
-8/7/2020,Randolph,Alabama,1111,407,11
-8/7/2020,Russell,Alabama,1113,1372,2
-8/7/2020,Shelby,Alabama,1117,3407,35
-8/7/2020,St. Clair,Alabama,1115,1413,17
-8/7/2020,Sumter,Alabama,1119,367,18
-8/7/2020,Talladega,Alabama,1121,1229,14
-8/7/2020,Tallapoosa,Alabama,1123,917,80
-8/7/2020,Tuscaloosa,Alabama,1125,4221,73
-8/7/2020,Walker,Alabama,1127,1536,67
-8/7/2020,Washington,Alabama,1129,333,12
-8/7/2020,Wilcox,Alabama,1131,434,10
-8/7/2020,Winston,Alabama,1133,460,11
-8/7/2020,Aleutians East Borough,Alaska,2013,4,0
-8/7/2020,Aleutians West Census Area,Alaska,2016,88,0
-8/7/2020,Anchorage,Alaska,2020,2173,13
-8/7/2020,Bethel Census Area,Alaska,2050,24,0
-8/7/2020,Bristol Bay Borough,Alaska,2060,68,0
-8/7/2020,Denali Borough,Alaska,2068,4,0
-8/7/2020,Dillingham Census Area,Alaska,2070,22,0
-8/7/2020,Fairbanks North Star Borough,Alaska,2090,468,5
-8/7/2020,Haines Borough,Alaska,2100,8,0
-8/7/2020,Juneau City and Borough,Alaska,2110,168,1
-8/7/2020,Kenai Peninsula Borough,Alaska,2122,470,1
-8/7/2020,Ketchikan Gateway Borough,Alaska,2130,51,0
-8/7/2020,Kodiak Island Borough,Alaska,2150,35,0
-8/7/2020,Kusilvak Census Area,Alaska,2158,6,0
-8/7/2020,Lake and Peninsula Borough,Alaska,2164,5,0
-8/7/2020,Matanuska-Susitna Borough,Alaska,2170,332,2
-8/7/2020,Nome Census Area,Alaska,2180,22,0
-8/7/2020,North Slope Borough,Alaska,2185,18,0
-8/7/2020,Northwest Arctic Borough,Alaska,2188,40,0
-8/7/2020,Petersburg Borough,Alaska,2195,9,0
-8/7/2020,Prince of Wales-Hyder Census Area,Alaska,2198,9,0
-8/7/2020,Sitka City and Borough,Alaska,2220,35,0
-8/7/2020,Southeast Fairbanks Census Area,Alaska,2240,28,0
-8/7/2020,Unknown,Alaska,,38,0
-8/7/2020,Valdez-Cordova Census Area,Alaska,2261,96,0
-8/7/2020,Wrangell City and Borough,Alaska,2275,15,0
-8/7/2020,Yukon-Koyukuk Census Area,Alaska,2290,50,1
-8/7/2020,Apache,Arizona,4001,3151,138
-8/7/2020,Cochise,Arizona,4003,1591,52
-8/7/2020,Coconino,Arizona,4005,3065,117
-8/7/2020,Gila,Arizona,4007,887,38
-8/7/2020,Graham,Arizona,4009,529,13
-8/7/2020,Greenlee,Arizona,4011,58,2
-8/7/2020,La Paz,Arizona,4012,478,12
-8/7/2020,Maricopa,Arizona,4013,124924,2307
-8/7/2020,Mohave,Arizona,4015,3165,165
-8/7/2020,Navajo,Arizona,4017,5352,199
-8/7/2020,Pima,Arizona,4019,17497,482
-8/7/2020,Pinal,Arizona,4021,8327,157
-8/7/2020,Santa Cruz,Arizona,4023,2651,52
-8/7/2020,Yavapai,Arizona,4025,1968,67
-8/7/2020,Yuma,Arizona,4027,11461,284
-8/7/2020,Arkansas,Arkansas,5001,210,1
-8/7/2020,Ashley,Arkansas,5003,304,5
-8/7/2020,Baxter,Arkansas,5005,69,0
-8/7/2020,Benton,Arkansas,5007,4698,41
-8/7/2020,Boone,Arkansas,5009,201,1
-8/7/2020,Bradley,Arkansas,5011,179,3
-8/7/2020,Calhoun,Arkansas,5013,15,0
-8/7/2020,Carroll,Arkansas,5015,350,7
-8/7/2020,Chicot,Arkansas,5017,718,8
-8/7/2020,Clark,Arkansas,5019,177,1
-8/7/2020,Clay,Arkansas,5021,127,4
-8/7/2020,Cleburne,Arkansas,5023,194,5
-8/7/2020,Cleveland,Arkansas,5025,93,2
-8/7/2020,Columbia,Arkansas,5027,212,8
-8/7/2020,Conway,Arkansas,5029,147,3
-8/7/2020,Craighead,Arkansas,5031,1318,12
-8/7/2020,Crawford,Arkansas,5033,597,3
-8/7/2020,Crittenden,Arkansas,5035,1327,20
-8/7/2020,Cross,Arkansas,5037,190,3
-8/7/2020,Dallas,Arkansas,5039,61,0
-8/7/2020,Desha,Arkansas,5041,187,2
-8/7/2020,Drew,Arkansas,5043,186,3
-8/7/2020,Faulkner,Arkansas,5045,1278,6
-8/7/2020,Franklin,Arkansas,5047,123,2
-8/7/2020,Fulton,Arkansas,5049,35,0
-8/7/2020,Garland,Arkansas,5051,964,9
-8/7/2020,Grant,Arkansas,5053,133,0
-8/7/2020,Greene,Arkansas,5055,459,1
-8/7/2020,Hempstead,Arkansas,5057,233,2
-8/7/2020,Hot Spring,Arkansas,5059,1496,11
-8/7/2020,Howard,Arkansas,5061,327,3
-8/7/2020,Independence,Arkansas,5063,483,1
-8/7/2020,Izard,Arkansas,5065,50,1
-8/7/2020,Jackson,Arkansas,5067,77,1
-8/7/2020,Jefferson,Arkansas,5069,1484,40
-8/7/2020,Johnson,Arkansas,5071,662,2
-8/7/2020,Lafayette,Arkansas,5073,52,2
-8/7/2020,Lawrence,Arkansas,5075,206,9
-8/7/2020,Lee,Arkansas,5077,893,8
-8/7/2020,Lincoln,Arkansas,5079,1209,11
-8/7/2020,Little River,Arkansas,5081,168,1
-8/7/2020,Logan,Arkansas,5083,233,1
-8/7/2020,Lonoke,Arkansas,5085,495,2
-8/7/2020,Madison,Arkansas,5087,269,2
-8/7/2020,Marion,Arkansas,5089,25,0
-8/7/2020,Miller,Arkansas,5091,499,5
-8/7/2020,Mississippi,Arkansas,5093,958,13
-8/7/2020,Monroe,Arkansas,5095,58,0
-8/7/2020,Montgomery,Arkansas,5097,34,1
-8/7/2020,Nevada,Arkansas,5099,137,9
-8/7/2020,Newton,Arkansas,5101,104,6
-8/7/2020,Ouachita,Arkansas,5103,92,2
-8/7/2020,Perry,Arkansas,5105,50,0
-8/7/2020,Phillips,Arkansas,5107,303,7
-8/7/2020,Pike,Arkansas,5109,97,1
-8/7/2020,Poinsett,Arkansas,5111,240,3
-8/7/2020,Polk,Arkansas,5113,140,1
-8/7/2020,Pope,Arkansas,5115,1282,10
-8/7/2020,Prairie,Arkansas,5117,87,0
-8/7/2020,Pulaski,Arkansas,5119,5407,83
-8/7/2020,Randolph,Arkansas,5121,206,3
-8/7/2020,Saline,Arkansas,5125,999,6
-8/7/2020,Scott,Arkansas,5127,55,0
-8/7/2020,Searcy,Arkansas,5129,28,0
-8/7/2020,Sebastian,Arkansas,5131,2079,19
-8/7/2020,Sevier,Arkansas,5133,976,10
-8/7/2020,Sharp,Arkansas,5135,109,5
-8/7/2020,St. Francis,Arkansas,5123,1186,3
-8/7/2020,Stone,Arkansas,5137,64,1
-8/7/2020,Union,Arkansas,5139,472,17
-8/7/2020,Unknown,Arkansas,,1785,0
-8/7/2020,Van Buren,Arkansas,5141,52,2
-8/7/2020,Washington,Arkansas,5143,6231,51
-8/7/2020,White,Arkansas,5145,312,2
-8/7/2020,Woodruff,Arkansas,5147,21,0
-8/7/2020,Yell,Arkansas,5149,1062,14
-8/7/2020,Alameda,California,6001,12161,193
-8/7/2020,Alpine,California,6003,2,0
-8/7/2020,Amador,California,6005,162,2
-8/7/2020,Butte,California,6007,1095,8
-8/7/2020,Calaveras,California,6009,136,1
-8/7/2020,Colusa,California,6011,362,4
-8/7/2020,Contra Costa,California,6013,8760,136
-8/7/2020,Del Norte,California,6015,99,0
-8/7/2020,El Dorado,California,6017,729,1
-8/7/2020,Fresno,California,6019,16641,171
-8/7/2020,Glenn,California,6021,330,3
-8/7/2020,Humboldt,California,6023,282,4
-8/7/2020,Imperial,California,6025,9629,241
-8/7/2020,Inyo,California,6027,62,1
-8/7/2020,Kern,California,6029,22009,160
-8/7/2020,Kings,California,6031,4453,56
-8/7/2020,Lake,California,6033,209,2
-8/7/2020,Lassen,California,6035,638,0
-8/7/2020,Los Angeles,California,6037,204167,4918
-8/7/2020,Madera,California,6039,2302,39
-8/7/2020,Marin,California,6041,5286,77
-8/7/2020,Mariposa,California,6043,60,2
-8/7/2020,Mendocino,California,6045,380,10
-8/7/2020,Merced,California,6047,5012,64
-8/7/2020,Modoc,California,6049,5,0
-8/7/2020,Mono,California,6051,153,1
-8/7/2020,Monterey,California,6053,5156,35
-8/7/2020,Napa,California,6055,1047,9
-8/7/2020,Nevada,California,6057,327,1
-8/7/2020,Orange,California,6059,38754,704
-8/7/2020,Placer,California,6061,2099,20
-8/7/2020,Plumas,California,6063,25,0
-8/7/2020,Riverside,California,6065,40452,799
-8/7/2020,Sacramento,California,6067,10794,161
-8/7/2020,San Benito,California,6069,709,4
-8/7/2020,San Bernardino,California,6071,34939,497
-8/7/2020,San Diego,California,6073,31842,586
-8/7/2020,San Francisco,California,6075,7329,64
-8/7/2020,San Joaquin,California,6077,12303,211
-8/7/2020,San Luis Obispo,California,6079,2093,16
-8/7/2020,San Mateo,California,6081,5978,120
-8/7/2020,Santa Barbara,California,6083,6704,69
-8/7/2020,Santa Clara,California,6085,11475,204
-8/7/2020,Santa Cruz,California,6087,1229,4
-8/7/2020,Shasta,California,6089,411,9
-8/7/2020,Sierra,California,6091,3,0
-8/7/2020,Siskiyou,California,6093,93,0
-8/7/2020,Solano,California,6095,4034,40
-8/7/2020,Sonoma,California,6097,3431,47
-8/7/2020,Stanislaus,California,6099,9566,161
-8/7/2020,Sutter,California,6101,921,7
-8/7/2020,Tehama,California,6103,231,1
-8/7/2020,Trinity,California,6105,6,0
-8/7/2020,Tulare,California,6107,10475,196
-8/7/2020,Tuolumne,California,6109,152,2
-8/7/2020,Ventura,California,6111,8162,89
-8/7/2020,Yolo,California,6113,1690,43
-8/7/2020,Yuba,California,6115,588,4
-8/7/2020,Adams,Colorado,8001,6375,176
-8/7/2020,Alamosa,Colorado,8003,226,9
-8/7/2020,Arapahoe,Colorado,8005,7234,364
-8/7/2020,Archuleta,Colorado,8007,35,0
-8/7/2020,Baca,Colorado,8009,14,0
-8/7/2020,Bent,Colorado,8011,9,0
-8/7/2020,Boulder,Colorado,8013,2049,75
-8/7/2020,Broomfield,Colorado,8014,453,32
-8/7/2020,Chaffee,Colorado,8015,296,19
-8/7/2020,Cheyenne,Colorado,8017,8,0
-8/7/2020,Clear Creek,Colorado,8019,30,1
-8/7/2020,Conejos,Colorado,8021,23,0
-8/7/2020,Costilla,Colorado,8023,22,0
-8/7/2020,Crowley,Colorado,8025,72,1
-8/7/2020,Custer,Colorado,8027,11,0
-8/7/2020,Delta,Colorado,8029,118,1
-8/7/2020,Denver,Colorado,8031,10122,418
-8/7/2020,Dolores,Colorado,8033,1,0
-8/7/2020,Douglas,Colorado,8035,1718,59
-8/7/2020,Eagle,Colorado,8037,1116,9
-8/7/2020,El Paso,Colorado,8041,5069,138
-8/7/2020,Elbert,Colorado,8039,103,2
-8/7/2020,Fremont,Colorado,8043,117,0
-8/7/2020,Garfield,Colorado,8045,757,4
-8/7/2020,Gilpin,Colorado,8047,16,0
-8/7/2020,Grand,Colorado,8049,46,1
-8/7/2020,Gunnison,Colorado,8051,268,6
-8/7/2020,Hinsdale,Colorado,8053,3,0
-8/7/2020,Huerfano,Colorado,8055,8,1
-8/7/2020,Jackson,Colorado,8057,9,0
-8/7/2020,Jefferson,Colorado,8059,4124,228
-8/7/2020,Kit Carson,Colorado,8063,44,3
-8/7/2020,La Plata,Colorado,8067,204,2
-8/7/2020,Lake,Colorado,8065,77,0
-8/7/2020,Larimer,Colorado,8069,1493,35
-8/7/2020,Las Animas,Colorado,8071,15,0
-8/7/2020,Lincoln,Colorado,8073,8,0
-8/7/2020,Logan,Colorado,8075,650,5
-8/7/2020,Mesa,Colorado,8077,293,4
-8/7/2020,Mineral,Colorado,8079,18,0
-8/7/2020,Moffat,Colorado,8081,26,1
-8/7/2020,Montezuma,Colorado,8083,111,4
-8/7/2020,Montrose,Colorado,8085,293,13
-8/7/2020,Morgan,Colorado,8087,683,46
-8/7/2020,Otero,Colorado,8089,71,6
-8/7/2020,Ouray,Colorado,8091,13,1
-8/7/2020,Park,Colorado,8093,42,1
-8/7/2020,Phillips,Colorado,8095,19,0
-8/7/2020,Pitkin,Colorado,8097,182,2
-8/7/2020,Prowers,Colorado,8099,51,0
-8/7/2020,Pueblo,Colorado,8101,674,34
-8/7/2020,Rio Blanco,Colorado,8103,15,0
-8/7/2020,Rio Grande,Colorado,8105,89,2
-8/7/2020,Routt,Colorado,8107,117,7
-8/7/2020,Saguache,Colorado,8109,106,2
-8/7/2020,San Juan,Colorado,8111,2,0
-8/7/2020,San Miguel,Colorado,8113,82,0
-8/7/2020,Sedgwick,Colorado,8115,11,1
-8/7/2020,Summit,Colorado,8117,327,4
-8/7/2020,Teller,Colorado,8119,123,3
-8/7/2020,Washington,Colorado,8121,47,0
-8/7/2020,Weld,Colorado,8123,3680,142
-8/7/2020,Yuma,Colorado,8125,63,0
-8/7/2020,Fairfield,Connecticut,9001,17956,1408
-8/7/2020,Hartford,Connecticut,9003,12761,1415
-8/7/2020,Litchfield,Connecticut,9005,1610,138
-8/7/2020,Middlesex,Connecticut,9007,1396,192
-8/7/2020,New Haven,Connecticut,9009,13145,1104
-8/7/2020,New London,Connecticut,9011,1433,103
-8/7/2020,Tolland,Connecticut,9013,1056,66
-8/7/2020,Unknown,Connecticut,,237,0
-8/7/2020,Windham,Connecticut,9015,726,15
+8/7/2020,Autauga,Alabama,01001,1113,22
+8/7/2020,Baldwin,Alabama,01003,3504,25
+8/7/2020,Barbour,Alabama,01005,624,5
+8/7/2020,Bibb,Alabama,01007,424,4
+8/7/2020,Blount,Alabama,01009,909,3
+8/7/2020,Bullock,Alabama,01011,462,12
+8/7/2020,Butler,Alabama,01013,774,36
+8/7/2020,Calhoun,Alabama,01015,1777,13
+8/7/2020,Chambers,Alabama,01017,899,38
+8/7/2020,Cherokee,Alabama,01019,292,8
+8/7/2020,Chilton,Alabama,01021,817,8
+8/7/2020,Choctaw,Alabama,01023,284,12
+8/7/2020,Clarke,Alabama,01025,525,9
+8/7/2020,Clay,Alabama,01027,254,5
+8/7/2020,Cleburne,Alabama,01029,126,1
+8/7/2020,Coffee,Alabama,01031,777,5
+8/7/2020,Colbert,Alabama,01033,1174,13
+8/7/2020,Conecuh,Alabama,01035,404,10
+8/7/2020,Coosa,Alabama,01037,114,2
+8/7/2020,Covington,Alabama,01039,865,21
+8/7/2020,Crenshaw,Alabama,01041,332,4
+8/7/2020,Cullman,Alabama,01043,1279,12
+8/7/2020,Dale,Alabama,01045,842,23
+8/7/2020,Dallas,Alabama,01047,1403,23
+8/7/2020,DeKalb,Alabama,01049,1823,16
+8/7/2020,Elmore,Alabama,01051,1769,39
+8/7/2020,Escambia,Alabama,01053,1167,16
+8/7/2020,Etowah,Alabama,01055,2144,31
+8/7/2020,Fayette,Alabama,01057,212,5
+8/7/2020,Franklin,Alabama,01059,1275,20
+8/7/2020,Geneva,Alabama,01061,271,1
+8/7/2020,Greene,Alabama,01063,253,11
+8/7/2020,Hale,Alabama,01065,484,26
+8/7/2020,Henry,Alabama,01067,266,4
+8/7/2020,Houston,Alabama,01069,1417,14
+8/7/2020,Jackson,Alabama,01071,973,6
+8/7/2020,Jefferson,Alabama,01073,13005,244
+8/7/2020,Lamar,Alabama,01075,225,2
+8/7/2020,Lauderdale,Alabama,01077,1152,17
+8/7/2020,Lawrence,Alabama,01079,352,1
+8/7/2020,Lee,Alabama,01081,2793,48
+8/7/2020,Limestone,Alabama,01083,1311,14
+8/7/2020,Lowndes,Alabama,01085,580,26
+8/7/2020,Macon,Alabama,01087,343,13
+8/7/2020,Madison,Alabama,01089,5358,35
+8/7/2020,Marengo,Alabama,01091,555,15
+8/7/2020,Marion,Alabama,01093,601,24
+8/7/2020,Marshall,Alabama,01095,3171,35
+8/7/2020,Mobile,Alabama,01097,9646,211
+8/7/2020,Monroe,Alabama,01099,470,5
+8/7/2020,Montgomery,Alabama,01101,6654,151
+8/7/2020,Morgan,Alabama,01103,2371,19
+8/7/2020,Perry,Alabama,01105,465,4
+8/7/2020,Pickens,Alabama,01107,392,10
+8/7/2020,Pike,Alabama,01109,733,8
+8/7/2020,Randolph,Alabama,01111,407,11
+8/7/2020,Russell,Alabama,01113,1372,2
+8/7/2020,Shelby,Alabama,01117,3407,35
+8/7/2020,St. Clair,Alabama,01115,1413,17
+8/7/2020,Sumter,Alabama,01119,367,18
+8/7/2020,Talladega,Alabama,01121,1229,14
+8/7/2020,Tallapoosa,Alabama,01123,917,80
+8/7/2020,Tuscaloosa,Alabama,01125,4221,73
+8/7/2020,Walker,Alabama,01127,1536,67
+8/7/2020,Washington,Alabama,01129,333,12
+8/7/2020,Wilcox,Alabama,01131,434,10
+8/7/2020,Winston,Alabama,01133,460,11
+8/7/2020,Aleutians East Borough,Alaska,02013,4,0
+8/7/2020,Aleutians West Census Area,Alaska,02016,88,0
+8/7/2020,Anchorage,Alaska,02020,2173,13
+8/7/2020,Bethel Census Area,Alaska,02050,24,0
+8/7/2020,Bristol Bay Borough,Alaska,02060,68,0
+8/7/2020,Denali Borough,Alaska,02068,4,0
+8/7/2020,Dillingham Census Area,Alaska,02070,22,0
+8/7/2020,Fairbanks North Star Borough,Alaska,02090,468,5
+8/7/2020,Haines Borough,Alaska,02100,8,0
+8/7/2020,Juneau City and Borough,Alaska,02110,168,1
+8/7/2020,Kenai Peninsula Borough,Alaska,02122,470,1
+8/7/2020,Ketchikan Gateway Borough,Alaska,02130,51,0
+8/7/2020,Kodiak Island Borough,Alaska,02150,35,0
+8/7/2020,Kusilvak Census Area,Alaska,02158,6,0
+8/7/2020,Lake and Peninsula Borough,Alaska,02164,5,0
+8/7/2020,Matanuska-Susitna Borough,Alaska,02170,332,2
+8/7/2020,Nome Census Area,Alaska,02180,22,0
+8/7/2020,North Slope Borough,Alaska,02185,18,0
+8/7/2020,Northwest Arctic Borough,Alaska,02188,40,0
+8/7/2020,Petersburg Borough,Alaska,02195,9,0
+8/7/2020,Prince of Wales-Hyder Census Area,Alaska,02198,9,0
+8/7/2020,Sitka City and Borough,Alaska,02220,35,0
+8/7/2020,Southeast Fairbanks Census Area,Alaska,02240,28,0
+8/7/2020,Unknown,Alaska,0,38,0
+8/7/2020,Valdez-Cordova Census Area,Alaska,02261,96,0
+8/7/2020,Wrangell City and Borough,Alaska,02275,15,0
+8/7/2020,Yukon-Koyukuk Census Area,Alaska,02290,50,1
+8/7/2020,Apache,Arizona,04001,3151,138
+8/7/2020,Cochise,Arizona,04003,1591,52
+8/7/2020,Coconino,Arizona,04005,3065,117
+8/7/2020,Gila,Arizona,04007,887,38
+8/7/2020,Graham,Arizona,04009,529,13
+8/7/2020,Greenlee,Arizona,04011,58,2
+8/7/2020,La Paz,Arizona,04012,478,12
+8/7/2020,Maricopa,Arizona,04013,124924,2307
+8/7/2020,Mohave,Arizona,04015,3165,165
+8/7/2020,Navajo,Arizona,04017,5352,199
+8/7/2020,Pima,Arizona,04019,17497,482
+8/7/2020,Pinal,Arizona,04021,8327,157
+8/7/2020,Santa Cruz,Arizona,04023,2651,52
+8/7/2020,Yavapai,Arizona,04025,1968,67
+8/7/2020,Yuma,Arizona,04027,11461,284
+8/7/2020,Arkansas,0Arkansas,05001,210,1
+8/7/2020,Ashley,Arkansas,05003,304,5
+8/7/2020,Baxter,Arkansas,05005,69,0
+8/7/2020,Benton,Arkansas,05007,4698,41
+8/7/2020,Boone,Arkansas,05009,201,1
+8/7/2020,Bradley,Arkansas,05011,179,3
+8/7/2020,Calhoun,Arkansas,05013,15,0
+8/7/2020,Carroll,Arkansas,05015,350,7
+8/7/2020,Chicot,Arkansas,05017,718,8
+8/7/2020,Clark,Arkansas,05019,177,1
+8/7/2020,Clay,Arkansas,05021,127,4
+8/7/2020,Cleburne,Arkansas,05023,194,5
+8/7/2020,Cleveland,Arkansas,05025,93,2
+8/7/2020,Columbia,Arkansas,05027,212,8
+8/7/2020,Conway,Arkansas,05029,147,3
+8/7/2020,Craighead,Arkansas,05031,1318,12
+8/7/2020,Crawford,Arkansas,05033,597,3
+8/7/2020,Crittenden,Arkansas,05035,1327,20
+8/7/2020,Cross,Arkansas,05037,190,3
+8/7/2020,Dallas,Arkansas,05039,61,0
+8/7/2020,Desha,Arkansas,05041,187,2
+8/7/2020,Drew,Arkansas,05043,186,3
+8/7/2020,Faulkner,Arkansas,05045,1278,6
+8/7/2020,Franklin,Arkansas,05047,123,2
+8/7/2020,Fulton,Arkansas,05049,35,0
+8/7/2020,Garland,Arkansas,05051,964,9
+8/7/2020,Grant,Arkansas,05053,133,0
+8/7/2020,Greene,Arkansas,05055,459,1
+8/7/2020,Hempstead,Arkansas,05057,233,2
+8/7/2020,Hot Spring,Arkansas,05059,1496,11
+8/7/2020,Howard,Arkansas,05061,327,3
+8/7/2020,Independence,Arkansas,05063,483,1
+8/7/2020,Izard,Arkansas,05065,50,1
+8/7/2020,Jackson,Arkansas,05067,77,1
+8/7/2020,Jefferson,Arkansas,05069,1484,40
+8/7/2020,Johnson,Arkansas,05071,662,2
+8/7/2020,Lafayette,Arkansas,05073,52,2
+8/7/2020,Lawrence,Arkansas,05075,206,9
+8/7/2020,Lee,Arkansas,05077,893,8
+8/7/2020,Lincoln,Arkansas,05079,1209,11
+8/7/2020,Little River,Arkansas,05081,168,1
+8/7/2020,Logan,Arkansas,05083,233,1
+8/7/2020,Lonoke,Arkansas,05085,495,2
+8/7/2020,Madison,Arkansas,05087,269,2
+8/7/2020,Marion,Arkansas,05089,25,0
+8/7/2020,Miller,Arkansas,05091,499,5
+8/7/2020,Mississippi,Arkansas,05093,958,13
+8/7/2020,Monroe,Arkansas,05095,58,0
+8/7/2020,Montgomery,Arkansas,05097,34,1
+8/7/2020,Nevada,Arkansas,05099,137,9
+8/7/2020,Newton,Arkansas,05101,104,6
+8/7/2020,Ouachita,Arkansas,05103,92,2
+8/7/2020,Perry,Arkansas,05105,50,0
+8/7/2020,Phillips,Arkansas,05107,303,7
+8/7/2020,Pike,Arkansas,05109,97,1
+8/7/2020,Poinsett,Arkansas,05111,240,3
+8/7/2020,Polk,Arkansas,05113,140,1
+8/7/2020,Pope,Arkansas,05115,1282,10
+8/7/2020,Prairie,Arkansas,05117,87,0
+8/7/2020,Pulaski,Arkansas,05119,5407,83
+8/7/2020,Randolph,Arkansas,05121,206,3
+8/7/2020,Saline,Arkansas,05125,999,6
+8/7/2020,Scott,Arkansas,05127,55,0
+8/7/2020,Searcy,Arkansas,05129,28,0
+8/7/2020,Sebastian,Arkansas,05131,2079,19
+8/7/2020,Sevier,Arkansas,05133,976,10
+8/7/2020,Sharp,Arkansas,05135,109,5
+8/7/2020,St. Francis,Arkansas,05123,1186,3
+8/7/2020,Stone,Arkansas,05137,64,1
+8/7/2020,Union,Arkansas,05139,472,17
+8/7/2020,Unknown,Arkansas,0,1785,0
+8/7/2020,Van Buren,Arkansas,05141,52,2
+8/7/2020,Washington,Arkansas,05143,6231,51
+8/7/2020,White,Arkansas,05145,312,2
+8/7/2020,Woodruff,Arkansas,05147,21,0
+8/7/2020,Yell,Arkansas,05149,1062,14
+8/7/2020,Alameda,California,06001,12161,193
+8/7/2020,Alpine,California,06003,2,0
+8/7/2020,Amador,California,06005,162,2
+8/7/2020,Butte,California,06007,1095,8
+8/7/2020,Calaveras,California,06009,136,1
+8/7/2020,Colusa,California,06011,362,4
+8/7/2020,Contra Costa,California,06013,8760,136
+8/7/2020,Del Norte,California,06015,99,0
+8/7/2020,El Dorado,California,06017,729,1
+8/7/2020,Fresno,California,06019,16641,171
+8/7/2020,Glenn,California,06021,330,3
+8/7/2020,Humboldt,California,06023,282,4
+8/7/2020,Imperial,California,06025,9629,241
+8/7/2020,Inyo,California,06027,62,1
+8/7/2020,Kern,California,06029,22009,160
+8/7/2020,Kings,California,06031,4453,56
+8/7/2020,Lake,California,06033,209,2
+8/7/2020,Lassen,California,06035,638,0
+8/7/2020,Los Angeles,California,06037,204167,4918
+8/7/2020,Madera,California,06039,2302,39
+8/7/2020,Marin,California,06041,5286,77
+8/7/2020,Mariposa,California,06043,60,2
+8/7/2020,Mendocino,California,06045,380,10
+8/7/2020,Merced,California,06047,5012,64
+8/7/2020,Modoc,California,06049,5,0
+8/7/2020,Mono,California,06051,153,1
+8/7/2020,Monterey,California,06053,5156,35
+8/7/2020,Napa,California,06055,1047,9
+8/7/2020,Nevada,California,06057,327,1
+8/7/2020,Orange,California,06059,38754,704
+8/7/2020,Placer,California,06061,2099,20
+8/7/2020,Plumas,California,06063,25,0
+8/7/2020,Riverside,California,06065,40452,799
+8/7/2020,Sacramento,California,06067,10794,161
+8/7/2020,San Benito,California,06069,709,4
+8/7/2020,San Bernardino,California,06071,34939,497
+8/7/2020,San Diego,California,06073,31842,586
+8/7/2020,San Francisco,California,06075,7329,64
+8/7/2020,San Joaquin,California,06077,12303,211
+8/7/2020,San Luis Obispo,California,06079,2093,16
+8/7/2020,San Mateo,California,06081,5978,120
+8/7/2020,Santa Barbara,California,06083,6704,69
+8/7/2020,Santa Clara,California,06085,11475,204
+8/7/2020,Santa Cruz,California,06087,1229,4
+8/7/2020,Shasta,California,06089,411,9
+8/7/2020,Sierra,California,06091,3,0
+8/7/2020,Siskiyou,California,06093,93,0
+8/7/2020,Solano,California,06095,4034,40
+8/7/2020,Sonoma,California,06097,3431,47
+8/7/2020,Stanislaus,California,06099,9566,161
+8/7/2020,Sutter,California,06101,921,7
+8/7/2020,Tehama,California,06103,231,1
+8/7/2020,Trinity,California,06105,6,0
+8/7/2020,Tulare,California,06107,10475,196
+8/7/2020,Tuolumne,California,06109,152,2
+8/7/2020,Ventura,California,06111,8162,89
+8/7/2020,Yolo,California,06113,1690,43
+8/7/2020,Yuba,California,06115,588,4
+8/7/2020,Adams,Colorado,08001,6375,176
+8/7/2020,Alamosa,Colorado,08003,226,9
+8/7/2020,Arapahoe,Colorado,08005,7234,364
+8/7/2020,Archuleta,Colorado,08007,35,0
+8/7/2020,Baca,Colorado,08009,14,0
+8/7/2020,Bent,Colorado,08011,9,0
+8/7/2020,Boulder,Colorado,08013,2049,75
+8/7/2020,Broomfield,Colorado,08014,453,32
+8/7/2020,Chaffee,Colorado,08015,296,19
+8/7/2020,Cheyenne,Colorado,08017,8,0
+8/7/2020,Clear Creek,Colorado,08019,30,1
+8/7/2020,Conejos,Colorado,08021,23,0
+8/7/2020,Costilla,Colorado,08023,22,0
+8/7/2020,Crowley,Colorado,08025,72,1
+8/7/2020,Custer,Colorado,08027,11,0
+8/7/2020,Delta,Colorado,08029,118,1
+8/7/2020,Denver,Colorado,08031,10122,418
+8/7/2020,Dolores,Colorado,08033,1,0
+8/7/2020,Douglas,Colorado,08035,1718,59
+8/7/2020,Eagle,Colorado,08037,1116,9
+8/7/2020,El Paso,Colorado,08041,5069,138
+8/7/2020,Elbert,Colorado,08039,103,2
+8/7/2020,Fremont,Colorado,08043,117,0
+8/7/2020,Garfield,Colorado,08045,757,4
+8/7/2020,Gilpin,Colorado,08047,16,0
+8/7/2020,Grand,Colorado,08049,46,1
+8/7/2020,Gunnison,Colorado,08051,268,6
+8/7/2020,Hinsdale,Colorado,08053,3,0
+8/7/2020,Huerfano,Colorado,08055,8,1
+8/7/2020,Jackson,Colorado,08057,9,0
+8/7/2020,Jefferson,Colorado,08059,4124,228
+8/7/2020,Kit Carson,Colorado,08063,44,3
+8/7/2020,La Plata,Colorado,08067,204,2
+8/7/2020,Lake,Colorado,08065,77,0
+8/7/2020,Larimer,Colorado,08069,1493,35
+8/7/2020,Las Animas,Colorado,08071,15,0
+8/7/2020,Lincoln,Colorado,08073,8,0
+8/7/2020,Logan,Colorado,08075,650,5
+8/7/2020,Mesa,Colorado,08077,293,4
+8/7/2020,Mineral,Colorado,08079,18,0
+8/7/2020,Moffat,Colorado,08081,26,1
+8/7/2020,Montezuma,Colorado,08083,111,4
+8/7/2020,Montrose,Colorado,08085,293,13
+8/7/2020,Morgan,Colorado,08087,683,46
+8/7/2020,Otero,Colorado,08089,71,6
+8/7/2020,Ouray,Colorado,08091,13,1
+8/7/2020,Park,Colorado,08093,42,1
+8/7/2020,Phillips,Colorado,08095,19,0
+8/7/2020,Pitkin,Colorado,08097,182,2
+8/7/2020,Prowers,Colorado,08099,51,0
+8/7/2020,Pueblo,Colorado,08101,674,34
+8/7/2020,Rio Blanco,Colorado,08103,15,0
+8/7/2020,Rio Grande,Colorado,08105,89,2
+8/7/2020,Routt,Colorado,08107,117,7
+8/7/2020,Saguache,Colorado,08109,106,2
+8/7/2020,San Juan,Colorado,08111,2,0
+8/7/2020,San Miguel,Colorado,08113,82,0
+8/7/2020,Sedgwick,Colorado,08115,11,1
+8/7/2020,Summit,Colorado,08117,327,4
+8/7/2020,Teller,Colorado,08119,123,3
+8/7/2020,Washington,Colorado,08121,47,0
+8/7/2020,Weld,Colorado,08123,3680,142
+8/7/2020,Yuma,Colorado,08125,63,0
+8/7/2020,Fairfield,Connecticut,09001,17956,1408
+8/7/2020,Hartford,Connecticut,09003,12761,1415
+8/7/2020,Litchfield,Connecticut,09005,1610,138
+8/7/2020,Middlesex,Connecticut,09007,1396,192
+8/7/2020,New Haven,Connecticut,09009,13145,1104
+8/7/2020,New London,Connecticut,09011,1433,103
+8/7/2020,Tolland,Connecticut,09013,1056,66
+8/7/2020,Unknown,Connecticut,0,237,0
+8/7/2020,Windham,Connecticut,09015,726,15
 8/7/2020,Kent,Delaware,10001,2268,107
 8/7/2020,New Castle,Delaware,10003,7130,289
 8/7/2020,Sussex,Delaware,10005,5803,192
@@ -21946,7 +21946,7 @@ date,county,state,fips,cases,deaths
 8/7/2020,Coleman,Texas,48083,19,0
 8/7/2020,Collin,Texas,48085,7268,89
 8/7/2020,Collingsworth,Texas,48087,11,0
-8/7/2020,Colorado,Texas,48089,272,2
+8/7/2020,Colorado,0Texas,48089,272,2
 8/7/2020,Comal,Texas,48091,2359,68
 8/7/2020,Comanche,Texas,48093,141,3
 8/7/2020,Concho,Texas,48095,28,0
