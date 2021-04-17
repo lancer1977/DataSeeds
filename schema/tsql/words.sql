@@ -1,3 +1,4 @@
+ DROP TABLE [dbo].[WordDto]
 CREATE TABLE [dbo].[WordDto] (
 	[Id] INT IDENTITY(1, 1) NOT NULL,
 	[Name] VARCHAR(255),
@@ -10,13 +11,14 @@ CREATE TABLE [dbo].[WordDto] (
 	Targets VARCHAR(50),
 	[Save] VARCHAR(50),
 	Harmless BIT NOT NULL,
-	Resistance BIT NOT NULL,
+	Resistance BIT  ,
 	[Description] VARCHAR(MAX),
 	[Boost1] VARCHAR(300),
 	[Boost2] VARCHAR(255),
 	Alchemist INT NOT NULL,
 	Bard INT NOT NULL,
-	SorWiz INT NOT NULL,
+	Sorcerer INT NOT NULL,
+	Wizard INT NOT NULL,
 	Cleric INT NOT NULL,
 	Druid INT NOT NULL,
 	Inquisitor INT NOT NULL,
@@ -25,4 +27,8 @@ CREATE TABLE [dbo].[WordDto] (
 	Ranger INT NOT NULL,
 	Paladin INT NOT NULL,
 	Magus INT NOT NULL,
+	[Level] INT NOT NULL,
+	[Range] varchar(300),
+	[Target] varchar(300),
+	[SR] bit NOT NULL
 	)

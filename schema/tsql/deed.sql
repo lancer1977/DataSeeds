@@ -5,5 +5,6 @@ CREATE TABLE [dbo].[DeedDto] (
 	[Cost] INT NOT NULL,
 	[Level] INT,
 	[Passive] BIT,
-	[Implemented] BIT
+	[Implemented] BIT,
+	[ClassName] VARCHAR(100)
 	)

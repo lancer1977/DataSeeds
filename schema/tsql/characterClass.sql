@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[CharacterClassDto] (
+CREATE TABLE [dbo].[ClassDto] (
 	[Id] INT IDENTITY(1, 1) NOT NULL,
 	[Name] VARCHAR(50),
 	[PrimaryStat] VARCHAR(15),

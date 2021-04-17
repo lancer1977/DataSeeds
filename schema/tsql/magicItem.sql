@@ -1,4 +1,6 @@
-CREATE TABLE [dbo].[MagicItemDto] (
+DROP TABLE [dbo].[MagicItemDto] 
+CREATE TABLE [dbo].[MagicItemDto] 
+(
 	[Id] INT IDENTITY(1, 1) NOT NULL,
 	[Name] VARCHAR(80),
 	Effect VARCHAR(50),
@@ -22,7 +24,7 @@ CREATE TABLE [dbo].[MagicItemDto] (
 	Senses VARCHAR(85),
 	Powers VARCHAR(150),
 	MagicItems VARCHAR(250),
-	Destruction VARCHAR(300),
+	Destruction VARCHAR(400) NULL,
 	MinorArtifactFlag BIT NULL,
 	MajorArtifactFlag BIT NULL,
 	Abjuration BIT NULL,
