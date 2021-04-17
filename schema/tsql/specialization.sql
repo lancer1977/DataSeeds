@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[SpecializationDto] (
+	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Name] VARCHAR(50) NULL,
+	[Type] VARCHAR(20) NULL,
+	[Power1] VARCHAR(300) NULL,
+	[Power2] VARCHAR(300) NULL,
+	[Power3] VARCHAR(300) NULL,
+	[Power4] VARCHAR(300) NULL,
+	[Power5] VARCHAR(300) NULL,
+	[Feat] VARCHAR(200) NULL,
+	[Skill] VARCHAR(60) NULL,
+	[Power] VARCHAR(300) NULL,
+	[Subtype] VARCHAR(100) NULL,
+	[Description] VARCHAR(MAX) NULL,
+	[Spells] VARCHAR(300) NULL
+	);

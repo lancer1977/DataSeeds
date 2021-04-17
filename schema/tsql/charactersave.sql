@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[CharacterSave] (
+	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Name] VARCHAR(255),
+	AzureId VARCHAR(50),
+	[Data] VARCHAR(50),
+	UserId VARCHAR(50),
+	Deleted BIT NOT NULL,
+	DateChanged DATETIME
+	)

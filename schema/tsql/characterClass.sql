@@ -1,0 +1,20 @@
+CREATE TABLE [dbo].[CharacterClassDto] (
+	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Name] VARCHAR(50),
+	[PrimaryStat] VARCHAR(15),
+	CasterType VARCHAR(20),
+	[AlternateClass] VARCHAR(35),
+	Hitdie INT NOT NULL,
+	Fortitude VARCHAR(30),
+	Reflex VARCHAR(30),
+	Will VARCHAR(30),
+	Skillsperlevel INT NOT NULL,
+	ClassSkills VARCHAR(300),
+	[System] VARCHAR(20),
+	[Source] VARCHAR(10),
+	License VARCHAR(10),
+	[Description] VARCHAR(300),
+	[Type] VARCHAR(20),
+	Bab VARCHAR(20),
+	Gold VARCHAR(10)
+	)
