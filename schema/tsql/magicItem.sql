@@ -1,7 +1,6 @@
-DROP TABLE [dbo].[MagicItemDto] 
 CREATE TABLE [dbo].[MagicItemDto] 
 (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(80),
 	Effect VARCHAR(50),
 	Implemented BIT NOT NULL,

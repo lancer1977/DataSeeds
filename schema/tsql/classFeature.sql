@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[ClassFeatureDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(200),
 	Archtype VARCHAR(50),
 	SpellLike VARCHAR(30),
@@ -11,5 +11,3 @@ CREATE TABLE [dbo].[ClassFeatureDto] (
 	[Description] VARCHAR(MAX),
 	ClassName VARCHAR(50)
 	)
-
-DROP TABLE [dbo].[ClassFeature]

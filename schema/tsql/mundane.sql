@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[MundaneItemDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(250),
 	Cost INT NOT NULL,
 	[Weight] VARCHAR(50),

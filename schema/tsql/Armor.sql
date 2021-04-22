@@ -1,6 +1,6 @@
 --DROp  TABLE [dbo].[ArmorDto]
 CREATE TABLE [dbo].[ArmorDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(40) NOT NULL,
 	[Cost] INT NULL,
 	[Weight] INT NULL,

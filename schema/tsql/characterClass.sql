@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[ClassDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(50),
 	[PrimaryStat] VARCHAR(15),
 	CasterType VARCHAR(20),

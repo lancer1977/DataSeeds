@@ -1,6 +1,6 @@
 
 CREATE TABLE [dbo].[WeaponFeatureDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(50),
 	Aura VARCHAR(50),
 	Craft VARCHAR(150),

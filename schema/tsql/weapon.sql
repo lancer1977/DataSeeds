@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[WeaponDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(255),
 	[Description] VARCHAR(50),
 	Cost INT NOT NULL,

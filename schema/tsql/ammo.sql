@@ -1,7 +1,5 @@
-DROP TABLE dbo.AmmoDto;
-
 CREATE TABLE [dbo].[AmmoDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(50),
 	Cost INT NOT NULL,
 	[Weight] INT,

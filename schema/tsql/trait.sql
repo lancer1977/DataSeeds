@@ -1,7 +1,7 @@
-DROP TABLE [dbo].[TraitDto]
+
 CREATE TABLE [dbo].[TraitDto]
 (
-	[Id] INT IDENTITY(1, 1) NOT NULL, 
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY, 
 	[Name] VARCHAR(255),
 	--Imp BIT NOT NULL,
 	Options VARCHAR(80),

@@ -1,6 +1,5 @@
  
-drop table CharacterClass;
-drop table CharacterClassDto;
+drop table CharacterClass; 
  drop table CharacterSave;
 drop table Archtype;
 Drop Table Ammo;
@@ -17,7 +16,7 @@ Drop Table Ammo;
  Drop Table MagicItem;
   Drop Table Monster; 
  Drop Table MundaneItem; 
- Drop Table Power; 
+ Drop Table [Power]; 
  Drop Table Race; 
  Drop Table RacialTrait;
  Drop Table  Skill;

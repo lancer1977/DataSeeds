@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[PowerDto] (
-	[Id] INT IDENTITY(1, 1) NOT NULL,
+	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
 	[Name] VARCHAR(275),
 	[Type] VARCHAR(50),
 	Implemented BIT NOT NULL,
