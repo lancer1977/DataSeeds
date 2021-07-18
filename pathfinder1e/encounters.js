@@ -669,7 +669,7 @@
       "Roll": 96,
       "Encounter": "1 sphinx",
       "CR": 5,
-      "TableID": ""
+      "TableID": 5
     },
     {
       "Roll": 98,
