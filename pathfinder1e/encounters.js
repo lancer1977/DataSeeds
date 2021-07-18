@@ -3236,7 +3236,7 @@
     {
       "Roll": 30,
       "Encounter": "Robbery in progress (1d4 thugs)",
-      "CR": "0 or 5",
+      "CR": 5,
       "TableID": 30
     },
     {
@@ -3296,7 +3296,7 @@
     {
       "Roll": 25,
       "Encounter": "1d4 wererats",
-      "CR": "Varies",
+      "CR": 0,
       "TableID": 31
     },
     {
@@ -4256,7 +4256,7 @@
     {
       "Roll": 36,
       "Encounter": "Rival adventurers",
-      "CR": "varies",
+      "CR": 0,
       "TableID": 43
     },
     {
@@ -4994,7 +4994,7 @@
     {
       "Roll": 99,
       "Encounter": "demonic host",
-      "CR": "15+",
+      "CR": 15,
       "TableID": 47
     },
     {
@@ -5228,13 +5228,13 @@
     {
       "Roll": 94,
       "Encounter": "Haunting",
-      "CR": "",
+      "CR": 0,
       "TableID": 49
     },
     {
       "Roll": 100,
       "Encounter": "Priests",
-      "CR": "",
+      "CR": 0,
       "TableID": 49
     },
     {
@@ -5366,19 +5366,19 @@
     {
       "Roll": 88,
       "Encounter": "Orcs",
-      "CR": "",
+      "CR": 0,
       "TableID": 50
     },
     {
       "Roll": 95,
       "Encounter": "Primitive warriors",
-      "CR": "",
+      "CR": 0,
       "TableID": 50
     },
     {
       "Roll": 99,
       "Encounter": "dangerous lands",
-      "CR": "",
+      "CR": 0,
       "TableID": 50
     },
     {
@@ -5654,19 +5654,19 @@
     {
       "Roll": 94,
       "Encounter": "Quicksand",
-      "CR": "",
+      "CR": 0,
       "TableID": 51
     },
     {
       "Roll": 99,
       "Encounter": "Boggards",
-      "CR": "",
+      "CR": 0,
       "TableID": 51
     },
     {
       "Roll": 100,
       "Encounter": "dragon",
-      "CR": "",
+      "CR": 0,
       "TableID": 51
     }
   ]
