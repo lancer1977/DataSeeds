@@ -1,0 +1,52 @@
+Name,Id
+Dungeon Low,1
+Dungeon Medium,2
+Dungeon Hard,3
+Underground,4
+Ruined City,5
+Urban/dangerous City,6
+Coastal,7
+Shallows,8
+deep Sea,9
+Islands,10
+Level Ocean Encounters,11
+Ocean (Avg. CR 8),12
+Swamp,13
+Desert,14
+Forest (Temperate),15
+Jungle (Warm) (Avg. CR 5),16
+Hill/Mountain (Avg. CR 8),17
+Plains/Savannah (Warm) (Avg. CR 7),18
+Cold Mountains Low,19
+Cold Mountains Medium,20
+Cold Mountains High,21
+High Mountains,22
+Underground City Low,23
+Underground City Medium Level,24
+Underground City High Level,25
+Ruined City Low Level,26
+Ruined City Medium Level,27
+Ruined City High Level,28
+City Streets,29
+City Slums,30
+City Sewers,31
+Overgrown Fallen City,32
+Overgrown Fallen Medium Level,33
+Overgrown Fallen High Level,34
+Ruined City Risen from the Sea,35
+Ruined City Risen from the Sea Medium Level,36
+Ruined City Risen from the SeaHigh Level,37
+Ruined City in the desert,38
+Ruined City in the desert Medium Level,39
+Ruined City in the desert High Level,40
+Jungle Random Encounters,41
+Plains Random Encounters,42
+Jungle City Random Encounters,43
+Ruined Underground City,44
+Ruined desert Village,45
+Lawless Port City,46
+Dark and Twisted Swamp,47
+Sewers Random Encounters,48
+Crypt Random Encounters,49
+Scorched Land,50
+Dark Bog Random Encounters,51

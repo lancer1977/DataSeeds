@@ -1,0 +1,946 @@
+Roll,Encounter,CR,ID
+6,1d6 dire rats,1,1
+12,1d6 fire beetles,1,1
+20,1d6 human skeletons,1,1
+24,1d4 giant centipedes,1,1
+26,1 spider swarm,1,1
+32,1d6 human zombies,2,1
+34,1 choker,2,1
+36,1 skeletal champion,2,1
+44,2d6 goblins,3,1
+48,1d4 ghouls,3,1
+54,1d4 giant spiders,3,1
+56,1 cockatrice,3,1
+60,1 gelatinous cube,3,1
+64,1 rust monster,3,1
+68,1 shadow,3,1
+70,1 wight,3,1
+76,2d4 stirges,4,1
+82,1d6 darkmantles,4,1
+86,1d6 troglodytes,4,1
+90,1d4 bugbears,4,1
+92,1d4 vargouilles,4,1
+94,1 gray ooze,4,1
+96,1 mimic,4,1
+100,1 ogre,4,1
+4,1 gelatinous cube,3,2
+8,1 rust monster,3,2
+16,2d4 stirges,3,2
+22,1 gray ooze,4,2
+26,1 mimic,4,2
+30,1 basilisk,5,2
+34,1 cloaker,5,2
+38,1 gibbering mouther,5,2
+42,1 ochre jelly,5,2
+46,1 wraith,5,2
+48,1 bearded devil,5,2
+52,1d4 shadows,5,2
+56,1d4 wights,5,2
+62,1d8 skeletal champions,6,2
+68,2d4 ghouls + 1 ghast,6,2
+72,1 ettin,6,2
+78,1 minotaur,6,2
+84,1d4 ogres,6,2
+88,1d4 trolls,7,2
+90,1 babau,7,2
+94,1 black pudding,7,2
+96,1 medusa,7,2
+98,1 shadow demon,7,2
+100,1d4 xills,8,2
+4,1 black pudding,7,3
+8,1 dark naga,8,3
+14,1 mohrg,8,3
+18,1 nabasu,8,3
+22,1d6 cloakers,8,3
+28,1d6 wraiths,8,3
+36,1d4 ettins,8,3
+40,1 bone devil,9,3
+44,1 night hag,9,3
+48,1 spirit naga,9,3
+54,1 vampire,9,3
+58,1 vrock,9,3
+66,1d6 minotaurs,9,3
+72,2d4 trolls,9,3
+76,1d4 greater shadows,10,3
+78,1 bebilith,10,3
+82,1 barbed devil,11,3
+86,1 devourer,11,3
+88,1 hezrou,11,3
+92,1d4 rakshasas,12,3
+94,1 lich,12,3
+96,1 glabrezu,13,3
+98,1 ice devil,13,3
+100,1 nalfeshnee,14,3
+10,2d6 duergar,3,4
+16,1d6 cave fishers,6,4
+22,1 basidirond,5,4
+32,2d6 drow and 1 drow noble,5,4
+40,2d6 giant spiders,6,4
+46,1d6 violet fungi,7,4
+52,1d8 derros,7,4
+60,2d6 morlocks,7,4
+64,1 black pudding,7,4
+68,1 giant slug,8,4
+72,1d6 cloakers,9,4
+82,2d6 dark creepers 1 dark stalker,9,4
+86,1d6 driders,11,4
+90,1d6 intellect devourers,12,4
+92,1 purple worm,12,4
+96,1d4 ropers,15,4
+98,1 neothelid,15,4
+100,1 shoggoth,19,4
+4,1 spider swarm,1,5
+8,1 rat swarm,2,5
+16,2d6 human skeletons,3,5
+24,1d6 stirges,3,5
+28,1 assassin vine,3,5
+36,1d6 ghouls,5,5
+38,1 barghest,4,5
+44,1d6 skeletal champions,6,5
+48,1d4 yeth hounds,6,5
+54,1d6 ogres,7,5
+58,1d6 shadows,7,5
+62,1d6 wights,7,5
+64,1 lamia,6,5
+70,1d6 harpies,8,5
+72,1 medusa,7,5
+74,1 nabasu,8,5
+76,1 dark naga,8,5
+84,1d8 gargoyles,8,5
+88,1d6 cyclopes,9,5
+92,1d6 wraiths,9,5
+94,1 behir,8,5
+96,1 sphinx,9,5
+98,1 spirit naga,9,5
+100,1d4 spectres,10,5
+12,1d6 dogs,2,6
+20,1 rat swarm,2,6
+30,1d6 riding dogs,5,6
+32,1 werewolf,2,6
+40,3d6 dire rats,5,6
+48,2d6 tengus,5,6
+56,2d6 tieflings,5,6
+62,1d6 ghouls,5,6
+68,1d6 doppelgangers,7,6
+78,2d6 wererats,8,6
+82,1 succubus,7,6
+86,1d6 jann,8,6
+90,1d8 gargoyles,8,6
+92,1 mohrg,8,6
+94,1 intellect devourer (body theft),8,6
+96,1 vampire,9,6
+98,1 night hag,9,6
+100,1 rakshasa,10,6
+9,1 giant crab,2,7
+16,1 bunyip,3,7
+19,1 draugr captain,3,7
+28,1 kelpie,4,7
+34,1d6 reefclaws,4,7
+41,1d6 draugr,5,7
+49,1 globster,5,7
+53,1d4 tidepool dragons,5,7
+60,1 saltwater merrow,6,7
+68,2d4 jinx eaters,6,7
+71,1d6 pteranodons,6,7
+78,1 shark-eating crab,7,7
+85,1d4 sea drakes,8,7
+91,1 coral golem,9,7
+96,1d6 duppies,10,7
+100,1d4 giant snapping turtles,11,7
+5,1d4 dolphins,1,8
+9,1 incutilis,2,8
+16,1d4 hippocampi,3,8
+25,2d6 merfolk,3,8
+29,2d6 grindylows,4,8
+38,2d4 stingrays,4,8
+44,1d8 manta rays,5,8
+54,2d4 sea snakes,5,8
+59,1 grodair,5,8
+67,1d6 adaros,6,8
+74,1d4 cecaelias,7,8
+83,1 tylosaurus,8,8
+91,1d6 giant moray eels,8,8
+95,1d4 giant sea snakes,9,8
+98,1 dire shark,9,8
+100,1 nereid,10,8
+4,1 giant sea anemone,2,9
+7,1d4 deaths head jellyfish,3,9
+14,1d4 sharks,4,9
+22,1d8 tritons,5,9
+31,1d4 ceratioidi,5,9
+37,1d4 weresharks,5,9
+43,1d4 devilfish,6,9
+51,1 sea scourge,6,9
+61,1d6 jellyfish swarms,9,9
+67,1d6 giant jellyfish,10,9
+75,1 charybdis,13,9
+82,1 shipwrecker crab,13,9
+88,1 great white whale,14,9
+94,1 lusca,17,9
+97,1 kraken,18,9
+100,1 deep sea serpent,19,9
+4,1 monkey swarm,2,10
+12,2d4 baboons,3,10
+17,1d4 garden oozes,4,10
+27,2d6 kuru,4,10
+32,1d4 chickcharneys,5,10
+38,1d6 giant chameleons,6,10
+42,1 elder nirento,6,10
+50,1d4 archelons,7,10
+57,1d6 cyclopes,8,10
+64,1d4 soucouyants,10,10
+72,1 larabay,11,10
+82,1d4 jungle giants,12,10
+87,1d4 gholdakos,12,10
+93,1 storm giant,13,10
+97,1 jubjub bird,15,10
+100,1d4 kongamatos,17,10
+5,1d4 merfolk,2,11
+11,1 fuath,1,11
+16,1d4 grindylows,1,11
+21,1 squid,1,11
+27,1d6 dolphins,2,11
+32,1d6 locathahs,2,11
+36,1 adaro,3,11
+40,1 bunyip,3,11
+44,1 wereshark,3,11
+51,1d8 stingrays,3,11
+56,1d4 reefclaws,3,11
+62,2d6 grindylows,4,11
+67,1 sea hag,4,11
+72,1 cecaelia,5,11
+78,1d4 draugr pirates,5,11
+83,1 giant moray eel,5,11
+88,1 globster,5,11
+92,1d6 sahuagin,5,11
+96,1 jellyfish swarm,6,11
+100,1d8 sharks,6,11
+4,1 octopus,1,12
+14,2d6 dolphins,4,12
+19,2d6 merfolk,4,12
+23,1 sea hag,4,12
+31,1d6 squid,4,12
+36,1d6 water mephits,6,12
+38,1 aboleth,7,12
+42,1 giant octopus,8,12
+50,2d6 sahuagin,8,12
+60,2d6 sharks,8,12
+66,2d6 skum,8,12
+71,1d6 giant moray eels,8,12
+77,1d6 Large water elementals,8,12
+79,1 dire shark,9,12
+81,1 dragon turtle,9,12
+83,1 giant squid,9,12
+85,1d4 elasmosauruses,9,12
+91,2d4 orcas,9,12
+93,1 young bronze dragon,9,12
+95,1 marid,9,12
+97,1 elder water elemental,11,12
+98,1 sea serpent,12,12
+99,1 kraken,18,12
+100,1 shoggoth,19,12
+6,1 constrictor snake,2,13
+10,1 hydra,4,13
+14,1 leech swarm,4,13
+18,1 gray ooze,4,13
+22,1 green hag,5,13
+26,1 ochre jelly,5,13
+32,2d6 stirges,5,13
+38,1d6 crocodiles,5,13
+46,2d6 giant frogs,7,13
+52,2d6 goblin dogs,7,13
+56,1d4 harpies,7,13
+64,2d6 lizardfolk,7,13
+72,2d6 boggards,8,13
+74,1 chuul,7,13
+76,1 dracolisk,7,13
+80,2d6 giant leeches,8,13
+82,1 young black dragon,7,13
+84,1 giant slug,8,13
+88,1d6 shambling mounds,10,13
+90,1 spirit naga,9,13
+94,1d6 will-o-wisps,10,13
+96,1 dire crocodile,9,13
+98,1 giant flytrap,10,13
+100,1 froghemoth,13,13
+8,1 giant spider,1,14
+12,1 skeletal champion,2,14
+18,1d8 skeletons,2,14
+22,1 bat swarm,2,14
+30,1 giant scorpion,3,14
+34,1d3 dire bats,4,14
+42,1d6 venomous snakes,5,14
+46,1 basilisk,5,14
+52,1 mummy,5,14
+56,1d4 jann,7,14
+60,1 lamia,6,14
+68,2d6 giant ants,8,14
+72,1 young brass dragon,7,14
+80,2d6 gnolls and 1d4 hyenas,7,14
+84,1 remorhaz (cold desert only),7,14
+88,1 behir,8,14
+92,1 sphinx,8,14
+96,1 young blue dragon,9,14
+98,1 adult brass dragon,11,14
+100,1 adult blue dragon,13,14
+6,1 bat swarm,2,15
+8,1 yellow musk creeper,2,15
+12,1d4 giant spiders,4,15
+16,1 assassin vine,3,15
+20,1 giant mantis,3,15
+22,1 unicorn,3,15
+26,1d4 dire bats,4,15
+32,1d4 boars,4,15
+34,1 dire boar,4,15
+38,1 giant stag beetle,4,15
+42,1 owlbear,4,15
+46,1 tiger,4,15
+52,1d6 werewolves,6,15
+56,1d4 dire wolves,6,15
+60,1 ettercap and 1d6 giant spiders,6,15
+70,2d6 goblins and 1d4 goblin dogs,6,15
+74,1 barghest and 2d6 goblins,6,15
+78,1d6 centaurs,7,15
+86,2d6 wolves,7,15
+88,1 nymph,7,15
+92,1 dire tiger,8,15
+94,1 young green dragon,8,15
+98,1d4 shambling mounds,9,15
+100,1 treant,8,15
+4,1 bat swarm,2,16
+8,1 yellow musk creeper,2,16
+14,1 constrictor snake,2,16
+18,1d6 giant centipedes,3,16
+26,1 leopard,2,16
+30,1d4 giant spiders,4,16
+34,1d6 venomous snakes,5,16
+40,1d4 boars,4,16
+44,1 dire boar,4,16
+50,1 tiger,4,16
+54,1 giant frilled lizard,5,16
+60,1d6 monitor lizards,6,16
+62,1 army ant swarm,5,16
+64,1 ankylosaurus,6,16
+70,1d6 dire apes,7,16
+78,2d4 gorillas,7,16
+82,2d4 deinonychuses,8,16
+84,1 nymph,7,16
+86,1d4 girallons,9,16
+90,1 dire tiger,8,16
+94,1d4 shambling mounds,9,16
+96,1 treant,8,16
+98,1 tyrannosaurus,9,16
+100,1 brachiosaurus,10,16
+6,1d6 eagles,3,17
+14,2d6 orcs,3,17
+22,2d6 tengus,5,17
+30,2d6 hobgoblins,5,17
+36,1d4 giant eagles,6,17
+42,1d6 ogres,7,17
+44,1 young white dragon,6,17
+48,1 bulette,7,17
+52,1 chimera,7,17
+58,1d6 griffons,8,17
+64,2d4 bugbears,7,17
+66,1d6 cyclopes,9,17
+68,1 gorgon,8,17
+72,1d4 wyverns,9,17
+78,1d6 trolls,9,17
+80,1 ogre mage,8,17
+82,1 roc,9,17
+86,1d6 hill giants,11,17
+88,1 young silver dragon,10,17
+90,1 young red dragon,10,17
+92,1d4 frost giants,12,17
+96,1d6 stone giants,12,17
+98,1 cloud giant,11,17
+100,1d4 fire giants,13,17
+6,1 cheetah,2,18
+10,1 cockatrice,3,18
+16,1 giant scorpion,3,18
+20,1 dire lion,5,18
+26,1 giant frilled lizard,5,18
+30,1d6 ankhegs,5,18
+34,1d6 pteranodons,6,18
+40,1d8 monitor lizards,6,18
+44,1d6 dire hyenas,6,18
+52,2d6 hyenas,7,18
+60,2d6 gnolls,7,18
+66,1d6 lions,7,18
+70,2d6 giant ants,7,18
+74,2d4 pegasi,8,18
+78,2d6 centaurs,8,18
+80,1 dire tiger,8,18
+82,1d6 ankylosauruses,9,18
+84,1d6 stegosauruses,9,18
+88,2d4 rhinoceroses,10,18
+90,1 young gold dragon,11,18
+94,2d4 elephants,11,18
+96,1d6 tyrannosauruses,12,18
+98,1d8 triceratops,12,18
+100,1d6 brachiosauruses,12,18
+7,1 ghoul,1,19
+13,1 skulk,1,19
+18,1 cave fisher,2,19
+23,1 rat swarm,2,19
+29,1d4 yellow musk zombies,2,19
+34,2d3 dire rats,3,19
+40,1 ice mephit,3,19
+46,2d4 raiders (human rogue 2),3,19
+51,2d3 stirges,3,19
+57,1 yeth hound,3,19
+62,1 decapus,4,19
+67,1d4 giant spiders,4,19
+72,1 ogre,4,19
+77,1 yeti,4,19
+81,1 Huge plague zombie,5,19
+87,Miners,5,19
+93,Colonists or pilgrims,5,19
+100,1 polar bear,5,19
+7,1 dire polar bear,7,20
+13,1 hill giant,7,20
+18,1 remorhaz,7,20
+23,1 crag spider,8,20
+29,1 denizen of Leng,8,20
+34,2d3 harpies,8,20
+40,2d4 raiders (CN human rogues 4),8,20
+46,2 shambling mounds,8,20
+51,Colonists or pilgrims,9,20
+57,3 xorn,9,20
+62,2d4 lamias,9,20
+67,1 roc,9,20
+72,3d4 ogres,10,20
+77,2 stone giants,10,20
+81,2d4 winter wolves,10,20
+87,3 frost drakes,11,20
+93,Skulk natives (N skulk cleric 5 and 2d6 skulks),11,20
+100,Yeti tribe ( barbarian yet 8 and 2d4 yetis),11,20
+7,2d3 frost giants,12,21
+13,2d3 crag spiders,12,21
+18,2d4 denizen of Leng,12,21
+23,2 cloud giants,13,21
+29,2d6 hill giants,13,21
+35,1 storm giant,13,21
+41,2d4 stone giants,13,21
+47,1 lamia matriarch sorcerer 5,13,21
+52,1 mountain roper (advanced roper),14,21
+58,1 advanced ice devil,14,21
+63,3d4 advanced frost drakes,14,21
+69,1 ancient white dragon,15,21
+76,1d4 taiga giants,15,21
+82,1 rune giant,17,21
+86,1 ice linnorm,17,21
+92,1 wendigo,17,21
+100,CE human transmuter 19,18,21
+4,denizen of Leng,7,22
+16,Avalanche,7,22
+23,1d4 remorhazes,9,22
+29,2d6 kuchrima,10,22
+38,1d6 crag spiders,11,22
+43,1d4 rocs,11,22
+46,Mature adult white dragon,12,22
+58,1d4+1 frost giants,12,22
+63,Frost worm,12,22
+70,Abominable snowman,13,22
+78,1d4 cloud giants,13,22
+87,12-headed cryohydra,13,22
+90,Ice devil,13,22
+95,Rune giant,14,22
+98,Adult blue dragon,14,22
+100,Wendigo,17,22
+5,2d4 duergar,2,23
+10,1 cockroach swarm,2,23
+18,2d6 drow,3,23
+23,1 gelatinous cube,3,23
+30,1d4 svirfneblin scouts,3,23
+39,1d6 vegepygmy,3,23
+46,1d3 morlock scavengers,4,23
+53,1d6 jinkins or vexgits,4,23
+61,1d4 derro scouts,5,23
+69,2d4 ghouls,5,23
+74,1 ochre jelly,5,23
+83,2d4 troglodyte raiders plus d3 1 monitor lizards,6,23
+88,1d2  basidironds,6,23
+94,1d4 id oozes,6,23
+100,1 lurker above,7,23
+6,1 black pudding,7,24
+14,2d4 drow warrior 1 and 1d3 drow noble cleric 3,7,24
+22,2d4 morlocks,7,24
+30,3d4 derros  including 1 derro sorcerer 4),8,24
+36,1 giant slug,8,24
+46,1 intellect devourer (in a host body),8,24
+54,4d3 skum,8,24
+60,1 titan centipede,9,24
+68,1d4+1 urdefhans on skavelings,9,24
+74,1d6 fungal mounds (shambling mounds with fungal creature template),10,24
+80,3d4 gargoyles,10,24
+88,1 young roper,11,24
+94,2d4 seugathi,11,24
+100,1 purple worm,12,24
+12,1 purple worm,12,25
+20,1d4 elder earth elementals,13,25
+28,2d4 vrocks,13,25
+38,1 adult umbral dragon,14,25
+53,2d6 intellect devourers (in host bodies of CR 2 8 25% chance leader is an 8th-level sorcerer),14,25
+63,1 worm that walks,14,25
+73,1d10 gugs,15,25
+83,1d6 ropers,15,25
+95,4d3 advanced seugathi led by 1 neothelid,16,25
+100,1 shoggoth,19,25
+7,1 venomous snake,1,26
+14,1d4 hadi*,1,26
+21,1 bat swarm,2,26
+28,1 constrictor snake,2,26
+34,1 Small animated object,2,26
+40,1 hadi tafen*,2,26
+46,1 shadow,3,26
+58,1d4 boars,4,26
+64,1 army ant swarm,5,26
+70,1 derhii,5,26
+76,1d4 dire apes,5,26
+82,1 frothing ooze ,5,26
+88,1d4 water mephits,5,26
+94,1 girallon,6,26
+100,1 wyvern,6,26
+6,1 hadi tafen* and 1d6 rat swarms,6,27
+12,1 umber jelly (use some sort of CR 6 jelly),6,27
+18,1d6 monitor lizards,6,27
+24,1d6 morlocks,6,27
+30,1d6 shadows,6,27
+36,2d6 hadi rajwans*,7,27
+42,1 crystal xorn (xorn with crystal creature template),7,27
+48,1d4 manticores,7,27
+54,1d4 Large animated objects,7,27
+60,1d8 centipede swarms,8,27
+66,1 deadfall scorpion,8,27
+72,3-12 Medium animated objects,8,27
+78,1 leukodaemon,9,27
+84,1 marid and 1d6 water mephits,10,27
+90,1 marid and 2 derhii,10,27
+100,1 greater shadow and 3d6 shadows,11,27
+14,2 leukodaemons and 2d6 hadi rajwans,12,28
+26,1 giant stone golem,12,28
+39,1 crystal elder xorn and 1d8 crystal,12,28
+52,3d6 army ant swarms,12,28
+64,"1,morlock,war party (1,morlock,cleric,8, 1d4 morlock,barbarians,5, and 3d6 morlocks)",13,28
+76,2 marids and 2 elder water elementals,14,28
+88,"1,marid,hunting party (1 noble,marid, 1d4 marids, and 3d4 derhii,guards)",14,28
+100,1 astradaemon,16,28
+2,Important person (noble or royal),0,29
+5,Important person (arbiter or magistrate),0,29
+10,Peasants blocking path,0,29
+20,Pushy vendor,0,29
+30,Pickpocket (rogue 1; Slieght of Hand +7),1,29
+40,Bar brawl spreads to street (2d6 commoner 1),4,29
+50,1d3 thugs,4,29
+60,1d3 Knights (fighter 4),6,29
+80,2d4 Heavy cavalry,7,29
+100,1d3 Elite marines,7,29
+9,Beggar,0,30
+25,Peasants blocking path,0,30
+30,Robbery in progress (1d4 thugs),5,30
+40,Pickpocket (rogue,1,30
+50,1d3 stirges,1,30
+60,1 rat swarm,2,30
+70,2d4 Small monstrous spiders,3,30
+90,1d4 thugs,5,30
+99,2d4 Guards,7,30
+100,1d4 Knights (fighter 4),7,30
+3,dead body,0,31
+10,Interesting flotsam,0,31
+25,1d4 wererats,3,31
+35,1d3 violet fungi,2,31
+50,2d6 goblins,3,31
+55,1d3 will-o-wisp,6,31
+70,1d3 otyughs,6,31
+78,2d4 Guards,7,31
+80,1d3 Elite marines,7,31
+100,2d4 thugs,8,31
+5,1 lacedon,1,32
+10,1d3 mining beetles,1,32
+15,1 plague steed (war horse with plague template),1,32
+20,1d3 yellow musk zombies,1,32
+25,1 abyssal tick swam,1,32
+30,1d6 grindylows,2,32
+40,1 dretch,2,32
+45,2d3 stirges,2,32
+50,1 fiendish werewolf,3,32
+55,1 lacedon,3,32
+60,1 cairn wight,4,32
+65,1 centipede swarm,4,32
+70,1 advanced freshwater merrow,4,32
+75,1 fiendish dryad,4,32
+80,1 leech swarm,4,32
+85,1d3 assassin vines,5,32
+90,1 giant moray eel,5,32
+95,1 green hag,5,32
+100,1 scrag,5,32
+8,1 swamp skulker,6,33
+14,2d3 fiendish giant frogs,6,33
+19,1 shambling mound,6,33
+26,1 wood golem,6,33
+35,2 half-fiend dryad,7,33
+43,1 chuul,7,33
+49,2 fiendish dire wolverines,7,33
+56,1 freshwater merrow rogue 4,7,33
+61,2d3 frost wights,8,33
+66,1 giant slug,8,33
+71,2d3 giant stag beetles,8,33
+79,2d3 plague aurochs,8,33
+87,1 fiendish treant,9,33
+92,1d4+1 will-o-wisp,9,33
+100,2 fiendish,10,33
+11,1 hezrou,11,34
+23,1 fiendish giant flytrap,11,34
+35,1 hezrou and 1d6 scrags,12,34
+47,1 fiendish elder water elemental,12,34
+59,2d3 chuuls  1 advanced giant chuul,13,34
+71,1d3+1 giant fiendish treants,13,34
+83,1 green hag witch,11,34
+93,1 ancient black dragon,16,34
+100,Advanced dretch ranger 2 on yeth hound,18,34
+11,1 reefclaw,1,35
+19,2d4 fire beetles,2,35
+34,1d4 Small fire elementals,3,35
+46,1d4 giant crabs,4,35
+56,2d4 burning skeletons,4,35
+72,1 cult raiding party (1d6 ooze-possessed human adepts),5,35
+78,1 phase spider,5,35
+91,1d6 Medium fire elementals,6,35
+100,1 tear of Nuruu'gal,6,35
+12,1 ghost,7,36
+26,2d6 ooze-possessed human adepts 3 with 1 tear of Nuruu'gal,7,36
+39,1d6 black puddings (gibbering hosts),8,36
+51,1d4 chuuls,9,36
+62,1d4 black puddings fire,9,36
+74,1d4 greater fire elementals,11,36
+87,1 shining child,12,36
+100,3d6 will-o-wisp,13,36
+16,2d6 vrocks,14,37
+34,1d4 shining children,14,37
+54,1d4 ooze-possessed clerics,14,37
+71,2d6 salamanders and 1d6 elder fire elementals,15,37
+88,1d4 nalfeshnees,16,37
+100,Nuruu'gal,21,37
+6,1d6 fire beetles,1,38
+12,1 venomous snake,1,38
+18,1 skeletal champion,2,38
+24,1 vargouille,2,38
+30,1 giant mantis,3,38
+36,1 shadow,3,38
+42,1 an-hetkoshu*,3,38
+48,1 mithral cobra,3,38
+60,1d6 gnoll raiders,4,38
+66,1 fast zombie bulette,5,38
+72,1 mummy,5,38
+78,1d6 morlocks,5,38
+84,1 basilisk,5,38
+90,1d6 human cultists,5,38
+95,1 will-o-wisp,6,38
+100,1 wyvern,6,38
+10,1d4 army ant swarms,7,39
+19,1 chimera,7,39
+28,1d6 fast zombie bulettes,8,39
+37,dark stalker ranger 4,8,39
+46,1 behir,8,39
+55,2d8 LE human clerics 3 8,9,39
+64,1d4 medusas,9,39
+73,1 couatl,10,39
+82,2 dark nagas,10,39
+91,1 elder air elemental,11,39
+100,1 elder earth elemental,11,39
+17,1d6 panthereons (what is a panthereon?),11,40
+34,The Enumerator*,13,40
+51,1 phoenix,15,40
+68,1 xacarba,15,40
+84,2 black scorpions,17,40
+100,1 ancient blue dragon,18,40
+6,2d6 monkeys,2,41
+11,1 leopard,2,41
+16,1d4 giant spiders,3,41
+20,2d6 biloko,4,41
+25,1 botfly swarm,4,41
+27,1 chemosit,4,41
+32,1d4 gorillas,4,41
+36,1d6 rangers,4,41
+43,1d6 venomous snakes,4,41
+48,1 army ant swarm,5,41
+52,1d6 charau-ka,5,41
+57,1d4 deinonychuses,5,41
+62,1 giant frilled lizard,5,41
+67,1 hippopotamus,5,41
+74,1d8 tribesfolk,5,41
+79,1d4 rival adventurers,5,41
+83,1 ankylosaurus,6,41
+88,1 bloodhaze mosquito,6,41
+92,1d6 Eloko,6,41
+95,1 girallon,6,41
+98,1 dire tiger,8,41
+100,1 tyrannosaurus,9,41
+5,1 cheetah or other cat,2,42
+9,1 cockatrice,3,42
+13,1 giant scorpion,3,42
+18,1d4 bat swarms,4,42
+24,1 botfly swarm,4,42
+28,1d4 monitor lizards,4,42
+32,1 rhinoceros,4,42
+38,1d6 venomous snakes,4,42
+43,1d4 ankhegs,5,42
+47,1 dire lion,5,42
+53,1d8 hyenas,5,42
+59,1d8 tribesfolk,5,42
+64,1d6 lions,6,42
+68,1d6 pteranodons,6,42
+73,1d6 rival adventurers,6,42
+78,1d6 vultures,6,42
+82,2d4 ankhegs,7,42
+87,1 elephant,7,42
+90,2d6 giant ants,7,42
+93,1 stegosaurus,7,42
+97,1 dire tiger,8,42
+100,1 triceratops,8,42
+6,1d4 dire bats,4,43
+10,1d4 leopards,4,43
+13,1 tiger,4,43
+15,1 basilisk,5,43
+19,1d6 boars,5,43
+23,1d6 crocodiles,5,43
+27,1d4 dire apes,5,43
+30,1 gibbering mouther,5,43
+32,1 mummy,5,43
+36,Rival adventurers,6,43
+40,2d4 boggards,6,43
+46,1d6 keches,6,43
+49,1d6 pteranodons,6,43
+51,1d6 shadows,6,43
+55,2d6 troglodytes,6,43
+57,1d6 wights,6,43
+60,1 chimera,7,43
+64,Guard patrol varies,7,43
+67,1d6 venomous snake swarm,7,43
+71,2d4 charau-ka thugs,8,43
+73,1d8 degenerate serpentfolk,8,43
+78,1d8 deinonychus,8,43
+82,1d4 girallons,8,43
+86,1d4 jungle mantises,8,43
+89,1d4 camulatz,9,43
+91,Mokele-mbembe (unique creature),9,43
+94,Sarcosuchus (unique creature),9,43
+97,1d8 megapiranha swarms,10,43
+99,Yog'oltha (unique creature),11,43
+100,Green God (unique creature),13,43
+6,1 cloaker,9,44
+16,4d6 morlocks,9,44
+21,1 bebilith,10,44
+29,6d6 morlocks,10,44
+36,2d6 skavelings,10,44
+42,1d4 urdefhan guards,10,44
+46,1d4 black puddings,11,44
+52,1 vagabond spider,11,44
+57,2 morlock vessels,12,44
+64,1 roper,12,44
+69,1 iron golem,13,44
+74,Urdefhan air patrol (4 members),13,44
+78,1d8 gugs,14,44
+82,1d8 giant morlocks,14,44
+86,Urdefhan air patrol (6 members),14,44
+90,6 serpentfolk guards,14,44
+95,1 vemerak,14,44
+98,1 neothelid,15,44
+100,8 serpentfolk guards,15,44
+3,1 giant fire beetle,3,45
+5,1 human skeleton,3,45
+9,1 pugwampi,2,45
+13,1d4 baboons,1,45
+15,1 camel,1,45
+17,1d2  eagles,1,45
+20,1 Medium viper,1,45
+23,1 choker,1,45
+26,1 dire bat,2,45
+30,1 doru,2,45
+34,2d4 goblins,2,45
+37,1 jackalwere,2,45
+42,1d4 krenshar,2,45
+45,1 ankheg,3,45
+47,1d4 blink dogs,3,45
+51,1 chupacabra,3,45
+54,1 giant eagle,3,45
+58,1d2  hippogriffs,3,45
+61,1 Giant scorpion,3,45
+64,1d2  lions,3,45
+66,1d4 Large vipers,3,45
+68,1 centipede swarm,4,45
+71,2d6 stirges,4,45
+74,1d2  griffons,4,45
+77,1d4 giant eagles,5,45
+80,1 dire lion,5,45
+85,2d6 gnolls,6,45
+87,1d4 harpies,6,45
+91,2d8 hyenas,6,45
+93,1 lamia,6,45
+95,1 dragonne,7,45
+97,1d6 gargoyles,7,45
+99,1 shedu,7,45
+100,1 juvenile blue dragon,8,45
+3,1 monkey,6,46
+7,1 con artist,2,46
+9,1 leper,2,46
+15,1 pickpocket,2,46
+22,1 prostitute,2,46
+27,1 zealous merchant,2,46
+35,1d4 drunkards,1,46
+37,1 goblin snake,1,46
+39,1 reefclaw,1,46
+44,1 Small viper,1,46
+50,1d4 Small monstrous ???,1,46
+56,1d4 stirges,1,46
+64,1d6 stray dogs,1,46
+72,1d4 thugs,1,46
+74,1d4 goblin dogs,2,46
+78,1d6 Giant cockroaches,2,46
+84,1d8 pirates,2,46
+88,1d8 press gangers,2,46
+91,1 rat swarm,2,46
+94,1 barracuda,2,46
+96,1 wererat,2,46
+100,1d4 cockroach swarms,3,46
+4,1 shambling mound,6,47
+7,1 tendriculos,6,47
+14,Hungry fungus,7,47
+17,1 black pudding,7,47
+20,1 yellow musk creeper and 2d4 yellow musk zombies,7,47
+26,Fiendish vermin,8,47
+31,1d6+6 dretches,8,47
+35,2d4 ettercaps,8,47
+40,2d6 boggards,8,47
+42,1 witchfire,9,47
+47,1d6 babaus,9,47
+50,1d6 will-o-wisps,9,47
+52,1 bebilith,10,47
+55,1d12 leucrottas,10,47
+59,2d4 trolls,10,47
+62,2d6 mandragoras,10,47
+64,Green hag covey,10,47
+71,2d6 satyrs,11,47
+73,2d6 Soldiers,11,47
+75,1d4 mobogos,12,47
+80,1d6 vrocks,12,47
+82,1 banshee,13,47
+84,1 froghemoth,13,47
+86,1 glabrezu,13,47
+90,1d4 hezrous,13,47
+95,2d4 marsh giants,13,47
+97,1 adult green dragon,13,47
+99,demonic host,16,47
+100,Treerazer,25,47
+6,1d8 drain spiders,1,48
+11,1d6 dire rats,1,48
+21,2d8 rats,1,48
+25,1 reefclaw,1,48
+34,1d6 stray dogs,1,48
+42,1d4 sewer dwellers,1,48
+45,1 bat swarm,2,48
+47,1d4 goblin snakes,2,48
+49,1 tunnel terror,2,48
+52,1d4 shriekers,2,48
+58,1d6 stirges,2,48
+65,1d6 thugs,2,48
+69,1d6 goblins,3,48
+74,1d4 rat swarms,3,48
+76,1 violet fungus,3,48
+80,1d4 alligators,4,48
+82,1 otyugh,4,48
+88,1d4 wererats,4,48
+95,1d4 derro,5,48
+98,1 ochre jelly,5,48
+100,1 will-o-wisp,6,48
+3,1 caryatid column,3,49
+13,1d6 spider swarms,3,49
+18,1d10 giant maggots,4,49
+21,Rot grubs,4,49
+31,1d12 zombies,4,49
+36,1 crypt thing,5,49
+48,Ghouls,5,49
+57,1d6 imps,5,49
+62,1d6 derro,6,49
+64,1 revenant,6,49
+71,1d6 wights,6,49
+76,Yellow mold,6,49
+81,1 spectre,7,49
+85,1d4 wraiths,7,49
+89,1d6 vampire spawn,8,49
+91,1 mohrg,8,49
+94,Haunting,0,49
+100,Priests,0,49
+6,1 fire snake,3,50
+11,1d4 horned spirestalkers (?),2,50
+14,1 ember scorpion (fire scorpion?),3,50
+17,Emberstorm,4,50
+22,1d4 rattlesnakes,4,50
+26,1d6 hippogriffs,5,50
+29,1 basilisk,5,50
+35,1d6 bush tigers,5,50
+39,1 bulette,7,50
+45,1d12 cinderwolves,7,50
+51,1d12 ankhegs,8,50
+56,2d12 aurochs,9,50
+59,1d4 chimeras,9,50
+63,1d6 wyverns,9,50
+67,2d6 gargoyles,10,50
+70,1d4 stone giants,10,50
+72,1 bonestorm,11,50
+75,1d4 storm roc,11,50
+77,1 purple worm,12,50
+80,1d6 dragonnes,12,50
+83,1 red render,13,50
+88,Orcs,14,50
+95,Primitive warriors,14,50
+99,dangerous lands,15,50
+100,1 adult red dragon,15,50
+3,1 bat swarm,2,51
+8,2d6 goblins,2,51
+9,1d4 land lampreys,2,51
+11,1 Large monstrous spider,2,51
+13,1d4 bonesnappers,3,51
+16,1d6 giant geckos,3,51
+18,1d4 assassin vines,4,51
+19,1 bunyip,4,51
+20,1 devilfish,4,51
+22,1d12 giant flies,4,51
+23,1d12 human zombies,4,51
+27,1d4 wild pigs (use boar),4,51
+28,1 kelpie,4,51
+30,1d6 giant leeches,5,51
+31,2d6 goblin dogs,5,51
+32,1 forester bane,5,51
+35,1d4 mosquito swarms,5,51
+39,1 giant constructin,5,51
+43,2d12 stirges,5,51
+44,1d4 amphisbaenas,6,51
+46,1d4 otyughs,6,51
+48,1 shambling mound,6,51
+49,1d4 tentamorts,6,51
+54,1d12 alligators or crocodiles,7,51
+55,1 black pudding,7,51
+56,1d6 faceless stalkers,7,51
+58,1d4 scrags,7,51
+60,1d12 shocker lizards,7,51
+62,1 giant slug,8,51
+63,3 green hags,8,51
+64,1d4 tendriculoses,8,51
+67,1d6 trolls,8,51
+69,1d4 will-o-wisp,8,51
+70,1 wolf-in-sheep,8,51
+73,1d12 giant alligators or crocodiles,9,51
+76,1d12 giant dire frogs,9,51
+78,1d12 harpies,9,51
+80,1d4 dark nagas,10,51
+81,1d6 dracolisks,10,51
+82,1 mobogo,10,51
+86,1d6 marsh giants,11,51
+87,1 elder black pudding,12,51
+88,1 froghemoth,13,51
+90,1d4 ten-headed hydras,13,51
+94,Quicksand,14,51
+99,Boggards,14,51
+100,dragon,15,51

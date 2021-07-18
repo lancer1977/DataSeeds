@@ -1,14 +1,14 @@
 [
   {
-    "Name": "Dungeon Low",
+    "Name": "Dungeon (Low)",
     "Id": 1
   },
   {
-    "Name": "Dungeon Medium",
+    "Name": "Dungeon (Medium)",
     "Id": 2
   },
   {
-    "Name": "Dungeon Hard",
+    "Name": "Dungeon (Hard)",
     "Id": 3
   },
   {
@@ -20,7 +20,7 @@
     "Id": 5
   },
   {
-    "Name": "Urban/dangerous City",
+    "Name": "Urban/Dangerous City",
     "Id": 6
   },
   {
@@ -32,7 +32,7 @@
     "Id": 8
   },
   {
-    "Name": "deep Sea",
+    "Name": "Deep Sea",
     "Id": 9
   },
   {
@@ -44,7 +44,7 @@
     "Id": 11
   },
   {
-    "Name": "Ocean (Avg. CR 8)",
+    "Name": "Ocean",
     "Id": 12
   },
   {
@@ -60,27 +60,27 @@
     "Id": 15
   },
   {
-    "Name": "Jungle (Warm) (Avg. CR 5)",
+    "Name": "Jungle (Warm) ",
     "Id": 16
   },
   {
-    "Name": "Hill/Mountain (Avg. CR 8)",
+    "Name": "Hill/Mountain",
     "Id": 17
   },
   {
-    "Name": "Plains/Savannah (Warm) (Avg. CR 7)",
+    "Name": "Plains/Savannah (Warm) ",
     "Id": 18
   },
   {
-    "Name": "Cold Mountains Low",
+    "Name": "Cold Mountains (Low)",
     "Id": 19
   },
   {
-    "Name": "Cold Mountains Medium",
+    "Name": "Cold Mountains (Medium)",
     "Id": 20
   },
   {
-    "Name": "Cold Mountains High",
+    "Name": "Cold Mountains (High)",
     "Id": 21
   },
   {
@@ -88,15 +88,15 @@
     "Id": 22
   },
   {
-    "Name": "Underground City Low",
+    "Name": "Underground City (Low)",
     "Id": 23
   },
   {
-    "Name": "Underground City Medium Level",
+    "Name": "Underground City (Medium)",
     "Id": 24
   },
   {
-    "Name": "Underground City High Level",
+    "Name": "Underground City (High)",
     "Id": 25
   },
   {
@@ -104,11 +104,11 @@
     "Id": 26
   },
   {
-    "Name": "Ruined City Medium Level",
+    "Name": "Ruined City (Medium)",
     "Id": 27
   },
   {
-    "Name": "Ruined City High Level",
+    "Name": "Ruined City (High)",
     "Id": 28
   },
   {
@@ -124,51 +124,51 @@
     "Id": 31
   },
   {
-    "Name": "Overgrown Fallen City",
+    "Name": "Overgrown Fallen City (Low)",
     "Id": 32
   },
   {
-    "Name": "Overgrown Fallen Medium Level",
+    "Name": "Overgrown Fallen City (Medium)",
     "Id": 33
   },
   {
-    "Name": "Overgrown Fallen High Level",
+    "Name": "Overgrown Fallen City (High)",
     "Id": 34
   },
   {
-    "Name": "Ruined City Risen from the Sea",
+    "Name": "Ruined City Risen From The Sea (Low)",
     "Id": 35
   },
   {
-    "Name": "Ruined City Risen from the Sea Medium Level",
+    "Name": "Ruined City Risen From The Sea (Medium)",
     "Id": 36
   },
   {
-    "Name": "Ruined City Risen from the SeaHigh Level",
+    "Name": "Ruined City Risen From The Sea(High)",
     "Id": 37
   },
   {
-    "Name": "Ruined City in the desert",
+    "Name": "Ruined City In The Desert (Low)",
     "Id": 38
   },
   {
-    "Name": "Ruined City in the desert Medium Level",
+    "Name": "Ruined City In The Desert (Medium)",
     "Id": 39
   },
   {
-    "Name": "Ruined City in the desert High Level",
+    "Name": "Ruined City In The Desert (High)",
     "Id": 40
   },
   {
-    "Name": "Jungle Random Encounters",
+    "Name": "Jungle",
     "Id": 41
   },
   {
-    "Name": "Plains Random Encounters",
+    "Name": "Plains",
     "Id": 42
   },
   {
-    "Name": "Jungle City Random Encounters",
+    "Name": "Jungle City",
     "Id": 43
   },
   {
@@ -176,7 +176,7 @@
     "Id": 44
   },
   {
-    "Name": "Ruined desert Village",
+    "Name": "Ruined Desert Village",
     "Id": 45
   },
   {
@@ -184,15 +184,15 @@
     "Id": 46
   },
   {
-    "Name": "Dark and Twisted Swamp",
+    "Name": "Dark And Twisted Swamp",
     "Id": 47
   },
   {
-    "Name": "Sewers Random Encounters",
+    "Name": "Sewers",
     "Id": 48
   },
   {
-    "Name": "Crypt Random Encounters",
+    "Name": "Crypt",
     "Id": 49
   },
   {
@@ -200,7 +200,7 @@
     "Id": 50
   },
   {
-    "Name": "Dark Bog Random Encounters",
+    "Name": "Dark Bog",
     "Id": 51
   }
 ]
