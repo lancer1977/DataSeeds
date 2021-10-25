@@ -1,3 +1,17 @@
+USE [Pathfinder]
+GO
+
+/****** Object:  Table [dbo].[MagicItemDto]    Script Date: 10/24/2021 1:00:39 AM ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[MagicItemDto]') AND type in (N'U'))
+DROP TABLE [dbo].[MagicItemDto]
+GO
+
+/****** Object:  Table [dbo].[MagicItemDto]    Script Date: 10/24/2021 1:00:39 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
 CREATE TABLE [dbo].[MagicItemDto] 
 (
 	[Id] INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
@@ -23,7 +37,7 @@ CREATE TABLE [dbo].[MagicItemDto]
 	Senses VARCHAR(85),
 	Powers VARCHAR(150),
 	MagicItems VARCHAR(250),
-	Destruction VARCHAR(400) NULL,
+	Destruction  BIT NULL,
 	MinorArtifactFlag BIT NULL,
 	MajorArtifactFlag BIT NULL,
 	Abjuration BIT NULL,
