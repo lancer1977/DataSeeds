@@ -1,27 +1,85 @@
 ﻿[
 
-{"Name":"Kona Tracker","Definition":"A tool to track covid-19 changes","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Kona-Viewer"},
-{"Name":"Bit Breaker","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Bit-Breaker"},
+  {
+    "Name": "Kona Tracker",
+    "Description": "A tool to track covid-19 changes",
+    "PreviewImage": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/435ef2dc-b7be-42f9-a23c-5bd594f0695b/icon.png?sv=2019-02-02&sr=c&sig=mKq%2BtZZfxHj%2FF5DBzzzXkZpI7gd1LbbvBJkGluRJ86Q%3D&se=2021-10-26T02%3A46%3A22Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Kona-Viewer/distribution_groups/public"
+  },
+  {
+    "Name": "Arkham Horror Helper",
+    "Description": "A tool to help manage mythos cup and investigator information.",
+    "PreviewImage": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/be652ec8-45a0-4616-bbe9-1412fcbafe21?st=2021-10-25T15%3A43%3A09Z&se=2021-11-08T16%3A43%3A09Z&sp=r&sv=2018-03-28&sr=b&sig=MDhdYcQGvfyJ56MKyQlPt8l1wR7EYrkcwak%2Fa0jIO6Y%3D",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Arkham-Horror/distribution_groups/public"
+  },
 
-{"Name":"Game Chasers","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Game-Chasers-Android"},
-{"Name":"GM Assistant","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/GM-Assistant"},
-{"Name":"Pathfinder Assistant","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Pathfinder-Assistant-Android"},
-{"Name":"PF Loot","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Pathfinder-Loot-Droid"},
- 
-{"Name":"PF Spellbook","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/PF-Spellbook-Droid"},
-{"Name":"PolyHealth","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/PolyHealth"},
-{"Name":"PolyChat","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Poly-Chat"},
-{"Name":"PF Craft","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/PF-Craft"},
- 
+  {
+    "Name": "Game Chasers",
+    "Description": "Game Chasers Soundboard",
+    "PreviewImage": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/edeec7bf-55bf-4e2d-b713-511b2a1fb852?st=2021-10-17T02%3A01%3A49Z&se=2021-10-31T03%3A01%3A49Z&sp=r&sv=2018-03-28&sr=b&sig=bRukh8OUSRjqG9uxFUJRqYKwUvbR9SEzC%2BbNpswJ80A%3D",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Game-Chasers-Android/distribution_groups/public"
+  },
+  {
+    "Name": "NES Pursuit",
+    "Description": "NES Pursuit Soundboard",
+    "PreviewImage": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/3ff97d8e-3df1-4be5-abad-27af8b257e1f?st=2021-10-25T02%3A26%3A59Z&se=2021-11-08T03%3A26%3A59Z&sp=r&sv=2018-03-28&sr=b&sig=mc1p5wDH0T2j2g9zY20gtQgvBOIgLz0U3PvXoEhsd6s%3D",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/The-NES-Pursuit-Android/distribution_groups/public"
+  },
 
-{"Name":"Spelling Test","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/Spelling-Test"},
-{"Name":"NES Pursuit","Definition":"","PreviewImage":"","InstallLink":"https://install.appcenter.ms/users/lancer1977/apps/The-NES-Pursuit-Android"},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""},
-{"Name":"","Definition":"","PreviewImage":"","InstallLink":""}
+  {
+    "Name": "GM Assistant",
+    "Description": "Game Master Tools for Pathfinder",
+    "PreviewImage": "",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/GM-Assistant/distribution_groups/public"
+  },
+  {
+    "Name": "Pathfinder Assistant",
+    "Description": "Pathfinder RPG Tools",
+    "PreviewImage": "https://appcenter-filemanagement-distrib1ede6f06e.azureedge.net/b7c347cb-56f5-4873-a7a1-4df739450ff1/icon.png?sv=2019-02-02&sr=c&sig=Uyj4ZeKBTPXUK7UjRwMLj7WZ8u4hC3VSt%2FfUK2TRwlw%3D&se=2021-11-01T02%3A39%3A24Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Pathfinder-Assistant-Android/distribution_groups/public"
+  },
+  {
+    "Name": "PF Loot",
+    "Description": "Pathfinder Loot Roller",
+    "PreviewImage": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/0c3a5982-6622-46b6-96fc-ddfb41fcd7ec/clearicon.png?sv=2019-02-02&sr=c&sig=R9v3dQGMnVM46JZ2o502t8tuCQqIiRbAhPie53NFATk%3D&se=2021-11-01T03%3A26%3A59Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Pathfinder-Loot-Droid/distribution_groups/public"
+  },
+  {
+    "Name": "PF Spellbook",
+    "Description": "Pathfinder Spell Book Generator",
+    "PreviewImage": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/0c3a5982-6622-46b6-96fc-ddfb41fcd7ec/clearicon.png?sv=2019-02-02&sr=c&sig=R9v3dQGMnVM46JZ2o502t8tuCQqIiRbAhPie53NFATk%3D&se=2021-11-01T03%3A26%3A59Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/PF-Spellbook-Droid/distribution_groups/public"
+  },
+  {
+    "Name": "PF Craft",
+    "Description": "Pathfinder RPG Crafting Tool",
+    "PreviewImage": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/0c3a5982-6622-46b6-96fc-ddfb41fcd7ec/clearicon.png?sv=2019-02-02&sr=c&sig=R9v3dQGMnVM46JZ2o502t8tuCQqIiRbAhPie53NFATk%3D&se=2021-11-01T03%3A26%3A59Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/PF-Craft/distribution_groups/public"
+  },
 
+  {
+    "Name": "PolyHealth",
+    "Description": "N/A",
+    "PreviewImage": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/0c3a5982-6622-46b6-96fc-ddfb41fcd7ec/clearicon.png?sv=2019-02-02&sr=c&sig=R9v3dQGMnVM46JZ2o502t8tuCQqIiRbAhPie53NFATk%3D&se=2021-11-01T03%3A26%3A59Z&sp=r",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/PolyHealth/distribution_groups/public"
+  },
+  {
+    "Name": "PolyChat",
+    "Description": "N/A",
+    "PreviewImage": "",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Poly-Chat/distribution_groups/public"
+  },
+
+  {
+    "Name": "Spelling Test",
+    "Description": "Some tools I had made for my children for school",
+    "PreviewImage": "",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Spelling-Test/distribution_groups/public"
+  },
+  {
+    "Name": "Bit Breaker",
+    "Description": "A poor breakout clone",
+    "PreviewImage": "",
+    "InstallLink": "https://install.appcenter.ms/users/lancer1977/apps/Bit-Breaker/distribution_groups/public"
+  }
 ]
- 
