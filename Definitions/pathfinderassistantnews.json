@@ -1,0 +1,4 @@
+﻿[
+
+{  "Name":"SQLite", "Date":"11/29/2021","Description": "Adjusted parsing of database files to speed up initial loading. Rewired the color picker and adjusted default colors"}
+]
