@@ -32,8 +32,8 @@
       "Horror": 7,
       "Item": "",
       "Power": "You may perform two additional puzzle steps while attempting a puzzle.",
-      "Story": "The halls of Miskatonic University have been home to many accomplished scholars, and Amanda Sharpe was on track to be one of the institution�s most talented graduates. However, after seeing a strange painting of an enormous creature emerging from the ocean, her classwork has suffered. Her dreams are overwhelmed by images of a vast submerged city and the sounds of whispers in a language she does not understand. While her studies may have been set aside, she remains bright and dedicated to her work. The difference now is that the work she focuses on is the resolution of occult mysteries.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/6/60/AmandaSharpe.png/revision/latest/scale-to-width-down/120?cb=20150428104015"
+      "Story": "The halls of Miskatonic University have been home to many accomplished scholars, and Amanda Sharpe was on track to be one of the institutions most talented graduates. However, after seeing a strange painting of an enormous creature emerging from the ocean, her classwork has suffered. Her dreams are overwhelmed by images of a vast submerged city and the sounds of whispers in a language she does not understand. While her studies may have been set aside, she remains bright and dedicated to her work. The difference now is that the work she focuses on is the resolution of occult mysteries.",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/6/60/AmandaSharpe.png"
     },
     {
       "InvestigatorId": 3,
@@ -50,8 +50,8 @@
       "Horror": 7,
       "Item": "Duke",
       "Power": "",
-      "Story": "At night, �Ashcan� Pete sleeps wherever his travels take him: in a field, on a train, or maybe, if he is lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when �Ashcan� Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/6/6a/AshcanPete.png/revision/latest/scale-to-width-down/120?cb=20150428123221"
+      "Story": "At night, Ashcan Pete sleeps wherever his travels take him: in a field, on a train, or maybe, if he is lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when Ashcan Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/6/6a/AshcanPete.png"
     },
     {
       "InvestigatorId": 4,
@@ -69,7 +69,7 @@
       "Item": "",
       "Power": "Once per round, when you spend an action to interact with a Person, you may flip 1 Horror facedown or discard 1 facedown Horror.",
       "Story": "Someday, Bob Jenkins plans to cash in big. He may not be the biggest expert on forgotten cultures and secret societies, but he does know that rare books and antique weaponry can be sold for top dollar. More than once, he has discovered that an occult organization has been funded by gold coins of unknown origin, and Bob likes gold coins. He freely admits that he does not investigate arcane mysteries for noble reasons, but not many people are willing to face the horrors of the unknown. Nobility costs extra.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/a/a2/BobJenkins-0.png/revision/latest/scale-to-width-down/120?cb=20150428181936"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/a/a2/BobJenkins-0.png"
     },
     {
       "InvestigatorId": 5,
@@ -87,7 +87,7 @@
       "Item": "",
       "Power": "Action: You or another investigator within range lip 1 Horror face down or discard 1 facedown Horror",
       "Story": "Carolyn Fern dwells in the minds of others. Using a complex form of hypnosis, she studies the psychology of her patients through their dreams. Through this practice, she has seen and heard many disturbing things, but nothing prepared her for her most recent patient, Malachi. Following one of their more vivid and troublesome discussions of his dreams, Malachi was brutally murdered. As if that were not terrible enough, he was murdered with an ornate knife that he had described in one of his dreams. After hearing this news, Carolyn began reviewing her old notes concerning Malachi, anxious to find some kind of clue as to who he really was. Her research has led her from one bizarre case to another, and yet she seems no closer to understanding why Malachi was murdered.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/9/9b/CarolynFern.png/revision/latest/scale-to-width-down/120?cb=20150428123833"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/9/9b/CarolynFern.png"
     },
     {
       "InvestigatorId": 6,
@@ -123,7 +123,7 @@
       "Item": "",
       "Power": "Once per round, if you would gain a Clue, you may become Focused instead.",
       "Story": "His editor says he is just seeing things, but Darrell Simmons knows what he saw. He grew up in Arkham, and he is no stranger to the peculiar things that are known to happen here. However, this is different. He had never seen something so terrible in his entire life, and he has cursed himself every day since for not having his camera on him to prove to everyone that he is not making this up. If they will not believe his words, maybe they will believe his pictures when they are published in the Arkham Advertiser. Now he is seeking out the terror that has been haunting his dreams since that night, and he knows he is getting closer. This time he will be careful. This time he will come prepared. And, most importantly, this time he will take pictures.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/b/b4/DarrellSimmons.png/revision/latest/scale-to-width-down/120?cb=20150428111522"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/b/b4/DarrellSimmons.png"
     },
     {
       "InvestigatorId": 8,
@@ -141,7 +141,7 @@
       "Item": "",
       "Power": "Once per round, when you gain a Spell, become Focused.",
       "Story": "Dexter Drake returned from the Great War to become a successful magician, enthralling audiences with his elaborate illusions and cunning stage tricks. Despite his meteoric success, Dexter always longed to discover true magic. This desire soon led him into the reserved section of a dust-filled shop dedicated to obscure books. There, he found a burnt and torn fragment of the Necronomicon itself. Intrigued by this ancient piece of occult knowledge, Dexter began to use his wealth in search of the truth about ancient lore, and what he found horrified him. His delving into the arcane eventually led him to a variety of investigations, where he has discovered a great evil that will soon rise. He knows that he may well be the only person with the ability to stop this evil from swallowing the entire world.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/b/b7/DexterDrake.png/revision/latest/scale-to-width-down/120?cb=20150428115120"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/b/b7/DexterDrake.png"
     },
     {
       "InvestigatorId": 9,
@@ -157,8 +157,8 @@
       "Health": 6,
       "Horror": 8,
       "Item": "",
-      "Power": "Action:�Another investigator within range becomes�Focused. Activate this ability only once per round.",
-      "Story": "Mateo Castile's life has not been easy, even�or perhaps especially�since finding his calling and becoming a priest. The past few decades in Mexico have been wracked with instability and conflict between a secular government and a traditional and religious populace. Father Mateo struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But as difficult as the political situation in Mexico has been, that is not what has assaulted Mateo's faith at its core. An investigation into a rash of murders and kidnappings in his home state led not to political violence as Mateo had suspected but to a gruesome and horrid cult thriving at the heart of the brewing war. How, Mateo wondered, could a kind and loving God allow what he saw that night to exist? His prayers are still unanswered, but Mateo now seeks answers on his own.",
+      "Power": "Action:Another investigator within range becomesFocused. Activate this ability only once per round.",
+      "Story": "Mateo Castile's life has not been easy, evenor perhaps especiallysince finding his calling and becoming a priest. The past few decades in Mexico have been wracked with instability and conflict between a secular government and a traditional and religious populace. Father Mateo struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But as difficult as the political situation in Mexico has been, that is not what has assaulted Mateo's faith at its core. An investigation into a rash of murders and kidnappings in his home state led not to political violence as Mateo had suspected but to a gruesome and horrid cult thriving at the heart of the brewing war. How, Mateo wondered, could a kind and loving God allow what he saw that night to exist? His prayers are still unanswered, but Mateo now seeks answers on his own.",
       "ImageUrl": ""
     },
     {
@@ -195,7 +195,7 @@
       "Item": "",
       "Power": "At the start of your turn if you have no Clues gain 1 Clue",
       "Story": "Ever since she was a young girl, Gloria has been plagued by visions of monsters dwelling in strange, nightmarish places. She eventually learned to overcome the terror that accompanied these visions by writing them into stories. As the years went by, her stories launched her into a successful career as an author, but the more she wrote, the more extreme the visions became. She has come to believe that the images she sees are not her imagination, but rather clairvoyant insight into the world of the supernatural. She has resolved to use this insight to investigate the realm of the supernatural and exorcise these nightmares from the world as well as her subconscious.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/d/dc/GloriaGoldberg.png/revision/latest/scale-to-width-down/404?cb=20150428124021"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/d/dc/GloriaGoldberg.png"
     },
     {
       "InvestigatorId": 12,
@@ -213,7 +213,7 @@
       "Item": "",
       "Power": "Action: Another investigator within range gains 1 clue. Activate this ability only once per round.",
       "Story": "Professor Walters began as a devotee of the archaic and obscure, but over the years he has discovered that his knowledge of ancient languages, profane relics, and strange rituals is vital to addressing dangers in the modern day. He is both an avid collector of prehistoric ephemera and a fount of knowledge regarding bizarre primordial religions that worshiped nightmarish gods eons ago. When a supernatural event occurs, Professor Walters is often asked to bring his considerable resources and experience to bear on the problem.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/1/15/HarveyWalters.png/revision/latest/scale-to-width-down/404?cb=20150428105104"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/1/15/HarveyWalters.png"
     },
     {
       "InvestigatorId": 13,
@@ -230,8 +230,8 @@
       "Horror": 6,
       "Item": "",
       "Power": "Action: If you have no clues, gain 2 Clues and discard 1 horror.",
-      "Story": "Jenny Barnes has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. But during her most recent summer in Paris, she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle�s disappearance is explained, Jenny will never relent in her search. And she will do so impeccably dressed",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/d/d2/JennyBarnes.png/revision/latest/scale-to-width-down/404?cb=20150428105018"
+      "Story": "Jenny Barnes has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. But during her most recent summer in Paris, she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelles disappearance is explained, Jenny will never relent in her search. And she will do so impeccably dressed",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/d/d2/JennyBarnes.png"
     },
     {
       "InvestigatorId": 14,
@@ -248,7 +248,7 @@
       "Horror": 8,
       "Item": "Golden Trumpet",
       "Power": "",
-      "Story": "Daddy used to say, \"Jazz is a lot like liquor, it makes everything go down a little smoother.\" Daddy used to say a lot of stupid things. Jazz has been nothing but trouble for Jim since the day he picked up his daddy's trumpet. There was something weird and otherworldly about the writing on the inside of the bell, but the tones from it were smooth and dark, like good coffee. There was something about it that made you want to tap your feet and snap your fingers. That trumpet landed Jim a lot of gigs until the time it made Widow Jenkins get up and dance, the day he played at her funeral. After that, it was kind of hard to find work, especially playing funerals. Since then, Jim has learned a lot about jazz�and the things the graveyard ghouls talk about on cold autumn nights. Lately, they've been talking about The End, as in the end of everything that is and could be. The Final Rhapsody. The fact is, Jim isn't too keen on that idea. He's got more songs he wants to play before then. So, sitting in a booth at Velma's, Jim takes one last swallow of hot coffee before heading out to play what could be his last encore. The coffee is smooth and dark going down, just like the night...",
+      "Story": "Daddy used to say, \"Jazz is a lot like liquor, it makes everything go down a little smoother.\" Daddy used to say a lot of stupid things. Jazz has been nothing but trouble for Jim since the day he picked up his daddy's trumpet. There was something weird and otherworldly about the writing on the inside of the bell, but the tones from it were smooth and dark, like good coffee. There was something about it that made you want to tap your feet and snap your fingers. That trumpet landed Jim a lot of gigs until the time it made Widow Jenkins get up and dance, the day he played at her funeral. After that, it was kind of hard to find work, especially playing funerals. Since then, Jim has learned a lot about jazzand the things the graveyard ghouls talk about on cold autumn nights. Lately, they've been talking about The End, as in the end of everything that is and could be. The Final Rhapsody. The fact is, Jim isn't too keen on that idea. He's got more songs he wants to play before then. So, sitting in a booth at Velma's, Jim takes one last swallow of hot coffee before heading out to play what could be his last encore. The coffee is smooth and dark going down, just like the night...",
       "ImageUrl": ""
     },
     {
@@ -267,7 +267,7 @@
       "Item": "",
       "Power": "If you spend a Clue to convert a ? To a *, you may convert up to two ? To * instead.",
       "Story": "Joe Diamond is a private investigator with a reputation for handling cases that everyone else regards as supernatural nonsense. He is thorough in his investigations, and he is not one to be trifled with. His services have been employed by the wealthy as well as those down on their luck. No case is too large, too small, too strange, or too dangerous. In his experience, things start getting nasty right when you start reaching the truth, and that is exactly where he likes to be",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/7/7e/JoeDiamond.png/revision/latest/scale-to-width-down/495?cb=20150428123349"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/7/7e/JoeDiamond.png"
     },
     {
       "InvestigatorId": 16,
@@ -284,8 +284,8 @@
       "Horror": 8,
       "Item": "Flux Stabilixer",
       "Power": "",
-      "Story": "Very few of Kate Winthrop�s scientific colleagues even know her name. She is painfully shy, but nonetheless possessed of a powerfully focused scientific mind. Several years ago, she watched as her mentor was devoured by an unthinkable creature from another world. A weaker mind might have gone mad or dismissed the sight as a hallucination. But Kate knew with full clarity what she saw and has spent her time ever since studying the phenomena that caused the tragedy. The result of these studies is the flux stabilizer. The device is still a work in progress, but she hopes to perfect a device that can permanently protect this world from the monstrosities that dwell in the worlds beyond. Kate is always eager to test the device or do more research at any place evidence of the supernatural may be found.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/a/ab/KateWinthrop.jpg/revision/latest/scale-to-width-down/192?cb=20150428082313"
+      "Story": "Very few of Kate Winthrops scientific colleagues even know her name. She is painfully shy, but nonetheless possessed of a powerfully focused scientific mind. Several years ago, she watched as her mentor was devoured by an unthinkable creature from another world. A weaker mind might have gone mad or dismissed the sight as a hallucination. But Kate knew with full clarity what she saw and has spent her time ever since studying the phenomena that caused the tragedy. The result of these studies is the flux stabilizer. The device is still a work in progress, but she hopes to perfect a device that can permanently protect this world from the monstrosities that dwell in the worlds beyond. Kate is always eager to test the device or do more research at any place evidence of the supernatural may be found.",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/a/ab/KateWinthrop.jpg"
     },
     {
       "InvestigatorId": 17,
@@ -321,7 +321,7 @@
       "Item": "",
       "Power": "Once per round, when you gain a Clue, gain 1 additional Clue.",
       "Story": "Since beginning her employment as a researcher for Miskatonic University, Mandy has spent hours pouring over the profane pages of ancient, forbidden texts. Others who have been exposed to these tomes have been immediately repulsed by the horrific images and ideas they find within. Mandy, however, objectively recorded her findings and was seemingly able to shake off the damaging effects of the books. She believes she has seen a pattern emerging from the various texts which indicates an impending cataclysm. She recognizes that it may simply be an imagined paranoia resulting from her reading, but she truly believes that a disaster of epic proportions is on the horizon and that she must do everything she can to prevent it from coming to pass.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/7/7e/MandyThompson.png/revision/latest/scale-to-width-down/120?cb=20150428104857"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/7/7e/MandyThompson.png"
     },
     {
       "InvestigatorId": 19,
@@ -357,7 +357,7 @@
       "Item": "",
       "Power": "When a monster is defeated become Focused",
       "Story": "Michael McGlen considers himself a problem solver. The federal authorities consider Michael McGlen a dangerous criminal and a member of organized crime. McGlen does not really care what other people think. After his good friend and business associate Louie was dragged into the water by some horrible creature, McGlen took it upon himself to deliver a healthy amount of payback to things that go bump in the night. He seeks out strange places haunted by the supernatural and by terrible beasts. Once there, he proceeds to solve the problem. Typically, McGlen finds that dynamite or a tommy gun are the best ways to get results.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/1/12/MichaelMcGlen.png/revision/latest/scale-to-width-down/402?cb=20150428104734"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/1/12/MichaelMcGlen.png"
     },
     {
       "InvestigatorId": 21,
@@ -392,8 +392,8 @@
       "Horror": 6,
       "Item": "",
       "Power": "Other investigators in your space do not need to evade monsters.",
-      "Story": "Jack has always ascribed his success in archaeology to his father�s advice. �History whispers, Monterey. All you have to do is listen.� His father always called him Monterey as a joke. Jack never found the nickname to be as funny as his father did. For years, Jack wandered the globe in search of forgotten treasures, but the time eventually came when his life of adventure took a tragic turn. Jack�s father had been murdered and an unrecognizable sigil had been carved into his forehead. Jack was devastated. He had no idea who would do this or why. But he intended to find answers. History whispers and Monterey Jack listens.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/4/48/MontereyJack.png/revision/latest/scale-to-width-down/120?cb=20150428124353"
+      "Story": "Jack has always ascribed his success in archaeology to his fathers advice. History whispers, Monterey. All you have to do is listen. His father always called him Monterey as a joke. Jack never found the nickname to be as funny as his father did. For years, Jack wandered the globe in search of forgotten treasures, but the time eventually came when his life of adventure took a tragic turn. Jacks father had been murdered and an unrecognizable sigil had been carved into his forehead. Jack was devastated. He had no idea who would do this or why. But he intended to find answers. History whispers and Monterey Jack listens.",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/4/48/MontereyJack.png"
     },
     {
       "InvestigatorId": 23,
@@ -447,7 +447,7 @@
       "Item": "",
       "Power": "Once per round, another investigator within range may convert an ? to a ? while resolving a test.",
       "Story": "The more Sister Mary learns of the strange and arcane forces that sometimes manifest in this world, the more certain she is that she has been set upon a path to protect the innocents and to ward off these forces when possible. Armed only with the trappings of her church and an unshakable faith, Sister Mary has sought out every supernatural threat she hears of through her fellow priests and nuns. The other members of her church may dismiss such things as medieval nonsense, but Sister Mary knows all too well that evil exists in a very literal form. She also knows that if evil is left unchecked, it will bring ruin and horror to all of creation.",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/9/91/SisterMary.png/revision/latest/scale-to-width-down/120?cb=20150428105611"
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/9/91/SisterMary.png"
     },
     {
       "InvestigatorId": 26,
@@ -464,8 +464,8 @@
       "Horror": 6,
       "Item": "",
       "Power": "Action: You or another investigator within range flip 1 Damage facedown or discard 1 facedown Damage.",
-      "Story": "Vincent Lee knows why people die. As a Yale graduate of Medicine, he has become accustomed to knowing the conditions that inevitably lead to fatalities. However, since becoming a resident physician at St. Mary�s Hospital in Arkham, he has seen far too many horrible and unexplained deaths�an elderly victim torn apart by unknown wild animals, a healthy young man whose heart exploded without identifiable cause. Their twisted faces haunt his dreams. As a man who finds comfort in having all the answers, Vincent begins to wonder if something sinister is afoot in this otherwise quiet Massachusetts town. Unable to continue his practice with the horror that he takes home every night, Vincent decides to take a sabbatical in order to investigate these strange deaths, even if it kills him. ",
-      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/c/c6/VincentLee.png/revision/latest/scale-to-width-down/120?cb=20150428113539"
+      "Story": "Vincent Lee knows why people die. As a Yale graduate of Medicine, he has become accustomed to knowing the conditions that inevitably lead to fatalities. However, since becoming a resident physician at St. Marys Hospital in Arkham, he has seen far too many horrible and unexplained deathsan elderly victim torn apart by unknown wild animals, a healthy young man whose heart exploded without identifiable cause. Their twisted faces haunt his dreams. As a man who finds comfort in having all the answers, Vincent begins to wonder if something sinister is afoot in this otherwise quiet Massachusetts town. Unable to continue his practice with the horror that he takes home every night, Vincent decides to take a sabbatical in order to investigate these strange deaths, even if it kills him. ",
+      "ImageUrl": "https://static.wikia.nocookie.net/mansionsofmadness/images/c/c6/VincentLee.png"
     },
     {
       "InvestigatorId": 27,
