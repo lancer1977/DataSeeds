@@ -1,0 +1,8 @@
+ConditionID,Name,Description,Rules,ImageUrl
+1,Dazed,Wow i feel wooozy.,"You cannot spend Clues to convert dice results or perform additional puzzle steps. At the end of your turn, discard this card",https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Dazed-194x300.png
+2,Focused,Step up and focus,You may discard this card to convert all Clues to Successes while resolving a test.,https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Cultists-Journal-194x300.png
+3,,,,
+4,Restrained,Arrrgggh I cannot move. or can I ?,You cannot move voluntarily. At the end of your turn discard this card.,https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Restrained-194x300.png
+5,Stunned,I cannot do anything !,You cannot perfom more than a single action during your turn. At the end of your turn discard this card.,https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Stunned-194x300.png
+6,Wounded,"I am hurt, MEDIC!",You cannot perform the move action more than once each round. When you have suffered Damage equal to your health you are eliminated.,https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Wounded-194x300.png
+7,Insane,?,?,https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Insanity-Card-Front-1-194x300.png
