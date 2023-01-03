@@ -1,0 +1,5 @@
+Create a default behavior  
+===============================
+alter table Campaign.dbo.Campaigns 
+ADD CONSTRAINT df_City
+DEFAULT      (NEWID()) FOR GameId;
