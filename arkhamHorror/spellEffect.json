@@ -1,4 +1,4 @@
-[
+[ 
   {
     "Id": 10,
     "Name": "Bind Monster 4",
@@ -7,7 +7,7 @@
     "PassEffect": "The air fills with electricity as unseen forces clamp down on the creature. The monster is stunned. Then discard this card and draw a new \"Bind Monster\" Spell card.",
     "FailEffect": "In a moment of panic, you completely forget how to cast the spell. Discard this card (do not draw a replacement).",
     "DrawOnFail": 0,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -18,7 +18,7 @@
     "PassEffect": "After the spell takes effect, it quickly dissipates.",
     "FailEffect": "Your face grows eerily pale and the room seems to be spinning. Discard this card, do NOT draw a replacement.",
     "DrawOnFail": 0,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -29,7 +29,7 @@
     "PassEffect": "You resist your insistent mind; no additional effect.",
     "FailEffect": "You begin to execute a plan, only to realize it ends in your death; become Mesmerized.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -40,7 +40,7 @@
     "PassEffect": "You use the lingering power of the spell to gain new knowledge; you or another investigator within range gains 1 Clue.",
     "FailEffect": "The fleeting moment passes; no additional effect.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -51,7 +51,7 @@
     "PassEffect": "You interpret fact from fiction; you or another investigator within range gains 1 Clue.",
     "FailEffect": "You are disturbed by the voice's strange prophecies; become Mesmerized.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -62,7 +62,7 @@
     "PassEffect": "You use the opportunity to learn all it will impart; you or another investigator within range becomes Focused.",
     "FailEffect": "You cannot push the mind out; become Mesmerized.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -73,7 +73,7 @@
     "PassEffect": "You execute the spell adeptly and are able to cast it without breaking your stride. The monster is stunned. You may move 1 space.",
     "FailEffect": "At the last moment, your enemy twists its body, evading the magical contaimnent. The keeper may move the monster 1 space.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -84,7 +84,7 @@
     "PassEffect": "The perfectly formed binding takes hold and starts to crush the monster with unseen viciousness. The monster takes 2 damage and is stunned.",
     "FailEffect": "A mispmnunciation causes the spell to backfire. You feel the force ofa giant sledgehammer knock you to the floor. Take I damage and I horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -95,7 +95,7 @@
     "PassEffect": "Arcane energies surge through your body. The rush of power is both frightening and intoxicating. All monsters in this room are stunned. Take 1 horror.",
     "FailEffect": "The room grows bitterly cold and you are surrounded by thick black smoke. Take 1 horror. Then place a darkness token in this room.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -106,7 +106,7 @@
     "PassEffect": "Mystical forces twist their way around the creature legs. The creature screapns as the binding takes hold. The monster is dealt 1 damage and is stunned.",
     "FailEffect": "As the spell starts to congeal, the creature violently shakes, ripping its way out of the unseen shackles. Take 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -117,7 +117,7 @@
     "PassEffect": "Seeing your power physically manifested is thrilling; become Focused.",
     "FailEffect": "You feel as if your own mind is being branded: suffer 1 facedowon Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -128,7 +128,7 @@
     "PassEffect": "You pass through the wall and see the answer; gain 1 Clue.",
     "FailEffect": "The remnants of your power call you forward; move I space toward a space containing a Restraint.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -139,7 +139,7 @@
     "PassEffect": "The strength of the bonds casts a needed light on your investication; you or another investigator within range gains I Clue.",
     "FailEffect": "The fitful light wakes old fears; become Stressed.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -150,7 +150,7 @@
     "PassEffect": "If you pass, you slowly draw your hands apart, but the bonds you forged still linger; no additional effect.",
     "FailEffect": "If you fail, your fingers twist awkwardly and a shockwave of arcane energy escapes the spell; become Stunned.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -161,7 +161,7 @@
     "PassEffect": "The power sinks into the ground, leaving no trace; no additional effect.",
     "FailEffect": "The words twist in your mind until you cannot understand what you say; suffer 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -172,7 +172,7 @@
     "PassEffect": "Weariness washes away as his body begins to miraculously heal itself. Heal 1 additional damage.",
     "FailEffect": "The skin around the recently healed wounds appears translucent and covered in an unidentified viscous slime. Take 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -183,7 +183,7 @@
     "PassEffect": "You feel the pact's healing energies sinking down into your bones, repairing your body all the way to your core. Discard 1 injury trauma card from any investigator in your room.",
     "FailEffect": "You feel as if your brain is on fire. The pain in your head overhelms you. The keeper may draw 1 Trauma card. Then take 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -194,7 +194,7 @@
     "PassEffect": "You feel the spell threaten to empty your lungs of air as it emanates from you. Every investigator in the room (not including yourself) heals I additional damage.",
     "FailEffect": "For a moment you lose control of your body. Your arms and legs mnove of their own accord. The keeper may move you I space.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -205,7 +205,7 @@
     "PassEffect": "The wounds have scarred over with a dark, rock-like substance. Heal 2 additional damage, and then take I horror.",
     "FailEffect": "The wounds abruptly re-open and blood begins to spray out in a black and red mess. Take 1 damage and 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -216,7 +216,7 @@
     "PassEffect": "You are able to reconcile your new sense of he cosmos with your existing paradigm; no additional effect.",
     "FailEffect": "You realize that everything you have known is wring; suffer 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -227,7 +227,7 @@
     "PassEffect": "You realize that one of your memories is relevant to the case; gain 1 Clue.",
     "FailEffect": "You longer on the worst events of your life; suffer 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -238,7 +238,7 @@
     "PassEffect": "You focus on the connection; you or another investigator within range become Focused.",
     "FailEffect": "If you fail, you recoil in revulsion; suffer 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -249,7 +249,7 @@
     "PassEffect": "If you pass, you see your surroundings with perfect clarity; gain 1 Clue.",
     "FailEffect": "If you fail, the moment shatters; flip 1 Horror faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -260,7 +260,7 @@
     "PassEffect": "You are able to block out the alien influence and remember yourself; no additional effect.",
     "FailEffect": "You struggle to tell your own thoughts from the thoughts of those around you; flip 1 Horror faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -271,7 +271,7 @@
     "PassEffect": "You drive out the magic; no additional effect.",
     "FailEffect": "Your flesh ripples and twitches of its own accord; the affected investigator suffers 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -282,7 +282,7 @@
     "PassEffect": "You channel the energy; the affected investigator flips 1 Damage facedown.",
     "FailEffect": "The energy dissipates; flip 1 Horror faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -293,7 +293,7 @@
     "PassEffect": "You see a solution for a malady; you or another investigator within range flip 1 Damage facedown.",
     "FailEffect": "You scream in revulsion; suffer 1 facedown Horror,",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -304,7 +304,7 @@
     "PassEffect": "The moment passes and you are yourself again; no additional effect.",
     "FailEffect": "Shouting and flailing, you abruptly lash out; flip 1 Damage faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -315,7 +315,7 @@
     "PassEffect": "If you pass, you latch onto the echo and cast it again; discard 1 Damage.",
     "FailEffect": "If you fail, you lose your concentration; suffer 1 facedown Horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -326,7 +326,7 @@
     "PassEffect": "The darkness fades; no additional effect.",
     "FailEffect": "The darkness whispers; flip 1 Horror faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -337,7 +337,7 @@
     "PassEffect": "A strange sense of peace settles upon you; discard 1 Horror.",
     "FailEffect": "The vision vanishes as quickly as it appeared; flip 1 Horror faceup.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -348,7 +348,7 @@
     "PassEffect": "You draw comfort from the music of the cosmos; flip 1 Horror facedown.",
     "FailEffect": "The sound fades leaving you none the wiser; no additional effect.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -359,7 +359,7 @@
     "PassEffect": "You gain perspective; flip 1 Horror facedown.",
     "FailEffect": "You stagger blindly; suffer 1 facedown Damage.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -370,7 +370,7 @@
     "PassEffect": "You finish the incantation; no additional effect.",
     "FailEffect": "The coughing echoes through the spell; suffer 1 facedown Damage.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -381,7 +381,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -392,7 +392,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -403,7 +403,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -414,7 +414,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -425,7 +425,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -436,7 +436,7 @@
     "PassEffect": "Your enemy's skin starts to rot before your very eyes, tearing it apar at a molecular level. Take 1 horror and deal 5 damage. If the enemy is a humanoid monster, it is killed.",
     "FailEffect": "You send that something has gone terribly wrong. The skin on your left hand starts to melt off. Take 1 damage and 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "1e"
   },
   {
@@ -447,7 +447,7 @@
     "PassEffect": "Your enemy's flesh pours off its body in a river of decay. You take comfort in knowing that it must be dead as you empty your stomach. Take 1 horror. Then deal 7 damage and stun the monster.",
     "FailEffect": "At first it appears that nothing is happening. A second later your vision blurs as you watch your enemy's skin boil. Take 2 horror and deal 3 Damage.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "1e"
   },
   {
@@ -458,7 +458,7 @@
     "PassEffect": "Small cuts appear across your enemy's skin . It strikes itself repeatedly trying to escape the effect. Deal and amount of damage to the monster equal to the monster's damage value +2.",
     "FailEffect": "Acrid black smoke billows out from the monster as its skin bursts into flames. Deal 2 damage, take 1 horror and place a fire token in this room.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "1e"
   },
   {
@@ -469,7 +469,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "2e"
   },
   {
@@ -480,7 +480,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "2e"
   },
   {
@@ -491,7 +491,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "2e"
   },
   {
@@ -502,7 +502,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "2e"
   },
   {
@@ -513,7 +513,7 @@
     "PassEffect": "A shiver runs cloven your spine as the spell takes effect. Boils cover your enony body and it falls to the ground convulsing. Deal 5 damage and stun the monster.",
     "FailEffect": "As you finish the incantation, you wait as absolutely nothing happens. You fear that you have done damage. Take 1 horror.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "1e"
   },
   {
@@ -524,7 +524,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": "2e"
   },
   {
@@ -535,7 +535,7 @@
     "PassEffect": "The spell briefly allows you to focus on the task in front of you. The effect seems to pass quickly.",
     "FailEffect": "You are overcome by fear and mistrust. You reret having ever dabbled in spellcraft.",
     "DrawOnFail": 0,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -546,7 +546,7 @@
     "PassEffect": "In your mind's eye you see your entire life up to this point. You know in your heart that you are exactly where you are meant to be. Discard 1 insanity trauma card from any invesitgator in your room.",
     "FailEffect": "The entire room shakes ominously. You fear that strange forces conspired against you. The keeper gains 3 threat.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -557,7 +557,7 @@
     "PassEffect": "You feel the emotional weight of all your compansions, depending on you for their well-being. Every investigator in the room (not including yourself) heals 1 additional horror.",
     "FailEffect": "Time seems to stand still. It may have only been a minute, but you fear that much horror can be found within a single moment. The leeper gais 3 threat.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -568,7 +568,7 @@
     "PassEffect": "You hear gentle chimes and feel a cool breeze. They sooth your troubled mind. Heal 1 additional horror.",
     "FailEffect": "You feel powerfully alert, your heart pounding in your chest and sweat pouring down your face. Take 1 damage.",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -579,7 +579,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -590,7 +590,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -601,7 +601,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -612,7 +612,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -623,7 +623,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -634,7 +634,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -645,7 +645,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -656,7 +656,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -667,7 +667,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -678,7 +678,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -689,7 +689,7 @@
     "PassEffect": "",
     "FailEffect": "Yes",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -700,7 +700,7 @@
     "PassEffect": "",
     "FailEffect": "Yes",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -711,7 +711,7 @@
     "PassEffect": "",
     "FailEffect": "Yes",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   },
   {
@@ -722,7 +722,7 @@
     "PassEffect": "",
     "FailEffect": "",
     "DrawOnFail": 1,
-    "Enabled": 1,
+    "Enabled": true,
     "Origin": ""
   }
 ]
