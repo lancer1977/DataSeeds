@@ -1,0 +1,13 @@
+Id,Name,Description,Damage,Type,ImageUrl,Origin
+1,Arcane Insight,You or another investigator within range gains 1 Clue. Then flip this card.,,Action,,2nd
+2,Bind Monster,Choose a monster within 2 range and test Lore. Then flip this card over and resolve the effect.,,Action,,1st
+3,Binding,Place a Restraint in a space within range. Then flip this card.,,Action,,2nd
+4,Blood Pact,"Choose 1 investigator in your room to heal 1 damage. Then flip this card over, and resolve the effect.",,Action,,1st
+5,Feed the Mind,You or another investigator within range become Focused. Then flip this card.,,Action,,2nd
+6,Instill Bravery,You or another investigator within range discard 1 Horror. Then flip this card.,,Action,,2nd
+7,Poison Mist,You can attack a monster in an adjacent space with this card.,3,Melee,,2nd
+8,Shriveling,Choose a monster within 2 range and test Lore - 1. Then flip this card over and resolve the effect.,,Action,,1st
+9,Soul Pact,"Choose 1 investigator in your room to heal 1 horror. Then flip this card over, and resolve the effect.",,Action,,1st
+10,Spectral Razor,The energy you channel lashes out with deadly precision.,2,Melee,,2nd
+11,Wither,"As the spell takes effect, the victims body withers and mummifies",2,Range,,2nd
+12,Wrack,"The words of this incanation cause intense, wracking pains to tear at your enemy's body.",5,Melee,,2nd

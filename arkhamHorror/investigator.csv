@@ -1,4 +1,4 @@
-InvestigatorId,Name,Title,Lore,Influence,Observation,Strength,Will,Focus,Health,Horror,StartingWealth,AdditionalRules,FlavorText,StartingItems,OptionalItems,Role1,Role2,ImageUrl
+Id,Name,Title,Lore,Influence,Observation,Strength,Will,Focus,Health,Horror,StartingWealth,AdditionalRules,FlavorText,StartingItems,OptionalItems,Role1,Role2,ImageUrl
 4,Agnes Baker,The Waitress,4,2,2,2,3,2,6,6,3,"Blood Casting, Blood is Power",Things aren't awlays what they seem.,Heirloom of Hyperborea,"Storm of Spirits, Flesh Ward",Mystic,Guardian,https://static.wikia.nocookie.net/eldritchhorrorgame/images/d/d7/Agnes_Baker.png
 5,Calvin Wright,The Haunted,3,3,3,3,1,2,6,6,3,Friend Indeed,I'll sacrifice everything to keep you safe,"Spirit Dagger, Until the End of Time",Voice of the Messanger,Guardian,Rogue,https://static.wikia.nocookie.net/eldritchhorrorgame/images/4/48/Calvin_Wright.png
 9,Daniela Reyes,The Mechanic,3,3,1,3,3,3,7,5,3,Love For the Job,You got a job that needs doing. I'm your girl.,Gabriel,"Ace of Swords,?",Rogue,Survivor,https://static.wikia.nocookie.net/eldritchhorrorgame/images/7/7a/Daniela_Reyes.png/revision/latest/scale-to-width-down/250?cb=20210806192414

@@ -1,0 +1,110 @@
+[
+    {
+      "Id": 1,
+      "Name": "Arcane Insight",
+      "Description": "You or another investigator within range gains 1 Clue. Then flip this card.",
+      
+      "Type": 0,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 2,
+      "Name": "Bind Monster",
+      "Description": "Choose a monster within 2 range and test Lore. Then flip this card over and resolve the effect.",
+      
+      "Type": 0,
+      
+      "Origin": "1st"
+    },
+    {
+      "Id": 3,
+      "Name": "Binding",
+      "Description": "Place a Restraint in a space within range. Then flip this card.",
+      
+      "Type": 0,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 4,
+      "Name": "Blood Pact",
+      "Description": "Choose 1 investigator in your room to heal 1 damage. Then flip this card over, and resolve the effect.",
+      
+      "Type": 0,
+      
+      "Origin": "1st"
+    },
+    {
+      "Id": 5,
+      "Name": "Feed the Mind",
+      "Description": "You or another investigator within range become Focused. Then flip this card.",
+      
+      "Type": 0,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 6,
+      "Name": "Instill Bravery",
+      "Description": "You or another investigator within range discard 1 Horror. Then flip this card.",
+      
+      "Type": 0,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 7,
+      "Name": "Poison Mist",
+      "Description": "You can attack a monster in an adjacent space with this card.",
+      "Damage": 3,
+   "Type":2,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 8,
+      "Name": "Shriveling",
+      "Description": "Choose a monster within 2 range and test Lore - 1. Then flip this card over and resolve the effect.",
+      
+      "Type": 0,
+      
+      "Origin": "1st"
+    },
+    {
+      "Id": 9,
+      "Name": "Soul Pact",
+      "Description": "Choose 1 investigator in your room to heal 1 horror. Then flip this card over, and resolve the effect.",
+      
+      "Type": 0,
+      
+      "Origin": "1st"
+    },
+    {
+      "Id": 10,
+      "Name": "Spectral Razor",
+      "Description": "The energy you channel lashes out with deadly precision.",
+      "Damage": 2,
+   "Type":2,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 11,
+      "Name": "Wither",
+      "Description": "As the spell takes effect, the victims body withers and mummifies",
+      "Damage": 2,
+      "Type": 1,
+      
+      "Origin": "2nd"
+    },
+    {
+      "Id": 12,
+      "Name": "Wrack",
+      "Description": "The words of this incanation cause intense, wracking pains to tear at your enemy's body.",
+      "Damage": 5,
+   "Type":2,
+      
+      "Origin": "2nd"
+    }
+  ]

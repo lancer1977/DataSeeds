@@ -1,6 +1,6 @@
 [
   {
-    "InvestigatorId": 4,
+    "Id": 4,
     "Name": "Agnes Baker",
     "Title": "The Waitress",
     "Lore": 4,
@@ -21,7 +21,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/d/d7/Agnes_Baker.png"
   },
   {
-    "InvestigatorId": 5,
+    "Id": 5,
     "Name": "Calvin Wright",
     "Title": "The Haunted",
     "Lore": 3,
@@ -42,7 +42,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/4/48/Calvin_Wright.png"
   },
   {
-    "InvestigatorId": 9,
+    "Id": 9,
     "Name": "Daniela Reyes",
     "Title": "The Mechanic",
     "Lore": 3,
@@ -63,7 +63,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/7/7a/Daniela_Reyes.png/revision/latest/scale-to-width-down/250?cb=20210806192414"
   },
   {
-    "InvestigatorId": 11,
+    "Id": 11,
     "Name": "Dexter Drake",
     "Title": "The Magician",
     "Lore": 4,
@@ -84,7 +84,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/4/49/Dexter_Drake.png"
   },
   {
-    "InvestigatorId": 3,
+    "Id": 3,
     "Name": "Jenny Barnes",
     "Title": "The Dilettante",
     "Lore": 1,
@@ -105,7 +105,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/4/4e/Jenny_Barnes.png"
   },
   {
-    "InvestigatorId": 12,
+    "Id": 12,
     "Name": "Marie Lameau",
     "Title": "The Entertainer",
     "Lore": 3,
@@ -126,7 +126,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/c/c1/Marie_Lambeau.png"
   },
   {
-    "InvestigatorId": 7,
+    "Id": 7,
     "Name": "Michael McGlen",
     "Title": "The Mobster",
     "Lore": 2,
@@ -147,7 +147,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/5/55/Michael_McGlen.png"
   },
   {
-    "InvestigatorId": 1,
+    "Id": 1,
     "Name": "Min Thi Phan",
     "Title": "The Secretary",
     "Lore": 3,
@@ -168,7 +168,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/0/04/Minh_Thi_Phan.png"
   },
   {
-    "InvestigatorId": 10,
+    "Id": 10,
     "Name": "Norman Withers",
     "Title": "The Astronomer",
     "Lore": 3,
@@ -189,7 +189,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/d/d5/Norman_Withers.png"
   },
   {
-    "InvestigatorId": 2,
+    "Id": 2,
     "Name": "Rex Murphy",
     "Title": "The Reporter",
     "Lore": 3,
@@ -210,7 +210,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/f/f8/Rex_Murphy.png"
   },
   {
-    "InvestigatorId": 6,
+    "Id": 6,
     "Name": "Tommy Muldoon",
     "Title": "The Rookie Cop",
     "Lore": 2,
@@ -231,7 +231,7 @@
     "ImageUrl": "https://static.wikia.nocookie.net/eldritchhorrorgame/images/3/3e/Tommy_Muldoon.png"
   },
   {
-    "InvestigatorId": 8,
+    "Id": 8,
     "Name": "Wendy Adams",
     "Title": "The Urchin",
     "Lore": 3,

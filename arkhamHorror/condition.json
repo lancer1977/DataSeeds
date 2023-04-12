@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dazed",
+    "Description": "Wow i feel wooozy.",
+    "Rules": "You cannot spend Clues to convert dice results or perform additional puzzle steps. At the end of your turn, discard this card",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Dazed-194x300.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Focused",
+    "Description": "Step up and focus",
+    "Rules": "You may discard this card to convert all Clues to Successes while resolving a test.",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Cultists-Journal-194x300.png"
+  },
+  {
+    "Id": 3,
+    "Name": "",
+    "Description": "",
+    "Rules": "",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 4,
+    "Name": "Restrained",
+    "Description": "Arrrgggh I cannot move. or can I ?",
+    "Rules": "You cannot move voluntarily. At the end of your turn discard this card.",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Restrained-194x300.png"
+  },
+  {
+    "Id": 5,
+    "Name": "Stunned",
+    "Description": "I cannot do anything !",
+    "Rules": "You cannot perfom more than a single action during your turn. At the end of your turn discard this card.",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Stunned-194x300.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Wounded",
+    "Description": "I am hurt, MEDIC!",
+    "Rules": "You cannot perform the move action more than once each round. When you have suffered Damage equal to your health you are eliminated.",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Wounded-194x300.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Insane",
+    "Description": "??",
+    "Rules": "",
+    "ImageUrl": "https://usercontent.one/wp/www.lindhardgaming.dk/wp-content/uploads/2017/05/Insanity-Card-Front-1-194x300.png"
+  }
+]
