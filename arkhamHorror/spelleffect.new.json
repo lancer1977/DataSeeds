@@ -1,0 +1,35 @@
+[
+    {
+      "Id": 79,
+      "Name": "Wrack 5",
+      "SpellId": 12,
+      "DefaultEffect": "You hear laughter and gradually realize it is your own. Suffer 2 Horror. Then the monster suffers 2 additional damage.",
+      "PassEffect": "",
+      "FailEffect": "",
+      "DrawOnFail": true,
+      "Enabled": true,
+      "Origin": "2e"
+    },
+    {
+      "Id": 80,
+      "Name": "Soul Pact 5",
+      "SpellId": 9,
+      "DefaultEffect": "",
+      "PassEffect": "As the horrid memories of the recent past are forcibly removed from your mind, your entire body shakes violently. Heal 2 additional horror, and then take 1 damage.",
+      "FailEffect": "You are inside a coffin, buried alive and clawing at the lid. You snap out of this terrible illusion but discover that your fingers are still bloodied. Take 1 damage and 1 horror.",
+      "DrawOnFail": true,
+      "Enabled": true,
+      "Origin": "1e"
+    },
+    {
+      "Id": 81,
+      "Name": "Arcane Insight 5",
+      "SpellId": 1,
+      "DefaultEffect": "Violent images course through your mind. You attempt to regain control of your thoughts (Lore; 3).",
+      "PassEffect": "You block out the images; no additional effect.",
+      "FailEffect": "If you fail, you find yourself overwhelmed by the vivid torment in your mind; suffer 1 facedown Horror.",
+      "DrawOnFail": true,
+      "Enabled": true,
+      "Origin": "2e"
+    }
+  ]

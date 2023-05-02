@@ -1,0 +1,4 @@
+Id,Name,SpellId,DefaultEffect,PassEffect,FailEffect,DrawOnFail,Enabled,Origin
+79,Wrack 5,12,You hear laughter and gradually realize it is your own. Suffer 2 Horror. Then the monster suffers 2 additional damage. ,,,1,1,2e
+80,Soul Pact 5,9,,"As the horrid memories of the recent past are forcibly removed from your mind, your entire body shakes violently. Heal 2 additional horror, and then take 1 damage.","You are inside a coffin, buried alive and clawing at the lid. You snap out of this terrible illusion but discover that your fingers are still bloodied. Take 1 damage and 1 horror.",1,1,1e
+81,Arcane Insight 5,1,Violent images course through your mind. You attempt to regain control of your thoughts (Lore; 3).,You block out the images; no additional effect.,"If you fail, you find yourself overwhelmed by the vivid torment in your mind; suffer 1 facedown Horror.",1,1,2e
