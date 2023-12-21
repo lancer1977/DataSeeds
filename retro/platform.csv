@@ -1,4 +1,4 @@
-IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
+IgdbId, Name,Folder,Slug,Platform,Systems,Extensions,Core
 50,3DO Interactive Multiplayer,3do,3do,3do,3do,,
 9999,Action Max,actionmax,actionmax,actionmax,actionmax,,
 16,Amiga,amiga,amiga,amiga,amiga,,
@@ -11,86 +11,86 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 52,Arcade,fba,fba,fba,fba,,
 52,Arcade,model123,model123,model123,model123,,
 52,Arcade,naomi,naomi,naomi,naomi,,
-59,Atari 2600,atari2600,atari2600,atari2600,atari2600,Atari - 2600,2600
-66,Atari 5200,atari5200,atari5200,atari5200,atari5200,Atari - 5200,5200
-60,Atari 7800,atari7800,atari7800,atari7800,atari7800,Atari - 7800,7800
+59,Atari 2600,atari2600,atari2600,atari2600,atari2600,2600,Atari - 2600
+66,Atari 5200,atari5200,atari5200,atari5200,atari5200,5200,Atari - 5200
+60,Atari 7800,atari7800,atari7800,atari7800,atari7800,7800,Atari - 7800
 65,Atari 8-bit,atari800,atari800,atari800,atari800,,
 62,Atari Jaguar,atarijaguar,atarijaguar,atarijaguar,atarijaguar,,
-62,Atari Jaguar,jaguar,jaguar,jaguar,jaguar,,jag
+62,Atari Jaguar,jaguar,jaguar,jaguar,jaguar,jag,
 410,Atari Jaguar CD,atarijaguarcd,atarijaguarcd,atarijaguarcd,atarijaguarcd,,
-61,Atari Lynx,atarilynx,atarilynx,atarilynx,atarilynx,,lynx
-63,Atari ST/STE,atarist,atarist,atarist,atarist,,st
+61,Atari Lynx,atarilynx,atarilynx,atarilynx,atarilynx,lynx,
+63,Atari ST/STE,atarist,atarist,atarist,atarist,st,
 91,Bally Astrocade,astrocade,astrocade,astrocade,astrocade,,
-68,ColecoVision,coleco,coleco,coleco,coleco,Coleco - ColecoVision,
-15,Commodore C64/128/MAX,c64,c64,c64,c64,,
+68,ColecoVision,coleco,coleco,coleco,coleco,,Coleco - ColecoVision
+15,Commodore C64/128/MAX,c64,c64,c64,c64,c64,
 13,DOS,dos,dos,dos,dos,,
 13,DOS,msdos,msdos,msdos,msdos,,
 13,DOS,pc,pc,pc,pc,,
 13,DOS,Scumm,Scumm,Scumm,Scumm,,
 13,DOS,scummvm,scummvm,scummvm,scummvm,,
-23,Dreamcast,dreamcast,dreamcast,dreamcast,dreamcast,Sega - Dreamcast/Naomi,
+23,Dreamcast,dreamcast,dreamcast,dreamcast,dreamcast,,Sega - Dreamcast/Naomi
 127,Fairchild Channel F,channelf,channelf,channelf,channelf,,
 127,Fairchild Channel F,fairchild,fairchild,fairchild,fairchild,,
 51,Family Computer Disk System,famicom,famicom,famicom,famicom,,
 118,FMTowns,fmtowns,fmtowns,fmtowns,fmtowns,,
-307,Game & Watch,gameandwatch,gameandwatch,gameandwatch,gameandwatch,,mgw
-33,Game Boy,gb,gb,gb,gb,Nintendo - Game Boy,gb
-33,Game Boy,gbh,gbh,gbh,gbh,Nintendo - Game Boy,gbc
-24,Game Boy Advance,gba,gba,gba,gba,Nintendo - Game Boy Advance,gba
-24,Game Boy Advance,gbah,gbah,gbah,gbah,Nintendo - Game Boy Advance,gba
-22,Game Boy Color,gbc,gbc,gbc,gbc,Nintendo - Game Boy Color,gbc
-67,Intellivision,intellivision,intellivision,intellivision,intellivision,Intellivision,int
+307,Game & Watch,gameandwatch,gameandwatch,gameandwatch,gameandwatch,mgw,
+33,Game Boy,gb,gb,gb,gb,gb,Nintendo - Game Boy
+33,Game Boy,gbh,gbh,gbh,gbh,gbc,Nintendo - Game Boy
+24,Game Boy Advance,gba,gba,gba,gba,gba,Nintendo - Game Boy Advance
+24,Game Boy Advance,gbah,gbah,gbah,gbah,gba,Nintendo - Game Boy Advance
+22,Game Boy Color,gbc,gbc,gbc,gbc,gbc,Nintendo - Game Boy Color
+67,Intellivision,intellivision,intellivision,intellivision,intellivision,int,Intellivision
 27,MSX,msx,msx,msx,msx,,
 53,MSX2,msx2,msx2,msx2,msx2,,
 80,Neo Geo AES,neogeo,neogeo,neogeo,neogeo,,
 136,Neo Geo CD,neogeocd,neogeocd,neogeocd,neogeocd,,
-119,Neo Geo Pocket,ngp,ngp,ngp,ngp,,ngp
-120,Neo Geo Pocket Color,ngpc,ngpc,ngpc,ngpc,,ngpc
-37,Nintendo 3DS,n3ds,n3ds,n3ds,n3ds,,cia
-4,Nintendo 64,n64,n64,n64,n64,Nintendo - Nintendo 64,n64
-20,Nintendo DS,nds,nds,nds,nds,,nds
-18,Nintendo Entertainment System,nes,nes,nes,nes,Nintendo - Nintendo Entertainment System,nes
-21,Nintendo GameCube,gamecube,gamecube,gamecube,gamecube,,ngc
+119,Neo Geo Pocket,ngp,ngp,ngp,ngp,ngp,
+120,Neo Geo Pocket Color,ngpc,ngpc,ngpc,ngpc,ngpc,
+37,Nintendo 3DS,n3ds,n3ds,n3ds,n3ds,cia,
+4,Nintendo 64,n64,n64,n64,n64,n64,Nintendo - Nintendo 64
+20,Nintendo DS,nds,nds,nds,nds,nds,
+18,Nintendo Entertainment System,nes,nes,nes,nes,nes,Nintendo - Nintendo Entertainment System
+21,Nintendo GameCube,gamecube,gamecube,gamecube,gamecube,ngc,
 130,Nintendo Switch,nswitch,nswitch,nswitch,nswitch,,
 128,PC Engine SuperGrafx,sgfx,sgfx,sgfx,sgfx,,
 274,PC-FX,pcfx,pcfx,pcfx,pcfx,,
 117,Philips CD-i,cdi,cdi,cdi,cdi,,
-7,PlayStation,ps1,ps1,ps1,ps1,Sony - PlayStation,
-8,PlayStation 2,ps2,ps2,ps2,ps2,Sony - PlayStation 2,
-9,PlayStation 3,ps3,ps3,ps3,ps3,Sony - PlayStation 3,
-48,PlayStation 4,ps4,ps4,ps4,ps4,Sony - PlayStation 4,
-167,PlayStation 5,ps5,ps5,ps5,ps5,Sony - PlayStation 5,
+7,PlayStation,ps1,ps1,ps1,ps1,,Sony - PlayStation
+8,PlayStation 2,ps2,ps2,ps2,ps2,,Sony - PlayStation 2
+9,PlayStation 3,ps3,ps3,ps3,ps3,,Sony - PlayStation 3
+48,PlayStation 4,ps4,ps4,ps4,ps4,,Sony - PlayStation 4
+167,PlayStation 5,ps5,ps5,ps5,ps5,,Sony - PlayStation 5
 38,PlayStation Portable,psp,psp,psp,psp,,
 46,PlayStation Vita,vita,vita,vita,vita,,
-30,Sega 32X,sega32x,sega32x,sega32x,sega32x,Sega - 32X,32x
-78,Sega CD,segacd,segacd,segacd,segacd,Sega - MS/GG/MD/CD,
-35,Sega Game Gear,gamegear,gamegear,gamegear,gamegear,Sega - Game Gear,gg
-29,Sega Genesis,megadrive,megadrive,megadrive,megadrive,Sega - Mega Drive - Genesis,"gen,md,smd,bin"
-64,Sega Master System/Mark III,sms,sms,sms,sms,Sega - Master System - Mark III,sms
-29,Sega Mega Drive/Genesis,genh,genh,genh,genh,,gen:md:smd:bin
-29,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive,megadrive,,gen:md:smd:bin
-29,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan,megadrive-japan,,gen:md:smd:bin
+30,Sega 32X,sega32x,sega32x,sega32x,sega32x,32x,Sega - 32X
+78,Sega CD,segacd,segacd,segacd,segacd,,Sega - MS/GG/MD/CD
+35,Sega Game Gear,gamegear,gamegear,gamegear,gamegear,gg,Sega - Game Gear
+29,Sega Genesis,megadrive,megadrive,megadrive,megadrive,"gen,md,smd,bin",Sega - Mega Drive - Genesis
+64,Sega Master System/Mark III,sms,sms,sms,sms,sms,Sega - Master System - Mark III
+29,Sega Mega Drive/Genesis,genh,genh,genh,genh,gen:md:smd:bin,
+29,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive,megadrive,gen:md:smd:bin,
+29,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan,megadrive-japan,gen:md:smd:bin,
 339,Sega Pico,segapico,segapico,segapico,segapico,,
 32,Sega Saturn,saturn,saturn,saturn,saturn,,
-84,SG-1000,sg-1000,sg-1000,sg-1000,sg1000,Sega - SG-1000,sms
+84,SG-1000,sg-1000,sg-1000,sg-1000,sg1000,sms,Sega - SG-1000
 121,Sharp X68000,x68000,x68000,x68000,x68000,,
-19,Super Nintendo Entertainment System,snes,snes,snes,snes,Nintendo - SNES,smc
-19,Super Nintendo Entertainment System,snesh,snes,snes,snes,Nintendo - SNES,smc
-58,Super Famicom,sfc,snes,snes,snes,Nintendo - SNES,smc
-129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,,ti99
-86,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine,pcengine,,pce
-86,TurboGrafx-16/PC Engine,tg16,tg16,tg16,tg16,,pce
+19,Super Nintendo Entertainment System,snes,snes,snes,snes,smc,Nintendo - SNES
+19,Super Nintendo Entertainment System,snesh,snes,snes,snes,smc,Nintendo - SNES
+58,Super Famicom,sfc,snes,snes,snes,smc,Nintendo - SNES
+129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,ti99,
+86,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine,pcengine,pce,
+86,TurboGrafx-16/PC Engine,tg16,tg16,tg16,tg16,pce,
 150,Turbografx-16/PC Engine CD,pcenginecd,pcenginecd,pcenginecd,pcenginecd,,
 150,Turbografx-16/PC Engine CD,tg16cd,tg16cd,tg16cd,tg16cd,,
 70,Vectrex,vectrex,vectrex,vectrex,vectrex,,
-87,Virtual Boy,virtualboy,virtualboy,virtualboy,virtualboy,Nintendo - Virtual Boy,
+87,Virtual Boy,virtualboy,virtualboy,virtualboy,virtualboy,vb,Nintendo - Virtual Boy
 5,Wii,wii,wii,wii,wii,,
 41,Wii U,wiiu,wiiu,wiiu,wiiu,,
 57,WonderSwan,wonderswan,wonderswan,wonderswan,wonderswan,,
 123,WonderSwan Color,wonderswancolor,wonderswancolor,wonderswancolor,wonderswancolor,,
-11,Xbox,xbox,xbox,xbox,xbox,Microsoft - Xbox,
+11,Xbox,xbox,xbox,xbox,xbox,,Microsoft - Xbox
 26,ZX Spectrum,zxspectrum,zxspectrum,zxspectrum,zxspectrum,,
-,Famicom Disk System,fds,fds,fds,fds,,fds
+,Famicom Disk System,fds,fds,fds,fds,fds,
 ,,odyssey2,odyssey2,odyssey2,odyssey2,,
 ,,pico,pico,pico,pico,,
 ,,ports,ports,ports,ports,,
