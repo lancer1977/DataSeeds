@@ -19,7 +19,7 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 62,Atari Jaguar,jaguar,jaguar,jaguar,jaguar,,jag
 410,Atari Jaguar CD,atarijaguarcd,atarijaguarcd,atarijaguarcd,atarijaguarcd,,
 61,Atari Lynx,atarilynx,atarilynx,atarilynx,atarilynx,,lynx
-63,Atari ST/STE,atarist,atarist,atarist,atarist,,
+63,Atari ST/STE,atarist,atarist,atarist,atarist,,st
 91,Bally Astrocade,astrocade,astrocade,astrocade,astrocade,,
 68,ColecoVision,coleco,coleco,coleco,coleco,Coleco - ColecoVision,
 15,Commodore C64/128/MAX,c64,c64,c64,c64,,
@@ -33,20 +33,20 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 127,Fairchild Channel F,fairchild,fairchild,fairchild,fairchild,,
 51,Family Computer Disk System,famicom,famicom,famicom,famicom,,
 118,FMTowns,fmtowns,fmtowns,fmtowns,fmtowns,,
-307,Game & Watch,gameandwatch,gameandwatch,gameandwatch,gameandwatch,,
+307,Game & Watch,gameandwatch,gameandwatch,gameandwatch,gameandwatch,,mgw
 33,Game Boy,gb,gb,gb,gb,Nintendo - Game Boy,gb
 33,Game Boy,gbh,gbh,gbh,gbh,Nintendo - Game Boy,gbc
 24,Game Boy Advance,gba,gba,gba,gba,Nintendo - Game Boy Advance,gba
 24,Game Boy Advance,gbah,gbah,gbah,gbah,Nintendo - Game Boy Advance,gba
 22,Game Boy Color,gbc,gbc,gbc,gbc,Nintendo - Game Boy Color,gbc
-67,Intellivision,intellivision,intellivision,intellivision,intellivision,Intellivision,
+67,Intellivision,intellivision,intellivision,intellivision,intellivision,Intellivision,int
 27,MSX,msx,msx,msx,msx,,
 53,MSX2,msx2,msx2,msx2,msx2,,
 80,Neo Geo AES,neogeo,neogeo,neogeo,neogeo,,
 136,Neo Geo CD,neogeocd,neogeocd,neogeocd,neogeocd,,
-119,Neo Geo Pocket,ngp,ngp,ngp,ngp,,
-120,Neo Geo Pocket Color,ngpc,ngpc,ngpc,ngpc,,
-37,Nintendo 3DS,n3ds,n3ds,n3ds,n3ds,,
+119,Neo Geo Pocket,ngp,ngp,ngp,ngp,,ngp
+120,Neo Geo Pocket Color,ngpc,ngpc,ngpc,ngpc,,ngpc
+37,Nintendo 3DS,n3ds,n3ds,n3ds,n3ds,,cia
 4,Nintendo 64,n64,n64,n64,n64,Nintendo - Nintendo 64,n64
 20,Nintendo DS,nds,nds,nds,nds,,nds
 18,Nintendo Entertainment System,nes,nes,nes,nes,Nintendo - Nintendo Entertainment System,nes
@@ -64,9 +64,9 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 46,PlayStation Vita,vita,vita,vita,vita,,
 30,Sega 32X,sega32x,sega32x,sega32x,sega32x,Sega - 32X,32x
 78,Sega CD,segacd,segacd,segacd,segacd,Sega - MS/GG/MD/CD,
-35,Sega Game Gear,gamegear,gamegear,gamegear,gamegear,Sega - Game Gear,
-29,Sega Genesis,megadrive,megadrive,megadrive,megadrive,Sega - Mega Drive - Genesis,
-64,Sega Master System/Mark III,sms,sms,sms,sms,Sega - Master System - Mark III,
+35,Sega Game Gear,gamegear,gamegear,gamegear,gamegear,Sega - Game Gear,gg
+29,Sega Genesis,megadrive,megadrive,megadrive,megadrive,Sega - Mega Drive - Genesis,"gen,md,smd,bin"
+64,Sega Master System/Mark III,sms,sms,sms,sms,Sega - Master System - Mark III,sms
 29,Sega Mega Drive/Genesis,genh,genh,genh,genh,,"gen,md,smd,bin"
 29,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive,megadrive,,"gen,md,smd,bin"
 29,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan,megadrive-japan,,"gen,md,smd,bin"
@@ -77,7 +77,7 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 58,Super Famicom,sfc,sfc,sfc,sfc,,smc
 19,Super Nintendo Entertainment System,snes,snes,snes,snes,Nintendo - SNES,smc
 19,Super Nintendo Entertainment System,snesh,snesh,snesh,snesh,,smc
-129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,,
+129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,,ti99
 86,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine,pcengine,,pce
 86,TurboGrafx-16/PC Engine,tg16,tg16,tg16,tg16,,pce
 150,Turbografx-16/PC Engine CD,pcenginecd,pcenginecd,pcenginecd,pcenginecd,,
@@ -90,9 +90,7 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 123,WonderSwan Color,wonderswancolor,wonderswancolor,wonderswancolor,wonderswancolor,,
 11,Xbox,xbox,xbox,xbox,xbox,Microsoft - Xbox,
 26,ZX Spectrum,zxspectrum,zxspectrum,zxspectrum,zxspectrum,,
-,,fds,fds,fds,fds,,
-,,ggh,ggh,ggh,ggh,,
-,,nesh,nesh,nesh,nesh,,
+,Famicom Disk System,fds,fds,fds,fds,,fds
 ,,odyssey2,odyssey2,odyssey2,odyssey2,,
 ,,pico,pico,pico,pico,,
 ,,ports,ports,ports,ports,,
