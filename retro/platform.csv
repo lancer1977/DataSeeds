@@ -1,0 +1,105 @@
+IgdbId,Systems, Name,Folder,Slug,Platform
+50,3do,3DO Interactive Multiplayer,3do,3do,3do
+9999,actionmax,Action Max,actionmax,actionmax,actionmax
+16,amiga,Amiga,amiga,amiga,amiga
+114,amigacd32,Amiga CD32,amigacd32,amigacd32,amigacd32
+25,amstradcpc,Amstrad CPC,amstradcpc,amstradcpc,amstradcpc
+52,arcade,Arcade,arcade,arcade,arcade
+52,arcade_chd,Arcade,arcade_chd,arcade_chd,arcade_chd
+75,apple2,Apple II,apple2,apple2,apple2
+91,astrocade,Bally Astrocade,astrocade,astrocade,astrocade
+59,atari2600,Atari 2600,atari2600,atari2600,atari2600
+66,atari5200,Atari 5200,atari5200,atari5200,atari5200
+60,atari7800,Atari 7800,atari7800,atari7800,atari7800
+65,atari800,Atari 8-bit,atari800,atari800,atari800
+62,atarijaguar,Atari Jaguar,atarijaguar,atarijaguar,atarijaguar
+410,atarijaguarcd,Atari Jaguar CD,atarijaguarcd,atarijaguarcd,atarijaguarcd
+61,atarilynx,Atari Lynx,atarilynx,atarilynx,atarilynx
+63,atarist,Atari ST/STE,atarist,atarist,atarist
+15,c64,Commodore C64/128/MAX,c64,c64,c64
+117,cdi,Philips CD-i,cdi,cdi,cdi
+127,channelf,Fairchild Channel F,channelf,channelf,channelf
+68,coleco,ColecoVision,coleco,coleco,coleco
+52,daphne,Arcade,daphne,daphne,daphne
+13,dos,DOS,dos,dos,dos
+23,dreamcast,Dreamcast,dreamcast,dreamcast,dreamcast
+51,famicom,Family Computer Disk System,famicom,famicom,famicom
+127,fairchild,Fairchild Channel F,fairchild,fairchild,fairchild
+52,fba,Arcade,fba,fba,fba
+,fds,,fds,fds,fds
+118,fmtowns,FMTowns,fmtowns,fmtowns,fmtowns
+307,gameandwatch,Game & Watch,gameandwatch,gameandwatch,gameandwatch
+21,gamecube,Nintendo GameCube,gamecube,gamecube,gamecube
+35,gamegear,Sega Game Gear,gamegear,gamegear,gamegear
+33,gb,Game Boy,gb,gb,gb
+24,gba,Game Boy Advance,gba,gba,gba
+24,gbah,Game Boy Advance,gbah,gbah,gbah
+22,gbc,Game Boy Color,gbc,gbc,gbc
+33,gbh,Game Boy,gbh,gbh,gbh
+29,genh,Sega Mega Drive/Genesis,genh,genh,genh
+,ggh,,ggh,ggh,ggh
+67,intellivision,Intellivision,intellivision,intellivision,intellivision
+62,jaguar,Atari Jaguar,jaguar,jaguar,jaguar
+29,megadrive,Sega Genesis,megadrive,genesis,megadrive
+29,megadrive,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive
+29,megadrive-japan,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan
+52,model123,Arcade,model123,model123,model123
+13,msdos,DOS,msdos,msdos,msdos
+27,msx,MSX,msx,msx,msx
+53,msx2,MSX2,msx2,msx2,msx2
+20,nds,Nintendo DS,nds,nds,nds
+37,n3ds,Nintendo 3DS,n3ds,n3ds,n3ds
+4,n64,Nintendo 64,n64,n64,n64
+52,naomi,Arcade,naomi,naomi,naomi
+80,neogeo,Neo Geo AES,neogeo,neogeo,neogeo
+136,neogeocd,Neo Geo CD,neogeocd,neogeocd,neogeocd
+18,nes,Nintendo Entertainment System,nes,nes,nes
+,nesh,,nesh,nesh,nesh
+119,ngp,Neo Geo Pocket,ngp,ngp,ngp
+120,ngpc,Neo Geo Pocket Color,ngpc,ngpc,ngpc
+130,nswitch,Nintendo Switch,nswitch,nswitch,nswitch
+,odyssey2,,odyssey2,odyssey2,odyssey2
+13,pc,DOS,pc,pc,pc
+86,pcengine,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine
+150,pcenginecd,Turbografx-16/PC Engine CD,pcenginecd,pcenginecd,pcenginecd
+274,pcfx,PC-FX,pcfx,pcfx,pcfx
+,pico,,pico,pico,pico
+,ports,,ports,ports,ports
+7,ps1,PlayStation,ps1,ps1,ps1
+8,ps2,PlayStation 2,ps2,ps2,ps2
+9,ps3,PlayStation 3,ps3,ps3,ps3
+48,ps4,PlayStation 4,ps4,ps4,ps4
+167,ps5,PlayStation 5,ps5,ps5,ps5
+38,psp,PlayStation Portable,psp,psp,psp
+46,vita,PlayStation Vita,vita,vita,vita
+32,saturn,Sega Saturn,saturn,saturn,saturn
+13,Scumm,DOS,Scumm,Scumm,Scumm
+13,scummvm,DOS,scummvm,scummvm,scummvm
+30,sega32x,Sega 32X,sega32x,sega32x,sega32x
+78,segacd,Sega CD,segacd,segacd,segacd
+339,segapico,Sega Pico,segapico,segapico,segapico
+58,sfc,Super Famicom,sfc,sfc,sfc
+84,sg1000,SG-1000,sg-1000,sg-1000,sg-1000
+128,sgfx,PC Engine SuperGrafx,sgfx,sgfx,sgfx
+64,sms,Sega Master System/Mark III,sms,sms,sms
+19,snes,Super Nintendo Entertainment System,snes,snes,snes
+19,snesh,Super Nintendo Entertainment System,snesh,snesh,snesh
+86,tg16,TurboGrafx-16/PC Engine,tg16,tg16,tg16
+150,tg16cd,Turbografx-16/PC Engine CD,tg16cd,tg16cd,tg16cd
+129,ti99,Texas Instruments TI-99,ti99,ti99,ti99
+70,vectrex,Vectrex,vectrex,vectrex,vectrex
+87,virtualboy,Virtual Boy,virtualboy,virtualboy,virtualboy
+5,wii,Wii,wii,wii,wii
+41,wiiu,Wii U,wiiu,wiiu,wiiu
+57,wonderswan,WonderSwan,wonderswan,wonderswan,wonderswan
+123,wonderswancolor,WonderSwan Color,wonderswancolor,wonderswancolor,wonderswancolor
+121,x68000,Sharp X68000,x68000,x68000,x68000
+11,xbox,Xbox,xbox,xbox,xbox
+,Zinc,,Zinc,Zinc,Zinc
+,zmachine,,zmachine,zmachine,zmachine
+26,zxspectrum,ZX Spectrum,zxspectrum,zxspectrum,zxspectrum
+,creativision,,creativision,creativision,creativision
+,crvision,,crvision,crvision,crvision
+,vg5000,,vg5000,vg5000,vg5000
+,videopac,,videopac,videopac,videopac
+,wiiware,,wiiware,wiiware,wiiware
