@@ -73,10 +73,10 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 339,Sega Pico,segapico,segapico,segapico,segapico,,
 32,Sega Saturn,saturn,saturn,saturn,saturn,,
 84,SG-1000,sg-1000,sg-1000,sg-1000,sg1000,Sega - SG-1000,sms
-121,Sharp X68000,x68000,x68000,x68000,x68000,,smc
-58,Super Famicom,sfc,sfc,sfc,sfc,,smc
+121,Sharp X68000,x68000,x68000,x68000,x68000,,
 19,Super Nintendo Entertainment System,snes,snes,snes,snes,Nintendo - SNES,smc
-19,Super Nintendo Entertainment System,snesh,snesh,snesh,snesh,,smc
+19,Super Nintendo Entertainment System,snesh,snes,snes,snes,Nintendo - SNES,smc
+58,Super Famicom,sfc,snes,snes,snes,Nintendo - SNES,smc
 129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,,ti99
 86,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine,pcengine,,pce
 86,TurboGrafx-16/PC Engine,tg16,tg16,tg16,tg16,,pce
