@@ -67,9 +67,9 @@ IgdbId, Name,Folder,Slug,Platform,Systems,Core,Extensions
 35,Sega Game Gear,gamegear,gamegear,gamegear,gamegear,Sega - Game Gear,gg
 29,Sega Genesis,megadrive,megadrive,megadrive,megadrive,Sega - Mega Drive - Genesis,"gen,md,smd,bin"
 64,Sega Master System/Mark III,sms,sms,sms,sms,Sega - Master System - Mark III,sms
-29,Sega Mega Drive/Genesis,genh,genh,genh,genh,,"gen,md,smd,bin"
-29,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive,megadrive,,"gen,md,smd,bin"
-29,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan,megadrive-japan,,"gen,md,smd,bin"
+29,Sega Mega Drive/Genesis,genh,genh,genh,genh,,gen:md:smd:bin
+29,Sega Mega Drive/Genesis,megadrive,megadrive,megadrive,megadrive,,gen:md:smd:bin
+29,Sega Mega Drive/Genesis,megadrive-japan,megadrive-japan,megadrive-japan,megadrive-japan,,gen:md:smd:bin
 339,Sega Pico,segapico,segapico,segapico,segapico,,
 32,Sega Saturn,saturn,saturn,saturn,saturn,,
 84,SG-1000,sg-1000,sg-1000,sg-1000,sg1000,Sega - SG-1000,sms
