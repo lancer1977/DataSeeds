@@ -15,7 +15,6 @@ IgdbId, Name,Folder,Slug,Platform,System,Extensions,Core
 66,Atari 5200,atari5200,atari5200,atari5200,atari5200,5200,Atari - 5200
 60,Atari 7800,atari7800,atari7800,atari7800,atari7800,7800,Atari - 7800
 65,Atari 8-bit,atari800,atari800,atari800,atari800,,
-62,Atari Jaguar,atarijaguar,atarijaguar,atarijaguar,atarijaguar,,
 62,Atari Jaguar,jaguar,jaguar,jaguar,jaguar,jag,
 410,Atari Jaguar CD,atarijaguarcd,atarijaguarcd,atarijaguarcd,atarijaguarcd,,
 61,Atari Lynx,atarilynx,atarilynx,atarilynx,atarilynx,lynx,
@@ -74,9 +73,9 @@ IgdbId, Name,Folder,Slug,Platform,System,Extensions,Core
 32,Sega Saturn,saturn,saturn,saturn,saturn,,
 84,SG-1000,sg-1000,sg-1000,sg-1000,sg1000,sms,Sega - SG-1000
 121,Sharp X68000,x68000,x68000,x68000,x68000,,
-19,Super Nintendo Entertainment System,snes,snes,snes,snes,smc,Nintendo - SNES
-19,Super Nintendo Entertainment System,snesh,snes,snes,snes,smc,Nintendo - SNES
-58,Super Famicom,sfc,snes,snes,snes,smc,Nintendo - SNES
+19,Super Nintendo Entertainment System,snes,snes,snes,snes,sfc,Nintendo - SNES
+19,Super Nintendo Entertainment System,snesh,snes,snes,snes,sfc,Nintendo - SNES
+58,Super Famicom,sfc,snes,snes,snes,sfc,Nintendo - SNES
 129,Texas Instruments TI-99,ti99,ti99,ti99,ti99,ti99,
 86,TurboGrafx-16/PC Engine,pcengine,pcengine,pcengine,pcengine,pce,
 86,TurboGrafx-16/PC Engine,tg16,tg16,tg16,tg16,pce,

@@ -756,7 +756,7 @@
     "Slug": "snes",
     "Platform": "snes",
     "System": "snes",
-    "Extensions": "smc",
+    "Extensions": "sfc",
     "Core": "Nintendo - SNES"
   },
   {
@@ -766,7 +766,7 @@
     "Slug": "snes",
     "Platform": "snes",
     "System": "snes",
-    "Extensions": "smc",
+    "Extensions": "sfc",
     "Core": "Nintendo - SNES"
   },
   {
@@ -776,7 +776,7 @@
     "Slug": "snes",
     "Platform": "snes",
     "System": "snes",
-    "Extensions": "smc",
+    "Extensions": "sfc",
     "Core": "Nintendo - SNES"
   },
   {
