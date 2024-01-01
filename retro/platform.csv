@@ -70,7 +70,7 @@ IgdbId, Name,Folder,System,Extensions,Core,Emulator
 84,SG-1000,sg-1000,sg1000,sms,Sega - SG-1000,
 121,Sharp X68000,x68000,x68000,,,
 19,Super Nintendo Entertainment System,snes,snes,smc,Nintendo - SNES,
-58,Super Famicom,sfc,snes,sfc,Nintendo - SNES,
+58,Super Famicom,sfc,sfc,sfc,Nintendo - SNES,
 129,Texas Instruments TI-99,ti99,ti99,ti99,,
 86,TurboGrafx-16,tg16,tg16,pce,,
 86,PC Engine,pcengine,pcengine,pce,,
