@@ -1,5 +1,5 @@
 IgdbId,Name,Folder,Slug,Extensions,Core,Emulator,Parent
-50,3DO Interactive Multiplayer,3do,3do,,,,3DO
+50,3DO Interactive Multiplayer,3do,3do,,,Retroarch,3DO
 9999,Action Max,actionmax,actionmax,,,,
 16,Amiga,amiga,amiga,,,,Commodore
 114,Amiga CD32,amigacd32,amigacd32,,,,Commodore
