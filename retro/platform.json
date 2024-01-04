@@ -1,0 +1,962 @@
+[
+  {
+    "IgdbId": "50",
+    "Name": "3DO Interactive Multiplayer",
+    "Folder": "3do",
+    "Slug": "3do",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "Retroarch",
+    "Parent": "3DO"
+  },
+  {
+    "IgdbId": "9999",
+    "Name": "Action Max",
+    "Folder": "actionmax",
+    "Slug": "actionmax",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "16",
+    "Name": "Amiga",
+    "Folder": "amiga",
+    "Slug": "amiga",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Commodore"
+  },
+  {
+    "IgdbId": "114",
+    "Name": "Amiga CD32",
+    "Folder": "amigacd32",
+    "Slug": "amigacd32",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Commodore"
+  },
+  {
+    "IgdbId": "25",
+    "Name": "Amstrad CPC",
+    "Folder": "amstradcpc",
+    "Slug": "amstradcpc",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "75",
+    "Name": "Apple II",
+    "Folder": "apple2",
+    "Slug": "apple2",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "arcade",
+    "Slug": "arcade",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "arcade_chd",
+    "Slug": "arcade_chd",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "daphne",
+    "Slug": "daphne",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "fba",
+    "Slug": "fba",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "model123",
+    "Slug": "model123",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "52",
+    "Name": "Arcade",
+    "Folder": "naomi",
+    "Slug": "naomi",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "59",
+    "Name": "Atari 2600",
+    "Folder": "atari2600",
+    "Slug": "atari2600",
+    "Extensions": "2600",
+    "Core": "Atari - 2600",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "66",
+    "Name": "Atari 5200",
+    "Folder": "atari5200",
+    "Slug": "atari5200",
+    "Extensions": "5200",
+    "Core": "Atari - 5200",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "60",
+    "Name": "Atari 7800",
+    "Folder": "atari7800",
+    "Slug": "atari7800",
+    "Extensions": "7800",
+    "Core": "Atari - 7800",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "65",
+    "Name": "Atari 8-bit",
+    "Folder": "atari800",
+    "Slug": "atari800",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "62",
+    "Name": "Atari Jaguar",
+    "Folder": "atarijaguar",
+    "Slug": "atarijaguar",
+    "Extensions": "jag",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "410",
+    "Name": "Atari Jaguar CD",
+    "Folder": "atarijaguarcd",
+    "Slug": "atarijaguarcd",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "61",
+    "Name": "Atari Lynx",
+    "Folder": "atarilynx",
+    "Slug": "atarilynx",
+    "Extensions": "lynx",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "63",
+    "Name": "Atari ST/STE",
+    "Folder": "atarist",
+    "Slug": "atarist",
+    "Extensions": "st",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Atari"
+  },
+  {
+    "IgdbId": "91",
+    "Name": "Bally Astrocade",
+    "Folder": "astrocade",
+    "Slug": "astrocade",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "68",
+    "Name": "ColecoVision",
+    "Folder": "coleco",
+    "Slug": "coleco",
+    "Extensions": "col",
+    "Core": "Coleco - ColecoVision",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "15",
+    "Name": "Commodore C64/128/MAX",
+    "Folder": "c64",
+    "Slug": "c64",
+    "Extensions": "c64",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Commodore"
+  },
+  {
+    "IgdbId": "13",
+    "Name": "DOS",
+    "Folder": "dos",
+    "Slug": "dos",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "13",
+    "Name": "DOS",
+    "Folder": "msdos",
+    "Slug": "msdos",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "13",
+    "Name": "DOS",
+    "Folder": "pc",
+    "Slug": "pc",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "13",
+    "Name": "DOS",
+    "Folder": "Scumm",
+    "Slug": "Scumm",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "13",
+    "Name": "DOS",
+    "Folder": "scummvm",
+    "Slug": "scummvm",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "23",
+    "Name": "Dreamcast",
+    "Folder": "dreamcast",
+    "Slug": "dreamcast",
+    "Extensions": "",
+    "Core": "Sega - Dreamcast/Naomi",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "127",
+    "Name": "Fairchild Channel F",
+    "Folder": "channelf",
+    "Slug": "channelf",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "Famicom Disk System",
+    "Folder": "fds",
+    "Slug": "fds",
+    "Extensions": "fds",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "51",
+    "Name": "Family Computer Disk System",
+    "Folder": "famicom",
+    "Slug": "famicom",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "118",
+    "Name": "FMTowns",
+    "Folder": "fmtowns",
+    "Slug": "fmtowns",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "307",
+    "Name": "Game \u0026 Watch",
+    "Folder": "gameandwatch",
+    "Slug": "gameandwatch",
+    "Extensions": "mgw",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "33",
+    "Name": "Game Boy",
+    "Folder": "gb",
+    "Slug": "gb",
+    "Extensions": "gb",
+    "Core": "Nintendo - Game Boy",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "24",
+    "Name": "Game Boy Advance",
+    "Folder": "gba",
+    "Slug": "gba",
+    "Extensions": "gba",
+    "Core": "Nintendo - Game Boy Advance",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "22",
+    "Name": "Game Boy Color",
+    "Folder": "gbc",
+    "Slug": "gbc",
+    "Extensions": "gbc",
+    "Core": "Nintendo - Game Boy Color",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "67",
+    "Name": "Intellivision",
+    "Folder": "intellivision",
+    "Slug": "intellivision",
+    "Extensions": "int",
+    "Core": "Intellivision",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "27",
+    "Name": "MSX",
+    "Folder": "msx",
+    "Slug": "msx",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "53",
+    "Name": "MSX2",
+    "Folder": "msx2",
+    "Slug": "msx2",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "80",
+    "Name": "Neo Geo AES",
+    "Folder": "neogeo",
+    "Slug": "neogeo",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "136",
+    "Name": "Neo Geo CD",
+    "Folder": "neogeocd",
+    "Slug": "neogeocd",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "119",
+    "Name": "Neo Geo Pocket",
+    "Folder": "ngp",
+    "Slug": "ngp",
+    "Extensions": "ngp",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "120",
+    "Name": "Neo Geo Pocket Color",
+    "Folder": "ngpc",
+    "Slug": "ngpc",
+    "Extensions": "ngpc",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "37",
+    "Name": "Nintendo 3DS",
+    "Folder": "n3ds",
+    "Slug": "n3ds",
+    "Extensions": "cia",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "4",
+    "Name": "Nintendo 64",
+    "Folder": "n64",
+    "Slug": "n64",
+    "Extensions": "n64",
+    "Core": "Nintendo - Nintendo 64",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "20",
+    "Name": "Nintendo DS",
+    "Folder": "nds",
+    "Slug": "nds",
+    "Extensions": "nds",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "18",
+    "Name": "Nintendo Entertainment System",
+    "Folder": "nes",
+    "Slug": "nes",
+    "Extensions": "nes",
+    "Core": "Nintendo - Nintendo Entertainment System",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "21",
+    "Name": "Nintendo GameCube",
+    "Folder": "gamecube",
+    "Slug": "gamecube",
+    "Extensions": "ngc",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "130",
+    "Name": "Nintendo Switch",
+    "Folder": "nswitch",
+    "Slug": "nswitch",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "86",
+    "Name": "PC Engine",
+    "Folder": "pcengine",
+    "Slug": "pcengine",
+    "Extensions": "pce",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "150",
+    "Name": "PC Engine CD",
+    "Folder": "pcenginecd",
+    "Slug": "pcenginecd",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "128",
+    "Name": "PC Engine SuperGrafx",
+    "Folder": "sgfx",
+    "Slug": "sgfx",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "274",
+    "Name": "PC-FX",
+    "Folder": "pcfx",
+    "Slug": "pcfx",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "117",
+    "Name": "Philips CD-i",
+    "Folder": "cdi",
+    "Slug": "cdi",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "7",
+    "Name": "PlayStation",
+    "Folder": "ps1",
+    "Slug": "ps1",
+    "Extensions": "",
+    "Core": "Sony - PlayStation",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "8",
+    "Name": "PlayStation 2",
+    "Folder": "ps2",
+    "Slug": "ps2",
+    "Extensions": "",
+    "Core": "Sony - PlayStation 2",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "9",
+    "Name": "PlayStation 3",
+    "Folder": "ps3",
+    "Slug": "ps3",
+    "Extensions": "",
+    "Core": "Sony - PlayStation 3",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "48",
+    "Name": "PlayStation 4",
+    "Folder": "ps4",
+    "Slug": "ps4",
+    "Extensions": "",
+    "Core": "Sony - PlayStation 4",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "167",
+    "Name": "PlayStation 5",
+    "Folder": "ps5",
+    "Slug": "ps5",
+    "Extensions": "",
+    "Core": "Sony - PlayStation 5",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "38",
+    "Name": "PlayStation Portable",
+    "Folder": "psp",
+    "Slug": "psp",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "46",
+    "Name": "PlayStation Vita",
+    "Folder": "vita",
+    "Slug": "vita",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "30",
+    "Name": "Sega 32X",
+    "Folder": "sega32x",
+    "Slug": "sega32x",
+    "Extensions": "32x",
+    "Core": "Sega - 32X",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "78",
+    "Name": "Sega CD",
+    "Folder": "segacd",
+    "Slug": "segacd",
+    "Extensions": "",
+    "Core": "Sega - MS/GG/MD/CD",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "35",
+    "Name": "Sega Game Gear",
+    "Folder": "gamegear",
+    "Slug": "gamegear",
+    "Extensions": "gg",
+    "Core": "Sega - Game Gear",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "29",
+    "Name": "Sega Genesis",
+    "Folder": "genesis",
+    "Slug": "genesis",
+    "Extensions": "gen:md:smd:bin",
+    "Core": "Sega - Mega Drive - Genesis",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "29",
+    "Name": "Sega Genesis",
+    "Folder": "genesis",
+    "Slug": "megadrive",
+    "Extensions": "gen:md:smd:bin",
+    "Core": "Sega - Mega Drive - Genesis",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "64",
+    "Name": "Sega Master System/Mark III",
+    "Folder": "sms",
+    "Slug": "sms",
+    "Extensions": "sms",
+    "Core": "Sega - Master System - Mark III",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "29",
+    "Name": "Sega Mega Drive",
+    "Folder": "megadrive-japan",
+    "Slug": "megadrive-japan",
+    "Extensions": "gen:md:smd:bin",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "339",
+    "Name": "Sega Pico",
+    "Folder": "segapico",
+    "Slug": "segapico",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "32",
+    "Name": "Sega Saturn",
+    "Folder": "saturn",
+    "Slug": "saturn",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "84",
+    "Name": "SG-1000",
+    "Folder": "sg-1000",
+    "Slug": "sg-1000",
+    "Extensions": "sms",
+    "Core": "Sega - SG-1000",
+    "Emulator": "",
+    "Parent": "Sega"
+  },
+  {
+    "IgdbId": "121",
+    "Name": "Sharp X68000",
+    "Folder": "x68000",
+    "Slug": "x68000",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "58",
+    "Name": "Super Famicom",
+    "Folder": "sfc",
+    "Slug": "snes",
+    "Extensions": "sfc",
+    "Core": "Nintendo - SNES",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "19",
+    "Name": "Super Nintendo Entertainment System",
+    "Folder": "snes",
+    "Slug": "snes",
+    "Extensions": "smc",
+    "Core": "Nintendo - SNES",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "129",
+    "Name": "Texas Instruments TI-99",
+    "Folder": "ti99",
+    "Slug": "ti99",
+    "Extensions": "ti99",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "86",
+    "Name": "TurboGrafx-16",
+    "Folder": "tg16",
+    "Slug": "tg16",
+    "Extensions": "pce",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "150",
+    "Name": "Turbografx-CD",
+    "Folder": "tg16cd",
+    "Slug": "tg16cd",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "NEC"
+  },
+  {
+    "IgdbId": "70",
+    "Name": "Vectrex",
+    "Folder": "vectrex",
+    "Slug": "vectrex",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "87",
+    "Name": "Virtual Boy",
+    "Folder": "virtualboy",
+    "Slug": "virtualboy",
+    "Extensions": "vb",
+    "Core": "Nintendo - Virtual Boy",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "5",
+    "Name": "Wii",
+    "Folder": "wii",
+    "Slug": "wii",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "41",
+    "Name": "Wii U",
+    "Folder": "wiiu",
+    "Slug": "wiiu",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  },
+  {
+    "IgdbId": "57",
+    "Name": "WonderSwan",
+    "Folder": "wonderswan",
+    "Slug": "wonderswan",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "123",
+    "Name": "WonderSwan Color",
+    "Folder": "wonderswancolor",
+    "Slug": "wonderswancolor",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Sony"
+  },
+  {
+    "IgdbId": "11",
+    "Name": "Xbox",
+    "Folder": "xbox",
+    "Slug": "xbox",
+    "Extensions": "",
+    "Core": "Microsoft - Xbox",
+    "Emulator": "",
+    "Parent": "Microsoft"
+  },
+  {
+    "IgdbId": "26",
+    "Name": "ZX Spectrum",
+    "Folder": "zxspectrum",
+    "Slug": "zxspectrum",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "odyssey2",
+    "Slug": "odyssey2",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "pico",
+    "Slug": "pico",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "ports",
+    "Slug": "ports",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "Zinc",
+    "Slug": "Zinc",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "zmachine",
+    "Slug": "zmachine",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "creativision",
+    "Slug": "creativision",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "crvision",
+    "Slug": "crvision",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "vg5000",
+    "Slug": "vg5000",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "videopac",
+    "Slug": "videopac",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": ""
+  },
+  {
+    "IgdbId": "",
+    "Name": "",
+    "Folder": "wiiware",
+    "Slug": "wiiware",
+    "Extensions": "",
+    "Core": "",
+    "Emulator": "",
+    "Parent": "Nintendo"
+  }
+]
