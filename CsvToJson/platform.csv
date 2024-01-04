@@ -1,0 +1,97 @@
+IgdbId,Name,Folder,Slug,Extensions,Core,Emulator,Parent
+50,3DO Interactive Multiplayer,3do,3do,,,Retroarch,3DO
+9999,Action Max,actionmax,actionmax,,,,
+16,Amiga,amiga,amiga,,,,Commodore
+114,Amiga CD32,amigacd32,amigacd32,,,,Commodore
+25,Amstrad CPC,amstradcpc,amstradcpc,,,,
+75,Apple II,apple2,apple2,,,,
+52,Arcade,arcade,arcade,,,,
+52,Arcade,arcade_chd,arcade_chd,,,,
+52,Arcade,daphne,daphne,,,,
+52,Arcade,fba,fba,,,,
+52,Arcade,model123,model123,,,,
+52,Arcade,naomi,naomi,,,,
+59,Atari 2600,atari2600,atari2600,2600,Atari - 2600,,Atari
+66,Atari 5200,atari5200,atari5200,5200,Atari - 5200,,Atari
+60,Atari 7800,atari7800,atari7800,7800,Atari - 7800,,Atari
+65,Atari 8-bit,atari800,atari800,,,,Atari
+62,Atari Jaguar,atarijaguar,atarijaguar,jag,,,Atari
+410,Atari Jaguar CD,atarijaguarcd,atarijaguarcd,,,,Atari
+61,Atari Lynx,atarilynx,atarilynx,lynx,,,Atari
+63,Atari ST/STE,atarist,atarist,st,,,Atari
+91,Bally Astrocade,astrocade,astrocade,,,,
+68,ColecoVision,coleco,coleco,col,Coleco - ColecoVision,,
+15,Commodore C64/128/MAX,c64,c64,c64,,,Commodore
+13,DOS,dos,dos,,,,
+13,DOS,msdos,msdos,,,,
+13,DOS,pc,pc,,,,
+13,DOS,Scumm,Scumm,,,,
+13,DOS,scummvm,scummvm,,,,
+23,Dreamcast,dreamcast,dreamcast,,Sega - Dreamcast/Naomi,,Sega
+127,Fairchild Channel F,channelf,channelf,,,,
+,Famicom Disk System,fds,fds,fds,,,Nintendo
+51,Family Computer Disk System,famicom,famicom,,,,Nintendo
+118,FMTowns,fmtowns,fmtowns,,,,
+307,Game & Watch,gameandwatch,gameandwatch,mgw,,,Nintendo
+33,Game Boy,gb,gb,gb,Nintendo - Game Boy,,Nintendo
+24,Game Boy Advance,gba,gba,gba,Nintendo - Game Boy Advance,,Nintendo
+22,Game Boy Color,gbc,gbc,gbc,Nintendo - Game Boy Color,,Nintendo
+67,Intellivision,intellivision,intellivision,int,Intellivision,,
+27,MSX,msx,msx,,,,
+53,MSX2,msx2,msx2,,,,
+80,Neo Geo AES,neogeo,neogeo,,,,
+136,Neo Geo CD,neogeocd,neogeocd,,,,
+119,Neo Geo Pocket,ngp,ngp,ngp,,,
+120,Neo Geo Pocket Color,ngpc,ngpc,ngpc,,,
+37,Nintendo 3DS,n3ds,n3ds,cia,,,Nintendo
+4,Nintendo 64,n64,n64,n64,Nintendo - Nintendo 64,,Nintendo
+20,Nintendo DS,nds,nds,nds,,,Nintendo
+18,Nintendo Entertainment System,nes,nes,nes,Nintendo - Nintendo Entertainment System,,Nintendo
+21,Nintendo GameCube,gamecube,gamecube,ngc,,,Nintendo
+130,Nintendo Switch,nswitch,nswitch,,,,Nintendo
+86,PC Engine,pcengine,pcengine,pce,,,NEC
+150,PC Engine CD,pcenginecd,pcenginecd,,,,NEC
+128,PC Engine SuperGrafx,sgfx,sgfx,,,,NEC
+274,PC-FX,pcfx,pcfx,,,,NEC
+117,Philips CD-i,cdi,cdi,,,,
+7,PlayStation,ps1,ps1,,Sony - PlayStation,,Sony
+8,PlayStation 2,ps2,ps2,,Sony - PlayStation 2,,Sony
+9,PlayStation 3,ps3,ps3,,Sony - PlayStation 3,,Sony
+48,PlayStation 4,ps4,ps4,,Sony - PlayStation 4,,Sony
+167,PlayStation 5,ps5,ps5,,Sony - PlayStation 5,,Sony
+38,PlayStation Portable,psp,psp,,,,Sony
+46,PlayStation Vita,vita,vita,,,,Sony
+30,Sega 32X,sega32x,sega32x,32x,Sega - 32X,,Sega
+78,Sega CD,segacd,segacd,,Sega - MS/GG/MD/CD,,Sega
+35,Sega Game Gear,gamegear,gamegear,gg,Sega - Game Gear,,Sega
+29,Sega Genesis,genesis,genesis,"gen:md:smd:bin",Sega - Mega Drive - Genesis,,Sega
+29,Sega Genesis,genesis,megadrive,"gen:md:smd:bin",Sega - Mega Drive - Genesis,,Sega
+64,Sega Master System/Mark III,sms,sms,sms,Sega - Master System - Mark III,,Sega
+29,Sega Mega Drive,megadrive-japan,megadrive-japan,gen:md:smd:bin,,,Sega
+339,Sega Pico,segapico,segapico,,,,Sega
+32,Sega Saturn,saturn,saturn,,,,Sega
+84,SG-1000,sg-1000,sg-1000,sms,Sega - SG-1000,,Sega
+121,Sharp X68000,x68000,x68000,,,,
+58,Super Famicom,sfc,snes,sfc,Nintendo - SNES,,Nintendo
+19,Super Nintendo Entertainment System,snes,snes,smc,Nintendo - SNES,,Nintendo
+129,Texas Instruments TI-99,ti99,ti99,ti99,,,
+86,TurboGrafx-16,tg16,tg16,pce,,,NEC
+150,Turbografx-CD,tg16cd,tg16cd,,,,NEC
+70,Vectrex,vectrex,vectrex,,,,
+87,Virtual Boy,virtualboy,virtualboy,vb,Nintendo - Virtual Boy,,Nintendo
+5,Wii,wii,wii,,,,Nintendo
+41,Wii U,wiiu,wiiu,,,,Nintendo
+57,WonderSwan,wonderswan,wonderswan,,,,Sony
+123,WonderSwan Color,wonderswancolor,wonderswancolor,,,,Sony
+11,Xbox,xbox,xbox,,Microsoft - Xbox,,Microsoft
+26,ZX Spectrum,zxspectrum,zxspectrum,,,,
+,,odyssey2,odyssey2,,,,
+,,pico,pico,,,,
+,,ports,ports,,,,
+,,Zinc,Zinc,,,,
+,,zmachine,zmachine,,,,
+,,creativision,creativision,,,,
+,,crvision,crvision,,,,
+,,vg5000,vg5000,,,,
+,,videopac,videopac,,,,
+,,wiiware,wiiware,,,,Nintendo

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+#REPO_ROOT=$(git rev-parse --show-toplevel)
+REPO_ROOT=..
+CSV_FILE="$REPO_ROOT/retro/platform.csv"
+JSON_FILE="$REPO_ROOT/retro/platform.json"
+
+cat $CSV_FILE | jq -R -s -f csv2json.jq > $JSON_FILE
+
+# Stage the JSON file for commit
+git add $JSON_FILE
+
