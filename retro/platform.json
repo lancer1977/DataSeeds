@@ -552,8 +552,8 @@
   {
     "IgdbId": "7",
     "Name": "PlayStation",
-    "Folder": "ps1",
-    "Slug": "ps1",
+    "Folder": "psx",
+    "Slug": "psx",
     "Extensions": "",
     "Core": "Sony - PlayStation",
     "Emulator": "",
