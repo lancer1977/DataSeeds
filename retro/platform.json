@@ -849,6 +849,16 @@
     "Emulator": "",
     "Parent": "Microsoft"
   },
+    {
+    "IgdbId": "11",
+    "Name": "Xbox 360",
+    "Folder": "xbox360",
+    "Slug": "xbox360",
+    "Extensions": "",
+    "Core": "Microsoft - Xbox 360",
+    "Emulator": "",
+    "Parent": "Microsoft"
+  },
   {
     "IgdbId": "26",
     "Name": "ZX Spectrum",

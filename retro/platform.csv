@@ -84,6 +84,7 @@ IgdbId,Name,Folder,Slug,Extensions,Core,Emulator,Parent
 57,WonderSwan,wonderswan,wonderswan,,,,Sony
 123,WonderSwan Color,wonderswancolor,wonderswancolor,,,,Sony
 11,Xbox,xbox,xbox,,Microsoft - Xbox,,Microsoft
+1111,Xbox 360,xbox360,xbox360,,Microsoft - Xbox 360,,Microsoft
 26,ZX Spectrum,zxspectrum,zxspectrum,,,,
 ,,odyssey2,odyssey2,,,,
 ,,pico,pico,,,,
