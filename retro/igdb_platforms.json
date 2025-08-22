@@ -1,0 +1,4608 @@
+[
+    {
+        "id": 306,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1590781904,
+        "generation": 4,
+        "name": "Satellaview",
+        "platformLogo": 0,
+        "slug": "satellaview",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/satellaview",
+        "versions": [
+            423
+        ],
+        "checksum": "b9e89bb4-6962-0808-a4c0-9060c8ee9ef7",
+        "websites": [
+            205,
+            289
+        ],
+        "alternative_name": null,
+        "platform_family": 5
+    },
+    {
+        "id": 339,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1595870777,
+        "generation": 4,
+        "name": "Sega Pico",
+        "platformLogo": 0,
+        "slug": "sega-pico",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sega-pico",
+        "versions": [
+            456
+        ],
+        "checksum": "3166e26c-8df6-d06c-a196-2ee59c214b5a",
+        "websites": null,
+        "alternative_name": "Kids Computer Pico",
+        "platform_family": 3
+    },
+    {
+        "id": 376,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1613049313,
+        "generation": 3,
+        "name": "Epoch Super Cassette Vision",
+        "platformLogo": 0,
+        "slug": "epoch-super-cassette-vision",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/epoch-super-cassette-vision",
+        "versions": [
+            494
+        ],
+        "checksum": "b84fb2e3-bfd5-df79-1a54-96baf4ec7ea9",
+        "websites": [
+            273
+        ],
+        "alternative_name": "YENO Super Cassette Vision",
+        "platform_family": null
+    },
+    {
+        "id": 12,
+        "abbreviation": "X360",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 7,
+        "name": "Xbox 360",
+        "platformLogo": 0,
+        "slug": "xbox360",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/xbox360",
+        "versions": [
+            2,
+            3,
+            495,
+            83
+        ],
+        "checksum": "34a16af2-775f-f963-b611-406f09935eaa",
+        "websites": [
+            4
+        ],
+        "alternative_name": "X360",
+        "platform_family": 2
+    },
+    {
+        "id": 32,
+        "abbreviation": "Saturn",
+        "category": 1,
+        "created_at": 1302004506,
+        "generation": 5,
+        "name": "Sega Saturn",
+        "platformLogo": 0,
+        "slug": "saturn",
+        "updated_at": 1718027289,
+        "alternative_name": "JVC Saturn, Hi-Saturn, Samsung Saturn, V-Saturn",
+        "platform_family": 3
+    },
+    {
+        "id": 62,
+        "abbreviation": "Jaguar",
+        "category": 1,
+        "created_at": 1372270591,
+        "generation": 5,
+        "name": "Atari Jaguar",
+        "platformLogo": 0,
+        "slug": "jaguar",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/jaguar",
+        "versions": [
+            28
+        ],
+        "checksum": "0ef27bc2-b526-1956-24d9-c56c3072cd2a",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 148,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829417,
+        "generation": 0,
+        "name": "AY-3-8607",
+        "platformLogo": 0,
+        "slug": "ay-3-8607",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8607",
+        "versions": [
+            211
+        ],
+        "checksum": "ab59bb57-58bf-a8b3-7a40-121f30c40dfc",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 150,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1509010397,
+        "generation": 0,
+        "name": "Turbografx-16/PC Engine CD",
+        "platformLogo": 0,
+        "slug": "turbografx-16-slash-pc-engine-cd",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/turbografx-16-slash-pc-engine-cd",
+        "versions": [
+            215
+        ],
+        "checksum": "8383fe04-86ac-d00f-eafd-d90929f37840",
+        "websites": null,
+        "alternative_name": "TG-16CD/PCECD",
+        "platform_family": null
+    },
+    {
+        "id": 156,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510051157,
+        "generation": 0,
+        "name": "Thomson MO5",
+        "platformLogo": 0,
+        "slug": "thomson-mo5",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/thomson-mo5",
+        "versions": [
+            221
+        ],
+        "checksum": "ce7f0d59-aeb3-b23d-845d-feef56985936",
+        "websites": [
+            24
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 510,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1750949423,
+        "generation": 6,
+        "name": "e-Reader / Card-e Reader",
+        "platformLogo": 0,
+        "slug": "e-reader-slash-card-e-reader",
+        "updated_at": 1751998340,
+        "url": "https://www.igdb.com/platforms/e-reader-slash-card-e-reader",
+        "versions": [
+            732,
+            735
+        ],
+        "checksum": "25c2f658-c542-5b8b-1cc2-a2935ab58f8d",
+        "websites": null,
+        "alternative_name": "Game Boy Advance e-Reader",
+        "platform_family": 5
+    },
+    {
+        "id": 309,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1590782488,
+        "generation": 8,
+        "name": "Evercade",
+        "platformLogo": 0,
+        "slug": "evercade",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/evercade",
+        "versions": [
+            500,
+            426,
+            594
+        ],
+        "checksum": "f6b69014-9797-6b67-0b78-2c3b223e1b6c",
+        "websites": [
+            207
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 389,
+        "abbreviation": null,
+        "category": 3,
+        "created_at": 1636659678,
+        "generation": 0,
+        "name": "AirConsole",
+        "platformLogo": 0,
+        "slug": "airconsole",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/airconsole",
+        "versions": [
+            511
+        ],
+        "checksum": "be686b9e-9f1a-b46a-f69a-d147634af559",
+        "websites": [
+            291
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 13,
+        "abbreviation": "DOS",
+        "category": 4,
+        "created_at": 1297672223,
+        "generation": 0,
+        "name": "DOS",
+        "platformLogo": 0,
+        "slug": "dos",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/dos",
+        "versions": [
+            56,
+            540
+        ],
+        "checksum": "7c7304db-1dc2-0c45-3afe-96cf1cf57d34",
+        "websites": null,
+        "alternative_name": "PC DOS",
+        "platform_family": null
+    },
+    {
+        "id": 41,
+        "abbreviation": "WiiU",
+        "category": 1,
+        "created_at": 1317739102,
+        "generation": 8,
+        "name": "Wii U",
+        "platformLogo": 0,
+        "slug": "wiiu",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/wiiu",
+        "versions": [
+            73
+        ],
+        "checksum": "7c8e6525-f93c-4778-bf4e-59ef2485367f",
+        "websites": [
+            10
+        ],
+        "alternative_name": "Project Cafe",
+        "platform_family": 5
+    },
+    {
+        "id": 60,
+        "abbreviation": "Atari7800",
+        "category": 1,
+        "created_at": 1372270481,
+        "generation": 3,
+        "name": "Atari 7800",
+        "platformLogo": 0,
+        "slug": "atari7800",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari7800",
+        "versions": [
+            26
+        ],
+        "checksum": "a55bc419-89ec-885a-bbdf-3ec7bd3c5a56",
+        "websites": null,
+        "alternative_name": "Atari 7800 ProSystem",
+        "platform_family": null
+    },
+    {
+        "id": 112,
+        "abbreviation": "microcomputer",
+        "category": 0,
+        "created_at": 1438766631,
+        "generation": 0,
+        "name": "Microcomputer",
+        "platformLogo": 0,
+        "slug": "microcomputer--1",
+        "updated_at": 1438766662,
+        "url": "https://www.igdb.com/platforms/microcomputer--1",
+        "versions": [
+            138
+        ],
+        "checksum": "49f7f77d-42a9-0cae-368f-6f9475275e1f",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 410,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1660245561,
+        "generation": 5,
+        "name": "Atari Jaguar CD",
+        "platformLogo": 0,
+        "slug": "atari-jaguar-cd",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari-jaguar-cd",
+        "versions": [
+            550
+        ],
+        "checksum": "b64d7367-a67d-1e41-c3fb-571eeacebd52",
+        "websites": [
+            310
+        ],
+        "alternative_name": "Jag CD",
+        "platform_family": null
+    },
+    {
+        "id": 30,
+        "abbreviation": "Sega32",
+        "category": 1,
+        "created_at": 1300959905,
+        "generation": 4,
+        "name": "Sega 32X",
+        "platformLogo": 0,
+        "slug": "sega32",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sega32",
+        "versions": [
+            61,
+            703
+        ],
+        "checksum": "ee05ae96-b266-0c9d-3eda-d121fa534e47",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": 3
+    },
+    {
+        "id": 53,
+        "abbreviation": "MSX2",
+        "category": 6,
+        "created_at": 1340135256,
+        "generation": 0,
+        "name": "MSX2",
+        "platformLogo": 0,
+        "slug": "msx2",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/msx2",
+        "versions": [
+            48
+        ],
+        "checksum": "e4110684-1b46-07c3-42df-0bd00d207a23",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 61,
+        "abbreviation": "Lynx",
+        "category": 5,
+        "created_at": 1372270513,
+        "generation": 4,
+        "name": "Atari Lynx",
+        "platformLogo": 0,
+        "slug": "lynx",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/lynx",
+        "versions": [
+            29,
+            189
+        ],
+        "checksum": "8d3f233a-623e-9ee2-dff8-11f09954ca03",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 77,
+        "abbreviation": "x1",
+        "category": 6,
+        "created_at": 1390912460,
+        "generation": 0,
+        "name": "Sharp X1",
+        "platformLogo": 0,
+        "slug": "x1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/x1",
+        "versions": [
+            66
+        ],
+        "checksum": "5e34bab0-2400-632b-3a99-1a0f6041e580",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 120,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1441269253,
+        "generation": 5,
+        "name": "Neo Geo Pocket Color",
+        "platformLogo": 0,
+        "slug": "neo-geo-pocket-color",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/neo-geo-pocket-color",
+        "versions": [
+            158
+        ],
+        "checksum": "8029210a-79f5-c2e7-34f2-f783d67be3de",
+        "websites": null,
+        "alternative_name": "NGPC",
+        "platform_family": null
+    },
+    {
+        "id": 127,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1457441990,
+        "generation": 2,
+        "name": "Fairchild Channel F",
+        "platformLogo": 0,
+        "slug": "fairchild-channel-f",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/fairchild-channel-f",
+        "versions": [
+            212,
+            165
+        ],
+        "checksum": "59434f6e-1496-cd04-23c5-e4239656f3c2",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 132,
+        "abbreviation": null,
+        "category": 3,
+        "created_at": 1469722518,
+        "generation": 0,
+        "name": "Amazon Fire TV",
+        "platformLogo": 0,
+        "slug": "amazon-fire-tv",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/amazon-fire-tv",
+        "versions": [
+            176
+        ],
+        "checksum": "5239b35e-ebd3-5062-50f7-423d377f2197",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 413,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1660313623,
+        "generation": 7,
+        "name": "Leapster Explorer/LeadPad Explorer",
+        "platformLogo": 0,
+        "slug": "leapster-explorer-slash-leadpad-explorer",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/leapster-explorer-slash-leadpad-explorer",
+        "versions": [
+            553
+        ],
+        "checksum": "82d5eb93-2df2-2487-904b-fd119ca4ec30",
+        "websites": [
+            312
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 140,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1505597372,
+        "generation": 0,
+        "name": "AY-3-8500",
+        "platformLogo": 0,
+        "slug": "ay-3-8500",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8500",
+        "versions": [
+            203,
+            198,
+            202,
+            201,
+            204,
+            510
+        ],
+        "checksum": "abe53e74-723c-885c-f630-e6a5e741f6f9",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 143,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829355,
+        "generation": 0,
+        "name": "AY-3-8760",
+        "platformLogo": 0,
+        "slug": "ay-3-8760",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8760",
+        "versions": [
+            206
+        ],
+        "checksum": "55408a03-57f2-48a8-07b8-b0ab26b1d941",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 153,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510050917,
+        "generation": 0,
+        "name": "Dragon 32/64",
+        "platformLogo": 0,
+        "slug": "dragon-32-slash-64",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/dragon-32-slash-64",
+        "versions": [
+            218
+        ],
+        "checksum": "80b3b5c8-84f9-304a-79f7-ed8fce4894ac",
+        "websites": [
+            21
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 154,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510050946,
+        "generation": 0,
+        "name": "Amstrad PCW",
+        "platformLogo": 0,
+        "slug": "amstrad-pcw",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/amstrad-pcw",
+        "versions": [
+            219
+        ],
+        "checksum": "47e2ae1d-b90b-e251-223a-210e271d7172",
+        "websites": [
+            22
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 167,
+        "abbreviation": "PS5",
+        "category": 1,
+        "created_at": 1543501750,
+        "generation": 9,
+        "name": "PlayStation 5",
+        "platformLogo": 0,
+        "slug": "ps5",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ps5",
+        "versions": [
+            273,
+            724
+        ],
+        "checksum": "44ef3108-b8ea-2e50-42d0-a070c33b52b8",
+        "websites": [
+            281
+        ],
+        "alternative_name": "PS5",
+        "platform_family": 1
+    },
+    {
+        "id": 70,
+        "abbreviation": "vectrex",
+        "category": 1,
+        "created_at": 1372500628,
+        "generation": 2,
+        "name": "Vectrex",
+        "platformLogo": 0,
+        "slug": "vectrex",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/vectrex",
+        "versions": [
+            70
+        ],
+        "checksum": "22436272-e6f8-8b56-af33-5bc8e599c2f9",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 87,
+        "abbreviation": "virtualboy",
+        "category": 1,
+        "created_at": 1400825179,
+        "generation": 5,
+        "name": "Virtual Boy",
+        "platformLogo": 0,
+        "slug": "virtualboy",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/virtualboy",
+        "versions": [
+            100
+        ],
+        "checksum": "f40ed5f8-8173-3e65-bc27-c8f5db4015d6",
+        "websites": null,
+        "alternative_name": "VB",
+        "platform_family": 5
+    },
+    {
+        "id": 145,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829384,
+        "generation": 0,
+        "name": "AY-3-8603",
+        "platformLogo": 0,
+        "slug": "ay-3-8603",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8603",
+        "versions": [
+            208
+        ],
+        "checksum": "8dc4e274-ce2c-447f-94f2-cbd29995f969",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 386,
+        "abbreviation": "Meta Quest 2",
+        "category": 1,
+        "created_at": 1632258796,
+        "generation": 0,
+        "name": "Meta Quest 2",
+        "platformLogo": 0,
+        "slug": "meta-quest-2",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/meta-quest-2",
+        "versions": [
+            507,
+            593
+        ],
+        "checksum": "ec1dfe8e-e4bb-afa1-05f2-12bc887313fb",
+        "websites": [
+            284,
+            341
+        ],
+        "alternative_name": "Quest 2",
+        "platform_family": null
+    },
+    {
+        "id": 390,
+        "abbreviation": "PSVR2",
+        "category": 1,
+        "created_at": 1641416080,
+        "generation": 9,
+        "name": "PlayStation VR2",
+        "platformLogo": 0,
+        "slug": "psvr2",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/psvr2",
+        "versions": [
+            512
+        ],
+        "checksum": "41c1a541-42c0-40b1-6f58-60255f6857ac",
+        "websites": [
+            342
+        ],
+        "alternative_name": "PSVR2",
+        "platform_family": 1
+    },
+    {
+        "id": 477,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1711038137,
+        "generation": 8,
+        "name": "Panasonic Jungle",
+        "platformLogo": 0,
+        "slug": "panasonic-jungle",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/panasonic-jungle",
+        "versions": [
+            694
+        ],
+        "checksum": "6197f171-e52a-1cca-b845-2366ff051d3f",
+        "websites": [
+            378
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 504,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1721417469,
+        "generation": 0,
+        "name": "Uzebox",
+        "platformLogo": 0,
+        "slug": "uzebox",
+        "updated_at": 1722568342,
+        "url": "https://www.igdb.com/platforms/uzebox",
+        "versions": [
+            721,
+            720
+        ],
+        "checksum": "1743de56-35e1-38c4-7f9d-a8eca8c2164f",
+        "websites": [
+            403
+        ],
+        "alternative_name": "EUzebox",
+        "platform_family": null
+    },
+    {
+        "id": 65,
+        "abbreviation": "Atari8bit",
+        "category": 6,
+        "created_at": 1372500348,
+        "generation": 0,
+        "name": "Atari 8-bit",
+        "platformLogo": 0,
+        "slug": "atari8bit",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari8bit",
+        "versions": [
+            104,
+            27
+        ],
+        "checksum": "cb8d55f6-4721-4c09-7445-f61ed15681e3",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 158,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510051264,
+        "generation": 0,
+        "name": "Commodore CDTV",
+        "platformLogo": 0,
+        "slug": "commodore-cdtv",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/commodore-cdtv",
+        "versions": [
+            223
+        ],
+        "checksum": "55c246c9-7a62-29e8-d09a-282467813654",
+        "websites": [
+            26
+        ],
+        "alternative_name": "Commodore Dynamic Total Vision",
+        "platform_family": null
+    },
+    {
+        "id": 165,
+        "abbreviation": "PSVR",
+        "category": 1,
+        "created_at": 1518705184,
+        "generation": 8,
+        "name": "PlayStation VR",
+        "platformLogo": 0,
+        "slug": "psvr",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/psvr",
+        "versions": [
+            235
+        ],
+        "checksum": "41f59fa8-da30-3054-141b-eac3d680d0b7",
+        "websites": [
+            32
+        ],
+        "alternative_name": "PSVR",
+        "platform_family": 1
+    },
+    {
+        "id": 440,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1666800981,
+        "generation": 6,
+        "name": "Visual Memory Unit / Visual Memory System",
+        "platformLogo": 0,
+        "slug": "visual-memory-unit-slash-visual-memory-system",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/visual-memory-unit-slash-visual-memory-system",
+        "versions": [
+            590
+        ],
+        "checksum": "bcf00b61-6822-b27d-42a7-8b61b57b54b1",
+        "websites": [
+            339
+        ],
+        "alternative_name": "VMU / VMS",
+        "platform_family": 3
+    },
+    {
+        "id": 473,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1707940238,
+        "generation": 0,
+        "name": "Arcadia 2001",
+        "platformLogo": 0,
+        "slug": "arcadia-2001",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/arcadia-2001",
+        "versions": [
+            683
+        ],
+        "checksum": "f8d64018-3cf8-c2f4-8cca-ba1de211a609",
+        "websites": [
+            374
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 474,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1708640880,
+        "generation": 7,
+        "name": "Gizmondo",
+        "platformLogo": 0,
+        "slug": "gizmondo",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gizmondo",
+        "versions": [
+            689
+        ],
+        "checksum": "2a76d246-db85-9355-fefb-5fac4ec9a12a",
+        "websites": [
+            375
+        ],
+        "alternative_name": "Gametraq",
+        "platform_family": null
+    },
+    {
+        "id": 48,
+        "abbreviation": "PS4",
+        "category": 1,
+        "created_at": 1326544944,
+        "generation": 8,
+        "name": "PlayStation 4",
+        "platformLogo": 0,
+        "slug": "ps4--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ps4--1",
+        "versions": [
+            17,
+            178,
+            179
+        ],
+        "checksum": "499977cf-16b6-1abf-3664-be1a369a656e",
+        "websites": [
+            11
+        ],
+        "alternative_name": "PS4",
+        "platform_family": 1
+    },
+    {
+        "id": 51,
+        "abbreviation": "fds",
+        "category": 1,
+        "created_at": 1339250964,
+        "generation": 3,
+        "name": "Family Computer Disk System",
+        "platformLogo": 0,
+        "slug": "fds",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/fds",
+        "versions": [
+            38
+        ],
+        "checksum": "07258569-b2d7-8399-d5e9-a9673a913d99",
+        "websites": null,
+        "alternative_name": "Famicom Disk System, FDS",
+        "platform_family": 5
+    },
+    {
+        "id": 89,
+        "abbreviation": "microvision",
+        "category": 5,
+        "created_at": 1407616104,
+        "generation": 2,
+        "name": "Microvision",
+        "platformLogo": 0,
+        "slug": "microvision--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/microvision--1",
+        "versions": [
+            102
+        ],
+        "checksum": "c71ec22c-1cee-713e-a386-f63c5f7774bd",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 94,
+        "abbreviation": "C\u002B4",
+        "category": 6,
+        "created_at": 1414256372,
+        "generation": 0,
+        "name": "Commodore Plus/4",
+        "platformLogo": 0,
+        "slug": "c-plus-4",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/c-plus-4",
+        "versions": [
+            108
+        ],
+        "checksum": "18e4a3d9-70d2-d24b-5ee7-41446b8d5890",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 128,
+        "abbreviation": "supergrafx",
+        "category": 1,
+        "created_at": 1457444849,
+        "generation": 4,
+        "name": "PC Engine SuperGrafx",
+        "platformLogo": 0,
+        "slug": "supergrafx",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/supergrafx",
+        "versions": [
+            166
+        ],
+        "checksum": "70d6beb9-287a-1c1c-1505-d54bc1b4dbd7",
+        "websites": [
+            274
+        ],
+        "alternative_name": "SuperGrafx",
+        "platform_family": null
+    },
+    {
+        "id": 129,
+        "abbreviation": "ti-99",
+        "category": 6,
+        "created_at": 1459348522,
+        "generation": 0,
+        "name": "Texas Instruments TI-99",
+        "platformLogo": 0,
+        "slug": "ti-99",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ti-99",
+        "versions": [
+            172,
+            427
+        ],
+        "checksum": "06c8cbc3-b9e6-333e-1686-0f6e3dbc11b0",
+        "websites": [
+            218
+        ],
+        "alternative_name": "Texas Instruments TI-99/4A",
+        "platform_family": null
+    },
+    {
+        "id": 123,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1441486431,
+        "generation": 5,
+        "name": "WonderSwan Color",
+        "platformLogo": 0,
+        "slug": "wonderswan-color",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/wonderswan-color",
+        "versions": [
+            161,
+            734
+        ],
+        "checksum": "c7f5eaf5-425a-9106-db24-da8bb94f5d8b",
+        "websites": null,
+        "alternative_name": "WSC",
+        "platform_family": null
+    },
+    {
+        "id": 482,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1713471914,
+        "generation": 4,
+        "name": "Sega CD 32X",
+        "platformLogo": 0,
+        "slug": "sega-cd-32x",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sega-cd-32x",
+        "versions": [
+            701
+        ],
+        "checksum": "5fa6d675-640c-7622-0486-76ea8a6fcc8c",
+        "websites": null,
+        "alternative_name": "Sega Mega-CD 32X",
+        "platform_family": 3
+    },
+    {
+        "id": 3,
+        "abbreviation": "Linux",
+        "category": 4,
+        "created_at": 1297639288,
+        "generation": 0,
+        "name": "Linux",
+        "platformLogo": 0,
+        "slug": "linux",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/linux",
+        "versions": [
+            44
+        ],
+        "checksum": "55b68ef4-2663-6f2e-a57a-d41257173767",
+        "websites": [
+            1
+        ],
+        "alternative_name": "GNU/Linux",
+        "platform_family": 4
+    },
+    {
+        "id": 6,
+        "abbreviation": "PC",
+        "category": 4,
+        "created_at": 1297639288,
+        "generation": 0,
+        "name": "PC (Microsoft Windows)",
+        "platformLogo": 0,
+        "slug": "win",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/win",
+        "versions": [
+            14,
+            1,
+            15,
+            13,
+            530,
+            531,
+            534,
+            532,
+            513,
+            529,
+            124,
+            533
+        ],
+        "checksum": "50ef0869-39cd-be87-5221-8ef3f082834a",
+        "websites": [
+            2
+        ],
+        "alternative_name": "mswin",
+        "platform_family": null
+    },
+    {
+        "id": 8,
+        "abbreviation": "PS2",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 6,
+        "name": "PlayStation 2",
+        "platformLogo": 0,
+        "slug": "ps2",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ps2",
+        "versions": [
+            58,
+            114
+        ],
+        "checksum": "4ea5687f-1834-ef04-3d2c-2ddc21910909",
+        "websites": null,
+        "alternative_name": "PS2",
+        "platform_family": 1
+    },
+    {
+        "id": 23,
+        "abbreviation": "DC",
+        "category": 1,
+        "created_at": 1300188004,
+        "generation": 6,
+        "name": "Dreamcast",
+        "platformLogo": 0,
+        "slug": "dc",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/dc",
+        "versions": [
+            16
+        ],
+        "checksum": "ce32e5c6-5873-daa2-20d7-4f8360699164",
+        "websites": [
+            276
+        ],
+        "alternative_name": "DC",
+        "platform_family": 3
+    },
+    {
+        "id": 35,
+        "abbreviation": "Game Gear",
+        "category": 5,
+        "created_at": 1303933831,
+        "generation": 4,
+        "name": "Sega Game Gear",
+        "platformLogo": 0,
+        "slug": "gamegear",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gamegear",
+        "versions": [
+            62
+        ],
+        "checksum": "504157a3-ba18-fc8e-7f89-b461079b3c4b",
+        "websites": null,
+        "alternative_name": "GG",
+        "platform_family": 3
+    },
+    {
+        "id": 39,
+        "abbreviation": "iOS",
+        "category": 4,
+        "created_at": 1317719747,
+        "generation": 0,
+        "name": "iOS",
+        "platformLogo": 0,
+        "slug": "ios",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ios",
+        "versions": [
+            43
+        ],
+        "checksum": "5376c91c-0374-90e4-19dd-213780c9eb1d",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 44,
+        "abbreviation": "zod",
+        "category": 5,
+        "created_at": 1317748794,
+        "generation": 0,
+        "name": "Tapwave Zodiac",
+        "platformLogo": 0,
+        "slug": "zod",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/zod",
+        "versions": [
+            69
+        ],
+        "checksum": "e95c16d7-abd6-61ab-cc2c-fc682a6151fa",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 88,
+        "abbreviation": "odyssey",
+        "category": 1,
+        "created_at": 1407615978,
+        "generation": 1,
+        "name": "Odyssey",
+        "platformLogo": 0,
+        "slug": "odyssey--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/odyssey--1",
+        "versions": [
+            101,
+            170,
+            167,
+            169,
+            171,
+            168
+        ],
+        "checksum": "39d6bdb5-c54b-1776-d40f-416860aa5a93",
+        "websites": [
+            211
+        ],
+        "alternative_name": "Magnavox Odyssey; Odysee; Odisea; Odissea",
+        "platform_family": null
+    },
+    {
+        "id": 97,
+        "abbreviation": "pdp-8",
+        "category": 6,
+        "created_at": 1424466295,
+        "generation": 0,
+        "name": "PDP-8",
+        "platformLogo": 0,
+        "slug": "pdp-8--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pdp-8--1",
+        "versions": [
+            119
+        ],
+        "checksum": "f710bbcd-aaa6-0721-2d2d-af8c0229203a",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 134,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1479464068,
+        "generation": 0,
+        "name": "Acorn Electron",
+        "platformLogo": 0,
+        "slug": "acorn-electron",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/acorn-electron",
+        "versions": [
+            184
+        ],
+        "checksum": "755fc8e9-3e4a-8fa9-dc0a-54df2c99e7ff",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 136,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1492121152,
+        "generation": 4,
+        "name": "Neo Geo CD",
+        "platformLogo": 0,
+        "slug": "neo-geo-cd",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/neo-geo-cd",
+        "versions": [
+            187
+        ],
+        "checksum": "859ba5ac-d9e2-f747-c8c4-33f1e2dc8087",
+        "websites": null,
+        "alternative_name": "NGCD",
+        "platform_family": null
+    },
+    {
+        "id": 373,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1607024002,
+        "generation": 0,
+        "name": "Sinclair ZX81",
+        "platformLogo": 0,
+        "slug": "sinclair-zx81",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sinclair-zx81",
+        "versions": [
+            491
+        ],
+        "checksum": "3f393ec2-1e12-6606-1ee9-5c633eb4fdc2",
+        "websites": null,
+        "alternative_name": "ZX81",
+        "platform_family": null
+    },
+    {
+        "id": 505,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1724962937,
+        "generation": 0,
+        "name": "Elektor TV Games Computer",
+        "platformLogo": 0,
+        "slug": "elektor-tv-games-computer",
+        "updated_at": 1724962949,
+        "url": "https://www.igdb.com/platforms/elektor-tv-games-computer",
+        "versions": [
+            723
+        ],
+        "checksum": "60650809-9ff4-406c-86e0-281f2216a467",
+        "websites": [
+            404
+        ],
+        "alternative_name": "TVGC",
+        "platform_family": null
+    },
+    {
+        "id": 24,
+        "abbreviation": "GBA",
+        "category": 5,
+        "created_at": 1300201426,
+        "generation": 6,
+        "name": "Game Boy Advance",
+        "platformLogo": 0,
+        "slug": "gba",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gba",
+        "versions": [
+            193,
+            194,
+            40
+        ],
+        "checksum": "38e2ebb3-68e3-077d-b6b3-3052f72fa630",
+        "websites": null,
+        "alternative_name": "GBA",
+        "platform_family": 5
+    },
+    {
+        "id": 72,
+        "abbreviation": "Ouya",
+        "category": 1,
+        "created_at": 1373409212,
+        "generation": 8,
+        "name": "Ouya",
+        "platformLogo": 0,
+        "slug": "ouya",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ouya",
+        "versions": [
+            55
+        ],
+        "checksum": "9558a5c1-3f49-a04a-6026-29fc3b8f37b5",
+        "websites": [
+            13
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 78,
+        "abbreviation": "Sega CD",
+        "category": 1,
+        "created_at": 1391918290,
+        "generation": 4,
+        "name": "Sega CD",
+        "platformLogo": 0,
+        "slug": "sega-cd",
+        "updated_at": 1746526427,
+        "url": "https://www.igdb.com/platforms/sega-cd",
+        "versions": [
+            80,
+            736
+        ],
+        "checksum": "ed655535-8363-8b14-0db0-f9d0a6e72d33",
+        "websites": null,
+        "alternative_name": "Mega CD",
+        "platform_family": 3
+    },
+    {
+        "id": 85,
+        "abbreviation": "donner30",
+        "category": 6,
+        "created_at": 1399759171,
+        "generation": 0,
+        "name": "Donner Model 30",
+        "platformLogo": 0,
+        "slug": "donner30",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/donner30",
+        "versions": [
+            93
+        ],
+        "checksum": "35468043-7da0-8bde-f8f2-4fe7e126b311",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 163,
+        "abbreviation": "Steam VR",
+        "category": 0,
+        "created_at": 1518704804,
+        "generation": 0,
+        "name": "SteamVR",
+        "platformLogo": 0,
+        "slug": "steam-vr",
+        "updated_at": 1561990985,
+        "url": "https://www.igdb.com/platforms/steam-vr",
+        "versions": [
+            233
+        ],
+        "checksum": "e2c8f5f7-2c50-5d2d-b9b9-1135281d38f4",
+        "websites": [
+            30
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 115,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1441269003,
+        "generation": 0,
+        "name": "Apple IIGS",
+        "platformLogo": 0,
+        "slug": "apple-iigs",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/apple-iigs",
+        "versions": [
+            153
+        ],
+        "checksum": "d7ae3d7f-ea1e-c27e-2594-337435a1c85e",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 119,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1441269219,
+        "generation": 5,
+        "name": "Neo Geo Pocket",
+        "platformLogo": 0,
+        "slug": "neo-geo-pocket",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/neo-geo-pocket",
+        "versions": [
+            157
+        ],
+        "checksum": "1c074d25-a570-29b7-ebf8-22bc849d60f2",
+        "websites": null,
+        "alternative_name": "NGP",
+        "platform_family": null
+    },
+    {
+        "id": 125,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1445197781,
+        "generation": 0,
+        "name": "PC-8800 Series",
+        "platformLogo": 0,
+        "slug": "pc-8800-series",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pc-8800-series",
+        "versions": [
+            163
+        ],
+        "checksum": "796d268a-a98b-6d11-82d9-191a074de381",
+        "websites": [
+            217
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 133,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1477304835,
+        "generation": 0,
+        "name": "Odyssey 2 / Videopac G7000",
+        "platformLogo": 0,
+        "slug": "odyssey-2-slash-videopac-g7000",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/odyssey-2-slash-videopac-g7000",
+        "versions": [
+            183
+        ],
+        "checksum": "a930ca63-01f8-f842-7c8b-51c954b2caa2",
+        "websites": null,
+        "alternative_name": "Magnavox Odyssey\u00B2",
+        "platform_family": null
+    },
+    {
+        "id": 135,
+        "abbreviation": null,
+        "category": 2,
+        "created_at": 1492121116,
+        "generation": 0,
+        "name": "Hyper Neo Geo 64",
+        "platformLogo": 0,
+        "slug": "hyper-neo-geo-64",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/hyper-neo-geo-64",
+        "versions": [
+            186
+        ],
+        "checksum": "c234fc65-d497-4e04-817e-3d76c2456aa8",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 142,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505597444,
+        "generation": 1,
+        "name": "PC-50X Family",
+        "platformLogo": 0,
+        "slug": "pc-50x-family",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pc-50x-family",
+        "versions": [
+            205,
+            200
+        ],
+        "checksum": "2cc667d3-4944-f61f-0cf5-668e18db9583",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 144,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829367,
+        "generation": 0,
+        "name": "AY-3-8710",
+        "platformLogo": 0,
+        "slug": "ay-3-8710",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8710",
+        "versions": [
+            207
+        ],
+        "checksum": "3d2eccd4-e60b-2ef0-42e0-c2124bc158f0",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 146,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829395,
+        "generation": 0,
+        "name": "AY-3-8605",
+        "platformLogo": 0,
+        "slug": "ay-3-8605",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8605",
+        "versions": [
+            209
+        ],
+        "checksum": "9ed7f23e-f483-360c-847c-905f17892030",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 147,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505829406,
+        "generation": 0,
+        "name": "AY-3-8606",
+        "platformLogo": 0,
+        "slug": "ay-3-8606",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8606",
+        "versions": [
+            210
+        ],
+        "checksum": "9043c8bf-6c0d-d70f-add7-23515a4107d4",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 149,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1509010307,
+        "generation": 0,
+        "name": "PC-9800 Series",
+        "platformLogo": 0,
+        "slug": "pc-9800-series",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pc-9800-series",
+        "versions": [
+            214
+        ],
+        "checksum": "60dfe3e7-f12e-5dac-fdc7-ab99573b6820",
+        "websites": [
+            371
+        ],
+        "alternative_name": "PC-98",
+        "platform_family": null
+    },
+    {
+        "id": 237,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1573813377,
+        "generation": 0,
+        "name": "Sol-20",
+        "platformLogo": 0,
+        "slug": "sol-20",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sol-20",
+        "versions": [
+            354
+        ],
+        "checksum": "f7ecc196-c3c6-fd3c-96f9-2cefa2257a29",
+        "websites": [
+            219
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 98,
+        "abbreviation": "gt40",
+        "category": 0,
+        "created_at": 1424466486,
+        "generation": 0,
+        "name": "DEC GT40",
+        "platformLogo": 0,
+        "slug": "gt40",
+        "updated_at": 1424466541,
+        "url": "https://www.igdb.com/platforms/gt40",
+        "versions": [
+            120
+        ],
+        "checksum": "479fe519-86c9-0bd1-0c72-311b125e7886",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 111,
+        "abbreviation": "imlac-pds1",
+        "category": 0,
+        "created_at": 1438518875,
+        "generation": 0,
+        "name": "Imlac PDS-1",
+        "platformLogo": 0,
+        "slug": "imlac-pds1",
+        "updated_at": 1438520149,
+        "url": "https://www.igdb.com/platforms/imlac-pds1",
+        "versions": [
+            137
+        ],
+        "checksum": "f6058e7f-0a66-beda-fe89-0c4f46a7864b",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 162,
+        "abbreviation": "Oculus VR",
+        "category": 0,
+        "created_at": 1518704500,
+        "generation": 0,
+        "name": "Oculus VR",
+        "platformLogo": 0,
+        "slug": "oculus-vr",
+        "updated_at": 1632966500,
+        "url": "https://www.igdb.com/platforms/oculus-vr",
+        "versions": [
+            232
+        ],
+        "checksum": "7eb8ba4e-4957-a747-0161-e060c6aa4616",
+        "websites": [
+            29,
+            287
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 307,
+        "abbreviation": "G\u0026W",
+        "category": 5,
+        "created_at": 1590782312,
+        "generation": 2,
+        "name": "Game \u0026 Watch",
+        "platformLogo": 0,
+        "slug": "g-and-w",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/g-and-w",
+        "versions": [
+            424
+        ],
+        "checksum": "3167d657-127d-f1c2-c8a7-da0f8341b2f4",
+        "websites": [
+            206
+        ],
+        "alternative_name": "Tricotronic, GW, G\u0026W",
+        "platform_family": 5
+    },
+    {
+        "id": 308,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1590782393,
+        "generation": 5,
+        "name": "Playdia",
+        "platformLogo": 0,
+        "slug": "playdia",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/playdia",
+        "versions": [
+            425
+        ],
+        "checksum": "fc3a8394-5b74-aac5-b049-bb76eba0b4a4",
+        "websites": [
+            208
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 506,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1732655107,
+        "generation": 3,
+        "name": "Amstrad GX4000",
+        "platformLogo": 0,
+        "slug": "amstrad-gx4000",
+        "updated_at": 1732655117,
+        "url": "https://www.igdb.com/platforms/amstrad-gx4000",
+        "versions": [
+            725
+        ],
+        "checksum": "d104d82f-2a38-2889-ba2c-b858d769d3bc",
+        "websites": [
+            405
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 9,
+        "abbreviation": "PS3",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 7,
+        "name": "PlayStation 3",
+        "platformLogo": 0,
+        "slug": "ps3",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ps3",
+        "versions": [
+            5,
+            4,
+            6
+        ],
+        "checksum": "7194dbc7-fcb0-7fb8-44a7-609db3aee29e",
+        "websites": [
+            3
+        ],
+        "alternative_name": "PS3",
+        "platform_family": 1
+    },
+    {
+        "id": 11,
+        "abbreviation": "XBOX",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 6,
+        "name": "Xbox",
+        "platformLogo": 0,
+        "slug": "xbox",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/xbox",
+        "versions": [
+            77
+        ],
+        "checksum": "68c89706-a8b9-6c17-31a5-4e4977be0d1d",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": 2
+    },
+    {
+        "id": 15,
+        "abbreviation": "C64",
+        "category": 6,
+        "created_at": 1297880639,
+        "generation": 0,
+        "name": "Commodore C64/128/MAX",
+        "platformLogo": 0,
+        "slug": "c64",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/c64",
+        "versions": [
+            36,
+            595
+        ],
+        "checksum": "54658c60-570d-a541-03c3-4844fce797d7",
+        "websites": null,
+        "alternative_name": "C64/C128/MAX",
+        "platform_family": null
+    },
+    {
+        "id": 86,
+        "abbreviation": "turbografx16",
+        "category": 1,
+        "created_at": 1400825134,
+        "generation": 4,
+        "name": "TurboGrafx-16/PC Engine",
+        "platformLogo": 0,
+        "slug": "turbografx16--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/turbografx16--1",
+        "versions": [
+            99,
+            733
+        ],
+        "checksum": "226ee158-90c7-3a8b-ec51-0fea5ba8266d",
+        "websites": [
+            382
+        ],
+        "alternative_name": "TG16",
+        "platform_family": null
+    },
+    {
+        "id": 20,
+        "abbreviation": "NDS",
+        "category": 5,
+        "created_at": 1297941701,
+        "generation": 7,
+        "name": "Nintendo DS",
+        "platformLogo": 0,
+        "slug": "nds",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nds",
+        "versions": [
+            52,
+            191,
+            192,
+            190
+        ],
+        "checksum": "5d9d3f39-bd2e-c2ab-00b1-f7a2b4a06b0f",
+        "websites": null,
+        "alternative_name": "NDS",
+        "platform_family": 5
+    },
+    {
+        "id": 22,
+        "abbreviation": "GBC",
+        "category": 5,
+        "created_at": 1300187960,
+        "generation": 5,
+        "name": "Game Boy Color",
+        "platformLogo": 0,
+        "slug": "gbc",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gbc",
+        "versions": [
+            41
+        ],
+        "checksum": "928f7b2f-ae24-43e1-81de-e84c6915248a",
+        "websites": null,
+        "alternative_name": "GBC",
+        "platform_family": 5
+    },
+    {
+        "id": 46,
+        "abbreviation": "Vita",
+        "category": 5,
+        "created_at": 1321701445,
+        "generation": 8,
+        "name": "PlayStation Vita",
+        "platformLogo": 0,
+        "slug": "psvita",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/psvita",
+        "versions": [
+            275,
+            274,
+            60
+        ],
+        "checksum": "51c221f7-f5ea-7651-bcc8-664dcc19c2e0",
+        "websites": [
+            34
+        ],
+        "alternative_name": "PS Vita",
+        "platform_family": 1
+    },
+    {
+        "id": 66,
+        "abbreviation": "Atari5200",
+        "category": 1,
+        "created_at": 1372500401,
+        "generation": 2,
+        "name": "Atari 5200",
+        "platformLogo": 0,
+        "slug": "atari5200",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari5200",
+        "versions": [
+            25
+        ],
+        "checksum": "0a90628c-c1cb-5bde-972f-f4a6745e1a18",
+        "websites": null,
+        "alternative_name": "Atari 5200 SuperSystem",
+        "platform_family": null
+    },
+    {
+        "id": 67,
+        "abbreviation": "intellivision",
+        "category": 1,
+        "created_at": 1372500437,
+        "generation": 2,
+        "name": "Intellivision",
+        "platformLogo": 0,
+        "slug": "intellivision",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/intellivision",
+        "versions": [
+            42
+        ],
+        "checksum": "8da3ae73-e22c-3483-e715-b23d05eb0047",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 73,
+        "abbreviation": "blackberry",
+        "category": 4,
+        "created_at": 1384461165,
+        "generation": 0,
+        "name": "BlackBerry OS",
+        "platformLogo": 0,
+        "slug": "blackberry",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/blackberry",
+        "versions": [
+            34
+        ],
+        "checksum": "aedacb57-4816-e04a-b3c6-8546f7e08948",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 101,
+        "abbreviation": "nimrod",
+        "category": 6,
+        "created_at": 1437899974,
+        "generation": 0,
+        "name": "Ferranti Nimrod Computer",
+        "platformLogo": 0,
+        "slug": "nimrod",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nimrod",
+        "versions": [
+            127
+        ],
+        "checksum": "6648531a-58d9-f15d-0c78-24d7c0cd0710",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 108,
+        "abbreviation": "pdp11",
+        "category": 6,
+        "created_at": 1438090148,
+        "generation": 0,
+        "name": "PDP-11",
+        "platformLogo": 0,
+        "slug": "pdp11",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pdp11",
+        "versions": [
+            134
+        ],
+        "checksum": "6994bf3d-3f79-d526-97a3-5d6582c8259d",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 109,
+        "abbreviation": "cdccyber70",
+        "category": 6,
+        "created_at": 1438090241,
+        "generation": 0,
+        "name": "CDC Cyber 70",
+        "platformLogo": 0,
+        "slug": "cdccyber70",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/cdccyber70",
+        "versions": [
+            135
+        ],
+        "checksum": "ab619d74-8c43-cc6c-c9b7-4cc043da534d",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 113,
+        "abbreviation": null,
+        "category": 3,
+        "created_at": 1439410567,
+        "generation": 0,
+        "name": "OnLive Game System",
+        "platformLogo": 0,
+        "slug": "onlive-game-system",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/onlive-game-system",
+        "versions": [
+            140
+        ],
+        "checksum": "f957c99b-4f45-9419-f9bb-bbda5586ceca",
+        "websites": [
+            15
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 114,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1441268962,
+        "generation": 5,
+        "name": "Amiga CD32",
+        "platformLogo": 0,
+        "slug": "amiga-cd32",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/amiga-cd32",
+        "versions": [
+            152
+        ],
+        "checksum": "f65db558-f68d-274c-d7cc-cc953aad2ed5",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 116,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1441269115,
+        "generation": 0,
+        "name": "Acorn Archimedes",
+        "platformLogo": 0,
+        "slug": "acorn-archimedes",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/acorn-archimedes",
+        "versions": [
+            154
+        ],
+        "checksum": "7d4c222b-bbeb-869e-88b6-720ea397ea9f",
+        "websites": [
+            214
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 117,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1441269147,
+        "generation": 0,
+        "name": "Philips CD-i",
+        "platformLogo": 0,
+        "slug": "philips-cd-i",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/philips-cd-i",
+        "versions": [
+            155
+        ],
+        "checksum": "16093a22-031a-4208-608b-2a2b3a3e2774",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 118,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1441269186,
+        "generation": 0,
+        "name": "FM Towns",
+        "platformLogo": 0,
+        "slug": "fm-towns",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/fm-towns",
+        "versions": [
+            156,
+            708,
+            709,
+            707
+        ],
+        "checksum": "6f37ede3-64f0-0221-376c-a4e7e20e67b9",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 121,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1441269289,
+        "generation": 0,
+        "name": "Sharp X68000",
+        "platformLogo": 0,
+        "slug": "sharp-x68000",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sharp-x68000",
+        "versions": [
+            159
+        ],
+        "checksum": "a9329a04-99ba-2e26-8a14-3217d54022ef",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 124,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1441486464,
+        "generation": 0,
+        "name": "SwanCrystal",
+        "platformLogo": 0,
+        "slug": "swancrystal",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/swancrystal",
+        "versions": [
+            162
+        ],
+        "checksum": "6516fd17-e39c-f9b9-3c97-098544d00941",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 131,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1468482761,
+        "generation": 4,
+        "name": "Super NES CD-ROM System",
+        "platformLogo": 0,
+        "slug": "super-nes-cd-rom-system",
+        "updated_at": 1723051262,
+        "url": "https://www.igdb.com/platforms/super-nes-cd-rom-system",
+        "versions": [
+            722,
+            174
+        ],
+        "checksum": "964681c5-a7d0-bbef-0cb8-42a311c74ac3",
+        "websites": [
+            210
+        ],
+        "alternative_name": "SNES-CD",
+        "platform_family": 5
+    },
+    {
+        "id": 138,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505224845,
+        "generation": 2,
+        "name": "VC 4000",
+        "platformLogo": 0,
+        "slug": "vc-4000",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/vc-4000",
+        "versions": [
+            196
+        ],
+        "checksum": "3d69f214-328b-5447-3889-78449e7dfb90",
+        "websites": [
+            18
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 139,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1505224949,
+        "generation": 2,
+        "name": "1292 Advanced Programmable Video System",
+        "platformLogo": 0,
+        "slug": "1292-advanced-programmable-video-system",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/1292-advanced-programmable-video-system",
+        "versions": [
+            213,
+            197
+        ],
+        "checksum": "d638c215-0d2c-b3fe-66bd-07c809474ee6",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 152,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510050884,
+        "generation": 0,
+        "name": "FM-7",
+        "platformLogo": 0,
+        "slug": "fm-7",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/fm-7",
+        "versions": [
+            217
+        ],
+        "checksum": "fc408c3a-8b10-26b5-1a03-e44b32aa685a",
+        "websites": [
+            20
+        ],
+        "alternative_name": "Fujitsu Micro 7",
+        "platform_family": null
+    },
+    {
+        "id": 155,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510050979,
+        "generation": 0,
+        "name": "Tatung Einstein",
+        "platformLogo": 0,
+        "slug": "tatung-einstein",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/tatung-einstein",
+        "versions": [
+            220
+        ],
+        "checksum": "ef9bde2e-bb8b-086c-0cb8-af19c446a78c",
+        "websites": [
+            23
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 157,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510051217,
+        "generation": 0,
+        "name": "NEC PC-6000 Series",
+        "platformLogo": 0,
+        "slug": "nec-pc-6000-series",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nec-pc-6000-series",
+        "versions": [
+            222
+        ],
+        "checksum": "8dd08a16-0c54-aee7-81fc-ee5b6f563553",
+        "websites": [
+            25
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 18,
+        "abbreviation": "NES",
+        "category": 1,
+        "created_at": 1297941636,
+        "generation": 3,
+        "name": "Nintendo Entertainment System",
+        "platformLogo": 0,
+        "slug": "nes",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nes",
+        "versions": [
+            53,
+            643,
+            644
+        ],
+        "checksum": "867fe47b-06e4-1ad6-e131-a7977f249fdd",
+        "websites": null,
+        "alternative_name": "NES",
+        "platform_family": 5
+    },
+    {
+        "id": 161,
+        "abbreviation": null,
+        "category": 0,
+        "created_at": 1518704263,
+        "generation": 0,
+        "name": "Windows Mixed Reality",
+        "platformLogo": 0,
+        "slug": "windows-mixed-reality",
+        "updated_at": 1518704273,
+        "url": "https://www.igdb.com/platforms/windows-mixed-reality",
+        "versions": [
+            231
+        ],
+        "checksum": "9f7bb157-24f5-f7da-d05a-f0ca17c99cbe",
+        "websites": [
+            28
+        ],
+        "alternative_name": "WMR",
+        "platform_family": null
+    },
+    {
+        "id": 103,
+        "abbreviation": "pdp-7",
+        "category": 0,
+        "created_at": 1437900057,
+        "generation": 0,
+        "name": "PDP-7",
+        "platformLogo": 0,
+        "slug": "pdp-7--1",
+        "updated_at": 1437903108,
+        "url": "https://www.igdb.com/platforms/pdp-7--1",
+        "versions": [
+            129
+        ],
+        "checksum": "e828d5a4-68ad-b75c-dc50-f8ea7df31036",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 374,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1607297122,
+        "generation": 0,
+        "name": "Sharp MZ-2200",
+        "platformLogo": 0,
+        "slug": "sharp-mz-2200",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sharp-mz-2200",
+        "versions": [
+            492
+        ],
+        "checksum": "4694cb6c-a6f1-74f6-650e-27f19a49d268",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 375,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1612947243,
+        "generation": 2,
+        "name": "Epoch Cassette Vision",
+        "platformLogo": 0,
+        "slug": "epoch-cassette-vision",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/epoch-cassette-vision",
+        "versions": [
+            493
+        ],
+        "checksum": "545c2b7c-5084-6614-eefe-b4f1d6c77820",
+        "websites": [
+            272
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 377,
+        "abbreviation": null,
+        "category": 3,
+        "created_at": 1620778281,
+        "generation": 0,
+        "name": "Plug \u0026 Play",
+        "platformLogo": 0,
+        "slug": "plug-and-play",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/plug-and-play",
+        "versions": [
+            684,
+            685,
+            686,
+            687,
+            688,
+            496
+        ],
+        "checksum": "4d4e8222-311a-d6a1-e736-347a1d9e4755",
+        "websites": [
+            277
+        ],
+        "alternative_name": "TV Game",
+        "platform_family": null
+    },
+    {
+        "id": 379,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1621003540,
+        "generation": 5,
+        "name": "Game.com",
+        "platformLogo": 0,
+        "slug": "game-dot-com",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/game-dot-com",
+        "versions": [
+            498
+        ],
+        "checksum": "ae4a74ef-3c17-c408-b4db-8c32a2943ae7",
+        "websites": [
+            309
+        ],
+        "alternative_name": "Tiger Game.com",
+        "platform_family": null
+    },
+    {
+        "id": 382,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1623689576,
+        "generation": 0,
+        "name": "Intellivision Amico",
+        "platformLogo": 0,
+        "slug": "intellivision-amico",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/intellivision-amico",
+        "versions": [
+            502
+        ],
+        "checksum": "34ac3aec-1e7d-8412-02a1-99cfa6300be6",
+        "websites": [
+            279
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 384,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1631819038,
+        "generation": 0,
+        "name": "Oculus Quest",
+        "platformLogo": 0,
+        "slug": "oculus-quest",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/oculus-quest",
+        "versions": [
+            505
+        ],
+        "checksum": "b793e609-be7a-e42c-9441-bd9904426ffc",
+        "websites": [
+            282,
+            288
+        ],
+        "alternative_name": "Quest",
+        "platform_family": null
+    },
+    {
+        "id": 385,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1632256230,
+        "generation": 0,
+        "name": "Oculus Rift",
+        "platformLogo": 0,
+        "slug": "oculus-rift",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/oculus-rift",
+        "versions": [
+            506,
+            680
+        ],
+        "checksum": "4bd900ef-ee6b-9094-7b08-b4f24bd58277",
+        "websites": [
+            283
+        ],
+        "alternative_name": "Rift",
+        "platform_family": null
+    },
+    {
+        "id": 387,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1632259181,
+        "generation": 0,
+        "name": "Oculus Go",
+        "platformLogo": 0,
+        "slug": "oculus-go",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/oculus-go",
+        "versions": [
+            508
+        ],
+        "checksum": "893be8b6-8e38-5d10-db70-48d85a4cd683",
+        "websites": [
+            285
+        ],
+        "alternative_name": "Go",
+        "platform_family": null
+    },
+    {
+        "id": 388,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1632259330,
+        "generation": 0,
+        "name": "Gear VR",
+        "platformLogo": 0,
+        "slug": "gear-vr",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gear-vr",
+        "versions": [
+            509
+        ],
+        "checksum": "ec65501c-ae81-0b91-39ac-e0e4fae4e896",
+        "websites": [
+            286
+        ],
+        "alternative_name": "Samsung Gear VR",
+        "platform_family": null
+    },
+    {
+        "id": 479,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1711468072,
+        "generation": 0,
+        "name": "Terebikko / See \u0027n Say Video Phone",
+        "platformLogo": 0,
+        "slug": "terebikko-slash-see-n-say-video-phone",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/terebikko-slash-see-n-say-video-phone",
+        "versions": [
+            698,
+            697
+        ],
+        "checksum": "e8915011-6a6f-e8ec-c480-0b1e76f136ea",
+        "websites": [
+            380
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 507,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1734550502,
+        "generation": 6,
+        "name": "Advanced Pico Beena",
+        "platformLogo": 0,
+        "slug": "advanced-pico-beena",
+        "updated_at": 1734550924,
+        "url": "https://www.igdb.com/platforms/advanced-pico-beena",
+        "versions": [
+            726,
+            727
+        ],
+        "checksum": "2795648e-a945-5358-b4e8-149a4d0f73c1",
+        "websites": [
+            406
+        ],
+        "alternative_name": "BeenaLite",
+        "platform_family": 3
+    },
+    {
+        "id": 21,
+        "abbreviation": "NGC",
+        "category": 1,
+        "created_at": 1298032543,
+        "generation": 6,
+        "name": "Nintendo GameCube",
+        "platformLogo": 0,
+        "slug": "ngc",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ngc",
+        "versions": [
+            121,
+            125,
+            54
+        ],
+        "checksum": "a4f1a6df-6027-591c-d044-3c94695a5e2a",
+        "websites": [
+            292
+        ],
+        "alternative_name": "GCN",
+        "platform_family": 5
+    },
+    {
+        "id": 33,
+        "abbreviation": "Game Boy",
+        "category": 5,
+        "created_at": 1302342089,
+        "generation": 4,
+        "name": "Game Boy",
+        "platformLogo": 0,
+        "slug": "gb",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gb",
+        "versions": [
+            182,
+            39,
+            181
+        ],
+        "checksum": "51594911-4d23-6bed-ac5e-1cd58ac88c5f",
+        "websites": null,
+        "alternative_name": "GB",
+        "platform_family": 5
+    },
+    {
+        "id": 38,
+        "abbreviation": "PSP",
+        "category": 5,
+        "created_at": 1317648479,
+        "generation": 7,
+        "name": "PlayStation Portable",
+        "platformLogo": 0,
+        "slug": "psp",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/psp",
+        "versions": [
+            59,
+            279,
+            277,
+            276,
+            278
+        ],
+        "checksum": "86a0a615-f5ef-e78b-c8b9-be6b5548597a",
+        "websites": null,
+        "alternative_name": "PSP",
+        "platform_family": 1
+    },
+    {
+        "id": 42,
+        "abbreviation": "NGage",
+        "category": 5,
+        "created_at": 1317748649,
+        "generation": 6,
+        "name": "N-Gage",
+        "platformLogo": 0,
+        "slug": "ngage",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ngage",
+        "versions": [
+            49,
+            118
+        ],
+        "checksum": "9bc5d962-2764-96dd-179e-95166004608e",
+        "websites": null,
+        "alternative_name": "NGage",
+        "platform_family": null
+    },
+    {
+        "id": 57,
+        "abbreviation": "WonderSwan",
+        "category": 5,
+        "created_at": 1342290746,
+        "generation": 5,
+        "name": "WonderSwan",
+        "platformLogo": 0,
+        "slug": "wonderswan",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/wonderswan",
+        "versions": [
+            76,
+            117,
+            84
+        ],
+        "checksum": "aa95ad3a-e9d6-df2d-3b8f-ed2e74bdfbcb",
+        "websites": null,
+        "alternative_name": "WS",
+        "platform_family": null
+    },
+    {
+        "id": 69,
+        "abbreviation": "bbcmicro",
+        "category": 6,
+        "created_at": 1372500577,
+        "generation": 0,
+        "name": "BBC Microcomputer System",
+        "platformLogo": 0,
+        "slug": "bbcmicro",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/bbcmicro",
+        "versions": [
+            33
+        ],
+        "checksum": "8ca35c4e-371d-e7e2-d70b-858674e74be2",
+        "websites": null,
+        "alternative_name": "BBC Micro",
+        "platform_family": null
+    },
+    {
+        "id": 71,
+        "abbreviation": "vic-20",
+        "category": 6,
+        "created_at": 1372500665,
+        "generation": 0,
+        "name": "Commodore VIC-20",
+        "platformLogo": 0,
+        "slug": "vic-20",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/vic-20",
+        "versions": [
+            37
+        ],
+        "checksum": "1f06ee14-ef32-2583-073b-ba856604deee",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 74,
+        "abbreviation": "Win Phone",
+        "category": 4,
+        "created_at": 1384461218,
+        "generation": 0,
+        "name": "Windows Phone",
+        "platformLogo": 0,
+        "slug": "winphone",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/winphone",
+        "versions": [
+            226,
+            225,
+            227,
+            224
+        ],
+        "checksum": "981495e8-cb53-0b1c-7cea-138f28f46f9d",
+        "websites": null,
+        "alternative_name": "WP",
+        "platform_family": null
+    },
+    {
+        "id": 79,
+        "abbreviation": "neogeomvs",
+        "category": 2,
+        "created_at": 1392122385,
+        "generation": 0,
+        "name": "Neo Geo MVS",
+        "platformLogo": 0,
+        "slug": "neogeomvs",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/neogeomvs",
+        "versions": [
+            81
+        ],
+        "checksum": "19c8b9ef-e600-8902-a75d-16ab63d2952e",
+        "websites": null,
+        "alternative_name": "Neo Geo Multi Video System",
+        "platform_family": null
+    },
+    {
+        "id": 80,
+        "abbreviation": "neogeoaes",
+        "category": 1,
+        "created_at": 1392122702,
+        "generation": 4,
+        "name": "Neo Geo AES",
+        "platformLogo": 0,
+        "slug": "neogeoaes",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/neogeoaes",
+        "versions": [
+            82
+        ],
+        "checksum": "fd4ba90b-fe6e-dcaf-f76d-43a7b3572529",
+        "websites": null,
+        "alternative_name": "AES",
+        "platform_family": null
+    },
+    {
+        "id": 84,
+        "abbreviation": "sg1000",
+        "category": 1,
+        "created_at": 1397508064,
+        "generation": 3,
+        "name": "SG-1000",
+        "platformLogo": 0,
+        "slug": "sg1000",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sg1000",
+        "versions": [
+            92,
+            91
+        ],
+        "checksum": "e094a56c-5b26-a77f-c646-1881fec0fb5c",
+        "websites": null,
+        "alternative_name": "Sega Game 1000",
+        "platform_family": 3
+    },
+    {
+        "id": 91,
+        "abbreviation": "astrocade",
+        "category": 1,
+        "created_at": 1411658604,
+        "generation": 2,
+        "name": "Bally Astrocade",
+        "platformLogo": 0,
+        "slug": "astrocade",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/astrocade",
+        "versions": [
+            105
+        ],
+        "checksum": "3f08bef4-95ae-81df-550e-d5428aa4a169",
+        "websites": null,
+        "alternative_name": "Bally Arcade",
+        "platform_family": null
+    },
+    {
+        "id": 93,
+        "abbreviation": "C16",
+        "category": 6,
+        "created_at": 1414253528,
+        "generation": 0,
+        "name": "Commodore 16",
+        "platformLogo": 0,
+        "slug": "c16",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/c16",
+        "versions": [
+            107
+        ],
+        "checksum": "2e71a3d6-14c5-c6b6-abcc-58af6949ad23",
+        "websites": [
+            213
+        ],
+        "alternative_name": "C16",
+        "platform_family": null
+    },
+    {
+        "id": 96,
+        "abbreviation": "pdp10",
+        "category": 6,
+        "created_at": 1418566103,
+        "generation": 0,
+        "name": "PDP-10",
+        "platformLogo": 0,
+        "slug": "pdp10",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pdp10",
+        "versions": [
+            116
+        ],
+        "checksum": "672612eb-82f0-2883-c60b-9fa1dbda6822",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 122,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1441486362,
+        "generation": 0,
+        "name": "Nuon",
+        "platformLogo": 0,
+        "slug": "nuon",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nuon",
+        "versions": [
+            160
+        ],
+        "checksum": "14674469-37f5-18fd-5368-21825912ac32",
+        "websites": [
+            172
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 137,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1504610734,
+        "generation": 8,
+        "name": "New Nintendo 3DS",
+        "platformLogo": 0,
+        "slug": "new-nintendo-3ds",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/new-nintendo-3ds",
+        "versions": [
+            195,
+            677
+        ],
+        "checksum": "4d7a326c-c205-1f40-3031-9717777ff756",
+        "websites": [
+            17
+        ],
+        "alternative_name": "n3DS",
+        "platform_family": 5
+    },
+    {
+        "id": 141,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1505597392,
+        "generation": 0,
+        "name": "AY-3-8610",
+        "platformLogo": 0,
+        "slug": "ay-3-8610",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ay-3-8610",
+        "versions": [
+            199
+        ],
+        "checksum": "656aed82-3709-2abe-01a8-35ac37c44bc8",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 170,
+        "abbreviation": "Stadia",
+        "category": 3,
+        "created_at": 1565274018,
+        "generation": 0,
+        "name": "Google Stadia",
+        "platformLogo": 0,
+        "slug": "stadia",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/stadia",
+        "versions": [
+            285
+        ],
+        "checksum": "cd1f06da-9c30-ec14-4b7c-f9b0c165102e",
+        "websites": [
+            37,
+            280
+        ],
+        "alternative_name": "Stadia",
+        "platform_family": 4
+    },
+    {
+        "id": 508,
+        "abbreviation": "Switch 2",
+        "category": 1,
+        "created_at": 1737039360,
+        "generation": 9,
+        "name": "Nintendo Switch 2",
+        "platformLogo": 0,
+        "slug": "switch-2",
+        "updated_at": 1744035497,
+        "url": "https://www.igdb.com/platforms/switch-2",
+        "versions": [
+            728
+        ],
+        "checksum": "fd6b6857-7f2c-8dbf-3a3c-48f79b307f47",
+        "websites": [
+            407
+        ],
+        "alternative_name": "Switch 2",
+        "platform_family": 5
+    },
+    {
+        "id": 203,
+        "abbreviation": null,
+        "category": 0,
+        "created_at": 1572735485,
+        "generation": 0,
+        "name": "DUPLICATE Stadia",
+        "platformLogo": 0,
+        "slug": "duplicate-stadia",
+        "updated_at": 1619110218,
+        "url": "https://www.igdb.com/platforms/duplicate-stadia",
+        "versions": [
+            318,
+            319
+        ],
+        "checksum": "12366451-f4e4-cf5c-f0a5-082805b2ff86",
+        "websites": [
+            70
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 164,
+        "abbreviation": null,
+        "category": 0,
+        "created_at": 1518705027,
+        "generation": 0,
+        "name": "Daydream",
+        "platformLogo": 0,
+        "slug": "daydream",
+        "updated_at": 1518705035,
+        "url": "https://www.igdb.com/platforms/daydream",
+        "versions": [
+            234
+        ],
+        "checksum": "1f46c07d-381d-e92f-1b49-88d04abe2f19",
+        "websites": [
+            31
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 100,
+        "abbreviation": "analogueelectronics",
+        "category": 0,
+        "created_at": 1437899927,
+        "generation": 0,
+        "name": "Analogue electronics",
+        "platformLogo": 0,
+        "slug": "analogueelectronics",
+        "updated_at": 1437903102,
+        "url": "https://www.igdb.com/platforms/analogueelectronics",
+        "versions": [
+            126
+        ],
+        "checksum": "01951a13-ac9d-9f80-2b02-f9a818d83326",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 372,
+        "abbreviation": null,
+        "category": 3,
+        "created_at": 1606551304,
+        "generation": 0,
+        "name": "OOParts",
+        "platformLogo": 0,
+        "slug": "ooparts",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/ooparts",
+        "versions": [
+            490
+        ],
+        "checksum": "c41b9c92-2195-c387-a8ac-97ff4ed888ca",
+        "websites": [
+            271
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 378,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1620794404,
+        "generation": 4,
+        "name": "Gamate",
+        "platformLogo": 0,
+        "slug": "gamate",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/gamate",
+        "versions": [
+            497
+        ],
+        "checksum": "db6d7532-addc-af70-1ef3-64ebb0e0fbe1",
+        "websites": [
+            290,
+            305
+        ],
+        "alternative_name": "Super Boy",
+        "platform_family": null
+    },
+    {
+        "id": 380,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1621275846,
+        "generation": 0,
+        "name": "Casio Loopy",
+        "platformLogo": 0,
+        "slug": "casio-loopy",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/casio-loopy",
+        "versions": [
+            499
+        ],
+        "checksum": "421b2240-8a55-c461-a4f6-54cf53a204c8",
+        "websites": null,
+        "alternative_name": "Loopy",
+        "platform_family": null
+    },
+    {
+        "id": 381,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1623169275,
+        "generation": 9,
+        "name": "Playdate",
+        "platformLogo": 0,
+        "slug": "playdate",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/playdate",
+        "versions": [
+            501
+        ],
+        "checksum": "fd7d1d0f-2211-e98d-e239-5f109380b212",
+        "websites": [
+            278
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 411,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1660246143,
+        "generation": 0,
+        "name": "Handheld Electronic LCD",
+        "platformLogo": 0,
+        "slug": "handheld-electronic-lcd",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/handheld-electronic-lcd",
+        "versions": [
+            691,
+            692,
+            551
+        ],
+        "checksum": "9453feba-e711-4a76-8356-6506d5f6de6e",
+        "websites": null,
+        "alternative_name": "Handheld LCD Game",
+        "platform_family": null
+    },
+    {
+        "id": 415,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1660319701,
+        "generation": 4,
+        "name": "Watara/QuickShot Supervision",
+        "platformLogo": 0,
+        "slug": "watara-slash-quickshot-supervision",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/watara-slash-quickshot-supervision",
+        "versions": [
+            555
+        ],
+        "checksum": "282b6ba8-de04-6da1-369a-89c899ef5d67",
+        "websites": [
+            314
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 478,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1711039270,
+        "generation": 6,
+        "name": "Panasonic M2",
+        "platformLogo": 0,
+        "slug": "panasonic-m2",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/panasonic-m2",
+        "versions": [
+            695
+        ],
+        "checksum": "79add5f8-bc52-7890-eef8-3fc9b2354165",
+        "websites": [
+            379
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 486,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1715962521,
+        "generation": 7,
+        "name": "Digiblast",
+        "platformLogo": 0,
+        "slug": "digiblast",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/digiblast",
+        "versions": [
+            712
+        ],
+        "checksum": "e4e558eb-6759-460b-efb8-0e31a8a602af",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 509,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1739468952,
+        "generation": 0,
+        "name": "Polymega",
+        "platformLogo": 0,
+        "slug": "polymega",
+        "updated_at": 1739468973,
+        "url": "https://www.igdb.com/platforms/polymega",
+        "versions": [
+            729
+        ],
+        "checksum": "c676c5a0-c8b3-1e73-53c8-5deeb85c9f2c",
+        "websites": [
+            408
+        ],
+        "alternative_name": "RetroBlox",
+        "platform_family": null
+    },
+    {
+        "id": 26,
+        "abbreviation": "ZXS",
+        "category": 6,
+        "created_at": 1300206512,
+        "generation": 0,
+        "name": "ZX Spectrum",
+        "platformLogo": 0,
+        "slug": "zxs",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/zxs",
+        "versions": [
+            79
+        ],
+        "checksum": "5f976b25-41bd-2a75-4473-b253a682cc80",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 27,
+        "abbreviation": "MSX",
+        "category": 6,
+        "created_at": 1300206614,
+        "generation": 0,
+        "name": "MSX",
+        "platformLogo": 0,
+        "slug": "msx",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/msx",
+        "versions": [
+            47
+        ],
+        "checksum": "5acc4e76-377f-8d15-ea31-c58ad390b654",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 37,
+        "abbreviation": "3DS",
+        "category": 5,
+        "created_at": 1317648479,
+        "generation": 8,
+        "name": "Nintendo 3DS",
+        "platformLogo": 0,
+        "slug": "3ds",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/3ds",
+        "versions": [
+            50,
+            675,
+            676
+        ],
+        "checksum": "3ee3c75b-d267-875e-c904-2994fdf22ad8",
+        "websites": [
+            9
+        ],
+        "alternative_name": "3DS",
+        "platform_family": 5
+    },
+    {
+        "id": 50,
+        "abbreviation": "3DO",
+        "category": 1,
+        "created_at": 1326829565,
+        "generation": 5,
+        "name": "3DO Interactive Multiplayer",
+        "platformLogo": 0,
+        "slug": "3do",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/3do",
+        "versions": [
+            18
+        ],
+        "checksum": "bb2a0b61-f7c9-9b98-7447-b6fc25196b99",
+        "websites": null,
+        "alternative_name": "3DO",
+        "platform_family": null
+    },
+    {
+        "id": 64,
+        "abbreviation": "SMS",
+        "category": 1,
+        "created_at": 1372500217,
+        "generation": 3,
+        "name": "Sega Master System/Mark III",
+        "platformLogo": 0,
+        "slug": "sms",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sms",
+        "versions": [
+            63,
+            629,
+            631,
+            633,
+            632,
+            630
+        ],
+        "checksum": "c5e2f70b-dd65-4d57-0f9b-27eb3a81ff39",
+        "websites": null,
+        "alternative_name": "SMS, Mark III",
+        "platform_family": 3
+    },
+    {
+        "id": 95,
+        "abbreviation": "pdp1",
+        "category": 6,
+        "created_at": 1418566071,
+        "generation": 0,
+        "name": "PDP-1",
+        "platformLogo": 0,
+        "slug": "pdp1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pdp1",
+        "versions": [
+            115
+        ],
+        "checksum": "6e779d54-e854-1df6-635b-dfccbd77c7de",
+        "websites": [
+            212
+        ],
+        "alternative_name": "Programmed Data Processor-1",
+        "platform_family": null
+    },
+    {
+        "id": 99,
+        "abbreviation": "famicom",
+        "category": 1,
+        "created_at": 1428863630,
+        "generation": 3,
+        "name": "Family Computer",
+        "platformLogo": 0,
+        "slug": "famicom",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/famicom",
+        "versions": [
+            642,
+            645,
+            646,
+            647,
+            648,
+            123
+        ],
+        "checksum": "999ce468-436c-0b03-f039-4b52f15f063d",
+        "websites": null,
+        "alternative_name": "Famicom",
+        "platform_family": 5
+    },
+    {
+        "id": 102,
+        "abbreviation": "edsac",
+        "category": 6,
+        "created_at": 1437900025,
+        "generation": 0,
+        "name": "EDSAC",
+        "platformLogo": 0,
+        "slug": "edsac--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/edsac--1",
+        "versions": [
+            128
+        ],
+        "checksum": "0fdc5f3d-034b-033b-153c-2bf9655325f3",
+        "websites": null,
+        "alternative_name": "Electronic Delay Storage Automatic Calculator",
+        "platform_family": null
+    },
+    {
+        "id": 104,
+        "abbreviation": "hp2100",
+        "category": 6,
+        "created_at": 1437986402,
+        "generation": 0,
+        "name": "HP 2100",
+        "platformLogo": 0,
+        "slug": "hp2100",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/hp2100",
+        "versions": [
+            130
+        ],
+        "checksum": "2aa99551-d23e-82af-ca5f-eb0aef9c388b",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 105,
+        "abbreviation": "hp3000",
+        "category": 6,
+        "created_at": 1437986428,
+        "generation": 0,
+        "name": "HP 3000",
+        "platformLogo": 0,
+        "slug": "hp3000",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/hp3000",
+        "versions": [
+            131
+        ],
+        "checksum": "161199cf-c5ef-0a57-79a0-523e3560b029",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 106,
+        "abbreviation": "sdssigma7",
+        "category": 6,
+        "created_at": 1437986563,
+        "generation": 0,
+        "name": "SDS Sigma 7",
+        "platformLogo": 0,
+        "slug": "sdssigma7",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sdssigma7",
+        "versions": [
+            132
+        ],
+        "checksum": "e69d4153-1d65-37d8-8bf4-31ad654c6582",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 107,
+        "abbreviation": "call-a-computer",
+        "category": 6,
+        "created_at": 1437986752,
+        "generation": 0,
+        "name": "Call-A-Computer time-shared mainframe computer system",
+        "platformLogo": 0,
+        "slug": "call-a-computer",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/call-a-computer",
+        "versions": [
+            133
+        ],
+        "checksum": "0be3dd53-67d9-334c-068f-411573239029",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 110,
+        "abbreviation": "plato",
+        "category": 6,
+        "created_at": 1438518803,
+        "generation": 0,
+        "name": "PLATO",
+        "platformLogo": 0,
+        "slug": "plato--1",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/plato--1",
+        "versions": [
+            136
+        ],
+        "checksum": "a01a9a10-6077-90f4-ebd9-81dde41eed2b",
+        "websites": null,
+        "alternative_name": "Programmed Logic for Automatic Teaching Operations",
+        "platform_family": null
+    },
+    {
+        "id": 151,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1510050807,
+        "generation": 0,
+        "name": "TRS-80 Color Computer",
+        "platformLogo": 0,
+        "slug": "trs-80-color-computer",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/trs-80-color-computer",
+        "versions": [
+            216
+        ],
+        "checksum": "d2b43f75-1774-7f26-1059-4bd036830b46",
+        "websites": [
+            19
+        ],
+        "alternative_name": "Tandy Color Computer",
+        "platform_family": null
+    },
+    {
+        "id": 166,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1534977849,
+        "generation": 0,
+        "name": "Pok\u00E9mon mini",
+        "platformLogo": 0,
+        "slug": "pokemon-mini",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pokemon-mini",
+        "versions": [
+            272
+        ],
+        "checksum": "1f29775b-7f17-f487-9422-834afbb2deb8",
+        "websites": [
+            33
+        ],
+        "alternative_name": null,
+        "platform_family": 5
+    },
+    {
+        "id": 236,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1573813337,
+        "generation": 0,
+        "name": "Exidy Sorcerer",
+        "platformLogo": 0,
+        "slug": "exidy-sorcerer",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/exidy-sorcerer",
+        "versions": [
+            353
+        ],
+        "checksum": "0981a6f7-051c-762f-3cbc-e5922856f1ea",
+        "websites": [
+            215
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 238,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1575389656,
+        "generation": 0,
+        "name": "DVD Player",
+        "platformLogo": 0,
+        "slug": "dvd-player",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/dvd-player",
+        "versions": [
+            355
+        ],
+        "checksum": "c691338e-4b57-f001-2aa8-e5c6c48a6cf4",
+        "websites": [
+            104
+        ],
+        "alternative_name": "Digital Versatile Disc Player",
+        "platform_family": null
+    },
+    {
+        "id": 239,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1575389856,
+        "generation": 0,
+        "name": "Blu-ray Player",
+        "platformLogo": 0,
+        "slug": "blu-ray-player",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/blu-ray-player",
+        "versions": [
+            356
+        ],
+        "checksum": "81e697ef-0218-88a0-5bf8-f7f5a8baf9a9",
+        "websites": [
+            103
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 240,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1581893849,
+        "generation": 7,
+        "name": "Zeebo",
+        "platformLogo": 0,
+        "slug": "zeebo",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/zeebo",
+        "versions": [
+            357
+        ],
+        "checksum": "a9606408-b0a0-2e43-d617-d7ff42656d8d",
+        "websites": [
+            106
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 274,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1587755314,
+        "generation": 5,
+        "name": "PC-FX",
+        "platformLogo": 0,
+        "slug": "pc-fx",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pc-fx",
+        "versions": [
+            392
+        ],
+        "checksum": "1b5b9fdd-2f8f-73e7-71e1-30e7120eb201",
+        "websites": [
+            139
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 169,
+        "abbreviation": "Series X|S",
+        "category": 1,
+        "created_at": 1565273347,
+        "generation": 9,
+        "name": "Xbox Series X|S",
+        "platformLogo": 0,
+        "slug": "series-x-s",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/series-x-s",
+        "versions": [
+            489,
+            284
+        ],
+        "checksum": "2dd42937-5017-2d62-688a-0a8237f929ff",
+        "websites": [
+            238,
+            105,
+            36
+        ],
+        "alternative_name": "XSX",
+        "platform_family": 2
+    },
+    {
+        "id": 405,
+        "abbreviation": null,
+        "category": 4,
+        "created_at": 1652748836,
+        "generation": 0,
+        "name": "Windows Mobile",
+        "platformLogo": 0,
+        "slug": "windows-mobile",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/windows-mobile",
+        "versions": [
+            535,
+            538,
+            523,
+            537,
+            536
+        ],
+        "checksum": "c31b81cb-36bc-bd0c-9716-0941c1b42bb6",
+        "websites": [
+            304
+        ],
+        "alternative_name": "Pocket PC",
+        "platform_family": null
+    },
+    {
+        "id": 406,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1654164019,
+        "generation": 0,
+        "name": "Sinclair QL",
+        "platformLogo": 0,
+        "slug": "sinclair-ql",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sinclair-ql",
+        "versions": [
+            524
+        ],
+        "checksum": "2bd3bfb4-1179-ac83-f131-50f66670b51c",
+        "websites": [
+            308
+        ],
+        "alternative_name": "Sinclair Quantum Leap",
+        "platform_family": null
+    },
+    {
+        "id": 407,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1660147544,
+        "generation": 7,
+        "name": "HyperScan",
+        "platformLogo": 0,
+        "slug": "hyperscan",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/hyperscan",
+        "versions": [
+            547
+        ],
+        "checksum": "a9547342-b730-3250-0c49-dc0e629aee4e",
+        "websites": [
+            306
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 408,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1660155539,
+        "generation": 4,
+        "name": "Mega Duck/Cougar Boy",
+        "platformLogo": 0,
+        "slug": "mega-duck-slash-cougar-boy",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/mega-duck-slash-cougar-boy",
+        "versions": [
+            548
+        ],
+        "checksum": "d0ef0ae3-1133-6dda-b1d6-84eab8dc736f",
+        "websites": [
+            307
+        ],
+        "alternative_name": "WG-108",
+        "platform_family": null
+    },
+    {
+        "id": 409,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1660235221,
+        "generation": 0,
+        "name": "Legacy Computer",
+        "platformLogo": 0,
+        "slug": "legacy-computer",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/legacy-computer",
+        "versions": [
+            549
+        ],
+        "checksum": "b477ef33-4a30-b1ea-735e-37372fc823df",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 412,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1660246910,
+        "generation": 6,
+        "name": "Leapster",
+        "platformLogo": 0,
+        "slug": "leapster",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/leapster",
+        "versions": [
+            552
+        ],
+        "checksum": "d5ec0d71-eabd-d946-2396-0bbb9469aeab",
+        "websites": [
+            311
+        ],
+        "alternative_name": "Leapster Learning Game System",
+        "platform_family": null
+    },
+    {
+        "id": 414,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1660314942,
+        "generation": 8,
+        "name": "LeapTV",
+        "platformLogo": 0,
+        "slug": "leaptv",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/leaptv",
+        "versions": [
+            554
+        ],
+        "checksum": "f296c844-1ff9-7f8a-001d-c403b9ea1493",
+        "websites": [
+            313
+        ],
+        "alternative_name": "LeapTV VCD",
+        "platform_family": null
+    },
+    {
+        "id": 416,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1660320790,
+        "generation": 5,
+        "name": "64DD",
+        "platformLogo": 0,
+        "slug": "64dd",
+        "updated_at": 1724431119,
+        "url": "https://www.igdb.com/platforms/64dd",
+        "versions": [
+            556
+        ],
+        "checksum": "e53909e6-b6c2-96c4-454e-81ef0a2dcad8",
+        "websites": [
+            315
+        ],
+        "alternative_name": "Nintendo 64DD",
+        "platform_family": 5
+    },
+    {
+        "id": 417,
+        "abbreviation": null,
+        "category": 4,
+        "created_at": 1660322541,
+        "generation": 0,
+        "name": "Palm OS",
+        "platformLogo": 0,
+        "slug": "palm-os",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/palm-os",
+        "versions": [
+            557
+        ],
+        "checksum": "46d209f9-eeee-5a50-eff9-192672fbabb2",
+        "websites": [
+            316
+        ],
+        "alternative_name": "Garnet OS",
+        "platform_family": null
+    },
+    {
+        "id": 438,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1663685343,
+        "generation": 8,
+        "name": "Arduboy",
+        "platformLogo": 0,
+        "slug": "arduboy",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/arduboy",
+        "versions": [
+            588
+        ],
+        "checksum": "58b250b7-df65-f70c-6039-116d2edfc2c2",
+        "websites": [
+            337
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 439,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1663688323,
+        "generation": 6,
+        "name": "V.Smile",
+        "platformLogo": 0,
+        "slug": "vsmile",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/vsmile",
+        "versions": [
+            589
+        ],
+        "checksum": "0c4f47b9-4f29-a9ba-1a7e-bbb9522878e9",
+        "websites": [
+            338
+        ],
+        "alternative_name": "V.SMILE TV LEARNING SYSTEM",
+        "platform_family": null
+    },
+    {
+        "id": 441,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1666808653,
+        "generation": 5,
+        "name": "PocketStation",
+        "platformLogo": 0,
+        "slug": "pocketstation",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/pocketstation",
+        "versions": [
+            591
+        ],
+        "checksum": "28103918-ce2d-f25b-0a2b-c6e8aa7c6003",
+        "websites": [
+            340
+        ],
+        "alternative_name": null,
+        "platform_family": 1
+    },
+    {
+        "id": 472,
+        "abbreviation": null,
+        "category": 4,
+        "created_at": 1707507250,
+        "generation": 0,
+        "name": "visionOS",
+        "platformLogo": 0,
+        "slug": "visionos",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/visionos",
+        "versions": [
+            682
+        ],
+        "checksum": "0c67232d-2aec-4301-1746-137ed04f0e45",
+        "websites": [
+            373
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 475,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1709324053,
+        "generation": 5,
+        "name": "R-Zone",
+        "platformLogo": 0,
+        "slug": "r-zone",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/r-zone",
+        "versions": [
+            690
+        ],
+        "checksum": "771251a4-0889-ae07-d07a-cf1e6b7c9c61",
+        "websites": [
+            376
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 476,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1709675374,
+        "generation": 5,
+        "name": "Apple Pippin",
+        "platformLogo": 0,
+        "slug": "apple-pippin",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/apple-pippin",
+        "versions": [
+            693
+        ],
+        "checksum": "71241f6c-28d0-74f4-1e8e-8c906903c946",
+        "websites": [
+            377
+        ],
+        "alternative_name": "PiPP!N",
+        "platform_family": null
+    },
+    {
+        "id": 480,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1712346028,
+        "generation": 4,
+        "name": "Super A\u0027Can",
+        "platformLogo": 0,
+        "slug": "super-acan",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/super-acan",
+        "versions": [
+            699
+        ],
+        "checksum": "aae1a177-0c0f-5065-c724-7289910ff4b9",
+        "websites": [
+            381
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 481,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1712933464,
+        "generation": 0,
+        "name": "Tomy Tutor / Pyuta / Grandstand Tutor",
+        "platformLogo": 0,
+        "slug": "tomy-tutor-slash-pyuta-slash-grandstand-tutor",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/tomy-tutor-slash-pyuta-slash-grandstand-tutor",
+        "versions": [
+            700
+        ],
+        "checksum": "f0f5a291-4f5c-63cb-7c4e-6c7277609d65",
+        "websites": [
+            383
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 7,
+        "abbreviation": "PS1",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 5,
+        "name": "PlayStation",
+        "platformLogo": 0,
+        "slug": "ps",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/ps",
+        "versions": [
+            653,
+            654,
+            57
+        ],
+        "checksum": "a878b5e0-8230-bc65-d842-0c86d0c48349",
+        "websites": null,
+        "alternative_name": "PSX, PSOne, PS",
+        "platform_family": 1
+    },
+    {
+        "id": 16,
+        "abbreviation": "Amiga",
+        "category": 6,
+        "created_at": 1297880654,
+        "generation": 0,
+        "name": "Amiga",
+        "platformLogo": 0,
+        "slug": "amiga",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/amiga",
+        "versions": [
+            111,
+            112,
+            19,
+            109,
+            113,
+            522,
+            110
+        ],
+        "checksum": "d437da5a-95ee-91b1-7cd6-927068f23fd4",
+        "websites": null,
+        "alternative_name": "Commodore Amiga",
+        "platform_family": null
+    },
+    {
+        "id": 25,
+        "abbreviation": "ACPC",
+        "category": 6,
+        "created_at": 1300206470,
+        "generation": 0,
+        "name": "Amstrad CPC",
+        "platformLogo": 0,
+        "slug": "acpc",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/acpc",
+        "versions": [
+            525,
+            20
+        ],
+        "checksum": "84fa7104-34c3-fbbf-4e7f-5ded53b24bf3",
+        "websites": null,
+        "alternative_name": "Colour Personal Computer",
+        "platform_family": null
+    },
+    {
+        "id": 29,
+        "abbreviation": "Genesis/MegaDrive",
+        "category": 1,
+        "created_at": 1300959838,
+        "generation": 4,
+        "name": "Sega Mega Drive/Genesis",
+        "platformLogo": 0,
+        "slug": "genesis-slash-megadrive",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/genesis-slash-megadrive",
+        "versions": [
+            624,
+            625,
+            622,
+            623,
+            627,
+            628,
+            626,
+            64
+        ],
+        "checksum": "7894ff4c-e57a-5ccc-e55c-6bde2e08b358",
+        "websites": null,
+        "alternative_name": "Sega Genesis",
+        "platform_family": 3
+    },
+    {
+        "id": 34,
+        "abbreviation": "Android",
+        "category": 4,
+        "created_at": 1302608861,
+        "generation": 0,
+        "name": "Android",
+        "platformLogo": 0,
+        "slug": "android",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/android",
+        "versions": [
+            8,
+            10,
+            9,
+            11,
+            237,
+            12,
+            320,
+            7,
+            238,
+            236,
+            526,
+            527,
+            528,
+            541,
+            542,
+            543,
+            544,
+            545,
+            546,
+            672,
+            239
+        ],
+        "checksum": "1519197d-b515-e889-ac2e-d076ce489ddf",
+        "websites": [
+            7
+        ],
+        "alternative_name": "Infocusa3",
+        "platform_family": 4
+    },
+    {
+        "id": 47,
+        "abbreviation": "VC",
+        "category": 3,
+        "created_at": 1326279244,
+        "generation": 0,
+        "name": "Virtual Console",
+        "platformLogo": 0,
+        "slug": "vc",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/vc",
+        "versions": [
+            71
+        ],
+        "checksum": "ddf5f4c7-602d-e140-f745-904069968ac2",
+        "websites": null,
+        "alternative_name": "VC",
+        "platform_family": 5
+    },
+    {
+        "id": 52,
+        "abbreviation": "Arcade",
+        "category": 2,
+        "created_at": 1340047141,
+        "generation": 0,
+        "name": "Arcade",
+        "platformLogo": 0,
+        "slug": "arcade",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/arcade",
+        "versions": [
+            696,
+            636,
+            637,
+            634,
+            635,
+            22,
+            640,
+            641,
+            681,
+            649,
+            651,
+            650,
+            652,
+            638,
+            665,
+            666,
+            667,
+            668,
+            669,
+            664
+        ],
+        "checksum": "662231de-f82c-654c-0b1f-eebe857fdf5f",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 59,
+        "abbreviation": "Atari2600",
+        "category": 1,
+        "created_at": 1372270420,
+        "generation": 2,
+        "name": "Atari 2600",
+        "platformLogo": 0,
+        "slug": "atari2600",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari2600",
+        "versions": [
+            24,
+            673
+        ],
+        "checksum": "b25e6364-130e-aa36-2196-26737c98eedb",
+        "websites": [
+            372
+        ],
+        "alternative_name": "Atari VCS",
+        "platform_family": null
+    },
+    {
+        "id": 68,
+        "abbreviation": "colecovision",
+        "category": 1,
+        "created_at": 1372500478,
+        "generation": 2,
+        "name": "ColecoVision",
+        "platformLogo": 0,
+        "slug": "colecovision",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/colecovision",
+        "versions": [
+            35
+        ],
+        "checksum": "53919c8a-ed9d-b3ab-a34a-8052117c2a6b",
+        "websites": null,
+        "alternative_name": "Coleco",
+        "platform_family": null
+    },
+    {
+        "id": 471,
+        "abbreviation": "Meta Quest 3",
+        "category": 1,
+        "created_at": 1685641825,
+        "generation": 9,
+        "name": "Meta Quest 3",
+        "platformLogo": 0,
+        "slug": "meta-quest-3",
+        "updated_at": 1755551017,
+        "url": "https://www.igdb.com/platforms/meta-quest-3",
+        "versions": [
+            621
+        ],
+        "checksum": "36723dbd-4240-415a-e53d-d86d11a33ef3",
+        "websites": [
+            370
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 487,
+        "abbreviation": null,
+        "category": 1,
+        "created_at": 1716478915,
+        "generation": 4,
+        "name": "LaserActive",
+        "platformLogo": 0,
+        "slug": "laseractive",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/laseractive",
+        "versions": [
+            714
+        ],
+        "checksum": "7a63f405-0189-6f30-9d9d-f01d2c476426",
+        "websites": [
+            384
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 4,
+        "abbreviation": "N64",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 5,
+        "name": "Nintendo 64",
+        "platformLogo": 0,
+        "slug": "n64",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/n64",
+        "versions": [
+            122,
+            51
+        ],
+        "checksum": "5fa1b80b-760b-4864-b217-d810be0f5737",
+        "websites": [
+            35
+        ],
+        "alternative_name": "N64",
+        "platform_family": 5
+    },
+    {
+        "id": 14,
+        "abbreviation": "Mac",
+        "category": 4,
+        "created_at": 1297678396,
+        "generation": 0,
+        "name": "Mac",
+        "platformLogo": 0,
+        "slug": "mac",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/mac",
+        "versions": [
+            600,
+            599,
+            144,
+            149,
+            147,
+            142,
+            143,
+            141,
+            150,
+            145,
+            146,
+            148,
+            151,
+            598,
+            45,
+            713
+        ],
+        "checksum": "98cd1d18-6a0b-3f3d-1052-651e4b12bd39",
+        "websites": [
+            5
+        ],
+        "alternative_name": "Mac OS",
+        "platform_family": null
+    },
+    {
+        "id": 19,
+        "abbreviation": "SNES",
+        "category": 1,
+        "created_at": 1297941647,
+        "generation": 4,
+        "name": "Super Nintendo Entertainment System",
+        "platformLogo": 0,
+        "slug": "snes",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/snes",
+        "versions": [
+            95,
+            177,
+            139,
+            97,
+            68
+        ],
+        "checksum": "10cf6e1f-2fb5-59ae-f726-19b4d44ee142",
+        "websites": [
+            209
+        ],
+        "alternative_name": "SNES, Super Nintendo",
+        "platform_family": 5
+    },
+    {
+        "id": 49,
+        "abbreviation": "XONE",
+        "category": 1,
+        "created_at": 1326545022,
+        "generation": 8,
+        "name": "Xbox One",
+        "platformLogo": 0,
+        "slug": "xboxone",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/xboxone",
+        "versions": [
+            78,
+            188,
+            185,
+            180
+        ],
+        "checksum": "7f035357-e820-732f-cb2e-f2cd9e2c8aad",
+        "websites": [
+            12
+        ],
+        "alternative_name": "XONE",
+        "platform_family": 2
+    },
+    {
+        "id": 55,
+        "abbreviation": "Mobile",
+        "category": 5,
+        "created_at": 1340748377,
+        "generation": 0,
+        "name": "Legacy Mobile Device",
+        "platformLogo": 0,
+        "slug": "mobile",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/mobile",
+        "versions": [
+            46,
+            539,
+            514
+        ],
+        "checksum": "abf26a61-c37d-6e53-e5d0-a5f649abfaff",
+        "websites": [
+            293
+        ],
+        "alternative_name": "Legacy Cellphone",
+        "platform_family": null
+    },
+    {
+        "id": 58,
+        "abbreviation": "SFAM",
+        "category": 1,
+        "created_at": 1351254496,
+        "generation": 4,
+        "name": "Super Famicom",
+        "platformLogo": 0,
+        "slug": "sfam",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/sfam",
+        "versions": [
+            639,
+            67,
+            98
+        ],
+        "checksum": "fefae426-1e1e-f462-c18a-51200379c192",
+        "websites": null,
+        "alternative_name": "SFC",
+        "platform_family": 5
+    },
+    {
+        "id": 63,
+        "abbreviation": "Atari-ST",
+        "category": 6,
+        "created_at": 1372338841,
+        "generation": 0,
+        "name": "Atari ST/STE",
+        "platformLogo": 0,
+        "slug": "atari-st",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/atari-st",
+        "versions": [
+            30
+        ],
+        "checksum": "7357f4ef-6b5a-4bec-c5b3-533de7212879",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 75,
+        "abbreviation": "Apple][",
+        "category": 6,
+        "created_at": 1387761685,
+        "generation": 0,
+        "name": "Apple II",
+        "platformLogo": 0,
+        "slug": "appleii",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/appleii",
+        "versions": [
+            21
+        ],
+        "checksum": "395fc703-65fb-c5e6-a425-5de5d282d10b",
+        "websites": null,
+        "alternative_name": "apple ][",
+        "platform_family": null
+    },
+    {
+        "id": 82,
+        "abbreviation": "browser",
+        "category": 3,
+        "created_at": 1395352375,
+        "generation": 0,
+        "name": "Web browser",
+        "platformLogo": 0,
+        "slug": "browser",
+        "updated_at": 1718027354,
+        "url": "https://www.igdb.com/platforms/browser",
+        "versions": [
+            663,
+            662,
+            655,
+            656,
+            657,
+            658,
+            659,
+            86,
+            661,
+            660
+        ],
+        "checksum": "f7b1450a-fdfb-d222-f0b8-5065467be778",
+        "websites": null,
+        "alternative_name": "Internet",
+        "platform_family": null
+    },
+    {
+        "id": 90,
+        "abbreviation": "cpet",
+        "category": 6,
+        "created_at": 1407616183,
+        "generation": 0,
+        "name": "Commodore PET",
+        "platformLogo": 0,
+        "slug": "cpet",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/cpet",
+        "versions": [
+            103
+        ],
+        "checksum": "432ecbcf-48f3-8506-adeb-99f7cebac0a4",
+        "websites": [
+            216
+        ],
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 126,
+        "abbreviation": null,
+        "category": 6,
+        "created_at": 1449708680,
+        "generation": 0,
+        "name": "TRS-80",
+        "platformLogo": 0,
+        "slug": "trs-80",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/trs-80",
+        "versions": [
+            164
+        ],
+        "checksum": "669bc39e-cf7f-561f-415e-645888d1441e",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": null
+    },
+    {
+        "id": 130,
+        "abbreviation": "Switch",
+        "category": 1,
+        "created_at": 1465978941,
+        "generation": 8,
+        "name": "Nintendo Switch",
+        "platformLogo": 0,
+        "slug": "switch",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/switch",
+        "versions": [
+            282,
+            173,
+            503
+        ],
+        "checksum": "7012b5cc-0656-299b-5b76-fa97e6b1b54a",
+        "websites": [
+            16
+        ],
+        "alternative_name": "NX",
+        "platform_family": 5
+    },
+    {
+        "id": 159,
+        "abbreviation": null,
+        "category": 5,
+        "created_at": 1516801272,
+        "generation": 7,
+        "name": "Nintendo DSi",
+        "platformLogo": 0,
+        "slug": "nintendo-dsi",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/nintendo-dsi",
+        "versions": [
+            228,
+            229
+        ],
+        "checksum": "32fee3bb-458c-2183-32d8-61e32c64c4b3",
+        "websites": null,
+        "alternative_name": null,
+        "platform_family": 5
+    },
+    {
+        "id": 5,
+        "abbreviation": "Wii",
+        "category": 1,
+        "created_at": 1297639288,
+        "generation": 7,
+        "name": "Wii",
+        "platformLogo": 0,
+        "slug": "wii",
+        "updated_at": 1718027289,
+        "url": "https://www.igdb.com/platforms/wii",
+        "versions": [
+            283,
+            730,
+            731,
+            72
+        ],
+        "checksum": "6a1417f3-697b-1896-d6ce-ccb2d73a6b74",
+        "websites": [
+            275
+        ],
+        "alternative_name": "Revolution",
+        "platform_family": 5
+    }
+]
