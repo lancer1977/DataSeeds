@@ -849,8 +849,8 @@
     "Emulator": "",
     "Parent": "Microsoft"
   },
-    {
-    "IgdbId": "12",
+  {
+    "IgdbId": "1111",
     "Name": "Xbox 360",
     "Folder": "xbox360",
     "Slug": "xbox360",
