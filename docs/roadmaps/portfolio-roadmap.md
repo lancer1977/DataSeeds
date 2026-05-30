@@ -44,6 +44,10 @@
 - ... and 5 more
 
 ## Follow-up ideas
-- [ ] Convert area signals into one short feature roadmap within docs/features
+- [x] Convert area signals into one portfolio-facing kanban card: `/home/lancer1977/vaults/polyhydra/00_agile/01-backlog/available/dataseeds-conversion-tooling-hardening-feature.md`
 - [ ] Add changelog notes in docs for behavior-impacting updates
 - [ ] Add simple owner checklist for release readiness
+
+## Portfolio kanban routing
+
+- 2026-05-30: Open DataSeeds stability/discovery work is now represented in the Polyhydra vault as `dataseeds-conversion-tooling-hardening-feature.md`; keep repo-local roadmap notes focused on evidence and validation details to avoid duplicate backlog cards.
