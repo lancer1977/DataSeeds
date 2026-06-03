@@ -1,6 +1,15 @@
 # DataSeeds
 A project focused on DataSeeds.
 
+## Tags
+
+- data-seeds
+- docs
+- website
+- data
+- seeds
+- ui
+
 ## Overview
 This repository contains the DataSeeds project. It is designed to provide robust functionality and seamless integration within its ecosystem.
 
