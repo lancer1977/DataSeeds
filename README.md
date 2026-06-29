@@ -41,5 +41,13 @@ bash scripts/validate.sh
 ```
 
 The validation script restores and builds `CsvToJson/CsvToJson.sln`. The
-`PFAExcelToXML` solution targets .NET Framework (`net461`/`net472`) and still
-requires matching .NET Framework targeting packs before it can be built in CI.
+`PFAExcelToXML` solution targets .NET Framework 4.7.2 and is validated by the
+Windows MSBuild lane in `.github/workflows/ci.yml`.
+
+Run the legacy Windows validation path on a machine with Visual Studio Build
+Tools and the .NET Framework 4.7.2 developer pack:
+
+```powershell
+msbuild PFAExcelToXML\PFAExcelToXML.sln /t:Restore /p:Configuration=Release
+msbuild PFAExcelToXML\PFAExcelToXML.sln /p:Configuration=Release /p:RestorePackages=false
+```

@@ -45,3 +45,27 @@ jobs:
           name: dataseeds-csvtojson
           path: artifacts/csvtojson
           if-no-files-found: error
+
+  validate-pfaexceltoxml:
+    runs-on: windows-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Restore PFAExcelToXML
+        run: msbuild PFAExcelToXML\PFAExcelToXML.sln /t:Restore /p:Configuration=Release
+
+      - name: Build PFAExcelToXML
+        run: msbuild PFAExcelToXML\PFAExcelToXML.sln /p:Configuration=Release /p:RestorePackages=false
+
+      - name: Upload PFAExcelToXML build output
+        uses: actions/upload-artifact@v4
+        with:
+          name: dataseeds-pfaexceltoxml
+          path: |
+            PFAExcelToXML\PFAExcelToXML\bin\Release\
+            PFAExcelToXML\Pathfinder.DocConverter\bin\Release\
+          if-no-files-found: error
