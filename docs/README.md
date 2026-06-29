@@ -7,6 +7,7 @@ Canonical docs entrypoint for DataSeeds.
 - [Repository README](../README.md)
 - [Feature Index](./features/README.md)
 - [Roadmap Index](./roadmaps/README.md)
+- [Dependency Maintenance](./dependency-maintenance.md)
 
 ## Notes
 
