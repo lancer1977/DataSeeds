@@ -11,8 +11,11 @@ The .NET Framework projects keep package versions in their project files.
 - `PolyhydraGames.Extensions` stays on `2.0.8` for both projects because newer
   package versions no longer restore for the full-framework target; restore
   reports that `2.1.1.78` supports `net8.0` and `net9.0` only.
-- `PFAExcelToXML/PFAExcelToXML.sln` now includes both legacy Windows projects,
-  so the documented validation command covers the app and converter together.
+- `PFAExcelToXML/PFAExcelToXML.sln` remains the active legacy validation
+  surface and builds `Pathfinder.DocConverter`.
+- The standalone `PFAExcelToXML/PFAExcelToXML/PFAExcelToXML.csproj` shell is
+  archived outside the active solution because it references `StartForm`, while
+  the implemented form is `PFAExcelToXML.PickerForm` in `Pathfinder.DocConverter`.
 
 Validation commands:
 
@@ -37,4 +40,4 @@ assemblies.
 The repository CI validates the Linux-compatible `CsvToJson` project and uploads
 both the validation log and the published `CsvToJson` output as workflow
 artifacts. CI also runs a Windows MSBuild job for `PFAExcelToXML` and uploads
-the Release outputs from both legacy projects as `dataseeds-pfaexceltoxml`.
+the active legacy Release output as `dataseeds-pfaexceltoxml`.

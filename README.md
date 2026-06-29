@@ -40,9 +40,9 @@ Run the Linux-compatible validation path with:
 bash scripts/validate.sh
 ```
 
-The validation script restores and builds `CsvToJson/CsvToJson.sln`. The
-`PFAExcelToXML` solution targets .NET Framework 4.7.2 and is validated by the
-Windows MSBuild lane in `.github/workflows/ci.yml`.
+The validation script restores and builds `CsvToJson/CsvToJson.sln`.
+`PFAExcelToXML/PFAExcelToXML.sln` targets .NET Framework 4.7.2 and is validated
+by the Windows MSBuild lane in `.github/workflows/ci.yml`.
 
 Run the legacy Windows validation path on a machine with Visual Studio Build
 Tools and the .NET Framework 4.7.2 developer pack:
@@ -51,3 +51,7 @@ Tools and the .NET Framework 4.7.2 developer pack:
 msbuild PFAExcelToXML\PFAExcelToXML.sln /t:Restore /p:Configuration=Release
 msbuild PFAExcelToXML\PFAExcelToXML.sln /p:Configuration=Release /p:RestorePackages=false
 ```
+
+The standalone `PFAExcelToXML/PFAExcelToXML/PFAExcelToXML.csproj` shell is not
+part of the active solution because it references a form that only exists in
+`Pathfinder.DocConverter`.

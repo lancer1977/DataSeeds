@@ -65,7 +65,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: dataseeds-pfaexceltoxml
-          path: |
-            PFAExcelToXML\PFAExcelToXML\bin\Release\
-            PFAExcelToXML\Pathfinder.DocConverter\bin\Release\
+          path: PFAExcelToXML\Pathfinder.DocConverter\bin\Release\
           if-no-files-found: error
