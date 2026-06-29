@@ -21,3 +21,11 @@ dotnet list PFAExcelToXML/PFAExcelToXML/PFAExcelToXML.csproj package --outdated
 Full build validation still requires .NET Framework targeting packs for
 `net461` and `net472`, which are not available in the current Linux runner
 environment.
+
+## 2026-06-29 CI artifact scope
+
+The repository CI validates the Linux-compatible `CsvToJson` project and uploads
+both the validation log and the published `CsvToJson` output as workflow
+artifacts. `PFAExcelToXML` remains excluded from the Linux CI path until the
+repo either retargets those projects or adds a runner with .NET Framework
+developer packs.

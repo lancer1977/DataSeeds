@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Validate Linux-compatible projects
+        run: |
+          mkdir -p artifacts
+          bash scripts/validate.sh 2>&1 | tee artifacts/validation.log
+
+      - name: Publish CsvToJson artifact
+        run: dotnet publish CsvToJson/CsvToJson.csproj --configuration Release --no-build --output artifacts/csvtojson /p:UseAppHost=false
+
+      - name: Upload validation log
+        uses: actions/upload-artifact@v4
+        with:
+          name: dataseeds-validation
+          path: artifacts/validation.log
+          if-no-files-found: error
+
+      - name: Upload CsvToJson artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dataseeds-csvtojson
+          path: artifacts/csvtojson
+          if-no-files-found: error

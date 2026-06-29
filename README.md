@@ -34,4 +34,12 @@ Detailed documentation can be found in the following sections:
 - [Roadmap Index](./docs/roadmaps/README.md)
 
 ## 🚦 Getting Started
-Check project files for build and run instructions.
+Run the Linux-compatible validation path with:
+
+```bash
+bash scripts/validate.sh
+```
+
+The validation script restores and builds `CsvToJson/CsvToJson.sln`. The
+`PFAExcelToXML` solution targets .NET Framework (`net461`/`net472`) and still
+requires matching .NET Framework targeting packs before it can be built in CI.
