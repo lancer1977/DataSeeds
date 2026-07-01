@@ -1,12 +1,20 @@
-name: change-me
-repo_root: change-me
+name: DataSeeds
+repo_root: /mnt/data/lancer1977/code/DataSeeds
 
-languages: []
-frameworks: []
+languages:
+  - csharp
+  - markdown
+  - yaml
+frameworks:
+  - dotnet
+  - docs
+  - docker
 
 ci:
-  build: []
-  test: []
+  build:
+    - bash scripts/validate.sh
+  test:
+    - bash scripts/validate.sh
 
 devstudio:
   runtime_model: three-agent
